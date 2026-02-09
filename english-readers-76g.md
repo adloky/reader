@@ -132,7 +132,7 @@ And Frank and Franny and Father and I would shout, in unison, "State o' Maine!" 
 
 И Фрэнк, и Фрэнни, и отец, и я кричали в унисон: «Штат Мэн!» Этого глупого медведя звали «Штат Мэн», и мой отец купил его летом 1939 года — вместе с мотоциклом Indian 1937 года с самодельной коляской — за 200 долларов и лучшую одежду из своего летнего сундука.
 
-—
+_
 
 My father and mother were nineteen that summer; they were both born in 1920 and raised in Dairy, New Hampshire, and had more or less avoided each other through the years they were growing up. It is one of those logical coincidences upon which many good stories are founded that they—to their mutual surprise—ended up having summer jobs at the Arbuthnot-by-the-Sea, a resort hotel that was, for them, far away from home, because Maine was far from New Hampshire (in those days, and to their thinking).
 
@@ -218,7 +218,7 @@ What Frank heard, and what we often heard after Coach Bob moved in, was the crea
 
 «Это Айова Боб», — прошептала Лилли. — «Он пытается оставаться в форме всю жизнь».
 
-—
+_
 
 Anyway, it wasn’t Win Berry who took Mary Bates to her graduation dance. The Bates family minister, who was considerably older than my mother, but unattached, was kind enough to ask her. “That was a long night,” Mother told us. “I felt depressed. I was an outsider in my own hometown. But in a very short while that same minister would marry your father and me!”
 
@@ -408,7 +408,7 @@ You can see why we children asked so many questions. It is a vague story, the ki
 
 Теперь вы понимаете, почему мы, дети, задавали так много вопросов. Это довольно расплывчатая история, из тех, которые предпочитают рассказывать родители.
 
-—
+_
 
 That first night they saw Freud and his bear, my father and mother did not even kiss. When the band broke up, and the help retired to the male and female dormitories—the slightly less elegant buildings separate from the main hotel—my father and mother went down to the docks and watched the water. If they talked, they never told us children what they said. There must have been a few classy sailboats there, and even the private piers in Maine were sure to have a lobster boat or two moored off them. There was probably a dinghy, and my father suggested borrowing it for a short row; my mother probably refused. Fort Popham was a ruin, then, and not the tourist attraction it is today; but if there were any lights on the Fort Popham shore, they would have been visible from the Arbuthnot-by-the-Sea. Also, the broad mouth of the Kennebec River, at Bay Point, had a bell buoy and a light, and there might have been a lighthouse on Stage Island as long ago as 1939—my father never remembered.
 
@@ -454,7 +454,7 @@ But all he said was, “And the world’s going to be no place for bears!” His
 
 Но всё, что он сказал, было: «И мир перестанет быть местом для медведей!» Его зубы были белыми, как его смокинг, когда он смеялся, и из-за ветра мои отец и мать не услышали шипения его сигареты, улетающей в океан, — или приближения лодки к берегу. Внезапно мужчина шагнул к лестнице, и только когда он быстро спустился по ступенькам, Мэри Бейтс и Уин Берри поняли, что белая лодка скользит под лестницей, и мужчина как раз вовремя спрыгнул на палубу. Никакой веревки не передавалось из рук в руки. Лодка, не под парусами, а медленно плывущая под другим двигателем, повернула на юго-запад (снова в сторону Бостона или Нью-Йорка) — не боясь ночного плавания — и то, что мужчина в белом смокинге в последний раз им сказал, затерялось в урчании двигателя, ударах корпуса о воду и ветре, который проносил мимо чаек (словно праздничные шляпы с перьями, покачивающиеся на воде после того, как пьяные бросили их туда). Всю свою жизнь мой отец жалел, что не услышал, что сказал этот человек.
 
-—
+_
 
 It was Freud who told my father that he’d seen the owner of the Arbuthnot-by-the-Sea.
 
@@ -708,7 +708,7 @@ She needn’t have worried. That summer and how it would end were obviously plan
 
 Ей не стоило волноваться. То лето и то, как оно закончится, были спланированы гораздо масштабнее и неизбежнее, чем любые тривиальные приготовления, которые могли себе представить мои отец и мать. Лето 1939 года было столь же неизбежным, как и война в Европе, как её вскоре назовут, и все они — Фрейд, Мэри Бейтс и Уинслоу Берри — были так же легко брошены на произвол судьбы этим летом, как чайки, качающиеся на бурных течениях в устье Кеннебека.
 
-—
+_
 
 One night in late August, when Mother had served at the evening meal and had only just had time to change into her saddle shoes and the long skirt she played croquet in, Father was called from his room to assist with an injured man. Father ran past the lawn for croquet where Mother was waiting for him. She held a mallet over her shoulder. The Christmas-like light bulbs strung in the trees lit the lawn for croquet in such a ghostly way that—to my father—my mother "looked like an angel holding a club."
 
@@ -774,63 +774,63 @@ Outside, the other Germans from the ship were bringing trunks and heavy luggage 
 
 Снаружи другие немцы с корабля несли чемоданы и тяжелый багаж по кратчайшему пути от пирса до входа — через восемнадцатую лунку. «Посмотрите на этих свиней, — сказал Фрейд. — Они оставляют вмятины там, где застрянет маленький белый мячик».
 
-The waiter came into Freud’s room. It was the best room in the men’s dorm—no one knew how Freud ended up with it. The waiter began to undress.  
+The waiter came into Freud’s room. It was the best room in the men’s dorm—no one knew how Freud ended up with it. The waiter began to undress.
 
 В комнату Фрейда вошел официант. Это была лучшая комната в мужском общежитии — никто не знал, как Фрейд ее получил. Официант начал раздеваться.
 
-“Everything but your jacket, fool,” Freud said to him. “Doctors don’t wear waiters’ jackets.”  
+“Everything but your jacket, fool,” Freud said to him. “Doctors don’t wear waiters’ jackets.”
 
 «Все, кроме пиджака, дурак», — сказал ему Фрейд. «Врачи не носят пиджаки официантов».
 
-Father had a black tuxedo jacket that more or less agreed with the waiter’s black pants, and he brought it to Freud.  
+Father had a black tuxedo jacket that more or less agreed with the waiter’s black pants, and he brought it to Freud.
 
 У отца был черный смокинг, который более или менее сочетался с черными брюками официанта, и он принес его Фрейду.
 
-“I’ve told them, a million times,” the waiter said—although he looked strange saying this with any authority, while he was naked. “There should be a doctor who actually lives at the hotel.”  
+“I’ve told them, a million times,” the waiter said—although he looked strange saying this with any authority, while he was naked. “There should be a doctor who actually lives at the hotel.”
 
 «Я им уже миллион раз говорил», — сказал официант, хотя и выглядел странно, произнося это с какой-либо уверенностью, будучи голым. — «В отеле должен жить врач».
 
-When Freud was all dressed, he said, “There is.” The desk manager ran back to the main hotel ahead of him. Father watched the waiter looking helplessly at Freud’s abandoned clothes; they were not very clean and they smelled strongly of State o’ Maine; the waiter, clearly, did not want to put them on. Father ran to catch up with Freud.  
+When Freud was all dressed, he said, “There is.” The desk manager ran back to the main hotel ahead of him. Father watched the waiter looking helplessly at Freud’s abandoned clothes; they were not very clean and they smelled strongly of State o’ Maine; the waiter, clearly, did not want to put them on. Father ran to catch up with Freud.
 
 Когда Фрейд оделся, он сказал: «Есть». Администратор побежал обратно в главный корпус отеля впереди него. Отец наблюдал, как официант беспомощно разглядывает брошенную одежду Фрейда; она была не очень чистой и сильно пахла бензином; официант явно не хотел ее надевать. Отец побежал догонять Фрейда.
 
-The Germans, now in the driveway outside the entrance, were grinding a large trunk across the gravel; someone would have to rake the stones in the morning. “Is der not enough help at dis hotel to help us?” one of the Germans yelled.  
+The Germans, now in the driveway outside the entrance, were grinding a large trunk across the gravel; someone would have to rake the stones in the morning. “Is der not enough help at dis hotel to help us?” one of the Germans yelled.
 
 Немцы, находившиеся сейчас на подъездной дорожке к входу, растирали большой ствол дерева по гравию; кому-то придется разровнять камни утром. «Неужели в этом отеле недостаточно персонала, чтобы нам помочь?» — крикнул один из немцев.
 
-On the spotless counter, in the serving room between the main dining hall and the kitchen, the big German with the slashed cheek lay like a corpse, his pale head resting on his folded-up dinner jacket, which would never be white again; his tie sagged limply at his throat, his cummerbund heaved.  
+On the spotless counter, in the serving room between the main dining hall and the kitchen, the big German with the slashed cheek lay like a corpse, his pale head resting on his folded-up dinner jacket, which would never be white again; his tie sagged limply at his throat, his cummerbund heaved.
 
 На безупречно чистой стойке в раздаточной комнате между главным обеденным залом и кухней лежал, словно труп, крупный немец с рассеченной щекой, его бледная голова покоилась на сложенном смокинге, который уже никогда не станет белым; галстук безвольно свисал у шеи, пояс тяжело вздымался.
 
-“It’z a goot doctor?” he asked the desk manager. The young giantess in the gown with the yellow ruching held the German’s hand.  
+“It’z a goot doctor?” he asked the desk manager. The young giantess in the gown with the yellow ruching held the German’s hand.
 
 «Хороший доктор?» — спросил он администратора. Молодая великанша в халате с желтой драпировкой держала немца за руку.
 
-“An excellent doctor,” the desk manager said.  
+“An excellent doctor,” the desk manager said.
 
 «Превосходный врач», — сказал администратор.
 
-“Especially at stitching,” my father said. My mother held his hand.  
+“Especially at stitching,” my father said. My mother held his hand.
 
 «Особенно когда дело касается шитья», — сказал мой отец. Моя мать держала его за руку.
 
-“It’z not too civilized a hotel, I tink,” the German said.  
+“It’z not too civilized a hotel, I tink,” the German said.
 
 «Мне кажется, это не очень цивилизованный отель», — сказал немец.
 
-“It’z in der vilderness,” the tawny, athletic woman said, but she dismissed herself with a laugh. “But it’z nicht so bad a cut, I tink,” she told Father and Mother, and the desk manager. “We don’t need too goot a doctor to fix it up, I tink.”  
+“It’z in der vilderness,” the tawny, athletic woman said, but she dismissed herself with a laugh. “But it’z nicht so bad a cut, I tink,” she told Father and Mother, and the desk manager. “We don’t need too goot a doctor to fix it up, I tink.”
 
 «Это в глуши», — сказала смуглая, спортивного телосложения женщина, но тут же отмахнулась от нее со смехом. «Но, думаю, это не такой уж серьезный порез», — сказала она отцу, матери и администратору. «Думаю, нам не нужен хороший врач, чтобы его обработать».
 
-“Just so it’z no Jew,” the German said. He coughed. Freud was in the small room, though none of them had seen him; he was having trouble threading a needle.  
+“Just so it’z no Jew,” the German said. He coughed. Freud was in the small room, though none of them had seen him; he was having trouble threading a needle.
 
 «Только чтобы это не был еврей», — сказал немец. Он кашлянул. Фрейд находился в маленькой комнате, хотя никто из них его не видел; ему было трудно вдеть нитку в иголку.
 
-“It’z no Jew, I’m sure.” The tawny princess laughed. “They haf no Jews in Maine!” When she saw Freud, she didn’t look so sure.  
+“It’z no Jew, I’m sure.” The tawny princess laughed. “They haf no Jews in Maine!” When she saw Freud, she didn’t look so sure.
 
 «Уверена, это не еврей», — рассмеялась смуглая принцесса. «В штате Мэн нет евреев!» Увидев Фрейда, она уже не выглядела такой уверенной.
 
-“Guten Abend, meine Dame und Herr,” Freud said. “Was ist los?”  
+“Guten Abend, meine Dame und Herr,” Freud said. “Was ist los?”
 
 «Guten Abend, meine Dame und Herr», — сказал Фрейд. «Это было Лос?»
 
@@ -870,7 +870,7 @@ When he poured the first shot glass of whiskey into the German’s cut, the whis
 
 «Нет, ты не настолько слеп, — сказал Фройд. — Но тебе следовало закрыть глаза». Он плеснул в рану еще один стакан воды и принялся за работу.
 
-—
+_
 
 In the morning the manager asked Freud not to perform with State o’ Maine until after the Germans left—they were leaving as soon as ample provisions could be loaded aboard their large vessel. Freud refused to remain dressed as a doctor; he insisted on tinkering with the ’37 Indian in his mechanic’s costume, so it was in such dress that the German found him, seaward of the tennis courts, not exactly hidden from the main hotel grounds and the lawns of play, but discreetly off to himself. The huge, bandaged face of the German was badly swollen and he approached Freud warily, as if the little motorcycle mechanic might be the alarming twin brother of the “Herr Doktor Professor” of the night before.
 
@@ -952,7 +952,7 @@ When the German saw that a bear was after him, he had not yet got his bearings; 
 
 «Эрл!» — прорычал медведь. Немец резко свернул через лужайку для крокета и направился к палаткам для пикника, где они собирались пообедать. Медведь оказался на мотоцикле менее чем в двадцати пяти ярдах, неуклюже пытаясь забраться на него сзади — как будто штат Мэн наконец-то усвоил урок вождения Фрейда и собирался настоять на том, чтобы все было сделано как положено.
 
-—
+_
 
 The German would not allow Freud to sew him up this time, and even Freud confessed that it was too big a job for him. “What a mess,” Freud wondered aloud to my father. “Such a lot of stitches—not for me. I couldn't stand to hear him cry all the time it would take.”
 
@@ -1250,7 +1250,7 @@ And that was true—it didn't really matter when. When they left the summer of 1
 
 «Я выйду замуж за Уина Берри!» — вскочила моя мать и сказала родителям. «Это его мотоцикл. Он поступит в Гарвард. А это… Эрл».
 
-—
+_
 
 Coach Bob was more understanding. He liked Earl.
 
@@ -1336,7 +1336,7 @@ So Father kept Earl chained, most of the time, and tried to make him wear his mu
 
 Поэтому отец большую часть времени держал Эрла на цепи и пытался заставить его носить намордник. Мать говорила, что Эрл в депрессии — она замечала, что старый медведь становится все грустнее, — но мой отец утверждал, что Эрл нисколько не подавлен. «Он просто думает о собаках, — сказал отец. — И он совершенно счастлив быть привязанным к мотоциклу».
 
-—
+_
 
 That summer of ’40 Father lived at the Bates house in Dairy and worked the Hampton Beach crowd at night. He managed to teach Earl a new routine. It was called “Applying for a Job,” and it saved wear and tear on the old Indian.
 
@@ -1446,7 +1446,7 @@ One night Earl did not want to leave the breakers at Rye.
 
 «Он начал писать в коляску», — сказал отец.
 
-—
+_
 
 My mother was quite pregnant, this time with Franny, when Father left for the winter season in the fall of 1940. He had decided on Florida, and Mother first heard from him in Clearwater, and then from Tarpon Springs. Earl had acquired an odd skin disease—an ear infection, some fungus peculiar to bears—and business was slow.
 
@@ -1484,7 +1484,7 @@ My mother and father rarely talked of Freud; with "the war in Europe," it was to
 
 Мои родители редко говорили о Фрейде; во время «войны в Европе» было слишком легко представить, что могло с ним случиться.
 
-—
+_
 
 The liquor stores in Harvard Square sold Wilson's "That's All" rye whiskey, very cheap, but my father was not a drinker. The Oxford Grill in Cambridge used to dispense draft beer in a glass container the shape of a brandy snifter and holding a gallon. If you could drink this within some brief amount of time, you got a free one. But Father drank one regular beer there, when his week's classes were over, and he'd hurry to the North Station to catch the train to Dairy.
 
@@ -2354,6 +2354,14 @@ I felt Franny slide away from me; she was out of my bed and out of my room, her 
 
 Я почувствовала, как Фрэнни отстранилась от меня; она выскочила из моей кровати и из моей комнаты, ее пижамная рубашка развевалась, как парус, на ветру из коридора наверху, у лестницы; Лилли схватила простыню и забралась в мой шкаф. Старый дом семьи Бейтс был огромным; там было так много мест, где можно было спрятаться, но моя мать знала их все. Я думала, что Фрэнни бежит обратно в свою комнату, но вместо этого услышала, как она спускается вниз, а затем услышала ее крик.
 
+“You weirdo fink, Frank!” she screamed. “You fart! You turd in a birdbath!”
+
+«Ты, придурок, Фрэнк!» — закричала она. «Ты пукаешь! Ты какаешь в птичью ванночку!»
+
+“Franny!” Mother said.
+
+«Фрэнни!» — сказала мама.
+
 "I ran to the stairwell and hugged the banister; the stairs were carpeted, deep and soft, the same carpet that covered the house. I could see Franny go straight for the headlock on Frank in the dining room. She took him down fast—Frank was slow-moving and not very physical; he was badly coordinated, although bigger than Franny, and much bigger than me. I rarely fought with him, even in fun; Frank did little in the way of fighting for fun, and even in fun he could hurt you. He was too large, and despite his distaste for the physical life, he was strong. He had a way, too, of finding your ear with his elbow, or your nose with his knee; he was the kind of fighter whose fingers and thumbs always found an eye, whose head bobbed up and split your lip against your own teeth. There are people who are so physically uncomfortable with themselves that they seem to jar against any other body. Frank was like that, and I left him alone; it was not just because he was two years older.
 
 «Я подбежала к лестнице и обняла перила; лестница была покрыта ковром, глубоким и мягким, тем же ковром, что и весь дом. Я видела, как Фрэнни тут же попыталась схватить Фрэнка за голову в столовой. Она быстро повалила его на землю — Фрэнк был медлительным и не очень физически сильным; у него была плохая координация, хотя он был крупнее Фрэнни и намного крупнее меня. Я редко с ним дралась, даже в шутку; Фрэнк почти не дрался ради удовольствия, и даже в шутку он мог причинить боль. Он был слишком крупным, и, несмотря на свою неприязнь к физической жизни, он был сильным. Он также умел локтем попадать в ухо или коленом в нос; он был из тех бойцов, чьи пальцы и большие пальцы всегда попадали в глаз, чья голова резко поднималась и разбивала губу о собственные зубы. Есть люди, которым настолько некомфортно в физическом плане, что они, кажется, не могут соприкоснуться с любым другим телом. Фрэнк был таким, и я оставляла его в покое; дело было не только в том, что он был на два года старше».
@@ -2390,43 +2398,43 @@ Father sat on the dining room carpet, holding Franny's head against his chest an
 
 «Спокойно, сынок, просто дыши спокойно», — сказал тренер Боб Фрэнку, который лежал на боку, подтянув колени к груди, его лицо было серым, как один из цветов молочной школы; старый айовский Боб знал, как утешить того, кто получил удар по яйцам. «Тебе как-то плохо, да?» — мягко спросил тренер Боб. «Просто дыши спокойно, лежи неподвижно. Это пройдет».
 
-Mother cleared the table, picked up the fallen chairs; her determined disapproval of her family’s inner violence registered on her face as enforced silence, bitter and hurt and full of dread.  
+Mother cleared the table, picked up the fallen chairs; her determined disapproval of her family’s inner violence registered on her face as enforced silence, bitter and hurt and full of dread.
 
 Мать убрала со стола, подняла упавшие стулья; ее решительное неодобрение внутреннего насилия в семье отразилось на лице в вынужденном молчании, горьком, обиженном и полном страха.
 
-“Try a deeper breath, now,” Coach Bob advised Frank; Frank tried and coughed. “Okay, okay,” said Iowa Bob. “Stick with the little breaths awhile longer.” Frank moaned.  
+“Try a deeper breath, now,” Coach Bob advised Frank; Frank tried and coughed. “Okay, okay,” said Iowa Bob. “Stick with the little breaths awhile longer.” Frank moaned.
 
 «Попробуй теперь сделать глубокий вдох», — посоветовал тренер Боб Фрэнку; Фрэнк попробовал и закашлялся. «Хорошо, хорошо», — сказал Айова Боб. «Продолжай делать короткие вдохи еще немного». Фрэнк застонал.
 
-Father examined Franny’s lower lip while her tears streamed down her face and she made those gagging kinds of sobs, half strangled in her chest. “I think you need some stitches, darling,” he said, but Franny shook her head furiously. Father held her head tightly between his hands and kissed her just above her eyes, twice. “I’m sorry, Franny,” he said, “but what can I do with you, what can I do?”  
+Father examined Franny’s lower lip while her tears streamed down her face and she made those gagging kinds of sobs, half strangled in her chest. “I think you need some stitches, darling,” he said, but Franny shook her head furiously. Father held her head tightly between his hands and kissed her just above her eyes, twice. “I’m sorry, Franny,” he said, “but what can I do with you, what can I do?”
 
 Отец осмотрел нижнюю губу Фрэнни, пока по ее лицу текли слезы, а она издавала хрипы, словно задыхаясь, прикрывая грудь. «Думаю, тебе нужны швы, дорогая», — сказал он, но Фрэнни яростно покачала головой. Отец крепко обхватил ее голову руками и дважды поцеловал ее чуть выше глаз. «Прости, Фрэнни, — сказал он, — но что я могу с тобой сделать, что я могу сделать?»
 
-“I don’t need stitches,” Franny mourned. “No stitches. No way.”  
+“I don’t need stitches,” Franny mourned. “No stitches. No way.”
 
 «Мне не нужны швы», — сокрушалась Фрэнни. «Никаких швов. Ни за что».
 
-But on her lower lip a jagged flap protruded and Father had to cup his hand under Franny’s chin to catch her blood. Mother brought a washcloth full of ice.  
+But on her lower lip a jagged flap protruded and Father had to cup his hand under Franny’s chin to catch her blood. Mother brought a washcloth full of ice.
 
 Но на нижней губе у нее выпирал неровный лоскут, и отцу пришлось подложить руку под подбородок Фрэнни, чтобы собрать кровь. Мать принесла полотенце, наполненное льдом.
 
-I went back to my room and coaxed Lilly out of the closet; she wanted to stay with me and I let her. She fell right asleep, but I lay in bed thinking that every time someone said “Hotel,” there would be blood and sudden sorrow. Father and Mother drove Franny to the Dairy School infirmary, where someone would stitch her lip together; no one would blame Father—least of all Franny. Franny would blame Frank, of course, which—in those days—was my tendency, too. Father would not blame himself—or at least not for long—and Mother would blame herself, inexplicably, for some while longer.  
+I went back to my room and coaxed Lilly out of the closet; she wanted to stay with me and I let her. She fell right asleep, but I lay in bed thinking that every time someone said “Hotel,” there would be blood and sudden sorrow. Father and Mother drove Franny to the Dairy School infirmary, where someone would stitch her lip together; no one would blame Father—least of all Franny. Franny would blame Frank, of course, which—in those days—was my tendency, too. Father would not blame himself—or at least not for long—and Mother would blame herself, inexplicably, for some while longer.
 
 Я вернулась в свою комнату и выманила Лилли из шкафа; она хотела остаться со мной, и я позволила ей. Она тут же уснула, а я лежала в постели и думала, что каждый раз, когда кто-то скажет «Отель», будет кровь и внезапная скорбь. Отец и мать отвезли Фрэнни в лазарет молочной школы, где ей зашили губу; никто не будет винить отца — меньше всего Фрэнни. Фрэнни, конечно, будет винить Фрэнка, что — в те дни — было и моей привычкой. Отец не будет винить себя — или, по крайней мере, недолго — а мать будет винить себя, необъяснимо, еще какое-то время.
 
-Whenever we fought, Father usually cried at us, “Do you know how this upsets your mother and me? Imagine that we fought all the time, and you had to live with it? But do your mother and I fight? Do we? Would you like it if we did?”  
+Whenever we fought, Father usually cried at us, “Do you know how this upsets your mother and me? Imagine that we fought all the time, and you had to live with it? But do your mother and I fight? Do we? Would you like it if we did?”
 
 Когда мы ссорились, отец обычно плакал и говорил: «Вы знаете, как это расстраивает меня и вашу маму? Представьте, что мы постоянно ссоримся, и вам приходится с этим мириться? Но ведь мы с вашей мамой ссоримся? Правда? Вам бы это понравилось?»
 
-We would not, of course; and they didn’t—most of the time. There was only the old argument, the living-in-the-future-and-not-enjoying-today argument, which Coach Bob expressed more vehemently than Mother, though we knew it was her opinion of my father, too (that, and that Father couldn’t help it).  
+We would not, of course; and they didn’t—most of the time. There was only the old argument, the living-in-the-future-and-not-enjoying-today argument, which Coach Bob expressed more vehemently than Mother, though we knew it was her opinion of my father, too (that, and that Father couldn’t help it).
 
 Мы, конечно, не стали бы этого делать; и они тоже — большую часть времени. Оставался только старый спор, спор о жизни в будущем и отсутствии радости в настоящем, который тренер Боб высказывал с большей яростью, чем мама, хотя мы знали, что она тоже так думала о моем отце (и еще то, что отец ничего не мог с этим поделать).
 
-It didn’t seem like a big thing, to us kids. I rolled Lilly on her side so that I could stretch out flat on my back with both my ears off the pillow, so that I could hear Iowa Bob coaching Frank upstairs. “Easy, boy, just lean on me,” Bob was saying. “The secret’s in the breathing.” Frank blubbered something and Coach Bob said, “But you can’t grab a girl’s tit, boy, and not expect to take a shot in the balls, now, can you?”  
+It didn’t seem like a big thing, to us kids. I rolled Lilly on her side so that I could stretch out flat on my back with both my ears off the pillow, so that I could hear Iowa Bob coaching Frank upstairs. “Easy, boy, just lean on me,” Bob was saying. “The secret’s in the breathing.” Frank blubbered something and Coach Bob said, “But you can’t grab a girl’s tit, boy, and not expect to take a shot in the balls, now, can you?”
 
 Нам, детям, это не казалось чем-то особенным. Я перевернул Лилли на бок, чтобы вытянуться на спину, убрав оба уха с подушки, и слышать, как Айова Боб инструктирует Фрэнка наверху. «Спокойно, мальчик, просто обопрись на меня», — говорил Боб. «Секрет в дыхании». Фрэнк что-то пробормотал, и тренер Боб сказал: «Но ты же не можешь схватить девчонку за грудь и не ожидать удара по яйцам, правда?»
 
-But Frank blubbered on: how Franny was terrible to him, how she never let him alone, how she was always turning the other kids against him, how he tried to avoid her but she was always there. “She’s in the middle of everything bad that happens to me!” he cried. “You don’t know!” he croaked. “You don’t know how she teases me.”  
+But Frank blubbered on: how Franny was terrible to him, how she never let him alone, how she was always turning the other kids against him, how he tried to avoid her but she was always there. “She’s in the middle of everything bad that happens to me!” he cried. “You don’t know!” he croaked. “You don’t know how she teases me.”
 
 Но Фрэнк продолжал рыдать: как ужасно с ним обращалась Фрэнни, как она никогда не оставляла его в покое, как постоянно настраивала против него других детей, как он пытался избегать ее, но она всегда была рядом. «Она в центре всех моих бед!» — кричал он. «Вы не знаете!» — прохрипел он. «Вы не знаете, как она меня дразнит».
 
@@ -2710,7 +2718,7 @@ Remember: it was night, and the night inspired my father. He had first seen Freu
 
 Возможно, лучше было бы назвать его «Вот это да!», но решение было принято: это будет отель «Нью-Гэмпшир».
 
-—
+_
 
 I was still awake when Mother and Father came home—they were gone much longer than fifteen minutes, so I knew that they’d encountered at least the white boat, if not Freud and the man in the white dinner jacket, along the way.
 
@@ -2944,7 +2952,7 @@ I don’t know; I was kept in the dark about that. At times Franny would fix me 
 
 «Ты имеешь в виду обо мне?» — спросила она, но я ничего не ответил. «Послушай, малышка, — сказала Фрэнни. — Я знаю, ты слишком много обо мне думаешь — если ты это имеешь в виду».
 
-—
+_
 
 It was at Dairy that she started calling me “kid,” although there was just a year’s difference between us. To my shame, the name stuck.
 
@@ -3338,7 +3346,7 @@ We sometimes wondered if living in the Hotel New Hampshire would always be like 
 
 Иногда мы задавались вопросом, всегда ли жизнь в отеле «Нью-Гэмпшир» будет такой.
 
-—
+_
 
 What seemed more important to know was who would come to stay in our hotel after we moved in and opened it for business. As that time approached, Father became more emphatic about his theories for the perfect hotel. He had seen an interview, on television, with the head of a hotel-management school—in Switzerland. The man said that the secret to success was how quickly a new hotel could establish a pattern of advance bookings.
 
@@ -3368,43 +3376,43 @@ We were planning to open the weekend of the Exeter game. We knew that was the fi
 
 Мы планировали открыть сезон в выходные дни, когда проходила игра с Эксетером. Мы знали, что это будет первое «предварительное бронирование». Каждый год футбольный сезон нашей команды «Молочная школа» заканчивался поражением от одной из крупных школ, таких как Эксетер или Андовер, с большим отрывом. Всегда было еще хуже, когда нам приходилось ездить в эти школы и играть с ними на их собственных ухоженных полях. В Эксетере, например, был настоящий стадион; и в Эксетере, и в Андовере была опрятная форма; тогда это были школы только для мальчиков, и ученики ходили на занятия в пиджаках и галстуках. Некоторые из них даже надевали пиджаки и галстуки на футбольные матчи, но даже если они были одеты неформально, они выглядели лучше, чем мы. Нам было ужасно видеть таких учеников — совершенно чистых и самодовольных. И каждый год наша команда выходила на поле, выглядя ужасно, — и когда игра заканчивалась, мы все чувствовали себя так же.
 
-Exeter and Andover traded us off; each one liked to use us for their next-to-last game—a kind of warm-up exercise—because their last game of the season was with each other.  
+Exeter and Andover traded us off; each one liked to use us for their next-to-last game—a kind of warm-up exercise—because their last game of the season was with each other.
 
 «Эксетер» и «Андовер» по очереди использовали нас; каждая команда предпочитала задействовать нас в предпоследней игре — своего рода разминке, — потому что их последняя игра сезона была между собой.
 
-But for Iowa Bob’s winning season we were playing at home, and this year it would be Exeter. Win or lose, it would be a winning season, but most people—even my father and Coach Bob—thought that this year’s Dairy team had a chance of going all the way: undefeated, and with a last-game victory over Exeter, a team the Dairy School had never beaten. With a winning season, even the alumni were coming back, and the Exeter game was made a parents’ weekend. Coach Bob wished he had new uniforms to go with his imported backfield, and Junior Jones, but it pleased the old man to imagine that his worn-out squad just might knock Exeter’s crisp white uniforms with dark letters, and dark helmets, all over the field.  
+But for Iowa Bob’s winning season we were playing at home, and this year it would be Exeter. Win or lose, it would be a winning season, but most people—even my father and Coach Bob—thought that this year’s Dairy team had a chance of going all the way: undefeated, and with a last-game victory over Exeter, a team the Dairy School had never beaten. With a winning season, even the alumni were coming back, and the Exeter game was made a parents’ weekend. Coach Bob wished he had new uniforms to go with his imported backfield, and Junior Jones, but it pleased the old man to imagine that his worn-out squad just might knock Exeter’s crisp white uniforms with dark letters, and dark helmets, all over the field.
 
 Но в победном сезоне Айовы Боба мы играли дома, и в этом году это был Эксетер. Победа или поражение, это был бы победный сезон, но большинство людей — даже мой отец и тренер Боб — считали, что у команды «Молочной школы» в этом году есть шанс дойти до конца: остаться непобежденными и одержать победу в последней игре над Эксетером, командой, которую «Молочная школа» никогда не побеждала. С победным сезоном даже выпускники возвращались, и игра с Эксетером превратилась в выходные для родителей. Тренер Боб жалел, что у него нет новой формы для его привезенных защитников и Джуниора Джонса, но старику нравилось представлять, что его измотанная команда вполне может разгромить белоснежную форму Эксетера с темными буквами и темные шлемы.
 
-Exeter wasn’t having too hot a year, anyway; they were poking along about 5–3—against better competition than we usually saw, to be sure, but it was not one of their great teams. Iowa Bob saw that he had a chance, and my father took the entire football season as a good sign for the Hotel New Hampshire.  
+Exeter wasn’t having too hot a year, anyway; they were poking along about 5–3—against better competition than we usually saw, to be sure, but it was not one of their great teams. Iowa Bob saw that he had a chance, and my father took the entire football season as a good sign for the Hotel New Hampshire.
 
 В любом случае, у Эксетера год выдался не слишком удачным; они еле-еле сводили счет 5–3 — конечно, против более сильных соперников, чем те, с которыми мы обычно сталкивались, но это была не одна из их лучших команд. Айова Боб увидел в этом свой шанс, и мой отец воспринял весь футбольный сезон как хороший знак для отеля «Нью-Гэмпшир».
 
-The weekend of the Exeter game was booked in advance—every room reserved, for two nights; and reservations for the restaurant on Saturday were already closed.  
+The weekend of the Exeter game was booked in advance—every room reserved, for two nights; and reservations for the restaurant on Saturday were already closed.
 
 На выходные, когда проходил матч с «Эксетером», все номера были забронированы заранее — и бронирование в ресторане на субботу уже было закрыто.
 
-My mother was worried about the chef, as Father insisted on calling her; she was a Canadian from Prince Edward Island, where she’d cooked for a large shipping family for fifteen years. “There’s a difference between cooking for a family and cooking for a hotel,” Mother warned Father.  
+My mother was worried about the chef, as Father insisted on calling her; she was a Canadian from Prince Edward Island, where she’d cooked for a large shipping family for fifteen years. “There’s a difference between cooking for a family and cooking for a hotel,” Mother warned Father.
 
 Моя мать беспокоилась о поваре, как настаивал ее отец; она была канадкой с острова Принца Эдуарда, где пятнадцать лет работала поваром в большой семье моряков. «Есть разница между приготовлением еды для семьи и приготовлением еды для отеля», — предупреждала мать отца.
 
-“But it was a large family—she said so,” Father said. “And besides, we’re a small hotel.”  
+“But it was a large family—she said so,” Father said. “And besides, we’re a small hotel.”
 
 «Но это была большая семья — она так сказала», — ответил отец. «И кроме того, у нас небольшой отель».
 
-“We’re a full hotel for the Exeter weekend,” Mother said. “And a full restaurant.”  
+“We’re a full hotel for the Exeter weekend,” Mother said. “And a full restaurant.”
 
 «На выходные в Эксетере у нас полностью забронирован отель, — сказала Мать. — И ресторан тоже полон».
 
-The cook’s name was Mrs. Urick; she was to be assisted by her husband, Max—a former merchant seaman and ship cook who was missing the thumb and index finger of his left hand. An accident in the galley of a vessel called the Miss Intrepid, he told us children, with a knowing wink. He had been distracted imagining what Mrs. Urick would do to him if she knew about his time ashore with a bold lady in Halifax.  
+The cook’s name was Mrs. Urick; she was to be assisted by her husband, Max—a former merchant seaman and ship cook who was missing the thumb and index finger of his left hand. An accident in the galley of a vessel called the Miss Intrepid, he told us children, with a knowing wink. He had been distracted imagining what Mrs. Urick would do to him if she knew about his time ashore with a bold lady in Halifax.
 
 Повариху звали миссис Урик; ей должен был помогать муж, Макс — бывший торговый моряк и корабельный повар, у которого отсутствовали большой и указательный пальцы левой руки. Несчастный случай на камбузе судна под названием «Мисс Интрепид», — сказал он нам, детям, с многозначительным подмигиванием. Он отвлекся, представляя, что миссис Урик с ним сделает, если узнает о его пребывании на берегу с отважной дамой в Галифаксе.
 
-“All at once I looked down,” Max told us—Lilly never taking her eyes from his damaged hand. “And there were my thumb and my finger amongst the bloody carrots, and the cleaver was hacking away with a will of its own.” Max flinched his claw of a hand, as if recoiling from the blade, and Lilly blinked. Lilly was ten, although she didn’t seem to have grown much since she’d been eight. Egg, who was six, seemed less frail than Lilly—and sturdily unimpressed with Max Urick’s stories.  
+“All at once I looked down,” Max told us—Lilly never taking her eyes from his damaged hand. “And there were my thumb and my finger amongst the bloody carrots, and the cleaver was hacking away with a will of its own.” Max flinched his claw of a hand, as if recoiling from the blade, and Lilly blinked. Lilly was ten, although she didn’t seem to have grown much since she’d been eight. Egg, who was six, seemed less frail than Lilly—and sturdily unimpressed with Max Urick’s stories.
 
 «Вдруг я посмотрел вниз», — рассказал нам Макс, а Лилли не отрывала глаз от его поврежденной руки. «И вот мой большой и указательный пальцы среди окровавленной моркови, а тесак рубил ее с невероятной силой». Макс вздрогнул, словно отшатнувшись от лезвия, и Лилли моргнула. Лилли было десять лет, хотя, казалось, она почти не выросла с восьми. Эгг, которому было шесть, казался менее хрупким, чем Лилли, и совершенно не впечатлен рассказами Макса Урика.
 
-Mrs. Urick didn’t tell stories. For hours she scrutinized crossword puzzles without filling in the squares; she hung Max’s laundry in the kitchen, which had been the girls’ locker room of the Thompson Female Seminary—thus it was familiar with drying socks and underwear. Mrs. Urick and my father had decided that the most appealing menu for the Hotel New Hampshire would be family-style meals. By this Mrs. Urick meant a choice of two big roasts, or a New England boiled dinner; a choice of two pies—and on Mondays a variety of meat pies, made from leftover roasts. For luncheons there would be soups and cold cuts; for breakfasts, griddle cakes, and so forth.  
+Mrs. Urick didn’t tell stories. For hours she scrutinized crossword puzzles without filling in the squares; she hung Max’s laundry in the kitchen, which had been the girls’ locker room of the Thompson Female Seminary—thus it was familiar with drying socks and underwear. Mrs. Urick and my father had decided that the most appealing menu for the Hotel New Hampshire would be family-style meals. By this Mrs. Urick meant a choice of two big roasts, or a New England boiled dinner; a choice of two pies—and on Mondays a variety of meat pies, made from leftover roasts. For luncheons there would be soups and cold cuts; for breakfasts, griddle cakes, and so forth.
 
 Миссис Урик не рассказывала историй. Часами она разгадывала кроссворды, не заполняя клетки; она развешивала белье Макса на кухне, которая раньше была женской раздевалкой женской семинарии Томпсона — поэтому там было привычно сушить носки и нижнее белье. Миссис Урик и мой отец решили, что самым привлекательным меню для отеля «Нью-Гэмпшир» будут блюда в семейном стиле. Под этим миссис Урик подразумевала выбор из двух больших жареных блюд или новоанглийского вареного обеда; выбор из двух пирогов — а по понедельникам разнообразные мясные пироги, приготовленные из остатков жареного мяса. На обеды подавали супы и мясные деликатесы; на завтрак — оладьи и так далее.
 
@@ -3976,49 +3984,49 @@ What Howard Tuck saw when he started his car had been a four-story shock of ligh
 
 Когда Говард Так завел машину, его охватил четырехэтажный всплеск света — именно так мог бы выглядеть отель «Нью-Гэмпшир» в тот самый момент, когда его разбомбили. Включилось радио Макса Урика, и музыка зазвучала так, что Макс вскрикнул от тревоги; в подземной кухне миссис Урик зазвенел таймер; Лилли вскрикнула во сне; Фрэнк ожил в темном зеркале; Эгг, встревоженный гулом электричества, который он чувствовал в отеле, закрыл глаза; мы с Фрэнни в экскаваторе закрыли уши руками — как будто вид такого внезапного света мог сопровождаться только взрывом. А старый патрульный, Говард Так, почувствовал, как его нога соскользнула со сцепления в тот момент, когда его сердце остановилось, и он покинул мир, где отели могли так легко оживать.
 
-—
+_
 
 Franny and I were the first to get to the squad car. We saw the policeman’s body slumped against the steering wheel and heard the horn blaring. Father and Mother and Frank ran out of the Hotel New Hampshire, as if the police car were sounding the signal for another fire drill.
 
 Мы с Фрэнни первыми добрались до полицейской машины. Мы увидели тело полицейского, склонившееся над рулем, и услышали вой клаксона. Отец, мать и Фрэнк выбежали из отеля «Нью-Гэмпшир», словно полицейская машина подавала сигнал к очередной пожарной тревоге.
 
-“Jesus, Howard, you’re dead!” Father said to the old man, shaking him.  
+“Jesus, Howard, you’re dead!” Father said to the old man, shaking him.
 
 «Боже, Говард, ты труп!» — сказал отец старику, тряся его.
 
-“We didn’t mean to, we didn’t mean to,” Franny said.  
+“We didn’t mean to, we didn’t mean to,” Franny said.
 
 «Мы не хотели этого, мы не хотели этого», — сказала Фрэнни.
 
-Father hit old Howard Tuck on the chest and stretched him out on the police car’s front seat; then he struck him on the chest again.  
+Father hit old Howard Tuck on the chest and stretched him out on the police car’s front seat; then he struck him on the chest again.
 
 Отец ударил старика Говарда Така по груди и растянул его на переднем сиденье полицейской машины; затем он ударил его по груди еще раз.
 
-“Call somebody!” Father said, but there was no working phone in our unlikely house. Father looked at the puzzling maze of wires and switches and ear- and mouthpieces in the squad car. “Hello? Hello!” he said into something, pushing something else. “How the fuck does this thing work?” he cried.  
+“Call somebody!” Father said, but there was no working phone in our unlikely house. Father looked at the puzzling maze of wires and switches and ear- and mouthpieces in the squad car. “Hello? Hello!” he said into something, pushing something else. “How the fuck does this thing work?” he cried.
 
 «Позвони кому-нибудь!» — сказал отец, но в нашем необычном доме не было работающего телефона. Отец посмотрел на запутанный лабиринт проводов, выключателей, наушников и микрофонов в полицейской машине. «Алло? Алло!» — сказал он в что-то, нажимая на что-то другое. «Как, черт возьми, эта штука работает?» — закричал он.
 
-“Who’s this?” said a voice out of the tubes of the car.  
+“Who’s this?” said a voice out of the tubes of the car.
 
 «Кто это?» — раздался голос из труб внутри машины.
 
-“Get an ambulance to Elliot Park!” my father said.  
+“Get an ambulance to Elliot Park!” my father said.
 
 «Вызовите скорую в Эллиот-Парк!» — сказал мой отец.
 
-“Halloween alert?” said the voice. “Halloween trouble? Hello. Hello.”  
+“Halloween alert?” said the voice. “Halloween trouble? Hello. Hello.”
 
 «Тревога на Хэллоуин?» — раздался голос. «Проблемы на Хэллоуин? Привет. Привет.»
 
-“Jesus God, it’s Halloween!” Father said. “Goddamn silly machine!” he cried, slamming the dashboard of the squad car with one hand; he gave a fairly hard hit to the quiet chest of Howard Tuck with his other hand.  
+“Jesus God, it’s Halloween!” Father said. “Goddamn silly machine!” he cried, slamming the dashboard of the squad car with one hand; he gave a fairly hard hit to the quiet chest of Howard Tuck with his other hand.
 
 «Боже мой, сегодня Хэллоуин!» — сказал отец. «Черт возьми, эта глупая машина!» — закричал он, ударив одной рукой по приборной панели полицейской машины, а другой довольно сильно стукнул по тихой груди Говарда Така.
 
-“We can get an ambulance!” Franny said. “The school ambulance!”  
+“We can get an ambulance!” Franny said. “The school ambulance!”
 
 «Мы можем вызвать скорую помощь!» — сказала Фрэнни. «Школьную скорую!»
 
-And I ran with her through Elliot Park, which was now glowing in the stunning light that poured from the Hotel New Hampshire. “Holy cow,” said Iowa Bob, when we ran into him at the Pine Street entrance to the park; he was looking at the bright hotel as if the place had opened for business without him. In the unnatural light, Coach Bob looked years older to me, but I suppose he really looked only as old as he was—a grandfather and a retiring coach with one more game to play.  
+And I ran with her through Elliot Park, which was now glowing in the stunning light that poured from the Hotel New Hampshire. “Holy cow,” said Iowa Bob, when we ran into him at the Pine Street entrance to the park; he was looking at the bright hotel as if the place had opened for business without him. In the unnatural light, Coach Bob looked years older to me, but I suppose he really looked only as old as he was—a grandfather and a retiring coach with one more game to play.
 
 И я побежала с ней по парку Эллиот, который теперь сиял в потрясающем свете, льющемся из отеля «Нью-Гэмпшир». «Вот это да!» — воскликнул Айова Боб, когда мы встретили его у входа в парк со стороны Пайн-стрит; он смотрел на ярко освещенный отель так, будто тот открылся без него. В этом неестественном свете тренер Боб показался мне на несколько лет старше, но, полагаю, на самом деле он выглядел лишь на свой возраст — дедушка и уходящий на пенсию тренер, которому осталась всего одна игра.
 
@@ -5142,7 +5150,7 @@ But Franny took the purpose of my workouts too literally. I wanted strength, sta
 
 Но Фрэнни слишком буквально восприняла цель моих тренировок. Мне нужны были сила, выносливость и скорость — или, скорее, их иллюзия. Я больше никогда не хотела испытывать то чувство беспомощности, которое испытываешь в очередной Хэллоуин.
 
-—
+_
 
 There was still the evidence of a mangled pumpkin or two—one at the curb of Pine Street and Elliot Park, and another that had been thrown from the stands and burst upon the cinder track around the football field—when Dairy hosted Exeter for the last game of Iowa Bob’s winning season. Halloween was still in the air, although Chipper Dove, Lenny Metz, and Chester Pulaski were gone.
 
@@ -5268,7 +5276,7 @@ And even after the Hotel New Hampshire had been open long enough so that we reco
 
 И даже после того, как отель «Нью-Гэмпшир» проработал достаточно долго, и мы узнали многих наших клиентов из города как «постоянных посетителей» — тех, кто каждый вечер до закрытия сидел в баре, перед чем старый Айова Боб появлялся, чтобы выпить на ночь, прежде чем лечь спать, — даже в эти знакомые вечера, в компании этих немногих знакомых, Боб все еще мог провернуть свой любимый трюк. «Эй, присаживайтесь», — говорил он кому-нибудь, и кто-нибудь всегда попадался на его уловку. На мгновение, забыв, где он находится, кто-то слегка приподнимался, издавал хриплый звук, на лице появлялось немного растерянности, и Айова Боб смеялся и кричал: «В отеле «Нью-Гэмпшир» ничего не двигается! Нам здесь конец — навсегда!»
 
-—
+_
 
 That opening night, after the bar and restaurant was closed and everyone had gone to bed, Franny and Frank and I met at the switchboard and did a bed check on each of the rooms with the unique squawk-box system. We could hear who slept soundly, and who snored; we could detect who was still up (reading), and we were surprised (and disappointed) to discover no couples were talking, or making love.
 
@@ -5518,6 +5526,42 @@ Egg had a run of ear infections; he seemed partially deaf most of the time.
 
 «Что?» — спросил Эгг.
 
+Lilly also had medical problems. We had our annual physicals just before Thanksgiving and our family doctor—an old geezer named Dr. Blaze, whose fire, Franny remarked, was almost out—discovered during a routine check that Lilly hadn’t grown in a year. Not a pound, not a fraction of an inch. She was exactly the same size she’d been when she was nine, which was not much bigger than she’d been at eight—or (checking the records) at seven.
+
+У Лилли также были проблемы со здоровьем. Незадолго до Дня благодарения мы проходили ежегодный медицинский осмотр, и наш семейный врач — старый хрыч по имени доктор Блейз, чья энергия, как заметила Фрэнни, почти погасла, — во время планового осмотра обнаружил, что Лилли не выросла за год. Ни килограмма, ни доли дюйма. Она была точно такого же размера, как в девять лет, то есть не намного больше, чем в восемь — или (судя по записям) в семь.
+
+“She’s not growing?” Father asked.
+
+«Она не растёт?» — спросил отец.
+
+“I’ve said so, for years,” Franny said. “Lilly doesn’t grow—she just is.”
+
+«Я говорила об этом годами, — сказала Фрэнни. — Лилли не растёт — она просто есть».
+
+Lilly seemed unimpressed by the analysis; she shrugged. “So I’m small,” she said. “Everyone’s always saying so. So what’s the matter with being small?”
+
+Лилли, похоже, не была впечатлена этим анализом; она пожала плечами. «Значит, я маленькая, — сказала она. — Все всегда так говорят. Так в чем же проблема с тем, чтобы быть маленькой?»
+
+“Nothing, dear,” Mother said. “You can be as small as you want, but you should be growing—just a little.”
+
+«Ничего, дорогая, — сказала мама. — Ты можешь быть сколь угодно маленькой, но тебе нужно расти — совсем чуть-чуть».
+
+“She’s going to be one of those who shoots up all at once,” said Iowa Bob, but even he looked doubtful. Lilly didn’t impress you as the sort who would ever “shoot up.”
+
+«Она из тех, кто резко поправится», — сказал Айова Боб, но даже он выглядел сомневающимся. Лилли совсем не производила впечатления человека, способного на резкий поступок.
+
+We made her stand back to back with Egg; at six, Egg was almost as big as Lilly at ten, and he certainly looked more solid.
+
+Мы поставили ее спиной к спине с Эггом; в шесть лет Эгг был почти такого же размера, как Лилли в десять, и, безусловно, выглядел более крепким.
+
+“Stand still!” Lilly said to Egg. “Stop standing on your toes!”
+
+«Стой спокойно!» — сказала Лилли Эггу. «Перестань стоять на цыпочках!»
+
+“What?” said Egg.
+
+«Что?» — спросил Эгг.
+
 “Stop standing on your toes, Egg!” Franny said.
 
 «Перестань стоять на цыпочках, Эгг!» — сказала Фрэнни.
@@ -5582,7 +5626,7 @@ I went to lift weights in Iowa Bob’s room. Every time the weights rolled off t
 
 «Я не люблю есть», — сказала Лилли.
 
-—
+_
 
 And it wouldn’t rain—not a drop! Or when it rained, it was always in the afternoon, or in the evening. I would be sitting in Algebra II, or in the History of Tudor England, or in Beginning Latin, and I would hear the rain fall, and despair. Or I would be in bed, and it was dark—dark in my room and throughout the Hotel New Hampshire, and all of Elliot Park—and I would hear it raining and raining, and I’d think: Tomorrow! But in the morning, the rain would have turned to snow, or would have petered out; or it would be dry and windy again, and I would run my wind sprints in Elliot Park—Frank passing me en route to the biology lab.
 
@@ -5672,131 +5716,131 @@ I heard Max Urick yell at me from his fourth-floor window in the Hotel New Hamps
 
 Я услышал, как Макс Урик кричит мне из окна своего номера на четвертом этаже отеля «Нью-Гэмпшир». «Ты, чертов дурак!» — кричал Макс, перекрикивая замерзшую землю, опавшие листья и испуганных белок в парке. С пожарной лестницы, в ее конце второго этажа, в сером воздухе развевалась бледно-зеленая ночная рубашка: Ронда Рэй, должно быть, спала сегодня утром в синей, или в черной, или в ярко-оранжевой. Бледно-зеленая развевалась на меня, как флаг, и я пробежал еще несколько спринтерских рывков.
 
-When I went to 3F, Iowa Bob was already up; he was doing his neck bridge routine, down on his back on the rug, a pillow under his head. He was into a high neck bridge—with the barbell, at about 150 pounds, held straight over his head. Old Bob had a neck as big as my thigh.  
+When I went to 3F, Iowa Bob was already up; he was doing his neck bridge routine, down on his back on the rug, a pillow under his head. He was into a high neck bridge—with the barbell, at about 150 pounds, held straight over his head. Old Bob had a neck as big as my thigh.
 
 Когда я пришел в зал 3F, Айова Боб уже встал; он выполнял свою программу «мостик для шеи», лежа на спине на ковре, подложив подушку под голову. Он делал высокий шейный мостик — со штангой весом около 150 фунтов, которую держал прямо над головой. У старого Боба была шея размером с мое бедро.
 
-“Good morning,” I whispered, and his eyes rolled back, and the barbell tilted, and he hadn’t screwed the little things that hold the weights on tight enough, so that a few of the weights rolled off one end, and then the other, and Coach Bob shut his eyes and cringed as the weights dropped on either side of his head and went rolling off everywhere. I stopped a couple with my feet, but one of them rolled into the closet door, and it opened, of course, and out came a few things: a broom, a sweat shirt, Bob’s running shoes, and a tennis racquet with his sweatband wrapped around the handle.  
+“Good morning,” I whispered, and his eyes rolled back, and the barbell tilted, and he hadn’t screwed the little things that hold the weights on tight enough, so that a few of the weights rolled off one end, and then the other, and Coach Bob shut his eyes and cringed as the weights dropped on either side of his head and went rolling off everywhere. I stopped a couple with my feet, but one of them rolled into the closet door, and it opened, of course, and out came a few things: a broom, a sweat shirt, Bob’s running shoes, and a tennis racquet with his sweatband wrapped around the handle.
 
 «Доброе утро», — прошептала я, и его глаза закатились, штанга наклонилась, и он недостаточно крепко закрутил маленькие застежки, которые держат гири, так что несколько гирь скатились с одного конца, потом с другого, и тренер Боб закрыл глаза и поморщился, когда гири упали по обе стороны его головы и покатились во все стороны. Я остановила пару гирь ногой, но одна из них закатилась в дверцу шкафа, и она, конечно же, открылась, и оттуда вывалилось несколько вещей: метла, толстовка, кроссовки Боба и теннисная ракетка с повязкой на ручке.
 
-“Jesus God,” said Father, from downstairs in our family’s kitchen.  
+“Jesus God,” said Father, from downstairs in our family’s kitchen.
 
 «Иисус, Боже», — сказал отец снизу, из кухни нашего дома.
 
-“Good morning,” Bob said to me.  
+“Good morning,” Bob said to me.
 
 «Доброе утро», — сказал мне Боб.
 
-“Do you think Ronda Ray is attractive?” I asked him.  
+“Do you think Ronda Ray is attractive?” I asked him.
 
 «Ты считаешь Ронду Рэй привлекательной?» — спросил я его.
 
-“Oh boy,” said Coach Bob.  
+“Oh boy,” said Coach Bob.
 
 «Ого-го», — сказал тренер Боб.
 
-“No, really,” I said.  
+“No, really,” I said.
 
 «Нет, правда», — ответил я.
 
-“Really?” he said. “Go ask your father. I’m too old. I haven’t looked at girls since I broke my nose—the last time.”  
+“Really?” he said. “Go ask your father. I’m too old. I haven’t looked at girls since I broke my nose—the last time.”
 
 «Правда?» — сказал он. «Спроси у отца. Я слишком стар. Я не смотрел на девушек с тех пор, как сломал нос — в последний раз».
 
-That must have been in the line, at Iowa, I knew, because old Bob’s nose had quite a number of wrinkles in it. He never put his teeth in until breakfast, too, so that his head in the early mornings looked surprisingly bald—like some strange, featherless bird, his empty mouth gaping like the lower half of a bill under his bent nose. Iowa Bob had the head of a gargoyle on the body of a lion.  
+That must have been in the line, at Iowa, I knew, because old Bob’s nose had quite a number of wrinkles in it. He never put his teeth in until breakfast, too, so that his head in the early mornings looked surprisingly bald—like some strange, featherless bird, his empty mouth gaping like the lower half of a bill under his bent nose. Iowa Bob had the head of a gargoyle on the body of a lion.
 
 Должно быть, это было в очереди в Айове, я знал, потому что у старого Боба на носу было немало морщин. Он также никогда не вставлял зубы до завтрака, поэтому по утрам его голова выглядела на удивление лысой — как у какой-то странной, безперьевой птицы, с пустым ртом, зияющим, как нижняя половина клюва, под искривленным носом. У Айовского Боба была голова горгульи на теле льва.
 
-“Well, do you think she’s pretty?” I asked him.  
+“Well, do you think she’s pretty?” I asked him.
 
 «Ну, как ты думаешь, она симпатичная?» — спросил я его.
 
-“I don’t think about it,” he said.  
+“I don’t think about it,” he said.
 
 «Я об этом не думаю», — сказал он.
 
-“Well, think about it now!” I said.  
+“Well, think about it now!” I said.
 
 «Ну, теперь подумай об этом!» — сказал я.
 
-“Not exactly ‘pretty,’” said Iowa Bob. “But she’s sort of appealing.”  
+“Not exactly ‘pretty,’” said Iowa Bob. “But she’s sort of appealing.”
 
 «Не то чтобы она „красивая“, — сказал Айова Боб. — Но она довольно привлекательна».
 
-“Appealing?” I asked.  
+“Appealing?” I asked.
 
 «Привлекательно?» — спросил я.
 
-“Sexy!” said a voice over Bob’s intercom—Franny’s voice, of course; she had been listening to the squawk boxes at the switchboard, as usual.  
+“Sexy!” said a voice over Bob’s intercom—Franny’s voice, of course; she had been listening to the squawk boxes at the switchboard, as usual.
 
 «Сексуально!» — раздался голос из домофона Боба — конечно же, голос Фрэнни; она, как обычно, слушала сигналы коммутатора.
 
-“Damn kids,” said Iowa Bob.  
+“Damn kids,” said Iowa Bob.
 
 «Черт возьми, эти детишки», — сказал Айова Боб.
 
-“Damn it, Franny!” I said.  
+“Damn it, Franny!” I said.
 
 «Черт возьми, Фрэнни!» — сказала я.
 
-“You should ask me,” Franny said.  
+“You should ask me,” Franny said.
 
 «Тебе следует спросить меня», — сказала Фрэнни.
 
-“Oh boy,” said Iowa Bob.  
+“Oh boy,” said Iowa Bob.
 
 «Ого-го», — сказал Айова Боб.
 
-So it was that I came to tell Franny the story of Ronda Ray’s apparent offer on the stairwell, her interest in my hard breathing, and in my beating heart—and the plan for a rainy day.  
+So it was that I came to tell Franny the story of Ronda Ray’s apparent offer on the stairwell, her interest in my hard breathing, and in my beating heart—and the plan for a rainy day.
 
 И вот я пришла рассказать Фрэнни историю о том, как Ронда Рэй, видимо, сделала мне предложение на лестничной площадке, о её интересе к моему тяжёлому дыханию и бьющемуся сердцу, а также о планах на дождливый день.
 
-“So? Do it,” said Franny. “But why wait for the rain?”  
+“So? Do it,” said Franny. “But why wait for the rain?”
 
 «Ну и что? Делай это», — сказала Фрэнни. «Но зачем ждать дождя?»
 
-“Do you think she’s a whore?” I asked Franny.  
+“Do you think she’s a whore?” I asked Franny.
 
 «Ты думаешь, она шлюха?» — спросил я Фрэнни.
 
-“You mean, do I think she charges money?” Franny said.  
+“You mean, do I think she charges money?” Franny said.
 
 «Ты имеешь в виду, я думаю, что она берет деньги?» — спросила Фрэнни.
 
-That thought had not occurred to me—“whore” being a word that was used all too loosely at the Dairy School.  
+That thought had not occurred to me—“whore” being a word that was used all too loosely at the Dairy School.
 
 Мне такая мысль не приходила в голову — слово «шлюха» в Молочной школе использовалось слишком легкомысленно.
 
-“Money?” I said. “How much do you think she charges?”  
+“Money?” I said. “How much do you think she charges?”
 
 «Деньги?» — спросил я. «Как думаешь, сколько она берет?»
 
-“I don’t know if she charges,” Franny said, “but if I were you, that’s something I’d want to find out.” At the intercom, we switched to Ronda’s room and listened to her breathing. It was her awake-but-just-lying-there-breathing sound. We listened to her a long while, as if we would understand from what we heard the possible price attached to her. Franny finally shrugged.  
+“I don’t know if she charges,” Franny said, “but if I were you, that’s something I’d want to find out.” At the intercom, we switched to Ronda’s room and listened to her breathing. It was her awake-but-just-lying-there-breathing sound. We listened to her a long while, as if we would understand from what we heard the possible price attached to her. Franny finally shrugged.
 
 «Я не знаю, берет ли она плату, — сказала Фрэнни, — но на твоем месте я бы хотела это выяснить». По домофону мы переключились в комнату Ронды и прислушались к ее дыханию. Это было дыхание, похожее на дыхание человека, который только что лег и бодрствовал. Мы слушали ее довольно долго, надеясь понять, какую цену за нее могут назначить. Наконец Фрэнни пожала плечами.
 
-“I’m going to take a bath,” she said, and she gave a twirl to the room dial, and the intercom listened to the empty rooms. 2A, not a sound; 3A, nothing; 4A, nothing at all; 1B, nothing; 4B, Max Urick and his static. Franny was leaving the switchboard to go draw her bath and I gave the room dial a twirl: to 2C, 3C, 4C, then switching fast to 2E, 3E . . . and there it was . . . and on to 4E, where there was nothing.  
+“I’m going to take a bath,” she said, and she gave a twirl to the room dial, and the intercom listened to the empty rooms. 2A, not a sound; 3A, nothing; 4A, nothing at all; 1B, nothing; 4B, Max Urick and his static. Franny was leaving the switchboard to go draw her bath and I gave the room dial a twirl: to 2C, 3C, 4C, then switching fast to 2E, 3E . . . and there it was . . . and on to 4E, where there was nothing.
 
 «Я пойду приму ванну», — сказала она и повернула ручку переключения номеров, а домофон прислушался к пустым комнатам. 2A — ни звука; 3A — ничего; 4A — совсем ничего; 1B — ничего; 4B — Макс Урик и его помехи. Фрэнни собиралась отойти от коммутатора, чтобы набрать ванну, а я повернул ручку переключения номеров: на 2C, 3C, 4C, затем быстро переключился на 2E, 3E… и вот оно… и дальше на 4E, где ничего не было.
 
-“Wait a minute,” I said.  
+“Wait a minute,” I said.
 
 «Подождите минутку», — сказал я.
 
-“What was that?” Franny said.  
+“What was that?” Franny said.
 
 «Что это было?» — спросила Фрэнни.
 
-“Three E, I think,” I said.  
+“Three E, I think,” I said.
 
 «По-моему, это три Е», — сказал я.
 
-“Try it again,” she said. It was the floor above Ronda Ray, and at the opposite end of the hall from her; it was across the hall from Iowa Bob, who was out.  
+“Try it again,” she said. It was the floor above Ronda Ray, and at the opposite end of the hall from her; it was across the hall from Iowa Bob, who was out.
 
 «Попробуй ещё раз», — сказала она. Это был этаж выше Ронды Рэй, в противоположном конце коридора от неё; напротив был кабинет Айовы Боба, которого не было.
 
-“Do it,” Franny said. We were scared. We had no guests in the Hotel New Hampshire, but there had been one hell of a sound from 3E.  
+“Do it,” Franny said. We were scared. We had no guests in the Hotel New Hampshire, but there had been one hell of a sound from 3E.
 
 «Сделай это», — сказала Фрэнни. Нам было страшно. В отеле «Нью-Гэмпшир» не было гостей, но из 3E доносился ужасный звук.
 
@@ -6192,7 +6236,7 @@ Anyway, that was Thanksgiving, 1956, and we moved on toward Christmas in that fa
 
 В общем, это был День благодарения 1956 года, и мы двинулись дальше к Рождеству в том же духе: размышляли о размерах, прислушивались к любви, отказывались от ванн, надеялись правильно расположить мертвых — бегали, поднимали тяжести и ждали дождя.
 
-—
+_
 
 It was a morning in early December when Franny woke me. It was still dark in my room, and the snoring sound of Egg's breathing reached me through the open connecting doorway; Egg was still asleep. There was someone's softer, controlled breathing nearer to me than Egg, and I was aware of Franny's smell—a smell I hadn't known for a while: a rich but never rank smell, a little salty, a little sweet, strong but never cloying. And in the darkness I knew that Franny had been cured of taking baths. It was overhearing my Mother and Father that did it; I think that made her own smell seem perfectly natural to Franny again.
 
@@ -6354,7 +6398,7 @@ I owe my sexual nervousness to this initiation—a feeling I have never quite es
 
 «Неужели ты думала, что я так поступлю?» — спросила она меня, и я извинился; но я никогда не знал, на что способна Фрэнни, а на что нет.
 
-—
+_
 
 “How’s it coming with the dog, Frank?” I kept asking, as Christmas bore down upon us all.
 
@@ -6423,6 +6467,8 @@ Franny and I found a jar of chimpanzee teeth in an antique store in Dairy, and w
 I was just as glad that we would not be giving Frank the teeth before Christmas, because I feared that Frank might try to use them in his version of Sorrow.
 
 Я была рада, что нам не придётся дарить Фрэнку зубы до Рождества, потому что боялась, что он попытается использовать их в своей версии «Скорби».
+
+_
 
 "Sorrow!" Iowa Bob screamed aloud one night, just before Christmas, and we all sat up in our beds with our hair itching. "Sorrow!" the old man called from his room; his barbells clanked across the floor. His door opened and we heard him bellow down the deserted third-floor hall. "Sorrow!" he called.
 
@@ -6568,7 +6614,7 @@ Lilly hid her gifts in a small box; all her gifts were small. Egg didn’t get a
 
 «Это было всего на одну ночь, — сказал Фрэнк. — И я знал, что Фрэнни никогда не будет там искать».
 
-—
+_
 
 On Christmas Eve, 1956, everyone went to bed early and no one slept—another family tradition. We heard the ice groaning under the snow in Elliot Park. There were times when Elliot Park could creak like a coffin changing temperature—being lowered into the ground. Why is it that even the Christmas of 1956 felt a little like Halloween?
 
@@ -6622,23 +6668,23 @@ This Sorrow meant business, and before I could get my breath back and tell my gr
 
 «Вот это да!» — воскликнул Айова Боб странно тихим голосом, и гири загрохотали со всех сторон от Скорби. Рычащий пёс остался невозмутимым; он по-прежнему был готов к нападению. И Айова Боб, чей последний сезон уже закончился, упал замертво у меня на руках.
 
-“Jesus God, are you throwing those weights around on purpose?” Father screamed upstairs to us. “Jesus God!” Father cried. “Take a day off, will you? It’s Christmas, for Christ’s sake. Merry Christmas! Merry Christmas!”  
+“Jesus God, are you throwing those weights around on purpose?” Father screamed upstairs to us. “Jesus God!” Father cried. “Take a day off, will you? It’s Christmas, for Christ’s sake. Merry Christmas! Merry Christmas!”
 
 «Боже мой, ты что, специально бросаешь эти гантели?» — крикнул нам отец сверху. «Боже мой!» — воскликнул отец. «Возьми выходной, пожалуйста! Ведь Рождество, ради всего святого! Счастливого Рождества! Счастливого Рождества!»
 
-“Merry fucking Christmas!” shouted Franny, from downstairs.  
+“Merry fucking Christmas!” shouted Franny, from downstairs.
 
 «Счастливого, блядь, Рождества!» — крикнула Фрэнни снизу.
 
-“Merry Christmas!” said Lilly, and Egg—and even Frank.  
+“Merry Christmas!” said Lilly, and Egg—and even Frank.
 
 «Счастливого Рождества!» — сказали Лилли, Эгг и даже Фрэнк.
 
-“Merry Christmas!” Mother called softly.  
+“Merry Christmas!” Mother called softly.
 
 «С Рождеством!» — тихо позвала мама.
 
-And was it Ronda Ray I heard chiming in? And the Uricks—already setting up for Christmas breakfast in the Hotel New Hampshire? And I heard something unpronounceable—it might have been the Turk in 2B.  
+And was it Ronda Ray I heard chiming in? And the Uricks—already setting up for Christmas breakfast in the Hotel New Hampshire? And I heard something unpronounceable—it might have been the Turk in 2B.
 
 И это Ронда Рэй вмешивалась в разговор? А Урики уже готовились к рождественскому завтраку в отеле «Нью-Гэмпшир»? И я услышал что-то непроизносимое — возможно, это был турок из квартиры 2B.
 
@@ -6706,135 +6752,135 @@ The night before New Year’s Eve, with Iowa Bob not dead a week, and Sorrow mis
 
 «Что?» — спросил Эгг. Мать и доктор Блейз сказали, что слух Эгга улучшается, хотя отец говорил о «потере слуха», а не о его «слухе», и заключили, что доктор Блейз, должно быть, сам глухой, раз считает, что состояние Эгга «улучшается». Это было похоже на мнение доктора Блейза о невысоком росте Лилли: что он тоже улучшается, потому что Лилли немного подросла. Но все остальные выросли гораздо больше, и поэтому создавалось впечатление, что Лилли становится меньше.
 
-“Egg,” I said more loudly. “Where is Sorrow?”  
+“Egg,” I said more loudly. “Where is Sorrow?”
 
 «Эгг», — сказал я громче. — «Где Скорбь?»
 
-“Sorrow is dead,” Egg said.  
+“Sorrow is dead,” Egg said.
 
 «Печаль умерла», — сказал Эгг.
 
-“I know he’s dead, damn it,” I said, “but where, Egg? Where is Sorrow?”  
+“I know he’s dead, damn it,” I said, “but where, Egg? Where is Sorrow?”
 
 «Я знаю, что он мертв, черт возьми, — сказал я, — но где, Эгг? Где Скорбь?»
 
-“Sorrow is with Grandpa Bob,” said Egg, who was right about that, of course, and I knew there would be no coaxing the location of the stuffed terror out of Egg.  
+“Sorrow is with Grandpa Bob,” said Egg, who was right about that, of course, and I knew there would be no coaxing the location of the stuffed terror out of Egg.
 
 «Скорбь с дедушкой Бобом», — сказал Эгг, и, конечно же, он был прав, и я знал, что выведать у Эгга, где находится этот чучело ужаса, не получится.
 
-“Tomorrow is New Year’s Eve,” I said.  
+“Tomorrow is New Year’s Eve,” I said.
 
 «Завтра Новый год», — сказал я.
 
-“Who?” Egg said.  
+“Who?” Egg said.
 
 «Кто?» — спросил Эгг.
 
-“New Year’s Eve!” I said. “We’re having a party.”  
+“New Year’s Eve!” I said. “We’re having a party.”
 
 «Новый год!» — сказала я. — «Мы устраиваем вечеринку».
 
-“Where?” he asked.  
+“Where?” he asked.
 
 «Куда?» — спросил он.
 
-“Here,” I said. “In the Hotel New Hampshire.”  
+“Here,” I said. “In the Hotel New Hampshire.”
 
 «Здесь, — сказал я. — В отеле «Нью-Гэмпшир».
 
-“What room?” he said.  
+“What room?” he said.
 
 «В какой комнате?» — спросил он.
 
-“The main room,” I said. “The big room. The restaurant, fool.”  
+“The main room,” I said. “The big room. The restaurant, fool.”
 
 «Главный зал, — сказал я. — Большой зал. Ресторан, дурак».
 
-“We’re not having a party in this room,” Egg said.  
+“We’re not having a party in this room,” Egg said.
 
 «В этой комнате вечеринки не будет», — сказал Эгг.
 
-With Egg’s costumes all around, there was hardly room for a party in our room, I knew, but I let this observation pass. I was almost asleep when Egg spoke again.  
+With Egg’s costumes all around, there was hardly room for a party in our room, I knew, but I let this observation pass. I was almost asleep when Egg spoke again.
 
 Я понимала, что в нашей комнате, где все были в костюмах Эгга, места для вечеринки было совсем мало, но проигнорировала это замечание. Я уже почти заснула, когда Эгг снова заговорил.
 
-“How would you dry something that’s wet?” Egg asked.  
+“How would you dry something that’s wet?” Egg asked.
 
 «Как высушить что-нибудь мокрое?» — спросил Эгг.
 
-And I thought to myself of the likely condition of Sorrow, after God knows how many hours in the open trash barrel, in the rain and snow.  
+And I thought to myself of the likely condition of Sorrow, after God knows how many hours in the open trash barrel, in the rain and snow.
 
 И я подумал про себя о том, в каком состоянии, вероятно, окажется Скорбь после того, как Бог знает сколько часов проведет в открытом мусорном баке, под дождем и снегом.
 
-“What is it that’s wet, Egg?” I asked.  
+“What is it that’s wet, Egg?” I asked.
 
 «Что это мокрое, Эгг?» — спросил я.
 
-“Hair,” he said. “How would you dry hair?”  
+“Hair,” he said. “How would you dry hair?”
 
 «Волосы, — сказал он. — Как вы сушите волосы?»
 
-“Your hair, Egg?”  
+“Your hair, Egg?”
 
 «Твои волосы, Эгг?»
 
-“Anybody’s hair,” Egg said. “Lots of hair. More hair than mine.”  
+“Anybody’s hair,” Egg said. “Lots of hair. More hair than mine.”
 
 «Волосы у кого угодно, — сказала Эгг. — Много волос. Волос больше, чем у меня».
 
-“Well, with a hair dryer, I suppose,” I said.  
+“Well, with a hair dryer, I suppose,” I said.
 
 «Ну, наверное, с помощью фена», — сказал я.
 
-“That thing Franny has?” Egg asked.  
+“That thing Franny has?” Egg asked.
 
 «Эта штука, которая есть у Фрэнни?» — спросил Эгг.
 
-“Mother has one, too,” I told him.  
+“Mother has one, too,” I told him.
 
 «У мамы тоже есть такой», — сказал я ему.
 
-“Yeah,” he said, “but Franny’s is bigger. I think it’s hotter, too.”  
+“Yeah,” he said, “but Franny’s is bigger. I think it’s hotter, too.”
 
 «Да, — сказал он, — но у Фрэнни больше. И, мне кажется, там жарче».
 
-“Got a lot of hair to dry, huh?” I said.  
+“Got a lot of hair to dry, huh?” I said.
 
 «У тебя куча волос, которые нужно высушить, да?» — сказала я.
 
-“What?” Egg said. But it wasn’t worth repeating; an aspect of Egg’s deafness was Egg’s ability to choose when not to hear.  
+“What?” Egg said. But it wasn’t worth repeating; an aspect of Egg’s deafness was Egg’s ability to choose when not to hear.
 
 «Что?» — спросил Эгг. Но повторять было не стоит; одной из особенностей глухоты Эгга была его способность выбирать, когда не слышать.
 
-In the morning I watched him take off his pajamas, under which he wore—and had slept in—a full suit of clothes.  
+In the morning I watched him take off his pajamas, under which he wore—and had slept in—a full suit of clothes.
 
 Утром я наблюдал, как он снял пижаму, под которой был — и в которой он спал — полный костюм.
 
-“It’s good to be ready—right, Egg?” I asked.  
+“It’s good to be ready—right, Egg?” I asked.
 
 «Хорошо быть готовым, правда, Эгг?» — спросил я.
 
-“Ready for what?” he asked. “There isn’t any school today—it’s still vacation.”  
+“Ready for what?” he asked. “There isn’t any school today—it’s still vacation.”
 
 «К чему ты готов?» — спросил он. «Сегодня нет занятий в школе — каникулы ещё продолжаются».
 
-“Then why’d you wear your clothes to bed?” I asked him, but he let that pass; he was searching through various piles of costumes. “What are you looking for?” I asked him. “You’re already dressed.” But whenever Egg detected that the tone I took toward him was a teasing one, he ignored me.  
+“Then why’d you wear your clothes to bed?” I asked him, but he let that pass; he was searching through various piles of costumes. “What are you looking for?” I asked him. “You’re already dressed.” But whenever Egg detected that the tone I took toward him was a teasing one, he ignored me.
 
 «Тогда зачем ты в постель в одежде?» — спросила я его, но он проигнорировал это; он рылся в разных кучах костюмов. «Что ты ищешь?» — спросила я. «Ты уже одет». Но всякий раз, когда Эгг чувствовал, что я поддразниваю его, он игнорировал меня.
 
-“See you at the party,” he said.  
+“See you at the party,” he said.
 
 «Увидимся на вечеринке», — сказал он.
 
-Egg loved the Hotel New Hampshire; perhaps he loved it even more than Father, because Father loved most of all the idea of it; in fact, Father seemed daily more and more unsure of the actual success of his venture. Egg loved all the rooms, the staircases, the great unoccupied emptiness of the former all-girls’ school. Father knew we were unoccupied a little too much of the time, but that was fine with Egg.  
+Egg loved the Hotel New Hampshire; perhaps he loved it even more than Father, because Father loved most of all the idea of it; in fact, Father seemed daily more and more unsure of the actual success of his venture. Egg loved all the rooms, the staircases, the great unoccupied emptiness of the former all-girls’ school. Father knew we were unoccupied a little too much of the time, but that was fine with Egg.
 
 Эгг обожал отель «Нью-Гэмпшир»; возможно, он любил его даже больше, чем отец, потому что отцу больше всего нравилась сама идея этого заведения; на самом деле, отец, казалось, с каждым днем все больше сомневался в успехе своего предприятия. Эггу нравились все комнаты, лестницы, огромная пустующая территория бывшей школы для девочек. Отец знал, что мы слишком часто бываем пустыми, но Эгга это вполне устраивало.
 
-Guests would occasionally bring odd things they had found in their rooms to breakfast. “The room was very clean,” they would begin, “but someone must have left this . . . this something.” The right rubber arm of a cowboy; the creased, webbed foot of a dried toad. A playing card, with a face drawn over the face of the jack of diamonds; the five of clubs with the word “Yuck” written across it. A small sock with six marbles in it. A costume change (Egg’s policeman’s badge pinned to his baseball uniform) hanging in the closet of 4G.  
+Guests would occasionally bring odd things they had found in their rooms to breakfast. “The room was very clean,” they would begin, “but someone must have left this . . . this something.” The right rubber arm of a cowboy; the creased, webbed foot of a dried toad. A playing card, with a face drawn over the face of the jack of diamonds; the five of clubs with the word “Yuck” written across it. A small sock with six marbles in it. A costume change (Egg’s policeman’s badge pinned to his baseball uniform) hanging in the closet of 4G.
 
 Иногда гости приносили на завтрак странные вещи, найденные в своих номерах. «Комната была очень чистой, — начинали они, — но кто-то, должно быть, оставил вот это… вот это». Правая резиновая рука ковбоя; морщинистая, перепончатая лапа высушенной жабы. Игральная карта с нарисованным лицом поверх лица валета бубен; пятерка треф со словом «Фу». Маленький носок с шестью шариками внутри. Сменный костюм (полицейский значок Эгга, прикрепленный к его бейсбольной форме), висящий в шкафу комнаты 4G.
 
-On the day of New Year’s Eve, the weather was that thawing kind—a mist spreading over Elliot Park, and yesterday’s snow already melting and revealing the gray snow of a week ago. “Where were you this morning, John-O?” Ronda Ray asked me, as we were preparing the restaurant for the New Year’s Eve party.  
+On the day of New Year’s Eve, the weather was that thawing kind—a mist spreading over Elliot Park, and yesterday’s snow already melting and revealing the gray snow of a week ago. “Where were you this morning, John-O?” Ronda Ray asked me, as we were preparing the restaurant for the New Year’s Eve party.
 
 В канун Нового года погода была такой, что можно было отогреться: туман окутывал парк Эллиот, а вчерашний снег уже таял, обнажая серый снег недельной давности. «Где ты был сегодня утром, Джон-О?» — спросила меня Ронда Рэй, когда мы готовили ресторан к новогодней вечеринке.
 
@@ -7418,7 +7464,7 @@ Doris Wales was a woman with straw-blond hair whose body appeared to have been d
 
 «И то, и другое», — без колебаний ответила Сабрина Джонс, но я был уверен, что если бы мир перестал потакать войнам, голоду и прочим опасностям, люди все равно смогли бы довести друг друга до смерти, опозорив друг друга. Самоуничтожение, возможно, заняло бы немного больше времени, но я считаю, что оно было бы не менее полным.
 
-—
+_
 
 Doris Wales, some months after the hurricane that was her namesake, first heard Elvis Presley’s “Heartbreak Hotel” when she was actually in a hotel. She told Sabrina and me that this had been a religious experience.
 
@@ -7626,7 +7672,7 @@ I walked with her to her room on the second floor. I had no illusions of making 
 
 "Never apologize!" Sabrina said. She stood close to me in the hallway and let me kiss her. "First things first," she said. "Your breath smells nice—that's a start. But stop shaking, and you shouldn't make tooth contact at the beginning; and don't try to push me with your tongue." We tried again. "Keep your hands in your pockets," she told me. "Watch the tooth contact. Better," she said, backing up, into her room; she motioned me to follow. "Don't get fresh," she said. "Hands in the pockets at all times; two feet on the floor." I stumbled toward her. We made tooth contact quite violently; she snapped her head back, away from me, and when I looked at her, incredibly, I saw that she held a row of her front upper teeth in her hand. "Shit!" she cried. "Watch the tooth contact!" For a horrible moment I thought I had knocked her teeth out, but she turned her back to me and said, "Don't look at me. False teeth. Turn out the light." I did, and it was dark in her room.
 
-«Никогда не извиняйся!» — сказала Сабрина. Она подошла ко мне в коридоре и позволила мне поцеловать её. «Прежде всего, — сказала она. — У тебя приятно пахнет изо рта — это уже начало. Но перестань дрожать, и не касайся зубами в начале; и не пытайся оттолкнуть меня языком». Мы попробовали ещё раз. «Держи руки в карманах, — сказала она. — Следи за тем, чтобы зубы не соприкасались. Лучше, — сказала она, отступая в свою комнату; она жестом пригласила меня следовать за ней. — Не освежайся, — сказала она. — Руки всегда в карманах ; обе ноги на полу». Я пошатнулся к ней. Наши зубы соприкоснулись довольно резко; она резко откинула голову назад, от меня, и когда я посмотрел на неё, невероятно, я увидел, что она держит в руке ряд передних верхних зубов. «Чёрт!» — закричала она. — «Следи за тем, чтобы зубы не соприкасались!» На мгновение мне показалось, что я выбил ей зубы, но она повернулась ко мне спиной и сказала: «Не смотри на меня. Вставные зубы. Выключи свет». Я так и сделал, и в ее комнате стало темно.
+«Никогда не извиняйся!» — сказала Сабрина. Она подошла ко мне в коридоре и позволила мне поцеловать её. «Прежде всего, — сказала она. — У тебя приятно пахнет изо рта — это уже начало. Но перестань дрожать, и не касайся зубами в начале; и не пытайся оттолкнуть меня языком». Мы попробовали ещё раз. «Держи руки в карманах, — сказала она. — Следи за тем, чтобы зубы не соприкасались. Лучше, — сказала она, отступая в свою комнату; она жестом пригласила меня следовать за ней. — Не освежайся, — сказала она. — Руки всегда в карманах; обе ноги на полу». Я пошатнулся к ней. Наши зубы соприкоснулись довольно резко; она резко откинула голову назад, от меня, и когда я посмотрел на неё, невероятно, я увидел, что она держит в руке ряд передних верхних зубов. «Чёрт!» — закричала она. — «Следи за тем, чтобы зубы не соприкасались!» На мгновение мне показалось, что я выбил ей зубы, но она повернулась ко мне спиной и сказала: «Не смотри на меня. Вставные зубы. Выключи свет». Я так и сделал, и в ее комнате стало темно.
 
 "I'm sorry," I said, hopelessly.
 
@@ -7750,7 +7796,7 @@ Mother, and the Matsons, were watching Doris Wales without reserve. Only Franny 
 
 And Doris Wales, hoarse and sweating, gave us “Tryin’ to Get to You,” one of those awkward numbers, not slow and not fast, forcing Bitty Tuck to decide whether or not to dance close. Before she’d made her choice, Max Urick leaped out of the kitchen in his sailor’s cap with a referee’s whistle clenched in his teeth; he blew the whistle so loudly that even Ronda Ray moved, a little, at the bar. “Happy New Year!” shrieked Max, and Franny stood on her toes and gave Junior Jones the sweetest kiss, and Mother ran to find Father. Merton, the lumberyard foreman, looked once at the dozing Ronda Ray; he then thought better of it. And Bitty Tuck, with a bored shrug, gave me her superior smile, again, and I remembered every richness of the cavernous mouth of Sabrina Jones; I made, as they say, my move. A little tooth contact, but nothing offensive; the penetration of the tongue past the teeth, but only a flicker of pushing it farther; and the teeth skating under the upper lip. There were Bitty Tuck’s wondrous, much-discussed breasts, like soft fists pushing my chest away, but I kept my hands in my pockets, forcing nothing; she was always free to pull away, but she didn’t choose to break contact.
 
-А Дорис Уэйлс, хриплого голоса и вся в поту, исполнила «Tryin' to Get to You», один из тех неловких номеров, не медленный и не быстрый, заставляющий Битти Так решать, танцевать ли ей рядом. Прежде чем она сделала свой выбор, Макс Урик выскочил из кухни в матросской фуражке со свистком судьи, зажатым в зубах; он свистнул так громко, что даже Ронда Рэй немного пошевелилась у барной стойки. «С Новым годом!» — взвизгнул Макс, и Фрэнни встала на цыпочки и нежно поцеловала Джуниора Джонса , а мама побежала искать отца. Мертон, бригадир лесопилки, взглянул на дремлющую Ронду Рэй; затем передумал. А Битти Так, скучающе пожав плечами, снова одарила меня своей превосходной улыбкой, и я вспомнил всю прелесть глубоких губ Сабрины Джонс; я сделал, как говорится, свой ход. Небольшой контакт зубами, но ничего оскорбительного; Язык проникал сквозь зубы, но лишь слегка проталкивался дальше; зубы скользили под верхней губой. Чудесные, широко обсуждаемые груди Битти Так словно мягкие кулаки отталкивали мою грудь, но я держал руки в карманах, ничего не напрягая; она всегда могла отстраниться, но не хотела прерывать контакт.
+А Дорис Уэйлс, хриплого голоса и вся в поту, исполнила «Tryin' to Get to You», один из тех неловких номеров, не медленный и не быстрый, заставляющий Битти Так решать, танцевать ли ей рядом. Прежде чем она сделала свой выбор, Макс Урик выскочил из кухни в матросской фуражке со свистком судьи, зажатым в зубах; он свистнул так громко, что даже Ронда Рэй немного пошевелилась у барной стойки. «С Новым годом!» — взвизгнул Макс, и Фрэнни встала на цыпочки и нежно поцеловала Джуниора Джонса, а мама побежала искать отца. Мертон, бригадир лесопилки, взглянул на дремлющую Ронду Рэй; затем передумал. А Битти Так, скучающе пожав плечами, снова одарила меня своей превосходной улыбкой, и я вспомнил всю прелесть глубоких губ Сабрины Джонс; я сделал, как говорится, свой ход. Небольшой контакт зубами, но ничего оскорбительного; Язык проникал сквозь зубы, но лишь слегка проталкивался дальше; зубы скользили под верхней губой. Чудесные, широко обсуждаемые груди Битти Так словно мягкие кулаки отталкивали мою грудь, но я держал руки в карманах, ничего не напрягая; она всегда могла отстраниться, но не хотела прерывать контакт.
 
 “Holy cow,” observed Junior Jones, momentarily breaking Bitty Tuck’s concentration.
 
@@ -7775,10 +7821,6 @@ There was a draft in the lobby, where Frank had left the door to the delivery en
 I thus distracted myself from my lower-back pain, was grateful I had skipped this morning’s bench presses and one-arm curls, and bore Bitty Tuck’s luggage to 4A. The windows were open, but I couldn’t hear the rushing-of-air sound I had heard over the intercom hours before; I guessed that the wind had dropped. The luggage seemed to explode from my arms, which felt pounds lighter, and Bitty Tuck angled me toward her bed.
 
 Таким образом, я отвлекся от боли в пояснице, был благодарен, что пропустил утренние жимы лежа и упражнения на бицепс одной рукой, и отнес багаж Битти Так в комнату 4А. Окна были открыты, но я не слышал того шума воздуха, который слышал по домофону несколько часов назад; я предположил, что ветер стих. Багаж словно вырвался из моих рук, они стали казаться на килограммы легче, и Битти Так повернул меня к своей кровати.
-
-Here is the revised text with more common words substituted:
-
-Вот исправленный текст, в котором заменены более распространенные слова:
 
 "Do it again," she said. "I bet you can't. I bet it was beginner's luck." So I kissed her again, encouraging a little more tooth contact, and more trouble with the tongue.
 
@@ -8200,19 +8242,19 @@ I FINALLY GOT A SMART BEAR [Freud wrote]. IT MADE ALL THE DIFFERENCE. I HAD A GO
 
 «Наконец-то у меня появился умный медведь», — писал Фрейд. — «Это изменило всё. У меня был хороший отель, но я постарел. Он всё ещё мог бы быть отличным», — добавлял Фрейд, — «если бы вы с Мэри помогли мне им управлять. У меня есть умный медведь, но мне нужен ещё и умный парень из Гарварда, вроде тебя!»
 
-Father stormed into the poor lobby of the Hotel New Hampshire; in his slippers he stumbled over a beer bottle, which he kicked, and his bathrobe flapped in the wind from the open door.  
+Father stormed into the poor lobby of the Hotel New Hampshire; in his slippers he stumbled over a beer bottle, which he kicked, and his bathrobe flapped in the wind from the open door.
 
 Отец ворвался в убогий вестибюль отеля «Нью-Гэмпшир»; в тапочках он споткнулся о пивную бутылку, которую пнул, а его халат развевался на ветру у открытой двери.
 
-“He’s gone,” I said to Father. “Just some drunk.” But Father snapped on the outside light—and there, waving, on the rim of the light, was the man in the white dinner jacket. “Good-bye!” he called, hopefully. “Good-bye! Good luck! Good-bye!” The effect was stunning: the man in the white dinner jacket stepped out of the light and was gone—as gone as if he were gone to sea—and my father stared into the darkness after him.  
+“He’s gone,” I said to Father. “Just some drunk.” But Father snapped on the outside light—and there, waving, on the rim of the light, was the man in the white dinner jacket. “Good-bye!” he called, hopefully. “Good-bye! Good luck! Good-bye!” The effect was stunning: the man in the white dinner jacket stepped out of the light and was gone—as gone as if he were gone to sea—and my father stared into the darkness after him.
 
 «Он ушел», — сказал я отцу. «Просто какой-то пьяница». Но отец резко включил наружный свет — и там, на краю фонаря, махал рукой мужчина в белом смокинге. «До свидания!» — с надеждой крикнул он. «До свидания! Удачи! До свидания!» Эффект был ошеломляющим: мужчина в белом смокинге вышел из света и исчез — словно ушел в море, — а мой отец смотрел в темноту ему вслед.
 
-“Hello!” Father screamed. “Hello? Come back! Hello?”  
+“Hello!” Father screamed. “Hello? Come back! Hello?”
 
 «Привет!» — закричал отец. «Привет? Вернись! Привет?»
 
-“Good-bye! Good luck! Good-bye!” called the voice of the man in the white dinner jacket, and my father stood staring into the darkness until the wind chilled him and he shivered in his bathrobe and slippers; he let me pull him inside.  
+“Good-bye! Good luck! Good-bye!” called the voice of the man in the white dinner jacket, and my father stood staring into the darkness until the wind chilled him and he shivered in his bathrobe and slippers; he let me pull him inside.
 
 «До свидания! Удачи! До свидания!» — раздался голос мужчины в белом смокинге, и мой отец стоял, глядя в темноту, пока ветер не пронизал его холодом, и он не задрожал в халате и тапочках; он позволил мне затащить его внутрь.
 
@@ -8346,7 +8388,7 @@ But Fritz of Fritz’s Act gave Egg nightmares—great screams that stiffened my
 
 And I lay under the barbell in the morning, sneaking a look at Franny getting out of bed—or getting dressed—and thinking of Iowa Bob. What would he have said about going to Vienna? About Freud’s hotel that somehow needed a smart Harvard boy? About the differences a smart bear might make—to anyone’s prospects for success? I lifted and thought. “It doesn’t matter,” Iowa Bob would have said. “Whether we go to Vienna or stay here, it won’t matter.” Under all that weight, that’s what I thought Coach Bob would have said. “Here or there,” Bob would have said, “we’re screwed down for life.” It would be Father’s hotel—whether in Dairy or in Vienna. Would nothing, ever, make us more or less exotic than we were? I wondered, with the weight wonderfully taut and rising, and Franny in the corner of my eye.
 
-Утром я лежал под штангой, украдкой поглядывая на Фрэнни, которая вставала с постели или одевалась, и думая об Айове Бобе. Что бы он сказал о поездке в Вену? О гостинице Фрейда, которой почему-то нужен был умный парень из Гарварда? О том, как умный медведь может повлиять на перспективы успеха любого человека? Я поднимал штангу и думал. «Это не имеет значения», — сказал бы Айова Боб. «Поедем ли мы в Вену или останемся здесь, это не будет иметь значения». Под всем этим грузом, я думал, что именно это сказал бы тренер Боб. «Здесь или там», — сказал бы Боб, — «мы обречены на всю жизнь». Это была бы гостиница отца — будь то в Дэйри или в Вене. Неужели ничто никогда не сделает нас более или менее экзотическими, чем мы есть? — размышлял я, чувствуя, как вес чудесно подтягивается и поднимается, а Фрэнни — краем глаза.
+Утром я лежал под штангой, украдкой поглядывая на Фрэнни, которая вставала с постели или одевалась, и думая об Айове Бобе. Что бы он сказал о поездке в Вену? О гостинице Фрейда, которой почему-то нужен был умный парень из Гарварда? О том, как умный медведь может повлиять на перспективы успеха любого человека? Я поднимал штангу и думал. «Это не имеет значения», — сказал бы Айова Боб. «Поедем ли мы в Вену или останемся здесь, это не будет иметь значения». Под всем этим грузом, я думал, что именно это сказал бы тренер Боб. «Здесь или там», — сказал бы Боб, — «нам конец на всю жизнь». Это была бы гостиница отца — будь то в Дэйри или в Вене. Неужели ничто никогда не сделает нас более или менее экзотическими, чем мы есть? — размышлял я, чувствуя, как вес чудесно подтягивается и поднимается, а Фрэнни — краем глаза.
 
 “I wish you’d take those weights to another room,” Franny said. “So I can get dressed by myself, sometimes—for Christ’s sake.”
 
@@ -8364,7 +8406,7 @@ And I lay under the barbell in the morning, sneaking a look at Franny getting ou
 
 «Боже мой!» — крикнул мне отец наверху, и я подумал, что если бы Айова Боб был еще с нами, он бы сказал, что Фрэнни не права. Была ли Вена более или менее изысканной — была ли у Фрэнни комната с гантелями или комната с кружевами — мы жили в одном отеле «Нью-Гэмпшир» за другим.
 
-—
+_
 
 Freud’s hotel—or our imperfect picture of Freud’s hotel, via air mail—was called the Gasthaus Freud; it was unclear, from Freud’s correspondence, whether or not the other Freud had ever stayed there. We only knew it was “centrally located,” according to Freud—“in the First District!”—but in the all-gray black-and-white photograph that Freud sent, we could barely make out the iron double door, sandwiched between the display cases of a kind of candy store, KONDITOREI, said one sign; ZUCKERWAREN, said another; SCHOKOLADEN, promised a third; and over it all—bigger than the faded letters saying, GASTHAUS FREUD—was the word BONBONS.
 
@@ -8578,63 +8620,63 @@ HI! QUICK IDEA: YOU THINK IT BEST TO RESTRICT CERTAIN ACTIVITIES TO CERTAIN FLOO
 
 Привет! Быстрая идея: как думаешь, лучше ограничить определенные виды деятельности определенными этажами? Может, на четвертом этаже обслуживать определенную категорию клиентов, а в подвале? Как думаешь, это деликатный вопрос? У нынешних дневных и ночных клиентов разные — я не скажу «военные» — интересы. Ха-ха! Все это изменится после ремонта. И как только они перестанут, блин, копать улицу, останется всего несколько лет реставрации, говорят они. Подожди, пока встретишь медведя: он не просто умный, но и молодой! Какая же у нас будет команда вместе! Что ты имеешь в виду, говоря: «Фрейд — действительно популярное имя в Вене?» Ты учился в Гарварде или нет??!! Ха-ха.
 
-“He doesn’t sound necessarily older,” said Franny, “but he sounds crazy.”  
+“He doesn’t sound necessarily older,” said Franny, “but he sounds crazy.”
 
 «Он не обязательно выглядит старше своего возраста, — сказала Фрэнни, — но звучит как сумасшедший».
 
-“He just doesn’t use English very well,” Father said. “It’s not his language.”  
+“He just doesn’t use English very well,” Father said. “It’s not his language.”
 
 «Он просто плохо владеет английским, — сказал отец. — Это не его язык».
 
-So we studied German. Franny and Frank and I took courses at the Dairy School, and brought the records home to play to Lilly; Mother worked with Egg. She started by just getting him familiar with the names of the streets and the places of interest on the tourist map.  
+So we studied German. Franny and Frank and I took courses at the Dairy School, and brought the records home to play to Lilly; Mother worked with Egg. She started by just getting him familiar with the names of the streets and the places of interest on the tourist map.
 
 Поэтому мы изучали немецкий язык. Фрэнни, Фрэнк и я посещали курсы в Молочной школе и приносили пластинки домой, чтобы слушать их Лилли; мама работала с Эггом. Она начала с того, что просто познакомила его с названиями улиц и достопримечательностями на туристической карте.
 
-“Lobkowitzplatz,” Mother would say.  
+“Lobkowitzplatz,” Mother would say.
 
 «Лобковицплац», — говорила мама.
 
-“What?” Egg would say.  
+“What?” Egg would say.
 
 «Что?» — спросил бы Эгг.
 
-Father was supposed to be teaching himself, but he seemed to be making the least progress. “You kids have to learn it,” he kept saying. “I don’t have to go to school, meet new kids, all of that.”  
+Father was supposed to be teaching himself, but he seemed to be making the least progress. “You kids have to learn it,” he kept saying. “I don’t have to go to school, meet new kids, all of that.”
 
 Отец должен был учиться сам, но, похоже, у него это получалось меньше всего. «Вы, дети, должны этому научиться», — повторял он. «Мне не нужно ходить в школу, знакомиться с новыми детьми и все такое».
 
-“But we’re going to an English-speaking school,” Lilly said.  
+“But we’re going to an English-speaking school,” Lilly said.
 
 «Но мы будем учиться в англоязычной школе», — сказала Лилли.
 
-“Even so,” Father said. “You’ll need the German more than I will.”  
+“Even so,” Father said. “You’ll need the German more than I will.”
 
 «Тем не менее, — сказал отец, — немецкий язык вам понадобится больше, чем мне».
 
-“But you’re going to run a hotel,” Mother said to him.  
+“But you’re going to run a hotel,” Mother said to him.
 
 «Но ты же собираешься управлять отелем», — сказала ему мать.
 
-“I’m going to start off going after the American audience,” Father said. “We’re trying to drum up an American group of customers, first—remember?”  
+“I’m going to start off going after the American audience,” Father said. “We’re trying to drum up an American group of customers, first—remember?”
 
 «Я начну с привлечения американской аудитории, — сказал отец. — В первую очередь мы пытаемся завоевать американских клиентов, помните?»
 
-“Better all brush up on our American, too,” said Franny.  
+“Better all brush up on our American, too,” said Franny.
 
 «И нам всем лучше подтянуть свой американский английский», — сказала Фрэнни.
 
-Frank was getting the German more quickly than any of us. It seemed to suit him: every sound part of a word was pronounced, the action words fell like grapeshot at the ends of sentences, the marks over letters were a form of dressing up; and the whole idea of words having gender must have appealed to Frank. By the late winter he was (acting as if he was important) chatting in German, on purpose making us all confused, correcting our attempts to answer him, then comforting our failures by telling us that he’d take care of us when we were “over there.”  
+Frank was getting the German more quickly than any of us. It seemed to suit him: every sound part of a word was pronounced, the action words fell like grapeshot at the ends of sentences, the marks over letters were a form of dressing up; and the whole idea of words having gender must have appealed to Frank. By the late winter he was (acting as if he was important) chatting in German, on purpose making us all confused, correcting our attempts to answer him, then comforting our failures by telling us that he’d take care of us when we were “over there.”
 
 Франк осваивал немецкий язык быстрее всех нас. Казалось, он ему подходил: каждый звук в слове произносился, глаголы, обозначающие действия, сыпались, как картечь, в конце предложений, знаки над буквами были своего рода украшением; и сама идея о том, что у слов есть род, должно быть, привлекала Франка. К концу зимы он (ведя себя так, будто он важная персона) уже болтал по-немецки, специально сбивая нас с толку, исправляя наши попытки ответить ему, а затем утешая нас, говоря, что позаботится о нас, когда мы будем «там».
 
-“Oh boy,” Franny said. “That’s the part that really gets to me. Having Frank take us all to school, talk to the bus drivers, order in the restaurants, take all the phone calls. Jesus, now that I’m finally going abroad, I don’t want to be dependent on him!”  
+“Oh boy,” Franny said. “That’s the part that really gets to me. Having Frank take us all to school, talk to the bus drivers, order in the restaurants, take all the phone calls. Jesus, now that I’m finally going abroad, I don’t want to be dependent on him!”
 
 «О боже, — сказала Фрэнни. — Вот что меня действительно расстраивает. Фрэнк возил нас всех в школу, разговаривал с водителями автобусов, заказывал еду в ресторанах, отвечал на все телефонные звонки. Боже, теперь, когда я наконец-то еду за границу, я не хочу от него зависеть!»
 
-But Frank seemed to flower at the preparations for moving to Vienna. No doubt he was encouraged by having been given a second chance with Sorrow, but he also seemed genuinely interested in studying Vienna. After dinner he read aloud to us, selected excerpts from what Frank called the “plums” of Viennese history; Ronda Ray and the Uricks listened too—curiously, because they knew they weren’t going and their future with Fritz’s Act was unclear.  
+But Frank seemed to flower at the preparations for moving to Vienna. No doubt he was encouraged by having been given a second chance with Sorrow, but he also seemed genuinely interested in studying Vienna. After dinner he read aloud to us, selected excerpts from what Frank called the “plums” of Viennese history; Ronda Ray and the Uricks listened too—curiously, because they knew they weren’t going and their future with Fritz’s Act was unclear.
 
 Но Фрэнк, казалось, расцвел во время подготовки к переезду в Вену. Несомненно, его воодушевило то, что ему дали второй шанс с «Скорбью», но он также, похоже, искренне интересовался изучением Вены. После ужина он читал нам вслух избранные отрывки из того, что Фрэнк называл «жемчужинами» венской истории; Ронда Рэй и Урик тоже слушали — что любопытно, потому что они знали, что не поедут, и их будущее с «Фрицем Актом» было неясным.
 
-After two months of history lessons, Frank gave us an oral examination on the interesting characters around Vienna at the time of the Crown Prince’s suicide at Mayerling (which Frank had earlier read to us, in full detail, moving Ronda Ray to tears). Franny said that Prince Rudolf was becoming Frank’s hero—“because of his clothes.” Frank had portraits of Rudolf in his room: one in hunting costume—a thin-headed young man with an extra-large moustache, draped with furs and smoking a cigarette as thick as a finger—and another in uniform, wearing the Order of the Golden Fleece, his forehead as vulnerable as a baby’s, his beard as sharp as a spade.  
+After two months of history lessons, Frank gave us an oral examination on the interesting characters around Vienna at the time of the Crown Prince’s suicide at Mayerling (which Frank had earlier read to us, in full detail, moving Ronda Ray to tears). Franny said that Prince Rudolf was becoming Frank’s hero—“because of his clothes.” Frank had portraits of Rudolf in his room: one in hunting costume—a thin-headed young man with an extra-large moustache, draped with furs and smoking a cigarette as thick as a finger—and another in uniform, wearing the Order of the Golden Fleece, his forehead as vulnerable as a baby’s, his beard as sharp as a spade.
 
 После двух месяцев уроков истории Франк провел с нами устный экзамен по интересным персонажам, окутавшим Вену во время самоубийства наследного принца в Майерлинге (который Франк ранее подробно зачитал нам, растрогав Ронду Рэй до слез). Фрэнни сказала, что принц Рудольф становится героем Франка — «из-за своей одежды». В комнате Франка висели портреты Рудольфа: один в охотничьем костюме — худощавый молодой человек с огромными усами, укрытый мехами и курящий сигарету толщиной с палец, — и другой в военной форме, в ордене Золотого руна, с лобом, уязвимым, как у младенца, и бородой, острой, как лопата.
 
@@ -9230,7 +9272,7 @@ Sometime that spring I saw Franny use it: just a single quick shrug, with a hint
 
 «Вин», — вздрогнула Лилли. — «Звучит как что-то, что сказала бы ящерица». И мы все уставились на неё, ожидая, когда Эгг произнесёт своё «Что?»
 
-—
+_
 
 Then the grass came out in Elliot Park, and one warm night, when I was sure Egg was asleep, I opened the window and looked at the moon and the stars and listened to the crickets and the frogs, and Egg said, “Keep passing the open windows.”
 
@@ -9390,7 +9432,7 @@ I could see at a glance that Frank had outdone himself at “niceness.” Sorrow
 
 “Jesus God!” I heard Father yell, out another window. Then he shut the window and I heard him ranting at Mother—about the way Franny drove, about having to replant the grass in Elliot Park, about having to chip the mud off the car with a tool—and while I was still watching Franny racing among the trees, Egg opened his eyes and saw Sorrow. His scream jammed my thumbs against the windowsill and made me bite my tongue. Mother ran into the room to see what was the matter and greeted Sorrow with a cry of her own.
 
-«Боже мой!» — услышала я крик отца из другого окна. Потом он закрыл окно, и я услышала, как он ругается на маму — за то, как Фрэнни водила машину, за то, что пришлось заново сажать траву в парке Эллиот, за то, что пришлось отчищать грязь с машины инструментом, — и пока я все еще смотрела, как Фрэнни мчится среди деревьев, Эгг открыл глаза и увидел Скорбь. Его крик прижал мои большие пальцы к подоконнику, и я прикусила язык. Мама вбежала в комнату, чтобы узнать, что случилось, и встретила Скорбь своим собственным криком.
+«Боже мой!» — услышала я крик отца из другого окна. Потом он закрыл окно, и я услышала, как он ругается на маму — за то, как Фрэнни водила машину, за то, что пришлось заново сажать траву в парке Эллиот, за то, что пришлось отчищать грязь с машины инструментом, — и пока я все еще смотрела, как Фрэнни мчится среди деревьев, Эгг открыл глаза и увидел Скорбь. Его крик прижал мои большие пальцы к подоконнику , и я прикусила язык. Мама вбежала в комнату, чтобы узнать, что случилось, и встретила Скорбь своим собственным криком.
 
 “Jesus God,” said Father. “Why does Frank have to spring the damn dog on everyone? Why can’t he just say, ‘Now I’m going to show you Sorrow,’ and carry the damn thing into a room—when we’re all ready for it, for Christ’s sake!”
 
@@ -9568,7 +9610,7 @@ I noticed that Father sneaked quietly away, with Lilly—and Franny went to wash
 
 «Полагаю, ему придётся поехать», — сказала мама. В её голосе звучала та же покорность, которую я слышала во сне, когда мама сказала: «Больше никаких медведей», а затем уплыла на белой лодке.
 
-—
+_
 
 “Holy cow,” said Junior Jones, when he saw Sorrow sitting on Egg’s bed, one of Mother’s scarves around Sorrow’s shoulders, Egg’s baseball cap on Sorrow’s head. Franny had brought Junior to the hotel to see Frank’s miracle. Harold Swallow had come along with Junior, but Harold was lost somewhere; he’d made a wrong turn on the second floor, and rather than come into our apartment, he was wandering around the hotel. I was trying to work at my desk—I was studying for my German exam, and was trying not to ask Frank for help. Franny and Junior Jones went off looking for Harold, and Egg decided against Sorrow’s present costume; he undressed the dog and started over.
 
@@ -9958,7 +10000,7 @@ Max Urick went and hid with Mrs. Urick in the kitchen; they were shy about being
 
 «Живые!» — сказала одна из карлиц, примерно такого же роста, как Эгг, и, казалось, заинтригованная Сорроу; она продолжала поглаживать его.
 
-—
+_
 
 It was the end of June when the midgets made Elliot Park look like a fairground; the once-brightly-colored canvases, now faded to pastels, flapped over the little stalls, fringed the merry-go-round, domed the big tent where the main acts would be performed. Kids from the town of Dairy came and hung around our park all day, but the midgets were in no hurry; they set up the stalls; they changed the position of the merry-go-round three times—and refused to hook up the engine that ran it, even to test it out. One day a box arrived, the size of a dining-room table; it was full of large spools of different-colored tickets, each spool as big as a tire.
 
@@ -10024,7 +10066,7 @@ YOU ALMOST HERE! GOOD TIME TO COME. PLENTY OF TIME FOR KIDS TO GET ADJUSTED BEFO
 
 «Медведица по имени Сьюзи?» — спросил Фрэнк. Он, казалось, был раздражен тем, что это не немецкое имя и что это медведица. Думаю, для большинства из нас это стало разочарованием — своего рода антикульминацией еще до того, как мы по-настоящему начали. Но переезды — это так. Сначала волнение, потом тревога, потом разочарование. Сначала мы прошли краткий курс по Вене, потом начали скучать по старому отелю «Нью-Гэмпшир» — заранее. Затем был период ожидания — бесконечный, и, возможно, готовивший нас к неизбежному разочарованию в тот день одновременного отъезда и прибытия, что стало возможным благодаря изобретению реактивного самолета.
 
-—
+_
 
 On the first of July we borrowed the Volkswagen bus belonging to Fritz's Act. It had funny hand controls, for braking and acceleration, because the midgets couldn't reach the foot pedals; Father and Frank argued over who would be more dexterous at driving the unusual vehicle. Finally, Fritz offered to drive the first shift to the airport.
 
@@ -10142,7 +10184,7 @@ Looking back on them, in Elliot Park, as Fritz returned to the bus and drove us 
 
 Оглядываясь назад, в Эллиот-парке, когда Фриц вернулся к автобусу и повез нас дальше — в аэропорт и в Вену, — я увидел, что Эгг все еще держал на руках самое экзотическое животное из всех. Рядом со мной плакала Лилли, и мне показалось, что в хаосе перемещения маленьких людей и выгрузки животных я вижу целый цирк под названием «Скорбь», а не представление Фрица. Мама помахала рукой, и миссис Урик и Ронда Рэй помахали ей в ответ. Макс Урик кричал, но мы его не слышали. Губы Фрэнни, в такт его, прошептали: «Четыреста шестьдесят четыре!» Франк уже читал немецкий словарь, а отец — человек, не склонный оглядываться назад — сел впереди с Фрицем и быстро говорил ни о чем. Лилли плакала, но безобидно, как дождь. И Эллиот-Парк исчез: мой последний взгляд запечатлел Эгга в движении, пытающегося пробежать среди маленьких людей, Скорбь держала над головой, словно икону — животное, которому поклонялись все остальные, обычные животные. Эгг был возбужден, кричал, и губы Фрэнни — в такт его — прошептали: «Что? Что? Что?»
 
-—
+_
 
 Fritz drove us to Boston, where Franny had to shop for what Mother called “city underwear”; Lilly wept her way through the undergarments aisles; Frank and I cruised the moving staircases. We were at the airport much too early. Fritz apologized for not being able to wait with us; his animals needed him, he said, and Father wished him well—thanking him, in advance, for driving Mother and Egg to the airport tomorrow. Frank was “approached” in the men’s room at Logan International, but he refused to describe the incident to Franny and me; he continued to say only that he had been “approached.” He was outraged about it, and Franny and I were furious with him for not spelling it out to us in more detail. Father bought Lilly a plastic carry-on flight bag, to cheer her up, and we boarded the plane before dark. I think we took off about 7 or 8 P.M.: the lights of Boston, on a summer night, were half on and half off, and there was enough daylight left to see the harbor clearly. It was our first time on an airplane, and we loved it.
 
@@ -10302,7 +10344,7 @@ Our driver said something unclear. Even Father could tell it wasn't German. Fran
 
 The Gasthaus Freud did not leap out at us. Our driver slowly drove right by it, and Frank ran into the Kaffe Mowatt to ask directions; it was then pointed out to us—the building we had missed. Gone was the candy store (although the signs for the former Konditorei—BONBONS, and so forth—were leaning against the window, inside). Father assumed this meant that Freud—in preparation for our arrival—had begun the expansion plans, had bought out the candy store. But, upon closer inspection, we realized that a fire had destroyed the Konditorei and must have at least threatened the inhabitants of the adjacent Gasthaus Freud. We entered the small, dark hotel, passing the new sign by the gutted candy store; the sign, Frank translated, said: DON'T STEP ON THE SUGAR.
 
-Гостиница «Фрейд» не сразу бросилась нам в глаза. Наш водитель медленно проехал мимо, и Франк забежал в кафе «Моуатт», чтобы спросить дорогу; тогда нам указали на здание, которое мы пропустили. Кондитерской уже не было (хотя вывески бывшей кондитерской — «BONBONS» и так далее — всё ещё стояли у окна внутри). Отец предположил, что это означает, что Фрейд — в преддверии нашего приезда — начал планировать расширение и выкупил кондитерскую. Но, присмотревшись, мы поняли, что кондитерская была уничтожена пожаром и, по крайней мере, угрожала обитателям соседней гостиницы «Фрейд». Мы вошли в небольшую тёмную гостиницу, пройдя мимо новой вывески сгоревшей кондитерской; на вывеске, как перевёл Франк, было написано: «НЕ НАСТУПАЙТЕ НА САХАР».
+Гостиница «Фрейд» не сразу бросилась нам в глаза. Наш водитель медленно проехал мимо, и Франк забежал в кафе «Моуатт», чтобы спросить дорогу; тогда нам указали на здание, которое мы пропустили. Кондитерской уже не было (хотя вывески бывшей кондитерской — «BONBONS» и так далее — всё ещё стояли у окна внутри). Отец предположил, что это означает, что Фрейд — в преддверии нашего приезда — начал планировать расширение и выкупил кондитерскую. Но, присмотревшись , мы поняли, что кондитерская была уничтожена пожаром и, по крайней мере, угрожала обитателям соседней гостиницы «Фрейд». Мы вошли в небольшую тёмную гостиницу, пройдя мимо новой вывески сгоревшей кондитерской; на вывеске, как перевёл Франк, было написано: «НЕ НАСТУПАЙТЕ НА САХАР».
 
 "Don't step on the sugar, Frank?" Franny said.
 
@@ -10438,7 +10480,7 @@ Father viewed the lobby, while his old, blind mentor leaned on him for support. 
 
 “Too bad?” Freud cried. “No, no, not too bad! It’s good. The place is gone, and they had no insurance. We can buy them up—cheap! Give ourselves a lobby people will notice—from the street!” Freud cried, though of course there was nothing his own eyes would notice, or could. “A very fortunate fire,” Freud said, “a fire perfectly timed for your arrival,” Freud said, squeezing my father’s arm. “A brilliant fire!” Freud said.
 
-«Жаль?» — воскликнул Фрейд. «Нет, нет, не так уж и плохо! Хорошо. Этого места больше нет, и у них не было страховки. Мы можем выкупить их — дёшево! Сделать себе вестибюль, который заметят — с улицы!» — воскликнул Фрейд, хотя, конечно, его собственные глаза ничего не могли заметить. «Очень удачный пожар, — сказал Фрейд, — пожар, идеально совпавший с вашим приездом», — сказал Фрейд, сжимая руку моего отца. «Великолепный пожар!» — воскликнул Фрейд.
+«Жаль?» — воскликнул Фрейд. «Нет, нет, не так уж и плохо! Хорошо. Этого места больше нет, и у них не было страховки. Мы можем выкупить их — дёшево! Сделать себе вестибюль, который заметят — с улицы!» — воскликнул Фрейд, хотя, конечно, его собственные глаза ничего не могли заметить. « Очень удачный пожар, — сказал Фрейд, — пожар, идеально совпавший с вашим приездом», — сказал Фрейд, сжимая руку моего отца. «Великолепный пожар!» — воскликнул Фрейд.
 
 “A smart bear’s sort of fire,” said Susie the bear, cynically tearing her way through the old issue of Time.
 
@@ -10452,7 +10494,7 @@ Father viewed the lobby, while his old, blind mentor leaned on him for support. 
 
 «Можешь не сомневаться, дорогая», — сказала Сьюзи.
 
-—
+_
 
 Oh, there once was a woman who had also been raped, but when I told her Franny’s story, and how it seemed to me that Franny had handled it—by not handling it, perhaps, or by denying the worst of it—this woman told me that Franny and I were wrong.
 
@@ -10714,10 +10756,6 @@ Because of the radicals' gratitude for this bearish protection, there was really
 
 Благодаря благодарности радикалов за эту защиту, никаких проблем с тем, чтобы попросить их подняться наверх, не возникло. Мой отец и Фрейд объяснили свою ситуацию в середине дня. Отец предложил меня в качестве грузчика пишущих машинок, и я начал переносить их в пустые комнаты на пятом этаже. Там было полдюжины пишущих машинок и мимеограф; обычные канцелярские принадлежности; казалось, избыток телефонов. Я немного устал от третьего или четвертого стола, но я не занимался своими обычными силовыми тренировками — во время нашего путешествия — поэтому я оценил физическую нагрузку. Я спросил у пары молодых радикалов, знают ли они, где я могу достать штанги, но они показались мне очень подозрительными — как будто мы американцы — и либо они не понимали английский, либо предпочитали говорить на своем языке. Один пожилой радикал ненадолго выразил протест, затеяв, казалось бы, довольно оживленную дискуссию с Фрейдом, но медведица Сьюзи начала скулить и крутить головой у лодыжек старика — словно пытаясь высморкаться о манжеты его брюк, — и он успокоился и поднялся по лестнице, хотя и знал, что Сьюзи — не настоящая медведица.
 
-Here is the text with the requested words replaced by more common alternatives:
-
-Вот текст, в котором запрошенные слова заменены более распространенными вариантами:
-
 “What are they writing?” Franny asked Susie. “I mean, is it one of those newsletter kind of things, is it propaganda?”
 
 «Что они пишут?» — спросила Фрэнни у Сьюзи. «То есть, это что-то вроде информационного бюллетеня, или это пропаганда?»
@@ -10770,7 +10808,7 @@ Here is the text with the requested words replaced by more common alternatives:
 
 «Да», — сказала медведица Сьюзи. — «Как будто мы все можем быть мертвы».
 
-—
+_
 
 Sorrow makes everything intimate; in our sorrow for Mother and Egg, we got to know the radicals and prostitutes as if we had always known them. We were the bereaved children, motherless (to the prostitutes), our golden brother killed (to the radicals). And so—to compensate for our sadness, and the added sadness of the conditions in the Gasthaus Freud—the radicals and prostitutes treated us pretty well. And despite their day-and-night differences, they bore more similarities to each other than they might have supposed.
 
@@ -10816,27 +10854,27 @@ And so I moved Old Billig's "keepsakes" with the greatest of care. A collection 
 
 И вот я с величайшей осторожностью перенесла «сувениры» старой Биллиг. Коллекция фарфоровых мишек могла соперничать с материнской коллекцией (а после смерти матери старая Биллиг приглашала меня в свою комнату в дневное время — когда она была свободна и не приходила в гостиную Фрейда — и я могла спокойно провести время наедине с ее мишками, вспоминая материнскую коллекцию, которая умерла вместе с ней). Старая Биллиг также любила растения — растения, которые словно выпрыгивали из горшков, напоминавших животных и птиц: цветы, растущие из спинок лягушек, папоротники, разрастающиеся над рощей фламинго, апельсиновое дерево, прорастающее из головы аллигатора. Другим проституткам в основном нужно было перенести сменную одежду, косметику и лекарства. Было странно думать, что у них в гостинице Фрейда были только «ночные комнаты» — в отличие от Ронды Рэй, у которой была «дневная комната»; меня поразило, как дневные и ночные комнаты использовались для схожих целей.
 
-We met the prostitutes that first night we helped them move from the third to the second floor. There were four prostitutes on the Krugerstrasse, plus Old Billig. Their names were Babette, Jolanta, Dark Inge, and Screaming Annie. Babette was called Babette because she was the only one who spoke French; she tended to get most of the French customers (the French being most sensitive about speaking any language but French). Babette was small—and therefore Lilly’s favorite—with a delicate face that the dim light in the lobby of the Gasthaus Freud could cause to look (at certain angles) unpleasantly rodentlike. In later years I would think of Babette as probably anorexic, without knowing it—none of us knew what anorexia was, in 1957. She wore flowery prints, very summerlike dresses—even when it wasn’t summer—and she had a funny kind of overpowdered sense about her (as if, if you touched her, a small puff of powder would blast through her skin); at other times, her skin had a waxy quality about it (as if, if you touched her, your finger might leave a mark). Lilly told me once that Babette’s smallness was an important part of her (Lilly’s) growing up, because Babette helped Lilly realize that small people could actually have sex with large people and not be altogether destroyed. That’s how Lilly liked to put it: “Not altogether destroyed.”  
+We met the prostitutes that first night we helped them move from the third to the second floor. There were four prostitutes on the Krugerstrasse, plus Old Billig. Their names were Babette, Jolanta, Dark Inge, and Screaming Annie. Babette was called Babette because she was the only one who spoke French; she tended to get most of the French customers (the French being most sensitive about speaking any language but French). Babette was small—and therefore Lilly’s favorite—with a delicate face that the dim light in the lobby of the Gasthaus Freud could cause to look (at certain angles) unpleasantly rodentlike. In later years I would think of Babette as probably anorexic, without knowing it—none of us knew what anorexia was, in 1957. She wore flowery prints, very summerlike dresses—even when it wasn’t summer—and she had a funny kind of overpowdered sense about her (as if, if you touched her, a small puff of powder would blast through her skin); at other times, her skin had a waxy quality about it (as if, if you touched her, your finger might leave a mark). Lilly told me once that Babette’s smallness was an important part of her (Lilly’s) growing up, because Babette helped Lilly realize that small people could actually have sex with large people and not be altogether destroyed. That’s how Lilly liked to put it: “Not altogether destroyed.”
 
 В ту первую ночь, когда мы помогли проституткам переехать с третьего на второй этаж, мы познакомились с ними. На Крюгерштрассе было четыре проститутки, плюс Старая Биллиг. Их звали Бабетта, Йоланта, Тёмная Инге и Кричащая Энни. Бабетту называли Бабеттой, потому что она была единственной, кто говорил по-французски; ей доставалось большинство французских клиентов (французы были очень чувствительны к любому языку, кроме французского). Бабетта была невысокого роста — и поэтому любимицей Лилли — с нежным лицом, которое в тусклом свете в вестибюле гостиницы «Фрейд» могло (под определёнными углами) выглядеть неприятно похожим на грызуна. В последующие годы я, сама того не зная, думала о Бабетте как о возможной анорексии — никто из нас в 1957 году не знал, что такое анорексия. Она носила платья с цветочными принтами, очень летние платья — даже когда не было лета — и у неё было какое-то странное ощущение чрезмерной припудренности (как будто, если дотронуться до неё, маленькая пудра пройдёт сквозь её кожу); В другое время её кожа имела восковой оттенок (как будто, если дотронуться до неё, палец мог оставить след). Лилли однажды сказала мне, что миниатюрность Бабетты сыграла важную роль в её (Лилли) взрослении, потому что Бабетта помогла Лилли понять, что маленькие люди могут заниматься сексом с большими людьми и при этом не быть полностью уничтоженными. Лилли любила говорить так: «Не полностью уничтоженными».
 
-Jolanta called herself Jolanta because she said it was a Polish name and she was fond of Polish jokes. She was square-faced, strong-looking, as big as Frank (and nearly as awkward); she gave off a hearty vibe that you suspected of being false—as if, in the middle of a booming good joke, she might turn suddenly sour and produce a knife from her purse or grind a wineglass into someone’s face. She was broad-shouldered and heavy-breasted, solid in her legs but not fat—Jolanta had the robust charm of a peasant who’d been strangely corrupted by a sneaky sort of city violence; she looked erotic, but dangerous. In my first days and nights at the Gasthaus Freud it was her image I most often masturbated to—it was Jolanta I had the greatest trouble speaking to, not because she was the most coarse but because I was the most afraid of her.  
+Jolanta called herself Jolanta because she said it was a Polish name and she was fond of Polish jokes. She was square-faced, strong-looking, as big as Frank (and nearly as awkward); she gave off a hearty vibe that you suspected of being false—as if, in the middle of a booming good joke, she might turn suddenly sour and produce a knife from her purse or grind a wineglass into someone’s face. She was broad-shouldered and heavy-breasted, solid in her legs but not fat—Jolanta had the robust charm of a peasant who’d been strangely corrupted by a sneaky sort of city violence; she looked erotic, but dangerous. In my first days and nights at the Gasthaus Freud it was her image I most often masturbated to—it was Jolanta I had the greatest trouble speaking to, not because she was the most coarse but because I was the most afraid of her.
 
 Йоланта называла себя Йолантой, потому что, по её словам, это польское имя, и она любила польские анекдоты. У неё было квадратное лицо, она выглядела сильной, была крупнее Франка (и почти такой же неуклюжей); от неё исходила жизнерадостная аура, которая казалась фальшивой — как будто посреди удачного анекдота она могла внезапно испортиться, достать нож из сумочки или разбить кому-нибудь лицо бокалом вина. Она была широкоплечей и с большой грудью, крепкой в ногах, но не толстой — Йоланта обладала крепким обаянием крестьянки, странным образом развращенной коварным городским насилием; она выглядела эротичной, но опасной. В первые дни и ночи в Гастхаусе Фрейда именно на её образ я чаще всего мастурбировал — именно с Йолантой мне было труднее всего разговаривать, не потому что она была самой грубой, а потому что я больше всего её боялся.
 
-“How can you recognize a Polish prostitute?” she asked me. I had to ask Frank for a translation. “Because she pays you to sleep with her,” Jolanta said. This I understood without Frank’s help.  
+“How can you recognize a Polish prostitute?” she asked me. I had to ask Frank for a translation. “Because she pays you to sleep with her,” Jolanta said. This I understood without Frank’s help.
 
 «Как узнать польскую проститутку?» — спросила она меня. Мне пришлось попросить Франка перевести. «Потому что она платит тебе за то, чтобы ты с ней переспал», — ответила Йоланта. Это я понял и без помощи Франка.
 
-“Did you get it?” Frank asked me.  
+“Did you get it?” Frank asked me.
 
 «Ты понял?» — спросил меня Фрэнк.
 
-“Jesus, yes, Frank,” I said.  
+“Jesus, yes, Frank,” I said.
 
 «Боже мой, да, Фрэнк», — сказал я.
 
-“Then laugh,” Frank said. “You’d better laugh.” And I looked at Jolanta’s hands—she had the wrists of a farmer, the knuckles of a boxer—and laughed.  
+“Then laugh,” Frank said. “You’d better laugh.” And I looked at Jolanta’s hands—she had the wrists of a farmer, the knuckles of a boxer—and laughed.
 
 «Тогда смейся», — сказал Фрэнк. «Лучше бы ты смеялась». И я посмотрел на руки Джоланты — у нее были запястья как у фермера, а кулаки как у боксера — и рассмеялся.
 
@@ -10908,7 +10946,7 @@ Were there actually some customers at the Gasthaus Freud who could only climax w
 
 А действительно ли в «Гостинице Фрейда» были клиенты, которые могли достичь оргазма только при нападении медведя? — задавался я вопросом. Но мы были слишком молоды; некоторые вещи об этом месте нам никогда не станут известны. Как и призраки всех наших прошлых Хэллоуинов, клиенты «Гостиницы Фрейда» никогда не будут для нас по-настоящему реальными. По крайней мере, не проститутки и их клиенты — и не радикалы.
 
-—
+_
 
 Old Billig (the radical Old Billig) was the first to arrive. Like Iowa Bob, he said he was too old to waste what was left of his life asleep. He got there so early in the morning that he occasionally passed the last prostitute on his way in, her way out. This was inevitably Screaming Annie, working the hardest hours—to save herself and her dark daughter.
 
@@ -11342,7 +11380,7 @@ This seemed to settle almost passively at Franny’s feet, but I could see Frank
 
 «Ты слишком много обо мне думаешь», — повторяла она снова и снова. «Оставь меня в покое, пожалуйста», — просила меня Фрэнни. Но это было единственное, чего я никогда не мог сделать.
 
-—
+_
 
 “All sexual acts actually involve maybe four or five different sexes,” the sixth member of the Symposium on East-West Relations told us. This was such a distortion of Freud—the other Freud—that we had to beg Frank for a second translation because we couldn’t understand the first.
 
@@ -11656,7 +11694,7 @@ And there are still prostitutes on the Krugerstrasse; no one has to tell me that
 
 И на Крюгерштрассе до сих пор есть проститутки; мне никто не должен объяснять, что проституция всё ещё существует.
 
-—
+_
 
 The next morning I woke up Susie the bear. “Earl!” she said, fighting out of sleep. “What the fuck is it now?”
 
@@ -11946,7 +11984,7 @@ I thought that if Frank said something didn’t matter again, I would scream. I 
 
 «Прекрасно», — сказал Фрейд. «Приведите нам застенчивых людей», — вздохнул Фрейд, протягивая руки, чтобы погладить ближайших к нему людей по головам. Он нашел голову Фрэнни и погладил ее, но большая мягкая лапа медведицы Сьюзи оттолкнула руку Фрейда.
 
-—
+_
 
 I would get used to that—that possessive paw. This is a world where what strikes us, at first, as ominous can grow to become commonplace, even reassuring. What seems, at first, reassuring can grow to become ominous, too, but I had to accept that Susie the bear was a good influence on Franny. If Susie could keep Franny from Ernst, I had to be grateful—and was it too much to hope that Susie the bear might even convince Franny that she should stop writing to Chipper Dove?
 
@@ -12588,41 +12626,41 @@ What Lilly once said about her has stayed with me. “You can make fun of Susie 
 
 Слова Лилли о ней навсегда запали мне в душу. «Можно смеяться над Сьюзи, потому что она боится просто быть человеком и иметь дело — как она бы сказала — с другими людьми. Но сколько людей чувствуют себя так и не обладают воображением, чтобы что-то с этим сделать? Возможно, глупо прожить жизнь в образе медведя, — говорила Лилли, — но вы должны признать, что для этого нужно воображение».
 
-And we were all familiar with living with imagination, of course. Father thrived there; imagination was his own hotel. Freud could see only there. Franny, composed in the present, was also looking ahead—and I was always, for the most part, looking at Franny (for signals, for some vital signs, for directions). Of us all, Frank was perhaps the most successfully imaginative; he made up his own world and kept to himself there. And Lilly, in Vienna, had a mission—which was to keep her safe, for a while. Lilly had decided to grow. It had to be with her imagination that she would do this, because we noted few physical changes.  
+And we were all familiar with living with imagination, of course. Father thrived there; imagination was his own hotel. Freud could see only there. Franny, composed in the present, was also looking ahead—and I was always, for the most part, looking at Franny (for signals, for some vital signs, for directions). Of us all, Frank was perhaps the most successfully imaginative; he made up his own world and kept to himself there. And Lilly, in Vienna, had a mission—which was to keep her safe, for a while. Lilly had decided to grow. It had to be with her imagination that she would do this, because we noted few physical changes.
 
 И, конечно, все мы были знакомы с жизнью в мире воображения. Отец процветал в нём; воображение было для него как отель. Фрейд мог видеть только там. Фрэнни, спокойная в настоящем, также смотрела в будущее — и я всегда, по большей части, смотрела на Фрэнни (в поисках сигналов, некоторых жизненно важных указаний, направлений). Из всех нас Фрэнк, пожалуй, был самым успешным в плане воображения; он создал свой собственный мир и держался в нём особняком. А у Лилли в Вене была миссия — на некоторое время обеспечить ей безопасность. Лилли решила повзрослеть. Это должно было произойти благодаря её воображению, потому что мы заметили лишь незначительные физические изменения.
 
-What Lilly did in Vienna was write. Fehlgeburt’s reading had gotten to her. Lilly wanted to be a writer, of all things, and we were embarrassed enough for her that we never accused her of it—although we knew she was doing it, all the time. And she was embarrassed enough by it so that she never admitted it, either. But each of us knew that Lilly was writing something. For nearly seven years, she wrote and wrote. We knew the sound of her typewriter; it was different from the radicals’. Lilly wrote very slowly.  
+What Lilly did in Vienna was write. Fehlgeburt’s reading had gotten to her. Lilly wanted to be a writer, of all things, and we were embarrassed enough for her that we never accused her of it—although we knew she was doing it, all the time. And she was embarrassed enough by it so that she never admitted it, either. But each of us knew that Lilly was writing something. For nearly seven years, she wrote and wrote. We knew the sound of her typewriter; it was different from the radicals’. Lilly wrote very slowly.
 
 В Вене Лилли занималась писательством. Чтение Фельгебурта сильно повлияло на нее. Лилли хотела стать писательницей, и нам было за нее так стыдно, что мы никогда не обвиняли ее в этом — хотя знали, что она постоянно этим занимается. И ей было так стыдно за это, что она никогда в этом не признавалась. Но каждый из нас знал, что Лилли что-то пишет. Почти семь лет она писала и писала. Мы знали звук ее пишущей машинки; он отличался от звука машинок радикалов. Лилли писала очень медленно.
 
-“What are you doing, Lilly?” someone would ask her, knocking on her ever-locked door.  
+“What are you doing, Lilly?” someone would ask her, knocking on her ever-locked door.
 
 «Что ты делаешь, Лилли?» — спрашивал кто-нибудь, стуча в ее вечно запертую дверь.
 
-“Trying to grow,” Lilly would say.  
+“Trying to grow,” Lilly would say.
 
 «Я стараюсь развиваться», — говорила Лилли.
 
-And that was our way of saying it, too. If Franny managed to say she was beaten up, when she’d been raped—if Franny could get away with that, I thought—then Lilly ought to be allowed to say she was “trying to grow” when she was (we all knew) “trying to write.”  
+And that was our way of saying it, too. If Franny managed to say she was beaten up, when she’d been raped—if Franny could get away with that, I thought—then Lilly ought to be allowed to say she was “trying to grow” when she was (we all knew) “trying to write.”
 
 И мы тоже так говорили. Если Фрэнни удалось сказать, что её избили, что её изнасиловали — если Фрэнни это сошло с рук, подумала я, — то Лилли должно быть позволено сказать, что она «пыталась развиваться», когда она (мы все знали) «пыталась писать».
 
-And so when I told Lilly that the New Hampshire family included a little girl just her age, Lilly said, “So what? I’ve got some growing to do. Maybe I’ll introduce myself, after supper.”  
+And so when I told Lilly that the New Hampshire family included a little girl just her age, Lilly said, “So what? I’ve got some growing to do. Maybe I’ll introduce myself, after supper.”
 
 И вот, когда я сказала Лилли, что в семье из Нью-Гэмпшира есть девочка её возраста, Лилли ответила: «Ну и что? Мне ещё есть над чем поработать. Может, представлюсь после ужина».
 
-—  
+—
 
-One of the curses of shy people—in bad hotels—is that they’re often too shy to leave. They’re so shy they don’t even dare to complain. And with their shyness comes a certain politeness; if they check out because a Schraubenschlüssel has frightened them on the stairs, because a Jolanta has bitten someone in the face in the lobby, because a Screaming Annie has inched them closer to death with her cries—even if they find bear hair in the bidet, they still apologize.  
+One of the curses of shy people—in bad hotels—is that they’re often too shy to leave. They’re so shy they don’t even dare to complain. And with their shyness comes a certain politeness; if they check out because a Schraubenschlüssel has frightened them on the stairs, because a Jolanta has bitten someone in the face in the lobby, because a Screaming Annie has inched them closer to death with her cries—even if they find bear hair in the bidet, they still apologize.
 
 Одно из проклятий застенчивых людей в плохих отелях — это то, что они часто слишком стесняются уйти. Они настолько застенчивы, что даже не смеют пожаловаться. И вместе с этой застенчивостью приходит определенная вежливость; если они выезжают из-за того, что их напугала какая-то змея на лестнице, потому что Йоланта укусила кого-то за лицо в вестибюле, потому что Кричащая Энни своими криками приблизила их к смерти — даже если они найдут медвежью шерсть в биде, они все равно извинятся.
 
-Not the woman from New Hampshire, however. She was more spirited than your average shy guest. She lasted through the early evening pickups of the whores (the family must have been dining out). The family lasted past midnight without a complaint; not even an inquiring phone call to the front desk. Frank was studying with the dressmaker’s dummy. Lilly was trying to grow. Franny was at the desk in the lobby, and Susie the bear was cruising there—her presence made the whores’ customers their usual peaceful selves. I was restless. (I was restless for seven years, but this night I was especially restless.) I had been playing darts at the Kaffee Mowatt with Dark Inge and Old Billig. It was another slow night for Old Billig. Screaming Annie found a customer crossing the Kärntnerstrasse and turning down Krugerstrasse a little past midnight. I was waiting my turn at the darts when Screaming Annie and her furtive male companion peeked into the Mowatt; Screaming Annie saw Dark Inge with me and Old Billig.  
+Not the woman from New Hampshire, however. She was more spirited than your average shy guest. She lasted through the early evening pickups of the whores (the family must have been dining out). The family lasted past midnight without a complaint; not even an inquiring phone call to the front desk. Frank was studying with the dressmaker’s dummy. Lilly was trying to grow. Franny was at the desk in the lobby, and Susie the bear was cruising there—her presence made the whores’ customers their usual peaceful selves. I was restless. (I was restless for seven years, but this night I was especially restless.) I had been playing darts at the Kaffee Mowatt with Dark Inge and Old Billig. It was another slow night for Old Billig. Screaming Annie found a customer crossing the Kärntnerstrasse and turning down Krugerstrasse a little past midnight. I was waiting my turn at the darts when Screaming Annie and her furtive male companion peeked into the Mowatt; Screaming Annie saw Dark Inge with me and Old Billig.
 
 Однако не та женщина из Нью-Гэмпшира. Она была гораздо энергичнее, чем среднестатистическая застенчивая гостья. Она выдержала вечерние встречи с проститутками (семья, должно быть, ужинала в ресторане). Семья продержалась дольше полуночи без жалоб; даже не было ни одного звонка на ресепшен. Фрэнк занимался с манекеном портнихи. Лилли пыталась подрасти. Фрэнни сидела за стойкой в лобби, а медведица Сьюзи разгуливала там — её присутствие успокаивало клиентов проституток, как обычно. Я был беспокойным. (Я был беспокойным семь лет, но в эту ночь был особенно беспокойным.) Я играл в дартс в «Кафе Моуатте» с Дарк Инге и Старым Биллигом. Для Старого Биллига это была ещё одна спокойная ночь. Кричащая Энни нашла клиента, переходящего Кернтнерштрассе и сворачивающего на Крюгерштрассе чуть позже полуночи. Я ждал своей очереди в дартс, когда Кричащая Энни и её скрытный спутник-мужчина заглянули в Моуатт; Кричащая Энни увидела Тёмную Инге вместе со мной и Старым Биллигом.
 
-“It’s after midnight,” she said to her daughter. “You go get some rest. It’s a school day tomorrow.”  
+“It’s after midnight,” she said to her daughter. “You go get some rest. It’s a school day tomorrow.”
 
 «Уже за полночь, — сказала она дочери. — Иди отдохни. Завтра у нас школа».
 
@@ -12894,42 +12932,6 @@ The customer who’d passed out when Screaming Annie finished the Krugerstrasse 
 
 Покупатель, который потерял сознание, когда Кричащая Энни закончила рисовать Крюгерштрассе, пришёл в себя. Ему было ужасно неловко увидеть, как на него смотрят Фрейд, я, семья из Нью-Гэмпшира, Кричащая Энни, её дочь и Бабетта. По крайней мере, подумал я, его миновал медведь — и вся моя семья. Как обычно, поздно, вошла Старая Биллиг; она спала.
 
-First, the replacements needed to fit the tone and register of the passage while still being clear and natural. For "sordidness," words like "filth," "depravity," or "corruption" were considered, but "filth" felt too crude for the refined, almost literary voice. "Depravity" and "corruption" carry heavier moral weight than the original's more general sense of sordidness, so "sleaze" seemed to strike the right balance—it's common, slightly slangy, and keeps the slightly jaded tone.
-
-Во-первых, замены должны были соответствовать тону и стилю отрывка, оставаясь при этом ясными и естественными. Для слова «грязь» рассматривались такие слова, как «мерзость», «развращенность» или «коррупция», но «мерзость» показалась слишком грубой для утонченного, почти литературного стиля. «Развращенность» и «коррупция» несут в себе более тяжелый моральный вес, чем более общее значение слова «грязь» в оригинале, поэтому «мерзость» показалась подходящим вариантом — это распространенное, слегка сленговое слово, сохраняющее слегка циничный тон.
-
-For "inconspicuously," the challenge was finding a word that fit both the character's attempt to blend in and the slightly formal yet colloquial narrative voice. "Quietly" or "unnoticed" felt too plain, while "discreetly" or "unobtrusively" were too formal. "Stealthily" was closer in tone, but "unobtrusively" felt most natural in the sentence, even if it's a bit longer.
-
-Для слова «незаметно» сложность заключалась в том, чтобы подобрать слово, которое бы соответствовало как попытке персонажа слиться с толпой, так и слегка формальному, но в то же время разговорному стилю повествования. Слова «тихо» или «незаметно» звучали слишком просто, а «сдержанно» или «ненавязчиво» — слишком формально. «Скрытно» было ближе по тону, но «ненавязчиво» звучало наиболее естественно в предложении, даже несмотря на то, что оно немного длиннее.
-
-"Stairwell" could have been swapped for "staircase," "stairs," or "steps," but "staircase" keeps the architectural specificity while being more commonly used.
-
-Слово «лестничная клетка» можно было бы заменить на «лестница», «лестницы» или «ступени», но «лестница» сохраняет архитектурную специфику, будучи при этом более распространенным термином.
-
-"Orgasm" was tricky—it's a clinical, specific term, and replacing it with something more euphemistic or general risked losing meaning. However, in the context of "used to some kind of orgasm," it's clearly being used for shock value and humor. "Climax" or "pleasure" would be too sanitized; "sex" or "intimacy" would be too vague. "Climax" actually felt like the best fit, as it's in the top frequency list and keeps the slightly formal, clinical tone.
-
-Слово «оргазм» было непростым — это клинический, специфический термин, и замена его на что-то более эвфемистическое или общее рисковала привести к потере смысла. Однако в контексте «привык к какому-то виду оргазма» оно явно используется для шокирующего эффекта и юмора. «Кульминация» или «удовольствие» звучали бы слишком сдержанно; «секс» или «близость» — слишком расплывчато. «Кульминация» на самом деле показалась наиболее подходящим вариантом, поскольку она входит в список наиболее часто используемых терминов и сохраняет слегка формальный, клинический тон.
-
-"Tart" is British slang for a promiscuous woman, and in the context, it's being used pejoratively. "Prostitute" or "whore" are both common, but "whore" is harsher and more in line with the character's dismissive tone.
-
-"Tart" — это британский сленг, обозначающий распутную женщину, и в данном контексте это слово используется в уничижительном смысле. "Prostitute" или "whore" — оба распространённые слова, но "whore" звучит резче и больше соответствует пренебрежительному тону героини.
-
-"Typewriter" could be replaced with "machine," "device," or "apparatus," but "machine" is the most natural and common.
-
-Слово «пишущая машинка» можно заменить на «машина», «устройство» или «аппарат», но «машина» — наиболее естественное и распространенное название.
-
-"Jug" is a common word, but "container" or "bottle" could work. "Container" is more neutral and common.
-
-«Кувшин» — распространённое слово, но «контейнер» или «бутылка» тоже подойдут. «Контейнер» — более нейтральное и распространённое слово.
-
-"Mimeograph" is an outdated term for a duplicating machine, so "duplicator" or "copier" would be modern equivalents. "Copier" is more common and fits the context.
-
-«Мимеограф» — устаревший термин для обозначения копировального аппарата, поэтому современными эквивалентами будут «дупликатор» или «копировальный аппарат». «Копировальный аппарат» — более распространенный и подходящий термин.
-
-With these considerations, the replacements were made, keeping the paragraph structure intact:
-
-С учетом этих соображений замены были произведены с сохранением структуры абзаца:
-
 "What's going on?" she asked me.
 
 «Что происходит?» — спросила она меня.
@@ -13090,10 +13092,6 @@ With Jolanta at my side, her strong hands hugging something in her purse, we sai
 
 «Что у тебя в сумочке?» — спросила я Джоланту. Она пожала плечами. Я пожелала ей спокойной ночи, но она просунула большую руку мне под штаны и задержала меня на мгновение; я так быстро вскочила с постели и оделась, что даже не успела надеть нижнее белье. «Ты снова собираешься выгнать меня на улицу?» — спросила она. «Мне нужна еще одна проституция, прежде чем я лягу спать».
 
-Here is the revised text with the specified words replaced by more common alternatives:
-
-Вот исправленный текст, в котором указанные слова заменены более распространенными вариантами:
-
 "It's too late for me," I said, but she could feel me growing hard in her hand.
 
 «Для меня уже слишком поздно», — сказал я, но она почувствовала, как я возбуждаюсь у неё в руке.
@@ -13153,6 +13151,8 @@ Through the window of the departing car, Frank and I saw the mysterious thing in
 I tried to describe it (and what Jolanta and I had seen on the fifth floor) to Father and Freud. I tried to describe the feeling of it all to Franny and Susie the bear, too. Frank and I had the longest talk about Schwanger. "I'm sure you're mistaken about the gun," Frank said. "Not Schwanger. She might have been there. She might have wanted you to not associate her with them, and so she was hiding from you. But she wouldn't have a gun. And certainly she would never have pointed it at you. We're like her children—she's told us! You're imagining again," Frank said.
 
 Я пытался описать это (и то, что мы с Джолантой видели на пятом этаже) Отцу и Фрейду. Я также пытался описать все это ощущение Фрэнни и медведице Сьюзи. Больше всего мы с Фрэнком говорили о Швангер. «Я уверен, ты ошибаешься насчет пистолета», — сказал Фрэнк. «Не Швангер. Она могла быть там. Она могла хотеть, чтобы ты не ассоциировал ее с ними, и поэтому пряталась от тебя. Но у нее не было бы пистолета. И уж точно она никогда бы не направила его на тебя. Мы как ее дети — она нам говорила! Ты снова себе воображаешь», — сказал Фрэнк.
+
+_
 
 Sorrow floats; seven years in a place you hate is a long time. At least, I felt, Franny was safe; that was always the main thing. Franny was in a state of uncertainty. She was taking it easy, marking time with Susie the bear—and so I felt comfortable treading water, too.
 
@@ -13430,7 +13430,7 @@ I tried to remember. “I think so,” I said. “Do you want to do more?”
 
 «Не особенно», — сказала она. «Я просто хотела всё сделать разок», — сказала она. «Если мы всё сделали, можешь идти домой — если хочешь», — добавила она. Она пожала плечами. Это было не материнское пожатие плечами, не Фрэнни, и даже не Джоланта. Это было не совсем человеческое движение; это было скорее не подергивание, а своего рода электрическая пульсация, механический рывок её напряженного тела, слабый сигнал. Самый слабый, подумал я. Это был знак «никого нет дома»; это был сигнал «меня нет, не звони мне, я сам тебе позвоню». Это было тиканье часов или взрыв бомбы замедленного действия. Фельгебурт моргнула один раз, глядя на меня; затем она уснула. Я собрал свою одежду. Я увидел, что она не потрудилась отметить место, где остановилась читать «Моби Дика»; я тоже не стал этого делать.
 
-—
+_
 
 It was after midnight when I crossed the Ringstrasse, walking from the Rathausplatz down the Dr. Karl Renner–Ring and into the Volksgarten. In the beer garden some students were shouting at each other in a friendly way; I probably knew some of them, but I didn’t stop for a beer. I didn’t want to talk about the art of this or that. I didn’t want to have another conversation about The Alexandria Quartet—about which was the best of those novels, and which was the worst, and why. I didn’t want to hear about who benefited the most from their correspondence—Henry Miller or Lawrence Durrell. I didn’t even want to talk about Die Blechtrommel, which was the best thing there was to talk about—perhaps ever. And I didn’t want to have another conversation about East-West relations, about socialism and democracy, about the long-term effects of President Kennedy’s assassination—and, being an American, what did I think of the racial question? It was the end of the summer of 1964; I hadn’t been in the United States since 1957, and I knew less about my country than some of the Viennese students knew. I also knew less about Vienna than any of them. I knew about my family, I knew about our whores, and our radicals; I was an expert on the Hotel New Hampshire and an amateur at everything else.
 
@@ -13604,71 +13604,71 @@ It’s Babette, I thought, vaguely disgusted—but it was just the sickly-sweet 
 
 «Это Бабетта», — подумал я с легким отвращением, — но это был лишь приторно-сладкий дизельный ветерок последней летней ночи, который напомнил мне о ней. Женщина увидела меня и начала идти ко мне — агрессивно, как мне показалось, и голодно. И я был уверен, что это Кричащая Энни; я на мгновение задумался, как я выдержу ее знаменитый фальшивый оргазм. Может быть, учитывая мою любовь к шепоту, я мог бы попросить ее вообще этого не делать, я мог бы просто сказать ей, что знаю, что это фальшивка, и это просто не нужно, не в моих интересах. Женщина была слишком стройной, чтобы быть Старым Биллигом, но она была слишком крепкой, чтобы быть Кричащей Энни, понял я; она была слишком хорошо сложена, чтобы быть Кричащей Энни. Значит, это Джоланта, подумал я; наконец-то я узнаю, что она хранит в своей зловещей сумочке. В будущем, подумал я, содрогаясь, мне, возможно, даже придется использовать то, что есть в сумочке Джоланты. Но женщина, приближавшаяся ко мне, была недостаточно крепкой для Джоланты; эта женщина была слишком хорошо сложена в другом отношении — она была слишком изящной, слишком юной в своих движениях. Она подбежала ко мне по улице и обняла меня; у меня перехватило дыхание, она была так прекрасна. Это была Фрэнни.
 
-“Where have you been?” she asked me. “Gone all day, gone all night,” she scolded me. “We’ve all been dying to find you!”  
+“Where have you been?” she asked me. “Gone all day, gone all night,” she scolded me. “We’ve all been dying to find you!”
 
 «Где ты был?» — спросила она меня. «Отсутствовал весь день, отсутствовал всю ночь», — отчитала она меня. «Мы все очень хотели тебя найти!»
 
-“Why?” I asked. Franny’s smell made me dizzy.  
+“Why?” I asked. Franny’s smell made me dizzy.
 
 «Почему?» — спросила я. От запаха Фрэнни у меня закружилась голова.
 
-“Lilly’s going to get published!” Franny said. “Some publisher in New York is really going to buy her book!”  
+“Lilly’s going to get published!” Franny said. “Some publisher in New York is really going to buy her book!”
 
 «Лилли обязательно опубликуют!» — сказала Фрэнни. «Какой-нибудь издатель в Нью-Йорке точно купит её книгу!»
 
-“How much?” I said, because I was hoping it might be enough. It might be our ticket out of Vienna—the ticket that the second Hotel New Hampshire would never buy us.  
+“How much?” I said, because I was hoping it might be enough. It might be our ticket out of Vienna—the ticket that the second Hotel New Hampshire would never buy us.
 
 «Сколько?» — спросил я, надеясь, что этого будет достаточно. Это мог бы быть наш билет из Вены — билет, который нам никогда не купят во втором отеле «Нью-Гэмпшир».
 
-“Jesus God,” Franny said. “Your sister has a literary success and you ask ‘How much?’—you’re just like Frank. That’s just what Frank asked.”  
+“Jesus God,” Franny said. “Your sister has a literary success and you ask ‘How much?’—you’re just like Frank. That’s just what Frank asked.”
 
 «Боже мой, — сказала Фрэнни. — У твоей сестры литературный успех, а ты спрашиваешь: „Сколько?“ — ты прямо как Фрэнк. Именно об этом и спрашивал Фрэнк».
 
-“Good for Frank,” I said. I was still trembling; I had been looking for a prostitute and had found my sister. She wouldn’t let go of me, either.  
+“Good for Frank,” I said. I was still trembling; I had been looking for a prostitute and had found my sister. She wouldn’t let go of me, either.
 
 «Молодец, Фрэнк», — сказал я. Я все еще дрожал; я искал проститутку и нашел свою сестру. Она тоже не отпускала меня.
 
-“Where were you?” Franny asked me; she pushed my hair back.  
+“Where were you?” Franny asked me; she pushed my hair back.
 
 «Где ты была?» — спросила меня Фрэнни, откинув мои волосы назад.
 
-“With Fehlgeburt,” I said, sheepishly. I would never lie to Franny.  
+“With Fehlgeburt,” I said, sheepishly. I would never lie to Franny.
 
 «С Фельгебуртом», — робко ответила я. Я бы никогда не солгала Фрэнни.
 
-Franny frowned. “Well, how was it?” she asked, still touching me—but like a sister.  
+Franny frowned. “Well, how was it?” she asked, still touching me—but like a sister.
 
 Фрэнни нахмурилась. «Ну, как всё прошло?» — спросила она, всё ещё прикасаясь ко мне, но уже как к сестре.
 
-“Not so great,” I said. I looked away from Franny. “Awful,” I added.  
+“Not so great,” I said. I looked away from Franny. “Awful,” I added.
 
 «Не очень хорошо», — сказала я, отводя взгляд от Фрэнни. «Ужасно», — добавила я.
 
-Franny put her arms around me and kissed me. She meant to kiss me on the cheek (like a sister), but I turned toward her, though I was trying to turn away, and our lips met. And that was it, that was all it took. That was the end of the summer of 1964; suddenly it was autumn. I was twenty-two, Franny was twenty-three. We kissed a long time. There was nothing to say. She was not a lesbian, she still wrote to Junior Jones—and to Chipper Dove—and I had never been happy with another woman; not ever; not yet. We stayed out on the street, out of the light cast by the neon, so that no one in the Hotel New Hampshire could see us. We had to break up our kissing when a customer of Jolanta’s came staggering out of the hotel, and we broke it up again when we heard Screaming Annie. In a little while her dazed customer came out, but Franny and I still stayed on the Krugerstrasse. Later, Babette went home. Then Jolanta went home, taking Dark Inge with her. Screaming Annie came out and back, out and back, like the tide. Old Billig the whore went across the street to the Kaffee Mowatt and dozed on a table. I walked Franny up to the Kärntnerstrasse, and down to the Opera. “You think of me too much,” Franny started to say, but she didn’t bother to finish. We kissed some more. The Opera was so big beside us.  
+Franny put her arms around me and kissed me. She meant to kiss me on the cheek (like a sister), but I turned toward her, though I was trying to turn away, and our lips met. And that was it, that was all it took. That was the end of the summer of 1964; suddenly it was autumn. I was twenty-two, Franny was twenty-three. We kissed a long time. There was nothing to say. She was not a lesbian, she still wrote to Junior Jones—and to Chipper Dove—and I had never been happy with another woman; not ever; not yet. We stayed out on the street, out of the light cast by the neon, so that no one in the Hotel New Hampshire could see us. We had to break up our kissing when a customer of Jolanta’s came staggering out of the hotel, and we broke it up again when we heard Screaming Annie. In a little while her dazed customer came out, but Franny and I still stayed on the Krugerstrasse. Later, Babette went home. Then Jolanta went home, taking Dark Inge with her. Screaming Annie came out and back, out and back, like the tide. Old Billig the whore went across the street to the Kaffee Mowatt and dozed on a table. I walked Franny up to the Kärntnerstrasse, and down to the Opera. “You think of me too much,” Franny started to say, but she didn’t bother to finish. We kissed some more. The Opera was so big beside us.
 
 Фрэнни обняла меня и поцеловала. Она хотела поцеловать меня в щеку (как сестру), но я повернулась к ней, хотя и пыталась отвернуться, и наши губы встретились. И всё, этого было достаточно. Это был конец лета 1964 года; внезапно наступила осень. Мне было двадцать два, Фрэнни — двадцать три. Мы долго целовались. Нам нечего было сказать. Она не была лесбиянкой, она всё ещё писала Джуниору Джонсу — и Чипперу Даву — а я никогда не была счастлива с другой женщиной; никогда; пока нет. Мы оставались на улице, подальше от света неоновых вывесок, чтобы никто в отеле «Нью-Гэмпшир» нас не видел. Нам пришлось прервать поцелуй, когда из отеля, шатаясь, вышел клиент Джоланты, и мы снова прервали его, услышав «Кричащую Энни». Через некоторое время вышел её ошеломлённый клиент, но мы с Фрэнни всё ещё оставались на Крюгерштрассе. Позже Бабетта ушла домой. Затем Йоланта ушла домой, взяв с собой Темную Инге. Кричащая Энни выходила и возвращалась, выходила и возвращалась, как прилив. Старая проститутка Биллиг перешла улицу в кафе « Моуат» и задремала за столиком. Я проводил Фрэнни до Кернтнерштрассе и вниз до Оперы. «Ты слишком много обо мне думаешь», — начала говорить Фрэнни, но не стала договаривать. Мы еще немного поцеловались. Опера была такой огромной рядом с нами.
 
-“They’re going to blow it up,” I whispered to my sister. “The Opera—they’re going to blow it up.” She let me hold her. “I love you terribly much,” I told her.  
+“They’re going to blow it up,” I whispered to my sister. “The Opera—they’re going to blow it up.” She let me hold her. “I love you terribly much,” I told her.
 
 «Они сейчас его взорвут», — прошептала я сестре. «Оперу… они сейчас ее взорвут». Она позволила мне обнять ее. «Я тебя ужасно люблю», — сказала я ей.
 
-“I love you, too, damn it,” Franny said.  
+“I love you, too, damn it,” Franny said.
 
 «Я тоже тебя люблю, черт возьми», — сказала Фрэнни.
 
-Although the weather was feeling like fall, it was possible for us to stand there, guarding the Opera, until the light came up and the real people came out to go to work. There was no place we could go, anyway—and absolutely nothing, we knew, that we should do.  
+Although the weather was feeling like fall, it was possible for us to stand there, guarding the Opera, until the light came up and the real people came out to go to work. There was no place we could go, anyway—and absolutely nothing, we knew, that we should do.
 
 Несмотря на осеннюю погоду, мы могли стоять там, охраняя оперу, пока не взойдёт свет и настоящие люди не выйдут на работу. В любом случае, нам некуда было идти — и мы знали, что нам абсолютно нечего делать.
 
-“Keep passing the open windows,” we whispered to each other.  
+“Keep passing the open windows,” we whispered to each other.
 
 «Проезжайте мимо открытых окон», — шептали мы друг другу.
 
-When we finally went back to the Hotel New Hampshire, the Opera was still standing there—safe. Safe for a while, anyway, I thought.  
+When we finally went back to the Hotel New Hampshire, the Opera was still standing there—safe. Safe for a while, anyway, I thought.
 
 Когда мы наконец вернулись в отель «Нью-Гэмпшир», оперный театр всё ещё стоял на месте — в безопасности. Во всяком случае, на какое-то время, подумал я.
 
-“Safer than we are,” I told Franny. “Safer than love.”  
+“Safer than we are,” I told Franny. “Safer than love.”
 
 «Это безопаснее, чем мы», — сказала я Фрэнни. «Безопаснее, чем любовь».
 
@@ -13679,10 +13679,6 @@ When we finally went back to the Hotel New Hampshire, the Opera was still standi
 ## Chapter 10. A Night at the Opera: Schlagobers and Blood
 
 ## Глава 10. Ночь в опере: Шлагоберы и кровь
-
-Here is the text with the specified words replaced by more common alternatives:
-
-Вот текст, в котором указанные слова заменены более распространенными вариантами:
 
 CHILDREN, children,” Father said to us, “we must be very careful. I think this is the turning point, kids,” our father said, as if we were still eight, nine, ten, and so forth, and he was telling us about meeting Mother at the Arbuthnot-by-the-Sea—that night they first saw Freud, with State o’ Maine.
 
@@ -14120,7 +14116,7 @@ I never actually saw Fehlgeburt. I waited in the hall outside her door—for Fra
 
 Я так и не увидела Фельгебурт. Я ждала Фрэнка в коридоре у её двери. Фрэнк был не в лучшем состоянии, и ему потребовалось некоторое время, чтобы встретиться со мной у комнаты Фельгебурт. В её комнате был отдельный вход по задней лестнице, которой жильцы старого многоквартирного дома пользовались только тогда, когда выносили мусор. Полагаю, они думали, что запах исходит от чьего-то мусора . Мы с Фрэнком даже не открыли ей дверь. Запах у её двери был уже хуже, чем когда-либо пахло для нас горе.
 
-—
+_
 
 “I told you, I told you all,” Father said. “We’re at the turning point. Are we ready?” We could see that he didn’t really know what to do.
 
@@ -14366,7 +14362,7 @@ Outside, everything had changed. It was dark. It was the fall. The first man who
 
 На улице все изменилось. Было темно. Наступила осень. Первый мужчина, прошедший мимо нас в спешке, был одет в черные брюки, черные туфли и белый смокинг.
 
-—
+_
 
 My father didn’t notice the man in the white dinner jacket, but I didn’t feel comfortable with this sign, with this reminder; the man in the white dinner jacket, I knew, was dressed for the Opera. He must have been hurrying to be on time. The “fall season,” as Fehlgeburt had warned me, was upon us. You could feel it in the weather.
 
@@ -14604,7 +14600,7 @@ But I hadn't been able to come with Jolanta; something else took possession of m
 
 «Надеюсь, они взорвут оперу», — сказала Кричащая Энни. «Надеюсь, они захватят и отель «Захер», — добавила она. «Надеюсь, они уничтожат всю Кернтнерштрассе», — добавила она. «И Рингштрассе, и всех, кто там был. Всех мужчин», — прошептала Кричащая Энни.
 
-—
+_
 
 Franny was waiting for me on the second-floor landing. She didn't look any worse than I did. I sat down beside her and we asked each other if we were "all right." Neither one of us provided very convincing answers. I asked Franny what she found out from Ernst, and she shivered. I put my arm around her and we leaned against the railing of the staircase together. I asked her again.
 
@@ -15382,35 +15378,35 @@ Arbeiter was getting a stiff back, leaning over Lilly. He straightened up a litt
 
 «В другую сторону, идиот!» — посоветовал Шраубеншлюссель. Но Фрейд точно знал, где он находится. Он вырвал руку из хватки Ренча, выровнял бейсбольную биту и начал размахивать ею. Конечно же, он искал передний номерной знак. Слепые люди обладают удивительной способностью точно определять местоположение вещей, которые всегда были. Фрейду потребовалось всего три взмаха, чтобы найти номерной знак, — мой отец всегда будет помнить. Первый взмах был немного высоковат — ударился о решетку радиатора.
 
-“Lower!” Father screamed, through the revolving door. “Auf Wiedersehen!”  
+“Lower!” Father screamed, through the revolving door. “Auf Wiedersehen!”
 
 «Ниже!» — крикнул отец сквозь вращающуюся дверь. «До свидания!»
 
-The second swing hit the front bumper a little to the left of the license plate, and my Father yelled, “To your right! Auf Wiedersehen, Freud!” Schraubenschlüssel, Father said later, was already running away. He never got far enough away, however. Freud’s third swing was on the money; Freud’s third swing was the grand slam. What a lot for that baseball bat to go through in one night! That Louisville Slugger was never found. Freud was never entirely found, either, and Schraubenschlüssel’s own mother would fail to identify him. My father was blasted back from the revolving door, the white light and glass flying in his face. Franny and Frank ran to help him, and I got my arms around Arbeiter just as the bomb blew—just as Freud had told me to do.  
+The second swing hit the front bumper a little to the left of the license plate, and my Father yelled, “To your right! Auf Wiedersehen, Freud!” Schraubenschlüssel, Father said later, was already running away. He never got far enough away, however. Freud’s third swing was on the money; Freud’s third swing was the grand slam. What a lot for that baseball bat to go through in one night! That Louisville Slugger was never found. Freud was never entirely found, either, and Schraubenschlüssel’s own mother would fail to identify him. My father was blasted back from the revolving door, the white light and glass flying in his face. Franny and Frank ran to help him, and I got my arms around Arbeiter just as the bomb blew—just as Freud had told me to do.
 
 Второй удар пришелся по переднему бамперу чуть левее номерного знака, и мой отец закричал: «Справа от тебя! До свидания, Фрейд!» Шраубеншлюссель, как позже рассказывал отец, уже убегал. Однако он так и не успел убежать достаточно далеко. Третий удар Фрейда был точным; третий удар Фрейда был гранд-слэмом. Сколько же всего пережила эта бейсбольная бита за одну ночь! Эту «Луисвиллскую биту» так и не нашли. Фрейда тоже так и не нашли полностью, и даже мать Шраубеншлюсселя не смогла его опознать. Моего отца отбросило назад из вращающейся двери, белый свет и осколки стекла летели ему в лицо. Фрэнни и Фрэнк побежали ему на помощь, а я обнял Арбайтера как раз в тот момент, когда взорвалась бомба — как и велел мне Фрейд.
 
-Arbeiter in his black tuxedo, dressed for the Opera, was a little taller than I was, and a little heavier; my chin rested firmly between his shoulder blades, my arms went around his chest, pinning his arms to his side. He fired the gun once, into the floor. I thought for a moment that he might be able to shoot my foot with it, but I knew I’d never let him raise the gun any higher. I knew Lilly was out of Arbeiter’s range. He fired two more shots into the floor. I held him so tightly that he couldn’t even locate my foot, which was right behind his foot. His next shot hit his own foot and he started screaming. He dropped the gun. I heard it hit the floor and saw Lilly grab it, but I wasn’t paying much attention to the gun. I was concentrating on squeezing Arbeiter. For someone who’d shot himself in the foot, he stopped screaming pretty soon. Frank would tell me, later, that Arbeiter stopped screaming because he couldn’t breathe. I wasn’t paying much attention to Arbeiter’s screaming, either. I concentrated on the squeezing. I imagined the biggest barbell in the world. I don’t know, exactly, what I imagined I was doing to the barbell—curling it, bench-pressing it, dead-lifting it, or simply hugging it to my own chest. It didn’t matter; I was just concentrating on its weight. I really concentrated. I made my arms believe in themselves. If I had hugged Jolanta this hard, she would have broken in two. If I had hugged Screaming Annie this hard, she would have been quiet. Once I had dreamed of holding Franny this tightly. I had been lifting weights since Franny was raped, since Iowa Bob showed me how; with Arbeiter in my arms, I was the strongest man in the world.  
+Arbeiter in his black tuxedo, dressed for the Opera, was a little taller than I was, and a little heavier; my chin rested firmly between his shoulder blades, my arms went around his chest, pinning his arms to his side. He fired the gun once, into the floor. I thought for a moment that he might be able to shoot my foot with it, but I knew I’d never let him raise the gun any higher. I knew Lilly was out of Arbeiter’s range. He fired two more shots into the floor. I held him so tightly that he couldn’t even locate my foot, which was right behind his foot. His next shot hit his own foot and he started screaming. He dropped the gun. I heard it hit the floor and saw Lilly grab it, but I wasn’t paying much attention to the gun. I was concentrating on squeezing Arbeiter. For someone who’d shot himself in the foot, he stopped screaming pretty soon. Frank would tell me, later, that Arbeiter stopped screaming because he couldn’t breathe. I wasn’t paying much attention to Arbeiter’s screaming, either. I concentrated on the squeezing. I imagined the biggest barbell in the world. I don’t know, exactly, what I imagined I was doing to the barbell—curling it, bench-pressing it, dead-lifting it, or simply hugging it to my own chest. It didn’t matter; I was just concentrating on its weight. I really concentrated. I made my arms believe in themselves. If I had hugged Jolanta this hard, she would have broken in two. If I had hugged Screaming Annie this hard, she would have been quiet. Once I had dreamed of holding Franny this tightly. I had been lifting weights since Franny was raped, since Iowa Bob showed me how; with Arbeiter in my arms, I was the strongest man in the world.
 
 Арбайтер в черном смокинге, одетый как для оперы, был немного выше меня и немного полнее; мой подбородок плотно упирался между его лопаток, я обхватил его грудь руками, прижимая его руки к бокам. Он выстрелил один раз, в пол. На мгновение мне показалось, что он мог бы попасть мне в ногу, но я знал, что никогда не позволю ему поднять пистолет выше. Я знал, что Лилли вне досягаемости Арбайтера. Он сделал еще два выстрела в пол. Я так крепко держал его, что он даже не смог найти мою ногу, которая была прямо за его ногой. Следующий выстрел попал ему в ногу, и он начал кричать. Он уронил пистолет. Я услышал, как он упал на пол, и увидел, как Лилли схватила его, но я не обращал на пистолет особого внимания. Я сосредоточился на том, чтобы прижать Арбайтера. Для человека, который выстрелил себе в ногу, он довольно быстро перестал кричать. Позже Фрэнк рассказал мне, что Арбайтер перестал кричать, потому что не мог дышать. Я тоже не обращал особого внимания на крики Арбайтера. Я сосредоточился на сжатии. Я представлял себе самую большую штангу в мире. Я точно не знаю, что именно я представлял себе, как делаю со штангой — сгибаю её, жимаю на скамье, поднимаю в становой тяге или просто прижимаю к груди. Это не имело значения; я просто концентрировался на её весе. Я действительно концентрировался. Я заставил свои руки поверить в себя. Если бы я так крепко обнял Джоланту, она бы развалилась пополам. Если бы я так крепко обнял Кричащую Энни, она бы замолчала. Когда-то мне снилось так крепко держать Фрэнни. Я занимался силовыми тренировками с тех пор, как Фрэнни изнасиловали, с тех пор, как Айова Боб показал мне, как это делать; с Арбайтером на руках я был самым сильным человеком в мире.
 
-“A sympathy bomb!” I heard Father yelling. I knew he was in pain. “Jesus God! Can you believe it? A fucking sympathy bomb!”  
+“A sympathy bomb!” I heard Father yelling. I knew he was in pain. “Jesus God! Can you believe it? A fucking sympathy bomb!”
 
 «Бомба сочувствия!» — услышал я крик отца. Я знал, что ему больно. «Боже мой! Ты можешь в это поверить? Чертова бомба сочувствия!»
 
-Franny later said that she knew, immediately: Father was blind. It was not just because of where he was standing when the car blew up, or the glass that was blasted into his face as he stood at the revolving door; it was not all the blood in his eyes that Franny saw when she wiped his face enough to see what was wrong with him. “I knew somehow,” she said. “I mean, before I saw his eyes. I always knew he was as blind as Freud, or he would be. I knew he would be,” Franny said.  
+Franny later said that she knew, immediately: Father was blind. It was not just because of where he was standing when the car blew up, or the glass that was blasted into his face as he stood at the revolving door; it was not all the blood in his eyes that Franny saw when she wiped his face enough to see what was wrong with him. “I knew somehow,” she said. “I mean, before I saw his eyes. I always knew he was as blind as Freud, or he would be. I knew he would be,” Franny said.
 
 Позже Фрэнни сказала, что сразу поняла: отец был слеп. И дело было не только в том, где он стоял, когда взорвалась машина, или в осколках стекла, попавших ему в лицо, когда он стоял у вращающейся двери; дело было не только в крови в его глазах, которую Фрэнни увидела, вытерев ему лицо, чтобы понять, что с ним не так. «Я как-то поняла», — сказала она. «Я имею в виду, еще до того, как увидела его глаза. Я всегда знала, что он слеп, как Фрейд, или что он будет слеп. Я знала, что он будет слеп», — сказала Фрэнни.
 
-“Auf Wiedersehen, Freud!” Father was crying.  
+“Auf Wiedersehen, Freud!” Father was crying.
 
 «Auf Wiedersehen, Фрейд!» Отец плакал.
 
-“Hold still, Daddy,” I heard Lilly saying to Father.  
+“Hold still, Daddy,” I heard Lilly saying to Father.
 
 «Стой спокойно, папа», — услышала я, как Лилли говорила отцу.
 
-“Yes, hold still, Pop,” Franny said.  
+“Yes, hold still, Pop,” Franny said.
 
 «Да, стой спокойно, папа», — сказала Фрэнни.
 
@@ -16074,7 +16070,7 @@ She helped me to the bathtub. The water stung me like rubbing alcohol.
 
 «Это сказка», — писала Лилли, — о всей жизни нашей семьи. Я с ней согласна; Айова Боб тоже бы с ней согласился. «Всё — сказка!» — сказал бы тренер Боб. И даже Фрейд согласился бы с ним — оба Фрейда. Всё — сказка.
 
-—
+_
 
 Lilly arrived coincidentally with the room service cart and the confused New York foreigner who delivered our multi-course meal, and several bottles of wine, at about eleven in the evening.
 
@@ -16276,7 +16272,7 @@ There is a photograph of Freud—of the other Freud—in his apartment in Vienna
 
 «Может быть, в тебе просто живет хорошая женщина, Сьюзи», — сказала Лилли. Лилли, писательница, всегда старалась увидеть героев в каждом из нас.
 
-—
+_
 
 That night shortly before Christmas, 1964, I painfully inched my way along Central Park South; I started thinking about Susie the bear, and I remembered another photograph of Freud—Sigmund Freud—that I was fond of. In this one, Freud is eighty; in three years he would be dead. He is sitting at his desk at 19 Berggasse; it is 1936 and the Nazis would soon make him abandon his old study in his old apartment—and his old city, Vienna. In this photograph, a pair of no-nonsense eyeglasses are seriously perched on the nose of Freud’s nose. He is not looking at the camera—he is eighty years old, and he hasn’t much time; he is looking at his work, not wasting his time with us. Someone is looking at us in this photograph, however. It is Freud’s pet dog, his chow named Jo-fi. A chow somewhat resembles a mutant lion; and Freud’s chow has that glazed look of dogs who always stare stupidly into the camera. Sorrow used to do that; when he was stuffed, of course, Sorrow stared into the camera every time. And old Dr. Freud’s little sorrowful dog is there in the photograph to tell us what’s going to happen next; we might also recognize sorrow in the fragility of the trinkets that are virtually crowding Freud out of his study, off 19 Berggasse and out of Vienna (the city he hated, the city that hated him). The Nazis would stick a swastika on his door; that damn city never liked him. And on June 4, 1938, the eighty-two-year-old Freud arrived in London; he had a year left to live—in a foreign country. Our Freud, at the time, was one summer away from getting fed up with Earl; he would return to Vienna at the time when all those repressed suicides of the other Freud’s day were turning into murderers. Frank has shown me an essay by a professor of history at the University of Vienna—a very wise man named Friedrich Heer. And that’s just what Heer says about the Viennese society of Freud’s time (and this may be true of either Freud’s time, I think): “They were suicides about to become murderers.” They were all Fehlgeburts, trying hard to become Arbeiters; they were all Schraubenschlüssels, admiring a pornographer.
 
@@ -16454,45 +16450,45 @@ Frank was asleep; he was no rape expert, anyway. Father was also asleep (in the 
 
 Фрэнк спал; во всяком случае, он не был экспертом по изнасилованиям. Отец тоже спал (в комнате, которую я делила с ним), и я посмотрела на бейсбольную биту Louisville Slugger, лежащую на полу у кровати отца, и поняла, какой совет отец даст по поводу изнасилования — я знала, что любой совет от отца будет включать в себя размахивание этой битой. Я разбудила отца, сняв кроссовки.
 
-“Sorry,” I whispered. “Go back to sleep.”  
+“Sorry,” I whispered. “Go back to sleep.”
 
 «Прости», — прошептала я. «Иди спать».
 
-“What a long run you had,” he groaned. “You must be exhausted.”  
+“What a long run you had,” he groaned. “You must be exhausted.”
 
 «Какая у тебя была долгая пробежка», — простонал он. «Наверное, ты ужасно устала».
 
-I was, of course, but I was also wide-awake. I went and sat at the desk in front of Frank’s six phones. The resident rape expert (in the second Hotel New Hampshire) was only a phone call away; the rape advice I wanted was actually residing in New York City now. Susie the bear was living in Greenwich Village. Although it was one o’clock in the morning, I picked up the phone. At last the issue had presented itself. It didn’t matter that it was almost Christmas, 1964, because we were back to Halloween, 1956. All Franny’s unanswered letters finally deserved an answer. Although Junior Jones’s Black Arm of the Law would one day provide New York City with its admirable services, Junior was still recovering from the thug game of football; he would spend three years in law school, and he’d spend another six starting the Black Arm of the Law. Although Junior would rescue Franny, he could be counted upon for his late arrivals. The issue of Chipper Dove had presented itself now; although Harold Swallow had never found him, Dove was out of hiding now. And in dealing with Chipper Dove, I knew, Franny would need the help of a smart bear.  
+I was, of course, but I was also wide-awake. I went and sat at the desk in front of Frank’s six phones. The resident rape expert (in the second Hotel New Hampshire) was only a phone call away; the rape advice I wanted was actually residing in New York City now. Susie the bear was living in Greenwich Village. Although it was one o’clock in the morning, I picked up the phone. At last the issue had presented itself. It didn’t matter that it was almost Christmas, 1964, because we were back to Halloween, 1956. All Franny’s unanswered letters finally deserved an answer. Although Junior Jones’s Black Arm of the Law would one day provide New York City with its admirable services, Junior was still recovering from the thug game of football; he would spend three years in law school, and he’d spend another six starting the Black Arm of the Law. Although Junior would rescue Franny, he could be counted upon for his late arrivals. The issue of Chipper Dove had presented itself now; although Harold Swallow had never found him, Dove was out of hiding now. And in dealing with Chipper Dove, I knew, Franny would need the help of a smart bear.
 
 Конечно, я бодрствовала, но при этом не спала. Я села за стол перед шестью телефонами Фрэнка. Штатный эксперт по изнасилованиям (во втором отеле «Нью-Гэмпшир») был всего в одном звонке; нужный мне совет по изнасилованиям теперь находился в Нью-Йорке. Медведица Сьюзи жила в Гринвич-Виллидж. Хотя было час ночи, я взяла трубку. Наконец-то проблема встала на свои места. Не имело значения, что приближалось Рождество 1964 года, потому что мы вернулись к Хэллоуину 1956 года. Все письма Фрэнни, оставшиеся без ответа, наконец-то заслуживали ответа. Хотя «Черная рука закона» Джуниора Джонса однажды окажет Нью-Йорку свои замечательные услуги, Джуниор все еще приходил в себя после бандитской игры в футбол; он проведет три года в юридической школе, а затем еще шесть лет, создавая «Черную руку закона». Хотя Джуниор спасет Фрэнни, на его запоздалые визиты можно было рассчитывать. Теперь встал вопрос о Чиппере Даве; хотя Гарольд Суоллоу так и не нашел его, Дав вышел из укрытия. И я знала, что в деле с Чиппером Давом Фрэнни понадобится помощь умного медведя.
 
-—  
+—
 
-Good old Susie the bear is a fairy tale, all by herself.  
+Good old Susie the bear is a fairy tale, all by herself.
 
 Старая добрая медведица Сьюзи — настоящая сказка сама по себе.
 
-When she answered her telephone at 1 A.M. she was like a boxer springing off the ropes.  
+When she answered her telephone at 1 A.M. she was like a boxer springing off the ropes.
 
 Когда она ответила на телефонный звонок в час ночи, она была похожа на боксёра, отталкивающегося от канатов.
 
-“Dumb-fuck! Creep-of-the-night! Pervert! Do you know what time it is?” Susie the bear roared.  
+“Dumb-fuck! Creep-of-the-night! Pervert! Do you know what time it is?” Susie the bear roared.
 
 «Тупой! Ночной мерзавец! Извращенец! Ты знаешь, который час?» — взревела медведица Сьюзи.
 
-“It’s me,” I said.  
+“It’s me,” I said.
 
 «Это я», — сказал я.
 
-“Jesus God,” Susie said. “I was expecting an obscene call.” When I told her about Chipper Dove, she decided it was an obscene call. “I don’t think Franny’s going to be happy that you told him where she lives,” Susie said. “I think she wrote all those letters so she wouldn’t ever hear from him again.”  
+“Jesus God,” Susie said. “I was expecting an obscene call.” When I told her about Chipper Dove, she decided it was an obscene call. “I don’t think Franny’s going to be happy that you told him where she lives,” Susie said. “I think she wrote all those letters so she wouldn’t ever hear from him again.”
 
 «Боже мой, — сказала Сьюзи. — Я ожидала непристойного звонка». Когда я рассказала ей о Чиппере Даве, она решила, что это действительно непристойный звонок. «Я не думаю, что Фрэнни обрадуется, что ты сказала ему, где она живет, — сказала Сьюзи. — Думаю, она написала все эти письма, чтобы больше никогда от него ничего не слышать».
 
-Susie lived in a simply terrible place in Greenwich Village. Franny liked going down there to see her, and Frank occasionally dropped in—when he was in the vicinity (there was a very Frank-like bar around the corner from where Susie lived)—but Lilly and I hated the Village. Susie came uptown to see us.  
+Susie lived in a simply terrible place in Greenwich Village. Franny liked going down there to see her, and Frank occasionally dropped in—when he was in the vicinity (there was a very Frank-like bar around the corner from where Susie lived)—but Lilly and I hated the Village. Susie came uptown to see us.
 
 Сьюзи жила в ужасном месте в Гринвич-Виллидж. Фрэнни любила приезжать туда к ней, а Фрэнк иногда заходил — когда оказывался поблизости (за углом от дома Сьюзи был бар, очень похожий на бар Фрэнка), — но мы с Лилли ненавидели Виллидж. Сьюзи приезжала к нам в верхнюю часть города.
 
-In the Village, Susie could be a bear when she wanted to be; there were people down there who looked worse than bears. But when Susie came uptown, she had to look normal; they wouldn’t have let her in the Stanhope, as a bear, and on Central Park South some policeman would have shot her—thinking her an escapee from the Central Park Zoo. New York was not Vienna, and although Susie was trying to break herself of the bear habit, she could revert to bearishness in the Village and nobody would even notice. She lived with two other women in a place that had only a toilet and a cold-water sink; Susie came uptown to bathe—preferring Lilly’s suite at the Stanhope to the opulent bathroom at Frank’s place at 222 Central Park South; I think Susie liked the potential danger of the upward-flushing toilets.  
+In the Village, Susie could be a bear when she wanted to be; there were people down there who looked worse than bears. But when Susie came uptown, she had to look normal; they wouldn’t have let her in the Stanhope, as a bear, and on Central Park South some policeman would have shot her—thinking her an escapee from the Central Park Zoo. New York was not Vienna, and although Susie was trying to break herself of the bear habit, she could revert to bearishness in the Village and nobody would even notice. She lived with two other women in a place that had only a toilet and a cold-water sink; Susie came uptown to bathe—preferring Lilly’s suite at the Stanhope to the opulent bathroom at Frank’s place at 222 Central Park South; I think Susie liked the potential danger of the upward-flushing toilets.
 
 В Гринвич-Виллидж Сьюзи могла быть медведицей, когда хотела; там были люди, которые выглядели хуже медведей. Но когда Сьюзи приезжала в верхнюю часть города, ей приходилось выглядеть нормально; в Стэнхоуп ее бы не пустили в облик медведицы, а на Центральном парке Юг какой-нибудь полицейский застрелил бы ее, приняв за сбежавшую из зоопарка. Нью-Йорк был не Веной, и хотя Сьюзи пыталась избавиться от медвежьей привычки, в Гринвич-Виллидж она могла снова вести себя как медведица, и никто бы этого даже не заметил. Она жила с двумя другими женщинами в квартире, где были только туалет и раковина с холодной водой; Сьюзи приезжала в верхнюю часть города, чтобы помыться, предпочитая номер Лилли в Стэнхоупе роскошной ванной комнате в квартире Фрэнка по адресу 222 Центральный парк Юг; думаю, Сьюзи нравилась потенциальная опасность унитазов с восходящим смывом.
 
@@ -16852,7 +16848,7 @@ Franny looked out the window again. I rubbed her shoulders so she wouldn’t be 
 
 «Тогда все уходите отсюда», — сказала Лилли. «Мне нужно идти на работу», — сказала она с тревогой.
 
-—
+_
 
 We all went to Frank’s to have a party with Father. “Not a word about this to Father,” Franny said. “Let’s keep Father out of it.”
 
@@ -16910,7 +16906,7 @@ Franny kissed Father and told him we’d get him a dog for Christmas.
 
 «Одно дело», — сказал отец. Медведица Сьюзи положила лапу мне на руку, как будто даже она знала, что сейчас произойдёт. «Только одно дело», — сказал отец. Мы молча ждали этого. «Она не должна быть похожа на Скорбь», — сказал отец. «И у тебя такие же глаза, так что тебе нужно выбрать собаку. Просто убедись, что она ни в коем случае не похожа на Скорбь».
 
-—
+_
 
 And Lilly wrote the necessary fairy tale, and we each acted our parts. According to the fairy tale that Lilly wrote, we were perfect. On the last working day before Christmas, 1964, Franny took a deep breath and called Chipper Dove at his “firm.”
 
@@ -17288,7 +17284,7 @@ I would feel, for the rest of my life, as if I were still holding Chipper Dove b
 
 Всю оставшуюся жизнь я буду чувствовать себя так, словно все еще держу Чиппера Дава за подмышки — его лапки всего в нескольких сантиметрах от земли на Седьмой авеню. С ним ничего нельзя было сделать, кроме как усыпить его; и с ним никогда ничего нельзя было бы сделать — с нашими Чипперами Давами мы просто будем поднимать и опускать их, вечно.
 
-—
+_
 
 And so, you'd think, that was that. Lilly had proven herself with a real opera, a genuine fairy tale. Susie the bear had played out the part; she had exhausted her bear's role; she would keep the bear suit only for its sentimental value, and for entertaining children—and, of course, for Halloween. Father was about to get a Seeing Eye dog for Christmas. It would be his first of many Seeing Eye dogs. And once he had an animal to talk to, my father would finally figure out what he wanted to do with the rest of his life.
 
@@ -18218,7 +18214,7 @@ And I say, without the slightest tone of qualification in my voice, "She sure wo
 
 «Если не каждую минуту, — задумчиво добавляет мой отец, — то хотя бы на этом участке. Хотя бы в конце».
 
-—
+_
 
 Lilly's end, considering her cult following, was as quiet as we could have it. I wish I'd had the courage to ask Donald Justice for an elegy but it was—as much as possible—a family funeral. Junior Jones was there; he sat with Franny, and I couldn't help but notice how perfectly they held each other's hands. It often takes a funeral to make you realize who has grown older. I noticed Junior had added a few gentle lines around his eyes; he was a very diligent lawyer, now—we'd hardly heard from him when he was in law school; he disappeared almost as completely into law school as he had once disappeared into the bottom of a pile of Cleveland Browns. I guess law school and football are similarly narrow experiences. Playing in the line, Junior always said, had prepared him for law school. Hard work, but boring, boring, boring.
 
@@ -18284,7 +18280,7 @@ But Father reached out to Frank, the baseball bat as his antenna, and he said, �
 
 «Боже мой, Фрэнк, — сказала Фрэнни. — Проще поговорить с вашей службой автоответчика». Это наконец-то его убедило.
 
-—
+_
 
 For a while we would have to endure the wall of worshipful mourners: Lilly’s suicide cult—they were her fans who thought that Lilly’s suicide was her ultimate statement, was the proof of her seriousness. This was ironic in Lilly’s case, because Frank and Franny and I knew that Lilly’s suicide—from Lilly’s point of view—was the ultimate admission that she was not serious enough. But these people insisted on loving her for what she least loved in herself.
 
@@ -18314,7 +18310,7 @@ This, by the suicide fans, was seen as Franny's insensitivity—and by associati
 
 Поклонники самоубийц восприняли это как бесчувственность Фрэнни, и, соответственно, в различных новостных сообщениях нашу семью охарактеризовали как безразличную к смерти Лилли (из-за нашего нежелания участвовать в этих «позициях Лилли»). В отчаянии Фрэнк вызвался «выступить» на публичном чтении произведений поэтов и писателей, покончивших жизнь самоубийством. Естественно, никто из писателей или поэтов не читал свои собственные произведения; различные нанятые чтецы, сочувствующие творчеству покойных — или, что еще хуже, сочувствующие их «образу жизни», что почти всегда означало их «образ жизни перед смертью» — читали бы произведения самоубийц так, как будто это были мертвые авторы, вернувшиеся к жизни. Фрэнни тоже не хотела в этом участвовать, но Фрэнк вызвался добровольно; его отвергли. «Из-за „неискренности“», — сказал он. «Они подумали, что я неискренен. Черт возьми, я был прав!» — закричал он. «Им всем не помешала бы чертовски сильная доза неискренности!» — добавил он.
 
-—
+_
 
 And Junior Jones would marry Franny—finally! "This is a fairy tale," Franny told me, long distance, "but Junior and I have decided that if we save it any longer, we won't have anything worth saving." Franny was sneaking up on forty at the time. The Black Arm of the Law and Hollywood had, at least, Schlagobers and blood in common. I suppose that Franny and Junior Jones would strike people—in their New York and their Los Angeles life—as "glamorous," but I often think that so-called glamorous people are just very busy people. Junior and Franny were consumed by their work, and they succumbed to the comfort of having each other's arms to fall exhausted into.
 
@@ -18512,7 +18508,7 @@ Not quite, I thought. But, all things considered—given sorrow, given doom, giv
 
 Не совсем, подумал я. Но, учитывая все обстоятельства — горе, гибель, любовь — я понимал, что все может быть гораздо хуже.
 
-—
+_
 
 So what is missing? Just a child, I think. A child is missing. I wanted a child, and I still want one. Given Egg, and given Lilly, children are all I am missing, now. I still might convince Susie the bear, of course, but Franny and Junior Jones will provide me with my first child. Even Susie is unafraid for that child.
 
@@ -18634,7 +18630,7 @@ And with the support of the county authorities, and a wonderful organization of 
 
 «Проходи мимо открытых окон, дорогая», — говорил отец почти всем. «Это самое главное, дорогая», — добавлял он. Без сомнения, именно Лилли придает отцовским советам такой авторитет. Он всегда умел давать нам, детям, советы — даже когда совершенно ничего не знал о том, что не так. «Может быть, особенно когда он совершенно ничего не знает», — говорит Фрэнк. «В смысле, он до сих пор не знает, что я гей, и все равно постоянно дает мне хорошие советы». Какой талант!
 
-—
+_
 
 “Okay, okay,” Franny said to me on the phone, just last winter, just after the big snow. “I didn’t call you to hear the ins and outs of every rape in Maine—not this time, kid,” Franny told me. “Do you still want a baby?”
 
@@ -18804,7 +18800,7 @@ But Donald Justice is right, as usual. Who wouldn’t hesitate to come into this
 
 Но Дональд Джастис, как обычно, прав. Кто бы не колебался появиться на свет? Кто бы не откладывал эту сказку как можно дольше? Уже сейчас, видите ли, ребенок Фрэнни демонстрирует удивительную проницательность, редкую чувствительность.
 
-—
+_
 
 And yesterday it snowed; in Maine we learn to take weather personally. Susie was investigating the alleged rape of a waitress in Bath, and I was worried about her driving back in the storm, but Susie was safely home before dark and we both said how this storm reminded us of the big snow of last winter, of the day Franny called to tell us about her coming gift.
 
@@ -18966,7 +18962,7 @@ The bear that paused by the woodpile, its breath a fog upon the bright, cold mor
 
 Медведь, остановившийся у поленницы, его дыхание, словно туман, окутывало яркое холодное утро, его лапы мягко оставляли следы на свежем, нетронутом снегу — словно это был первый медведь на Земле, а это был первый снег на планете — всё это выглядело убедительно. Как знала Лилли, всё — сказка.
 
-—
+_
 
 So we dream on. Thus we invent our lives. We give ourselves a sainted mother, we make our father a hero; and someone’s older brother, and someone’s older sister—they become our heroes, too. We invent what we love, and what we fear. There is always a brave, lost brother—and a little lost sister, too. We dream on and on: the best hotel, the perfect family, the resort life. And our dreams escape us almost as vividly as we can imagine them.
 
@@ -19020,23 +19016,23 @@ In a recent review of A Widow for One Year, a book reviewer went so far as to sa
 
 В недавней рецензии на книгу «Вдова на год» один книжный критик зашёл так далеко, что заявил, что флэшфорвард имеет «меньший онтологический статус», чем флэшбэк; более того, рецензент заключил, что флэшфорвард — это «подрывной, сверхъестественный процесс». Ещё бы! Если писатель или кинорежиссёр не могут играть в Бога, то кто же сможет?
 
-Whether in the narrative voice of a novel or in voice-over, what the flashforward does is invite the audience to have a look at the storytelling mechanism itself. Rather than label that process “subversive” or “supernatural,” I would contend that most readers and moviegoers like to be given hints of the future. One of the pleasures provided by storytelling, in both a novel and a film, is anticipation.  
+Whether in the narrative voice of a novel or in voice-over, what the flashforward does is invite the audience to have a look at the storytelling mechanism itself. Rather than label that process “subversive” or “supernatural,” I would contend that most readers and moviegoers like to be given hints of the future. One of the pleasures provided by storytelling, in both a novel and a film, is anticipation.
 
 Будь то в повествовательном стиле романа или закадровом голосе, флэшфорвард приглашает зрителя взглянуть на сам механизм повествования. Вместо того чтобы называть этот процесс «подрывным» или «сверхъестественным», я бы утверждал, что большинству читателей и кинозрителей нравится получать намеки на будущее. Одно из удовольствий, которые доставляет повествование, как в романе, так и в фильме, — это предвкушение.
 
-In the film of The Hotel New Hampshire, Tony Richardson made a purposeful choice—heighten the farce. He fastforwarded and flashforwarded like crazy. In the novel, John Berry (Rob Lowe in the film) is in love with his older sister, Franny (Jodie Foster); John’s infatuation with Franny is both agonizing and bittersweet. In the movie, Tony chose to make John Berry’s incestuous obsession with his sister a comic romp. As for Franny, a rape victim who is later seduced by a terrorist, Tony gave her a tomboy’s enduring toughness and a kind of in-your-face sexual swagger.  
+In the film of The Hotel New Hampshire, Tony Richardson made a purposeful choice—heighten the farce. He fastforwarded and flashforwarded like crazy. In the novel, John Berry (Rob Lowe in the film) is in love with his older sister, Franny (Jodie Foster); John’s infatuation with Franny is both agonizing and bittersweet. In the movie, Tony chose to make John Berry’s incestuous obsession with his sister a comic romp. As for Franny, a rape victim who is later seduced by a terrorist, Tony gave her a tomboy’s enduring toughness and a kind of in-your-face sexual swagger.
 
 В фильме «Отель Нью-Гэмпшир» Тони Ричардсон сделал осознанный выбор — усилил фарс. Он безудержно использовал ускоренную и флэшфорвардную съемку. В романе Джон Берри (Роб Лоу в фильме) влюблен в свою старшую сестру Фрэнни (Джоди Фостер); его увлечение Фрэнни одновременно мучительно и горько-сладко. В фильме Тони решил превратить инцестуозную одержимость Джона Берри своей сестрой в комическую забаву. Что касается Фрэнни, жертвы изнасилования, которую позже соблазняет террорист, Тони наделил её стойкой, но в то же время вызывающей сексуальной дерзостью.
 
-But John’s infatuation with Franny was hard for me to see. In the film, I could never convince myself that Rob Lowe, a gorgeous boy—prettier than most girls—could be head over heels for Jodie Foster. Ms. Foster was not nearly as attractive as a young girl as she has become; she is a good-looking young woman, and a terrific actress, but she was not a pretty girl. In the movie, I could have been more easily convinced that Jodie Foster was obsessed with Rob Lowe.  
+But John’s infatuation with Franny was hard for me to see. In the film, I could never convince myself that Rob Lowe, a gorgeous boy—prettier than most girls—could be head over heels for Jodie Foster. Ms. Foster was not nearly as attractive as a young girl as she has become; she is a good-looking young woman, and a terrific actress, but she was not a pretty girl. In the movie, I could have been more easily convinced that Jodie Foster was obsessed with Rob Lowe.
 
 Но мне было трудно понять увлечение Джона Фрэнни. В фильме я никак не могла поверить, что Роб Лоу, очаровательный юноша — красивее большинства девушек — мог быть без ума от Джоди Фостер. Мисс Фостер в юности была далеко не так привлекательна, как сейчас; она красивая молодая женщина и потрясающая актриса, но она не была красавицей. В фильме меня было гораздо легче убедить в том, что Джоди Фостер была одержима Робом Лоу.
 
-That said, if the incest wasn’t convincing, Jodie Foster and Rob Lowe were otherwise right for their roles, and their supporting cast was first-rate. Beau Bridges as the heedlessly dreaming father was superb; he was exactly as I’d imagined the father of that unfortunate family. And Tony’s decision to make Franny’s rapist and her terrorist-seducer the same actor (Matthew Modine) was shrewd. Mr. Modine was especially good as the terrorist without a conscience, as was Amanda Plummer in her role as the terrorist with a conscience. (Ms. Plummer, who is tongueless in Garp, is also handicapped in The Hotel New Hampshire, where her nickname is “Miss Miscarriage.”)  
+That said, if the incest wasn’t convincing, Jodie Foster and Rob Lowe were otherwise right for their roles, and their supporting cast was first-rate. Beau Bridges as the heedlessly dreaming father was superb; he was exactly as I’d imagined the father of that unfortunate family. And Tony’s decision to make Franny’s rapist and her terrorist-seducer the same actor (Matthew Modine) was shrewd. Mr. Modine was especially good as the terrorist without a conscience, as was Amanda Plummer in her role as the terrorist with a conscience. (Ms. Plummer, who is tongueless in Garp, is also handicapped in The Hotel New Hampshire, where her nickname is “Miss Miscarriage.”)
 
 Тем не менее, если инцест и не был убедительным, Джоди Фостер и Роб Лоу в остальном отлично справились со своими ролями, а актерский состав второго плана был первоклассным. Бо Бриджес в роли безрассудно мечтающего отца был великолепен; он был именно таким, каким я представлял себе отца этой несчастной семьи. И решение Тони сделать насильника Фрэнни и ее террориста-соблазнителя одним и тем же актером (Мэтью Модайн) было дальновидным. Мистер Модайн был особенно хорош в роли террориста без совести, как и Аманда Пламмер в роли террориста с совестью. (Мисс Пламмер, которая не может говорить в «Гарпе», также имеет инвалидность в «Отеле Нью-Гэмпшир», где ее прозвище — «Мисс Выкидыш».)
 
-The more eccentric characters, Iowa Bob (Wilford Brimley) and Freud (Wallace Shawn), suffered less as caricatures than did some relatively more realistic minor characters, and both Brimley and Shawn were wonderful. Somewhat less successful in the film was the tragicomic character of Susie the bear (Nastassja Kinski). It was not Ms. Kinski’s fault, although her being visibly pregnant during the shooting did not help her cause. Perhaps she’d mistakenly assumed that she would be wearing the bear suit in all her scenes—hence no one would know she was pregnant. But, alas, there was an all-important love scene between her and Rob Lowe, when of course she was out of her ursine costume—and any other costume—and which Tony was forced to shoot in the half-dark. It was a shame not to see more of her, I thought.  
+The more eccentric characters, Iowa Bob (Wilford Brimley) and Freud (Wallace Shawn), suffered less as caricatures than did some relatively more realistic minor characters, and both Brimley and Shawn were wonderful. Somewhat less successful in the film was the tragicomic character of Susie the bear (Nastassja Kinski). It was not Ms. Kinski’s fault, although her being visibly pregnant during the shooting did not help her cause. Perhaps she’d mistakenly assumed that she would be wearing the bear suit in all her scenes—hence no one would know she was pregnant. But, alas, there was an all-important love scene between her and Rob Lowe, when of course she was out of her ursine costume—and any other costume—and which Tony was forced to shoot in the half-dark. It was a shame not to see more of her, I thought.
 
 Более эксцентричные персонажи, Айова Боб (Уилфорд Бримли) и Фрейд (Уоллес Шон), меньше пострадали от карикатур, чем некоторые относительно более реалистичные второстепенные персонажи, и Бримли, и Шон были великолепны. Несколько менее удачным в фильме оказался трагикомический персонаж медведицы Сьюзи (Настасья Кински). Это не вина мисс Кински, хотя ее явная беременность во время съемок не пошла ей на пользу. Возможно, она ошибочно полагала, что будет носить костюм медведицы во всех сценах, поэтому никто не узнает о ее беременности. Но, увы, была очень важная любовная сцена между ней и Робом Лоу, когда, конечно же, она была без своего медвежьего костюма — и любого другого костюма — и которую Тони был вынужден снимать в полумраке. Жаль, что ее не показали больше, подумал я.
 

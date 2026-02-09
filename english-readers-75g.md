@@ -348,10 +348,6 @@ It was some three-quarters of an hour later that the Herr Colonel found him ther
 
 «Удивительно, — сказал господин профессор. — Совершенно удивительно». Из далёкого летнего домика доносилась мелодия из оперы «Прекрасная Элен», а по дороге постоянно тормозили машины. Он чувствовал себя так, словно жил в чужой стране, очень далеко от дома.
 
-Here is the revised text with the specified words replaced by more common alternatives:
-
-Вот исправленный текст, в котором указанные слова заменены более распространенными вариантами:
-
 ‘If you will excuse me,’ he said, ‘I will leave everything tonight in your hands. I hardly know the Herr General. I will have a sandwich quietly in my room.’
 
 «Извините меня, — сказал он, — я оставлю все дела на сегодня в ваших руках. Я почти не знаком с генералом. Я спокойно перекушу в своей комнате».
@@ -432,9 +428,37 @@ The Herr Professor could not properly see the patient – only the outline of a 
 
 _
 
-The Herr Colonel said, 'My dear Herr Professor, after all, you are the host. You should at least lay one stake upon the table.' He took the Herr Professor by his sleeve and led him to the board where the Herr General sat, beating tip, tap, tip to the music of Lehar. 'The Herr Professor wishes to follow your fortune, Herr General.' 'I have little luck tonight, but let him …' and the General's fingers wove a design over the cloth. 'At the same time guard yourself with the zero.' The ball span and jumped and span and came to rest. 'Zero,' the dealer announced and began to rake the other stakes in. 'At least you have not lost, Herr Professor,' the Herr General said. Somewhere far away behind the voices there was a faint explosion. 'The bottles are popping,' the Herr Colonel said. 'Another glass of champagne, Herr General?' 'I had hoped it was a shot,' the Herr General said with a rather freezing smile. 'Ah, the old days … I remember once in Monte Carlo …' The Herr Professor looked at the window, where he had thought a moment ago that someone looked in as lost as himself, but no one was there.
+The Herr Colonel said, 'My dear Herr Professor, after all, you are the host. You should at least lay one stake upon the table.' He took the Herr Professor by his sleeve and led him to the board where the Herr General sat, beating tip, tap, tip to the music of Lehar.
 
-Герр-полковник сказал: «Мой дорогой герр-профессор, в конце концов, вы хозяин. Вам следовало бы хотя бы одну ставку положить на стол». Он взял герр-профессора за рукав и повел его к доске, за которой сидел герр-генерал, отбивая ритм под музыку Легара. «Герр-профессор желает попытать счастья, герр-генерал». «Мне сегодня не очень везет, но пусть…» — и пальцы генерала начертили узор на сукне. «В то же время остерегайтесь нуля». Шар вращался, прыгал, вращался и остановился. «Ноль», — объявил дилер и начал сгребать остальные ставки. «По крайней мере, вы не проиграли, герр-профессор», — сказал герр-генерал. Где-то вдалеке, за голосами, раздался слабый взрыв. «Бутылки лопаются», — сказал герр-полковник. «Еще один бокал шампанского, герр-генерал?» «Я надеялся, что это будет удачный выстрел», — сказал герр-генерал с довольно ледяной улыбкой. «Ах, старые добрые времена… Помню, как-то в Монте-Карло…» Герр-профессор посмотрел в окно, где, как ему показалось мгновение назад, кто-то заглянул так же растерянно, как и он сам, но никого там не было.
+Герр-полковник сказал: «Мой дорогой герр-профессор, в конце концов, вы хозяин. Вам следовало бы хотя бы один кол положить на стол». Он взял герр-профессора за рукав и повел его к доске, за которой сидел герр-генерал, отбивая ритм «тип-тип-тип» под музыку Легара.
+
+'The Herr Professor wishes to follow your fortune, Herr General.'
+
+«Герр Профессор желает вам удачи, герр Генерал».
+
+'I have little luck tonight, but let him …' and the General's fingers wove a design over the cloth. 'At the same time guard yourself with the zero.'
+
+«Сегодня мне не везёт, но пусть…» — и пальцы генерала вырисовали узор на ткани. — «В то же время оберегай себя нулем».
+
+The ball span and jumped and span and came to rest. 'Zero,' the dealer announced and began to rake the other stakes in.
+
+Мяч вращался, подпрыгивал, вращался и остановился. «Ноль», — объявил дилер и начал собирать остальные ставки.
+
+'At least you have not lost, Herr Professor,' the Herr General said. Somewhere far away behind the voices there was a faint explosion.
+
+«По крайней мере, вы не проиграли, господин профессор», — сказал господин генерал. Где-то вдалеке, за голосами, раздался слабый взрыв.
+
+'The bottles are popping,' the Herr Colonel said. 'Another glass of champagne, Herr General?'
+
+«Бутылки лопаются», — сказал полковник. «Еще один бокал шампанского, господин генерал?»
+
+'I had hoped it was a shot,' the Herr General said with a rather freezing smile. 'Ah, the old days … I remember once in Monte Carlo …'
+
+«Я надеялся, что это будет выстрел», — сказал генерал-лейтенант с довольно ледяной улыбкой. «Ах, старые добрые времена… Помню, как-то раз был в Монте-Карло…»
+
+The Herr Professor looked at the window, where he had thought a moment ago that someone looked in as lost as himself, but no one was there.
+
+Господин профессор посмотрел в окно, где, как ему показалось мгновение назад, кто-то, растерянный не меньше него, заглянул внутрь, но никого там не было.
 
 # The News in English
 
@@ -1618,7 +1642,7 @@ The sun poured in between the curtains and Baines was beating a tattoo on the wa
 
 ‘I want to make this a long day,’ Baines said. ‘This is the best time.’ He pulled the curtains back. ‘It’s a bit foggy. The cat’s been out all night. There she is, sniffing round the area. They haven’t taken in any milk at 59. Emma’s shaking out the mats at 63.’ He said, ‘This was what I used to think about on the Coast: somebody shaking mats and the cat coming home. I can see it today,’ Baines said, ‘just as if I was still in Africa. Most days you don’t notice what you’ve got. It’s a good life if you don’t weaken.’ He put a coin on the washstand. ‘When you’ve dressed, Phil, run and get a Mail from the cart at the corner. I’ll be cooking the sausages.’
 
-«Я хочу, чтобы этот день был долгим», — сказал Бейнс. «Сейчас самое подходящее время». Он отдернул шторы. «Немного туманно. Кошка гуляла всю ночь. Вот она, обнюхивает окрестности. Они не выпили ни капли молока в 59 лет. Эмма в 63 года вытряхивает коврики». Он сказал: «Я раньше думал об этом на побережье: кто-то вытряхивает коврики, а кошка возвращается домой. Я вижу это и сегодня», — сказал Бейнс, — «как будто я все еще в Африке. В большинстве дней ты не замечаешь, что у тебя есть. Это хорошая жизнь, если ты не слабеешь». Он положил монетку на умывальник. «Когда оденешься, Фил, сбегай и купи газету «Mail» в тележке на углу. Я буду жарить сосиски».
+«Я хочу, чтобы этот день был долгим», — сказал Бейнс. «Сейчас самое подходящее время». Он отдернул шторы. «Немного туманно. Кошка гуляла всю ночь. Вот она, обнюхивает окрестности. Они не выпили ни капли молока в 59 лет. Эмма в 63 года вытряхивает коврики». Он сказал: «Я раньше думал об этом на побережье : кто-то вытряхивает коврики, а кошка возвращается домой. Я вижу это и сегодня», — сказал Бейнс, — «как будто я все еще в Африке. В большинстве дней ты не замечаешь, что у тебя есть. Это хорошая жизнь, если ты не слабеешь». Он положил монетку на умывальник. «Когда оденешься, Фил, сбегай и купи газету «Mail» в тележке на углу. Я буду жарить сосиски».
 
 ‘Sausages?’
 
@@ -2444,10 +2468,6 @@ She said, ‘It’s lovely. Let’s drive a long way.’
 
 «Я чуть не врезался», — сказал он. «Это бы устроило полный бардак. Такой же ужасный, как те парни, которые сбивают кого-то и не останавливаются. Может, нам остановиться?» — спросил он, выключая свет на коммутаторе, чтобы они не видели, как стрелка поднимается до шестидесяти.
 
-Here is the revised text with the specified words replaced by more common alternatives:
-
-Вот исправленный текст, в котором указанные слова заменены более распространенными вариантами:
-
 'Whatever you say,' she said, sitting deep in a reckless dream.
 
 «Как скажешь», — ответила она, погруженная в безрассудный сон.
@@ -2712,18 +2732,6 @@ She knew that he was watching her with amusement, that he had rehearsed all her 
 
 Она знала, что он смотрит на нее с удовольствием, что он отрепетировал все ее аргументы и придумал ответ; он лишь делал вид, что воспринимает ее всерьез. «Мы можем получить пятнадцать центов, — сказал он. — На эти деньги можно прожить день, но особого веселья нам не доставит».
 
-First, it makes sense to focus on the list of words that need replacing and check each one against a high-frequency word list. For "shilling," a more common term like "dollar" works fine. "Dole" as a verb is trickier—it's not super frequent, but "give" or "hand out" are common and keep the meaning. For "remorseless," "unyielding" or "relentless" are both frequent and fit the tone. "Conceit" could be swapped for "arrogance" or "pride," both common. "Climax" is best as "peak" or "high point," both frequent. "Infuriate" works well as "enrage." "Irritated" can be "annoyed." "Whist" is a card game, so "bridge" or "poker" would be more familiar to modern readers. "Savagery" could be "brutality." "Despise" is best as "hate." "Retort" is a common enough word, but "reply" is even more frequent. "Irresponsibility" can be "carelessness." "Recklessness" is "rashness" or "foolishness," both frequent. "Waver" is "hesitate." "Bewilder" is "confuse." "Twig" is "branch." "Plough" is "plow." "Thud" is "thump." "Bruise" as a verb could be "hurt." "Switchboard" is "panel." "Clover" is fine, but "grass" is more common.
-
-Во-первых, имеет смысл сосредоточиться на списке слов, которые нужно заменить, и проверить каждое из них по списку часто употребляемых слов. Для слова «shilling» вполне подойдет более распространенный термин, например, «dollar». Слово «dole» как глагол сложнее — оно не очень часто употребляется, но «give» или «hand out» — распространенные слова, сохраняющие смысл. Для слова «remorseless» часто употребляются слова «unyielding» или «relentless», оба соответствуют тону. «Conceit» можно заменить на «arrogance» или «pride», оба распространенные. «Climax» лучше всего заменить на «peak» или «high point», оба часто употребляемые. «Infuriate» хорошо подходит вместо «enrage». «Irritated» можно заменить на «annoyed». «Whist» — карточная игра, поэтому «bridge» или «poker» будут более знакомы современным читателям. «Savagery» можно заменить на «brutality». «Despise» лучше всего заменить на «hate». Слово «retort» довольно распространенное, но «reply» встречается еще чаще. «Irresponsibility» может означать «carelessness» (безответственность). «Recklessness» означает «rashness» (безрассудство) или «foolishness» (глупость), оба варианта распространены. «Waver» означает «hesitate» (колебаться). «Bewilder» означает «confuse» (сбивать с толку). «Twig» означает «branch» (ветка). «Plough» означает «plow» (плуг). «Thud» означает «thump» (стук). «Bruise» как глагол может означать «hurt» (больно). «Switchboard» означает «panel» (панель). «Clover» допустимо, но «grass» встречается чаще.
-
-With that sorted, the next step is to carefully substitute each word, making sure the sentence structure and meaning remain intact. Some words have multiple options, so it's best to choose the one that flows most naturally in context. Once all substitutions are made, a quick read-through ensures the paragraph still makes sense and the tone is preserved.
-
-После этого следующим шагом будет тщательная замена каждого слова, при этом необходимо убедиться, что структура предложения и смысл остаются неизменными. У некоторых слов есть несколько вариантов, поэтому лучше выбрать тот, который наиболее естественно звучит в контексте. После всех замен, беглое прочтение текста гарантирует, что абзац по-прежнему имеет смысл и сохраняется тон.
-
-Here's the final text with all replacements:
-
-Вот окончательный текст со всеми заменами:
-
 'The things inside it?'
 
 «Что внутри?»
@@ -2762,7 +2770,7 @@ Here's the final text with all replacements:
 
 He said, 'You remember Cortez, the fellow who burnt his boats? I've burned mine. I've got to kill myself. You see, I stole that car. We'd be stopped in the next town. It's too late even to go back.' He laughed; he had reached the peak of his argument and there was nothing more to dispute about. She could tell that he was perfectly satisfied and perfectly happy. It enranged her. 'You've got to, maybe. But I haven't. Why should I kill myself? What right have you—?' She dragged herself away from him and felt against her back the rough massive trunk of the living tree.
 
-Он сказал: «Помнишь Кортеса, того парня, который сжег свои лодки? Я тоже сжег свои. Мне нужно покончить с собой. Видишь ли, я украл ту машину. Нас бы остановили в соседнем городе. Уже слишком поздно даже возвращаться». Он рассмеялся; его аргумент достиг кульминации, и спорить было не о чем. Она поняла, что он совершенно доволен и счастлив. Это ее взбесило. «Возможно, тебе нужно покончить с собой. Но я этого не сделал. Зачем мне убивать себя? Какое право ты имеешь?..» Она отстранилась от него и почувствовала на спине грубый, массивный ствол живого дерева.
+Он сказал: «Помнишь Кортеса, того парня, который сжег свои лодки? Я тоже сжег свои. Мне нужно покончить с собой. Видишь ли, я украл ту машину. Нас бы остановили в соседнем городе. Уже слишком поздно даже возвращаться». Он рассмеялся; его аргумент достиг кульминации, и спорить было не о чем. Она поняла, что он совершенно доволен и счастлив. Это ее взбесило. « Возможно, тебе нужно покончить с собой. Но я этого не сделал. Зачем мне убивать себя? Какое право ты имеешь?..» Она отстранилась от него и почувствовала на спине грубый, массивный ствол живого дерева.
 
 'Oh,' he said in an annoyed tone, 'of course if you like to go on without me.' She had admired his conceit; he had always carried his unemployment with a manner. Now you could no longer call it conceit: it was a complete lack of any values. 'You can go home,' he said, 'though I don't quite know how – I can't drive you back because I'm staying here. You'll be able to go to the hop tomorrow night. And there's a bridge, isn't there, in the church hall? My dear, I wish you joy of home.'
 
@@ -3316,10 +3324,6 @@ T was giving his orders with decision: it was as though this plan had been with 
 
 Т отдавал приказы решительно: казалось, этот план сопровождал его всю жизнь, обдумывался в разные времена года, а теперь, в пятнадцатом году жизни, он кристаллизовался с болью подросткового возраста. «Ты, — сказал он Майку, — принеси большие гвозди, самые большие, какие найдешь, и молоток. Кто может, пусть принесет молоток и отвертку. Их нам понадобится много. И стамески тоже. Стамесок много не бывает. Кто-нибудь может принести пилу?»
 
-Here is the revised text with the specified words replaced by more common alternatives:
-
-Вот исправленный текст, в котором указанные слова заменены более распространенными вариантами:
-
 ‘I can,’ Mike said.
 
 «Могу», — сказал Майк.
@@ -3413,10 +3417,6 @@ Mike appeared at the door. 'I've finished the wires, T,' he said.
 It was nearly lunch-time before Blackie had finished and went in search of T. Chaos had advanced. The kitchen was a mess of broken glass and china. The dining-room was stripped of parquet, the skirting was up, the door had been taken off its hinges, and the destroyers had moved up a floor. Streaks of light came in through the closed shutters where they worked with the seriousness of creators – and destruction after all is a form of creation. A kind of imagination had seen this house as it had now become.
 
 Когда Блэки закончил есть и отправился на поиски Т., уже почти настало время обеда. Хаос продвинулся вперед. Кухня была завалена битым стеклом и фарфором. Из столовой убрали паркет, плинтусы были сняты, дверь сорвана с петель, а разрушители поднялись на этаж выше. Сквозь закрытые ставни проникали лучи света, и они работали с серьезностью созидателей – ведь разрушение, в конце концов, тоже является формой созидания. Какое-то воображение предвидело этот дом таким, каким он стал сейчас.
-
-Here is the revised text with the specified words replaced by more common alternatives:
-
-Вот исправленный текст, в котором указанные слова заменены более распространенными вариантами:
 
 Mike said, 'I've got to go home for dinner.'
 
@@ -3672,14 +3672,6 @@ Old Misery came limping off the common. He had mud on his shoes and he stopped t
 
 «В моем туалете с ним ничего не случится», — сказал мистер Томас, медленно спотыкаясь, идя по саду. «О, мои ревматисты», — сказал он. «Всегда болеют ими в праздничные дни. Мне нужно быть осторожным. Здесь падают камни. Дайте мне руку. Знаете, что сказал мой гороскоп вчера? «Воздержитесь от любых сделок в первой половине недели. Опасность серьезного краха». «Это может быть на этом пути», — сказал мистер Томас. «Они говорят притчами и двусмысленно». Он остановился у двери туалета. «Что там случилось?» — позвал он. Ответа не было.
 
-First, the uncommon noun "loo" needs a more common replacement. The most frequent synonym for a toilet is "bathroom," which fits the context and frequency ranking. Next, "lorry" can be swapped for "truck," a high-frequency term for a large vehicle. For "ventilation," "vent" is a shorter, more common word that preserves meaning. "Shutter" can become "blind," which is frequently used for window coverings. "Waver" can be replaced with "flicker," a common verb for unsteady light. "Burglar" is best replaced with "thief," a more general but highly frequent term. "Stealthy" can be changed to "quiet," which is simple and common. Finally, "carpentry" can be substituted with "woodwork," which is more frequently used and understood.
-
-Во-первых, редко встречающемуся существительному «туалет» нужна более распространенная замена. Наиболее частым синонимом туалета является «ванная комната», что соответствует контексту и частоте употребления. Далее, «грузовик» можно заменить на «грузовик», часто используемый термин для обозначения большого транспортного средства. Для «вентиляции» «вентиляция» — более короткое и распространенное слово, сохраняющее значение. «Стойка» может стать «жалюзи», часто используемым для обозначения оконных занавесок. «Волна» может быть заменена на «мерцание», распространенный глагол, обозначающий неустойчивый свет. «Взломщик» лучше всего заменить на «вор», более общий, но очень часто используемый термин. «Скрытный» можно заменить на «тихий», что является простым и распространенным вариантом. Наконец, «плотницкое дело» можно заменить на «работа по дереву», что используется чаще и понятнее.
-
-Applying these changes while keeping the paragraph structure intact yields:
-
-Применение этих изменений при сохранении неизменной структуры абзаца дает следующий результат:
-
 ‘Perhaps he’s fainted,’ the boy said.
 
 «Возможно, он потерял сознание», — сказал мальчик.
@@ -3850,27 +3842,27 @@ On Skate’s agenda was written:
 
 В повестке дня Skate было написано:
 
-\1.   Arising from the Minutes.
+\1. Arising from the Minutes.
 
 1. По итогам заседания.
 
-\2.   Pamphlet in Welsh on German labour conditions.
+\2. Pamphlet in Welsh on German labour conditions.
 
 2. Брошюра на валлийском языке о трудовых условиях в Германии.
 
-\3.   Facilities for Wilkinson to visit the ATS.
+\3. Facilities for Wilkinson to visit the ATS.
 
 3. Условия для посещения Уилкинсоном АТС.
 
-\4.   Objections to proposed Bone pamphlet.
+\4. Objections to proposed Bone pamphlet.
 
 4. Возражения против предложенной брошюры о костях.
 
-\5.   Suggestion for a leaflet from Meat Marketing Board.
+\5. Suggestion for a leaflet from Meat Marketing Board.
 
 5. Предложение по брошюре от Совета по маркетингу мяса.
 
-\6.   The Problem of India.
+\6. The Problem of India.
 
 6. Проблема Индии.
 
@@ -3960,7 +3952,7 @@ Craven came up past the Achilles statue in the thin summer rain. It was only jus
 
 All the way up the park he was reminded of passion, but you needed money for love. All that a poor man could get was lust. Love needed a good suit, a car, a flat somewhere, or a good hotel. It needed to be wrapped in cellophane. He was aware all the time of the stringy tie beneath the mackintosh, and the frayed sleeves: he carried his body about with him like something he hated. (There were moments of happiness in the British Museum reading-room, but the body called him back.) He bore, as his only sentiment, the memory of ugly deeds committed on park chairs. People talked as if the body died too soon – that wasn't the trouble, to Craven, at all. The body kept alive – and through the sparkling tinselly rain, on his way to a platform, he passed a little man in a black suit carrying a banner, 'The Body shall rise again.' He remembered a dream from which three times he had woken trembling: he had been alone in the huge dark cavernous burying ground of all the world. Every grave was connected to another under the ground: the globe was honeycombed for the sake of the dead, and on each occasion of dreaming he had discovered anew the horrifying fact that the body doesn't decay. There are no worms and dissolution. Under the ground the world was littered with masses of dead flesh ready to rise again with their warts and boils and eruptions. He had lain in bed and remembered – as 'tidings of great joy' – that the body after all was corrupt.
 
-Всю дорогу по парку ему напоминали о страсти, но для любви нужны деньги. Все, что мог получить бедняк, — это похоть. Для любви нужен был хороший костюм, машина, квартира где-нибудь или хороший отель. Она должна быть обернута в целлофан. Он постоянно ощущал торчащий галстук под плащом и потрепанные рукава: он носил свое тело с собой, словно нечто ненавидимое. (Бывали моменты счастья в читальном зале Британского музея, но тело звало его обратно.) Единственным его чувством была память о мерзких поступках, совершенных на парковых стульях. Люди говорили так, будто тело умерло слишком рано — для Крейвена это было совсем не проблемой. Тело продолжало жить — и сквозь сверкающий блестящий дождь, направляясь к платформе, он прошел мимо маленького человека в черном костюме, несущего транспарант: «Тело воскреснет». Он вспомнил сон, от которого трижды просыпался, дрожа: он был один в огромном темном пещерном кладбище всего мира. Каждая могила была соединена с другой под землей: земной шар был испещрен сотами ради мертвых, и каждый раз, когда ему снилось это, он заново открывал для себя ужасающий факт, что тело не разлагается. Нет ни червей, ни распада. Под землей мир был усеян массами мертвой плоти, готовой восстать из мертвых с бородавками, нарывами и изъязвлениями. Он лежал в постели и вспоминал – как «великую весть» – что тело все-таки развращено.
+Всю дорогу по парку ему напоминали о страсти, но для любви нужны деньги. Все, что мог получить бедняк, — это похоть. Для любви нужен был хороший костюм, машина, квартира где-нибудь или хороший отель. Она должна быть обернута в целлофан. Он постоянно ощущал торчащий галстук под плащом и потрепанные рукава: он носил свое тело с собой, словно нечто ненавидимое. (Бывали моменты счастья в читальном зале Британского музея, но тело звало его обратно.) Единственным его чувством была память о мерзких поступках, совершенных на парковых стульях. Люди говорили так, будто тело умерло слишком рано — для Крейвена это было совсем не проблемой. Тело продолжало жить — и сквозь сверкающий блестящий дождь, направляясь к платформе, он прошел мимо маленького человека в черном костюме, несущего транспарант : «Тело воскреснет». Он вспомнил сон, от которого трижды просыпался, дрожа: он был один в огромном темном пещерном кладбище всего мира. Каждая могила была соединена с другой под землей: земной шар был испещрен сотами ради мертвых, и каждый раз, когда ему снилось это, он заново открывал для себя ужасающий факт, что тело не разлагается. Нет ни червей, ни распада. Под землей мир был усеян массами мертвой плоти, готовой восстать из мертвых с бородавками, нарывами и изъязвлениями. Он лежал в постели и вспоминал – как «великую весть» – что тело все-таки развращено.
 
 He came up into the Edgware Road walking fast – the Guardsmen were out in couples, great languid elongated beasts – the bodies like worms in their tight trousers. He hated them, and hated his hatred because he knew what it was, envy. He was aware that every one of them had a better body than himself: indigestion creased his stomach: he felt sure that his breath was foul – but who could he ask? Sometimes he secretly touched himself here and there with scent: it was one of his ugliest secrets. Why should he be asked to believe in the resurrection of this body he wanted to forget? Sometimes he prayed at night (a hint of religious belief was lodged in his breast like a worm in a nut) that his body at any rate should never rise again.
 
@@ -4094,10 +4086,6 @@ The little man began to titter – knowingly. He was talking to himself again. I
 
 «Подумать только, они называют Каллен Мьюз Бейсуотер». Внезапно маленький человечек начал кашлять – повернув лицо к Крейвену и кашляя прямо на него: это было похоже на месть. Голос сказал: «Дай-ка посмотрю. Мой зонтик». Он поднимался.
 
-Here’s the text with the specified words replaced by more common alternatives:
-
-Вот текст, в котором указанные слова заменены более распространенными вариантами:
-
 ‘You didn’t have an umbrella.’
 
 «У тебя не было зонта».
@@ -4119,10 +4107,6 @@ Craven put down the receiver. He said to himself aloud, ‘Why should this happe
 Крейвен положил трубку. Он произнес вслух: «Почему это должно было случиться со мной? Почему именно со мной?» Он снова погрузился в ужас своего сна — грязная, темнеющая улица снаружи была лишь одним из бесчисленных туннелей, соединяющих могилы, где покоились вечные тела. Он сказал: «Это был сон, сон», и, наклонившись вперед, увидел в зеркале над телефоном свое лицо, покрытое мелкими каплями крови, словно влагой от парфюмерного спрея. Он начал кричать: «Я не сойду с ума. Я не сойду с ума. Я в здравом уме. Я не сойду с ума». Вскоре начала собираться небольшая толпа, и вскоре появился полицейский.
 
 ---
-
-This version maintains the original structure while using more common words.
-
-В этой версии сохранена исходная структура, но использованы более распространенные слова.
 
 # A Visit to Morin
 
@@ -4267,6 +4251,10 @@ _
 M. Morin drove with rough violence, wrenching at his gears, scraping the right-hand hedgerows as though the car were a new invention and he a courageous pioneer in its use. 'So you have read some of my books?' he asked.
 
 М. Морен ехал с грубой силой, резко переключая передачи, задевая правые живые изгороди, словно автомобиль был новым изобретением, а он — отважным первопроходцем в его использовании. «Значит, вы читали мои книги?» — спросил он.
+
+‘A great many, when I was a schoolboy …’
+
+«Очень много таких было, когда я был школьником…»
 
 'You mean they are fit only for children?'
 
@@ -4646,7 +4634,7 @@ He went slowly on turning his face to the window, though he could have seen noth
 
 'There was one man in particular; he was one of the two bakers in the town, the one my family did not patronize. I don't think any of the Catholics patronized him because he was called a free-thinker – an odd title, for, poor man, no one's thoughts were less free than his. He was hemmed in by his hatred – his hatred of us. He was very ugly to look at, with one wall-eye and a head the shape of a turnip, with the hair gone on the crown, and he was unmarried. He had no interests, apparently, but his baking and his hatred, though now that I am older I begin to see other sides of his nature – it did contain, perhaps, a certain furtive love. One would come across him suddenly, sometimes, on a country walk, especially if one was alone and it was Sunday. It was as though he rose from the ditches and the chalk smear on his clothes reminded one of the flour on his working overalls. He would have a stick in his hand and stab at the hedges, and if his mood were very black he would call out after you strange, abrupt words that were like a foreign tongue – I know the meaning of those words, of course, now. Once the police went to his house because of what a boy said he had seen, but nothing came of it except that the hate shackled him closer. His name was Blacker, and he terrified me.
 
-«Был один человек, в частности; он был одним из двух пекарей в городе, того, к кому моя семья не обращалась. Думаю, никто из католиков к нему не ходил, потому что его называли вольнодумцем – странное звание, ведь, бедняга, ни у кого мысли не были менее свободными, чем у него. Он был скован своей ненавистью – ненавистью к нам. Он был очень уродлив на вид, с одним косоглазым глазом и головой в форме репы, без волос на макушке, и он был холост. По-видимому, у него не было никаких интересов, кроме выпечки и ненависти, хотя теперь, когда я стал старше, я начинаю видеть другие стороны его натуры – в ней , возможно, присутствовала некая тайная любовь. Иногда его можно было встретить внезапно во время прогулки по сельской местности, особенно если ты был один и это было воскресенье. Казалось, он поднимался из канав, а меловые пятна на его одежде напоминали муку на его рабочем комбинезоне». Он держал в руке палку и тыкал ею в кусты, а если настроение у него было совсем мрачное, то выкрикивал вслед странные, отрывистые слова, похожие на слова на иностранном языке – значение этих слов я, конечно, теперь знаю. Однажды к нему домой приехала полиция из-за того, что, по словам одного мальчика, он видел, но ничего из этого не вышло, кроме того, что ненависть еще сильнее сковала его. Его звали Блэкер, и он меня ужасно пугал.
+«Был один человек, в частности; он был одним из двух пекарей в городе, того, к кому моя семья не обращалась. Думаю, никто из католиков к нему не ходил, потому что его называли вольнодумцем – странное звание, ведь, бедняга, ни у кого мысли не были менее свободными, чем у него. Он был скован своей ненавистью – ненавистью к нам. Он был очень уродлив на вид, с одним косоглазым глазом и головой в форме репы, без волос на макушке, и он был холост. По-видимому, у него не было никаких интересов, кроме выпечки и ненависти, хотя теперь, когда я стал старше, я начинаю видеть другие стороны его натуры – в ней, возможно, присутствовала некая тайная любовь. Иногда его можно было встретить внезапно во время прогулки по сельской местности, особенно если ты был один и это было воскресенье. Казалось, он поднимался из канав, а меловые пятна на его одежде напоминали муку на его рабочем комбинезоне». Он держал в руке палку и тыкал ею в кусты, а если настроение у него было совсем мрачное, то выкрикивал вслед странные, отрывистые слова, похожие на слова на иностранном языке – значение этих слов я, конечно, теперь знаю. Однажды к нему домой приехала полиция из-за того, что, по словам одного мальчика, он видел, но ничего из этого не вышло, кроме того, что ненависть еще сильнее сковала его. Его звали Блэкер, и он меня ужасно пугал.
 
 'I think he had a particular hatred of my father – I don't know why. My father was manager of the Midland Bank, and it's possible that at some time Blacker may have had unsatisfactory dealings with the bank – my father was a very cautious man who suffered all his life from anxiety about money – his own and other people's. If I try to picture Blacker now I see him walking along a narrowing path between high windowless walls, and at the end of the path stands a small boy of ten – me. I don't know whether it's a symbolic picture or the memory of one of our encounters – our encounters somehow got more and more frequent. You talked just now about the corruption of children. That poor man was preparing to revenge himself on everything he hated – my father, the Catholics, the God whom people persisted in crediting – by corrupting me. He had evolved a horrible and ingenious plan.
 
@@ -5288,22 +5276,6 @@ It occurred to her that she had never really been curious about another human be
 
 Ей вдруг пришло в голову, что она никогда по-настоящему не интересовалась другими людьми; она была влюблена в Чарли, но он вызывал у нее любопытство только в сексуальном плане, и она удовлетворяла его слишком быстро. Она спросила его: «Ты любишь свою сестру?»
 
-First, I need to identify the four target words and find appropriate replacements from the top 6000 most frequent English words. The adjective "eldest" can be replaced with "oldest," which is a common and clear alternative. The noun "bourbon" refers to a type of whiskey, and "whiskey" is both a high-frequency word and an accurate substitute. For "refrain," a word that often appears in song or poetry, "line" works as a simpler and more common synonym. Lastly, "tavern" is a somewhat old-fashioned term for a drinking establishment, and "bar" is both frequent and fits the context.
-
-Сначала мне нужно определить четыре целевых слова и найти подходящие замены среди 6000 наиболее часто употребляемых английских слов. Прилагательное «eldest» можно заменить на «oldest», что является распространенной и понятной альтернативой. Существительное «bourbon» обозначает вид виски, а «whiskey» — это одновременно и часто употребляемое слово, и точная замена. Для слова «refrain», которое часто встречается в песнях или поэзии, «line» подходит в качестве более простого и распространенного синонима. Наконец, «tavern» — это несколько старомодный термин для питейного заведения, а «bar» — это одновременно часто употребляемое слово, подходящее к контексту.
-
-Next, I need to ensure that the replacements maintain the original meaning and tone of the text. The word "oldest" keeps the familial hierarchy clear, "whiskey" preserves the drink's identity, "line" works in the poetic context, and "bar" fits the setting of the scene.
-
-Далее мне нужно убедиться, что замененные слова сохраняют первоначальный смысл и тон текста. Слово «старейший» четко указывает на семейную иерархию, «виски» сохраняет индивидуальность напитка, «строка» уместно в поэтическом контексте, а «бар» соответствует обстановке сцены.
-
-After making these substitutions, I'll read through the paragraph to ensure the flow and coherence remain intact, confirming that the replacements don't introduce any awkwardness or confusion.
-
-После внесения этих замен я прочту абзац, чтобы убедиться в сохранении связности и логичности изложения, а также подтвердить, что замены не вносят неловкости или путаницы.
-
-Here's the final version with the replacements:
-
-Вот окончательная версия с внесенными изменениями:
-
 ‘Yes, of course, why? How do you know I’ve got a sister?’
 
 «Да, конечно, а почему? Откуда ты знаешь, что у меня есть сестра?»
@@ -5914,22 +5886,6 @@ They were half an hour late the next day for their reservation, and the manager 
 
 «Но им нравится этот стол, — сказал Артур Бертон, — и я обещал им его занять». Он добавил: «Они добрые, хорошие люди», но, вероятно, ему пришлось бы уступить дорогу, если бы они в тот момент не приехали.
 
-First, it makes sense to tackle the more common of the two words. "Evasiveness" can be replaced with "avoidance" or "reluctance," both of which are well within the top 6000 and convey the idea of not being forthcoming. For "emanation," which is more literary and less frequent, a straightforward synonym like "sign" or "sense" works well, especially since it's being used to describe a feeling or impression.
-
-Во-первых, имеет смысл рассмотреть более распространенное из двух слов. «Уклончивость» можно заменить словами «избегание» или «нежелание», оба из которых входят в число 6000 наиболее часто употребляемых и передают идею неискренности. Для слова «эманация», которое звучит более литературно и встречается реже, хорошо подойдет простой синоним, например, «знак» или «чувство», особенно если оно используется для описания чувства или впечатления.
-
-In the first case, "the evasiveness of his doctor" can become "the avoidance of his doctor," which keeps the tone intact. In the second, "an emanation of shame" can be "a sign of shame," which is simpler but still carries the intended meaning.
-
-В первом случае «уклончивость его врача» может быть заменена на «избегание его врача», что сохраняет тон. Во втором случае «излучение стыда» может быть заменено на «признак стыда», что проще, но всё ещё передаёт предполагаемый смысл.
-
-Everything else can stay as it is—the structure and flow of the paragraph remain unchanged, and the replacements fit naturally into the narrative.
-
-Всё остальное может остаться как есть — структура и ход абзаца остаются неизменными, а замены органично вписываются в повествование.
-
-Final output:
-
-Итоговый результат:
-
 ‘Oh, I’m so sorry, Arthur, we are terribly late.’ He was touched that she had remembered his name. ‘It was the Sales, Arthur. We got involved.’
 
 «О, мне так жаль, Артур, мы ужасно опоздали». Он был тронут тем, что она вспомнила его имя. «Это были Сэйлз, Артур. Мы вмешались».
@@ -6244,7 +6200,7 @@ So Herr Puckler gave him the whole row of names, beginning with Herr Schmidt. �
 
 ‘I’ll put a policeman on the case,’ the Superintendent said half-heartedly, so now at night there were two men looking around to find where the six had their meeting-place. The policeman was a simple man who began by asking direct questions, but he had been seen several times in the company of Puckler, so the six assumed quickly enough that he was trying to track them down on Puckler’s behalf and they became more careful than ever to avoid discovery. They stocked up Herr Braun’s cellar with wine, and they took elaborate precautions not to be seen entering – each one sacrificed a night’s drinking in order to lead Herr Puckler and the policeman astray. Nor could they confide in their wives for fear that it might come to the ears of Frau Puckler, so they pretended the scheme had not worked and it was every man for himself again now in drinking. That meant they had to tell a lot of lies if they failed to be the first home – and so, my father said, sin began to enter in.
 
-«Я поручу это дело полицейскому», — без особого энтузиазма сказал начальник, и теперь по ночам двое мужчин осматривались, пытаясь найти место встречи шестерых. Полицейский был простым человеком, который начал с прямых вопросов, но его несколько раз видели в компании Паклера , поэтому шестеро довольно быстро предположили, что он пытается выследить их по поручению Паклера, и стали еще осторожнее, чтобы избежать разоблачения. Они заполнили погреб герра Брауна вином и приняли сложные меры, чтобы их не видели входящими — каждый пожертвовал одной ночью выпивки, чтобы сбить с пути герра Паклера и полицейского. Они также не могли довериться своим женам, опасаясь, что это может дойти до фрау Паклер, поэтому они притворились, что план не сработал и теперь каждый сам за себя в выпивке. Это означало, что им приходилось много лгать, если они не вернутся домой первыми — и поэтому, как сказал мой отец, в их жизнь начал входить грех.
+«Я поручу это дело полицейскому», — без особого энтузиазма сказал начальник, и теперь по ночам двое мужчин осматривались, пытаясь найти место встречи шестерых. Полицейский был простым человеком, который начал с прямых вопросов, но его несколько раз видели в компании Паклера, поэтому шестеро довольно быстро предположили, что он пытается выследить их по поручению Паклера, и стали еще осторожнее, чтобы избежать разоблачения. Они заполнили погреб герра Брауна вином и приняли сложные меры, чтобы их не видели входящими — каждый пожертвовал одной ночью выпивки, чтобы сбить с пути герра Паклера и полицейского. Они также не могли довериться своим женам, опасаясь, что это может дойти до фрау Паклер, поэтому они притворились, что план не сработал и теперь каждый сам за себя в выпивке. Это означало, что им приходилось много лгать, если они не вернутся домой первыми — и поэтому, как сказал мой отец, в их жизнь начал входить грех.
 
 One night too, Herr Schmidt, who happened to be the decoy, led Herr Puckler on a long walk into the suburbs, and then seeing an open door and a light burning in the window with a comforting red glow and being by that time very dry in the mouth, he mistook the house in his distress for a quiet inn and walked inside. He was warmly welcomed by a stout lady and shown into a parlor, where he expected to be served with wine. Three young ladies sat on a sofa in various stages of undress and greeted Herr Schmidt with giggles and warm words. Herr Schmidt was afraid to leave the house at once, in case Puckler was lurking outside, and while he hesitated the stout lady entered with a bottle of champagne on ice and a number of glasses. So for the sake of the drink (though champagne was not his preference – he would have liked the local wine) he stayed, and thus out of secrecy, my father said, came the second sin. But it didn’t end there with lies and fornication.
 
@@ -6282,113 +6238,113 @@ Inquiry into the Secret Meetings held in the Cellar of Herr Braun’s House at 2
 
 Расследование тайных встреч, проходивших в подвале дома господина Брауна по адресу: улица 27. Следователь подслушал следующий диалог.
 
-| MULLER:             | If the rain keeps off another month, the wine  harvest will be better than last year. |
+| MULLER: | If the rain keeps off another month, the wine harvest will be better than last year. |
 
 | МЮЛЛЕР: | Если дожди не пойдут ещё месяц, урожай вина будет лучше, чем в прошлом году. |
 
 | ------------------- | ------------------------------------------------------------ |
 
-| UNIDENTIFIED VOICE: | Ugh.                                                         |
+| UNIDENTIFIED VOICE: | Ugh. |
 
 | НЕИЗВЕСТНЫЙ ГОЛОС: | Уф. |
 
-| SCHMIDT:            | They say the postman nearly broke his ankle  last week. Slipped on a step. |
+| SCHMIDT: | They say the postman nearly broke his ankle last week. Slipped on a step. |
 
 ШМИДТ: Говорят, на прошлой неделе почтальон чуть не сломал лодыжку. Поскользнулся на ступеньке.
 
-| BRAUN:              | I remember sixty-one vintages.                               |
+| BRAUN: | I remember sixty-one vintages. |
 
 | Браун: | Я помню шестьдесят один урожай. |
 
-| DOBEL:              | Time for a pasty.                                            |
+| DOBEL: | Time for a pasty. |
 
 | ДОБЕЛЬ: | Пора съесть пирожок. |
 
-| UNIDENTIFIED VOICE: | Ugh.                                                         |
+| UNIDENTIFIED VOICE: | Ugh. |
 
 | НЕИЗВЕСТНЫЙ ГОЛОС: | Уф. |
 
-| MULLER:             | Call in that cow.                                            |
+| MULLER: | Call in that cow. |
 
 МЮЛЛЕР: | Позови эту корову. |
 
-|                     | The investigator was summoned and left a tray  of pasties.   |
+| | The investigator was summoned and left a tray of pasties. |
 
 Следователя вызвали, и он оставил поднос с пирожками.
 
-| BRAUN:              | Careful. They are hot.                                       |
+| BRAUN: | Careful. They are hot. |
 
 | Браун: | Осторожно. Они горячие. |
 
-| SCHMIDT:            | This one’s burnt to a cinder.                                |
+| SCHMIDT: | This one’s burnt to a cinder. |
 
 ШМИДТ: Этот сгорел дотла.
 
-| DOBEL:              | Uneatable.                                                   |
+| DOBEL: | Uneatable. |
 
 | ДОБЕЛЬ: | Несъедобно. |
 
-| KASTNER:            | Better sack her before worse happens.                        |
+| KASTNER: | Better sack her before worse happens. |
 
 | КАСТНЕР: | Лучше уволить её, пока не случилось худшего. |
 
-| BRAUN:              | She’s paid till the end of the week. We’ll give  her till then. |
+| BRAUN: | She’s paid till the end of the week. We’ll give her till then. |
 
 | Браун: | Ей заплатили до конца недели. Мы дадим ей зарплату до этого времени. |
 
-| MULLER:             | It was fourteen degrees at midday.                           |
+| MULLER: | It was fourteen degrees at midday. |
 
 МЮЛЛЕР: | В полдень было четырнадцать градусов. |
 
-| DOBEL:              | The town-hall clock’s fast.                                  |
+| DOBEL: | The town-hall clock’s fast. |
 
 | ДОБЕЛЬ: | Часы в ратуше спешат. |
 
-| SCHMIDT:            | Do you remember that dog the mayor had with  black spots?    |
+| SCHMIDT: | Do you remember that dog the mayor had with black spots? |
 
 ШМИДТ: Вы помните ту собаку мэра с черными пятнами?
 
-| UNIDENTIFIED VOICE: | Ugh.                                                         |
+| UNIDENTIFIED VOICE: | Ugh. |
 
 | НЕИЗВЕСТНЫЙ ГОЛОС: | Уф. |
 
-| KASTNER:            | No, why?                                                     |
+| KASTNER: | No, why? |
 
 | КАСТНЕР: | Нет, а почему? |
 
-| SCHMIDT:            | I can’t remember.                                            |
+| SCHMIDT: | I can’t remember. |
 
 ШМИДТ: Я не помню.
 
-| MULLER:             | When I was a boy we had plum-duff they never  make now.      |
+| MULLER: | When I was a boy we had plum-duff they never make now. |
 
 | МЮЛЛЕР: | Когда я был мальчиком, мы ели сливовый пудинг, который сейчас уже никто не делает. |
 
-| DOBEL:              | It was the summer of ’87.                                    |
+| DOBEL: | It was the summer of ’87. |
 
 | ДОБЕЛЬ: | Это было лето 1987 года. |
 
-| UNIDENTIFIED VOICE: | What was?                                                    |
+| UNIDENTIFIED VOICE: | What was? |
 
 | НЕИЗВЕСТНЫЙ ГОЛОС: | Что это было? |
 
-| MULLER:             | The year Mayor Kalnitz died.                                 |
+| MULLER: | The year Mayor Kalnitz died. |
 
 | МЮЛЛЕР: | Год смерти мэра Кальница. |
 
-| SCHMIDT:            | ’88.                                                         |
+| SCHMIDT: | ’88. |
 
 | ШМИДТ: | '88. |
 
-| MULLER:             | There was a hard frost.                                      |
+| MULLER: | There was a hard frost. |
 
 Мюллер: Был сильный мороз.
 
-| DOBEL:              | Not as hard as ’86.                                          |
+| DOBEL: | Not as hard as ’86. |
 
 | ДОБЕЛЬ: | Не так сложно, как в 86-м. |
 
-| BRAUN:              | That was a shocking year for wine.                           |
+| BRAUN: | That was a shocking year for wine. |
 
 | Браун: | Это был шокирующий год для виноделия. |
 
@@ -6514,7 +6470,7 @@ Puckler knocked on the door and the policeman stood just behind him, enormous in
 
 Puckler, who had been hit on the shoulder with a rolling-pin, did not at first run away. He had his moment of courage or confusion. But when the frying-pan he had used for pies struck him, he turned too late to follow the policeman. It was then that he was struck on the head with a chamber-pot and lay in the street with the pot fitting over his head like a vizor. They had to break it with a hammer to get it off, and by that time he was dead, whether from the blow on the head or the fall or from fear or from being stifled by the chamber-pot nobody knew, though suffocation was the general opinion. Of course there was an inquiry which went on for many months into the existence of an anarchist plot, and before the end of it the Superintendent had become secretly engaged to Frau Puckler, for which nobody blamed her, for she was a popular woman – except my father who resented the secrecy of it all. (He suspected that the Superintendent’s love for Frau Puckler had extended the inquiry, since he pretended to believe her husband’s accusations.)
 
-Паклер, получивший удар скалкой по плечу, сначала не убежал. У него был момент храбрости или растерянности. Но когда его ударила сковорода, которой он жарил пироги, он слишком поздно повернулся, чтобы догнать полицейского. Тогда его ударили по голове ночным горшком, и он лежал на улице с горшком, надетым на голову как забрало. Чтобы снять его, пришлось разбить его молотком, и к тому времени он был мертв. От удара по голове, падения, страха или удушья ночным горшком — никто не знал, хотя все считали, что это было удушение . Конечно, много месяцев продолжалось расследование по факту анархистского заговора, и до его окончания суперинтендант тайно обручился с фрау Паклер, за что ее никто не винил, потому что она была популярной женщиной — кроме моего отца, которого возмущала вся эта секретность. (Он подозревал, что любовь суперинтенданта к фрау Пуклер затянула расследование, поскольку тот делал вид, что верит обвинениям ее мужа.)
+Паклер, получивший удар скалкой по плечу, сначала не убежал. У него был момент храбрости или растерянности. Но когда его ударила сковорода, которой он жарил пироги, он слишком поздно повернулся, чтобы догнать полицейского. Тогда его ударили по голове ночным горшком, и он лежал на улице с горшком, надетым на голову как забрало. Чтобы снять его, пришлось разбить его молотком, и к тому времени он был мертв. От удара по голове, падения, страха или удушья ночным горшком — никто не знал, хотя все считали, что это было удушение. Конечно, много месяцев продолжалось расследование по факту анархистского заговора, и до его окончания суперинтендант тайно обручился с фрау Паклер, за что ее никто не винил, потому что она была популярной женщиной — кроме моего отца, которого возмущала вся эта секретность. (Он подозревал, что любовь суперинтенданта к фрау Пуклер затянула расследование, поскольку тот делал вид, что верит обвинениям ее мужа.)
 
 Technically, of course, it was murder – death arising from an illegal assault – but the courts after about six months cleared the six men. ‘But there’s a greater court,’ my father would always end his story, ‘and in that court the sin of murder never goes unpunished. You begin with a secret,’ and he would look at me as though he knew my pockets were stuffed with them, as indeed they were, including the note I intended to pass the next day at school to the yellow-haired girl in the second row, ‘and you end with every sin in the calendar.’ He began to recount them over again for my benefit. ‘Lies, drunkenness, adultery, scandal-bearing, murder, the subornation of authority.’
 
@@ -6658,10 +6614,6 @@ Their conversation was mainly on the subject of Flaubert about whom the woman wa
 
 Их разговор в основном касался Флобера, о котором женщина писала книгу. Конечно, мне пришло в голову, что Флобер мог быть псевдонимом третьего агента, а мадам Бовари — ещё одного. Они даже не пытались говорить тише.
 
-Here’s the revised text with the specified words replaced by more common alternatives:
-
-Вот исправленный текст, в котором указанные слова заменены более распространенными вариантами:
-
 ‘It’s very good of you to see me,’ the woman told him. ‘I have used your great work on Flaubert a lot, and it’s very kind of you to allow me to quote from it.’
 
 «Очень приятно, что вы меня видите, — сказала ему женщина. — Я много раз использовала ваш замечательный труд о Флобере, и очень любезно с вашей стороны разрешить мне процитировать его».
@@ -6723,10 +6675,6 @@ In the taxi, I looked more closely at the cigarette. There was an odd feeling in
 В такси я внимательнее рассмотрел сигарету. В центре ощущалось что-то странное — табак как будто затвердел, а на одном конце — паста как будто помялась. Я старался не трогать её пальцами. Она уже побывала в трёх руках и немного промокла после посещения туалета — казалось, для всего этого было достаточно оснований. Тем не менее, на курсах меня учили передавать любой предмет, каким бы незначительным он ни был, принадлежащий подозреваемому, и я сделал это, как только добрался до офиса Международного путеводителя по хорошим ресторанам. Затем я сел писать отчёт, и инстинкт подсказал мне приложить к нему эту грязную сигарету.
 
 ---
-
-This version replaces the specified words with more common alternatives while maintaining the original structure and meaning.
-
-В этой версии указанные слова заменены более распространенными альтернативами, при этом сохраняется исходная структура и смысл.
 
 _
 
@@ -6917,10 +6865,6 @@ I went outside and to my surprise saw my fellow watcher pretending interest in a
 «В этот раз мы определенно все испортили».
 
 _
-
-Here is the revised text with the specified words replaced by more common alternatives:
-
-Вот исправленный текст, в котором указанные слова заменены более распространенными вариантами:
 
 That was exactly what my boss said when I reported to him. 'You've badly messed things up. You should never have left the restaurant before him. Even for a minute.'
 
@@ -7381,10 +7325,6 @@ It was the biggest protest he had ever allowed himself to make against the condi
 # Church Militant
 
 # Воинствующая Церковь
-
-Here is the revised text with the specified words replaced by more common alternatives from the top 6000 by frequency of use:
-
-Ниже приведён исправленный текст, в котором указанные слова заменены более распространёнными вариантами из списка 6000 наиболее часто употребляемых слов:
 
 As we drove out of the reservation in Father Donnell's old rundown car of a jeep we passed the Archbishop in his Cadillac. It came to rest a few yards off, between the rows of coffee plants. 'If we hadn't stopped at your friend's after lunch,' Father Donnell complained, putting on his brakes, 'we'd have missed him altogether.' He got unwillingly out and went over to the Archbishop who sat at the wheel. The back of the car was full of women in strange, grey clothes on which were sewn grey linen crosses.
 
@@ -7982,10 +7922,6 @@ He said, ‘Ah, Mr Hands, another passport photograph?’
 
 «О, — сказал Хэндс, — конечно, есть слоновая кость. И бриллианты. Золото… На случай чрезвычайной ситуации с тобой должны быть люди, которым ты можешь доверять». Казалось, он задумался над фактом — «Старый Колли». Наконец-то у него появилась аудитория: во внутренней комнате он едва мог разглядеть лицо девушки, которая слушала. Лицо у нее было не очень красивым, и она была не очень молода. Ему хотелось бы чего-то получше, но это была аудитория. «В тех краях есть возможности для человека, который знает туземцев».
 
-Here’s the revised text with the specified words replaced by more common terms from the top 6000 most frequently used words:
-
-Вот исправленный текст, в котором указанные слова заменены более распространенными терминами из списка 6000 наиболее часто употребляемых слов:
-
 ‘They – take handling, I suppose?’ Millet said.
 
 «Они, наверное, требуют бережного обращения?» — сказал Миллет.
@@ -8054,7 +7990,7 @@ Hands exchanged greetings with a four-year-old photograph: Mr Danvers hadn't cha
 
 'I've got just the man to send with you,' he said. 'A very trustworthy boy. I want to do him a good turn. His name's Morrow. You'll need someone else too.' The lights came out all over Liverpool: they said Booth's for the Teeth and Codling's Cough Cure: a gull fell out of the sky past a huge glass of harvest burgundy, rose and turned and made for the Mersey. A siren wailed and wailed and Hands said with a touch of bewilderment, loneliness and horror, 'There's a man called Colley. We know each other … I'd like to take him too.' There were things he couldn't understand: everything had gone too easily: he might have been selling a gold brick in the Strand to an Australian. He said with bewilderment, 'I thought you'd need to see …'
 
-«У меня есть как раз тот человек, которого я могу вам передать», — сказал он. «Очень надёжный парень. Я хочу оказать ему услугу. Его зовут Морроу. Вам понадобится ещё кто-нибудь». По всему Ливерпулю погас свет: появились надписи «Бутс за зубы» и «Лекарство от кашля Кодлинга»; чайка спустилась с неба мимо огромного бокала бургундского вина урожая, поднялась, повернулась и направилась к Мерси. Сирена завыла и завыла, и Хэндс с оттенком недоумения, одиночества и ужаса сказал: «Есть человек по имени Колли. Мы знакомы … Я бы хотел взять его с собой». Были вещи, которые он не мог понять: всё прошло слишком легко: он словно продавал золотой слиток на Стрэнде австралийцу. Он с недоумением сказал: «Я думал, вам нужно будет увидеть…»
+«У меня есть как раз тот человек, которого я могу вам передать», — сказал он. «Очень надёжный парень. Я хочу оказать ему услугу. Его зовут Морроу. Вам понадобится ещё кто-нибудь». По всему Ливерпулю погас свет: появились надписи «Бутс за зубы» и «Лекарство от кашля Кодлинга»; чайка спустилась с неба мимо огромного бокала бургундского вина урожая, поднялась, повернулась и направилась к Мерси. Сирена завыла и завыла, и Хэндс с оттенком недоумения, одиночества и ужаса сказал: «Есть человек по имени Колли. Мы знакомы… Я бы хотел взять его с собой». Были вещи, которые он не мог понять: всё прошло слишком легко: он словно продавал золотой слиток на Стрэнде австралийцу. Он с недоумением сказал: «Я думал, вам нужно будет увидеть…»
 
 ‘We’ve already had samples of it,’ Mr Danvers said, ‘from another source. A Dutchman. Poor fellow he died – of yellow fever. That’s why your letter seemed so timely. We want – the torch handed on.’
 
@@ -8108,7 +8044,7 @@ Flower scent and petrol and the smoke from Pimlico chimneys, the vague spring ai
 
 He too apparently was going north, an elderly man bound (he wanted to show it in his manner) on important business to do with Diesel engines, but not quite important enough to pay his fare by train. None of them in the coach was of that importance; a priest sat in the very front seat where he would see nothing but night pressing up against the windshield: he was a heavy young-old man with a little black bag in the rack and an umbrella: he was prepared to sit quiet all the night long reading in a book of devotion; the important man sat with a thin shabby clerk-like companion and talked in a loud voice about the Diesel engines.
 
-Он тоже, по всей видимости, направлялся на север, пожилой мужчина, связанный (он хотел это показать своим поведением) важным делом, касающимся дизельных двигателей, но недостаточно важным, чтобы оплатить проезд поездом . Никто из пассажиров вагона не имел такого значения; священник сидел на самом переднем сиденье, откуда ему ничего не было видно, кроме ночи, прижимающейся к лобовому стеклу; это был крупный мужчина, молодой старик, с маленькой черной сумкой на багажнике и зонтом; он был готов всю ночь молча сидеть, читая книгу для молитв; важный человек сидел с худым, потрепанным, похожим на клерка спутником и громко говорил о дизельных двигателях.
+Он тоже, по всей видимости, направлялся на север, пожилой мужчина, связанный (он хотел это показать своим поведением) важным делом, касающимся дизельных двигателей, но недостаточно важным, чтобы оплатить проезд поездом. Никто из пассажиров вагона не имел такого значения; священник сидел на самом переднем сиденье, откуда ему ничего не было видно, кроме ночи, прижимающейся к лобовому стеклу; это был крупный мужчина, молодой старик, с маленькой черной сумкой на багажнике и зонтом; он был готов всю ночь молча сидеть, читая книгу для молитв; важный человек сидел с худым, потрепанным, похожим на клерка спутником и громко говорил о дизельных двигателях.
 
 Colley picked his way down the centre of the coach to the only empty pair of seats. An elderly woman with a basket of sandwiches and bananas explained to a younger one, ‘You got to be prepared for trouble when Ted knows.’ A pack of young men (perhaps they were a football team) had filled the back seats with suitcases and paper bags: they blocked the door shouting with laughter. They were being seen off by two men with grey moustaches and tweed caps who kept on repeating, ‘You boys remember—’: and the young men slapped them on the back and tried to punch them in the ribs and said, ‘You bet.’ They had been drinking a little; when a whistle blew and they turned back into the gangway the coach was scented with their stale beery breath. Nobody else could get at the door: a young man outside pressed a pale miserable face to the glass, scratching with his fingernails, trying to convey some sense of tenderness and assurance to a girl in black who had been crying. She couldn’t get the window down to speak to him; she looked towards the door, but ‘You boys remember—’ the men outside said, and something about ‘Keep on the ball.’ Colley leant across a schoolboy and pulled down her window. She didn’t thank him, nor did the young man, the whistle had blown, they had no time, they leant towards each other with urgent messages they hadn’t time to speak as the bus ground out between the white lines, swung round past the milk-bar and the fruit machines. ‘What ho, she bumps,’ the young men shouted, coming up the gangway. You could tell that they too were not important enough for the railway fare. They weren’t a League team.
 
@@ -8485,18 +8421,6 @@ Hands laughed – uneasily.
 "You couldn't do better than Vandi for head man, but you'll get the carriers cheaper on the other side." He poured out more brandy. "I wish I were you. The bush is better than this place. You work and work – and then B. Moss gets the call."
 
 «Лучшего начальника, чем Ванди, не найти, но зато с другой стороны курьеров найдут дешевле». Он налил еще бренди. «Как бы я хотел быть на твоем месте. В глуши лучше, чем здесь. Работаешь и работаешь – а потом звонят Б. Моссу».
-
-First, it makes sense to identify the words that need to be swapped out for more common alternatives. Some are straightforward: "prig" could be "snob," "brandy" might become "whiskey" or "liquor," and "nigger" would be "Black person" in modern usage. For verbs like "sneer," "pamper," and "clink," more common choices could be "scoff," "spoil," and "rattle." Adjectives like "vain" could be "pointless," "glaring" could be "bright," and "limp" could be "damp." "Buzzard" could be "vulture," "thirst" could be "craving," and "perspiration" could be "sweat." For the repeated "papa," "father" or "dad" works well. "Idol" could be "figure" or "symbol," and "limp" as an adjective could be "damp."
-
-Во-первых, имеет смысл определить слова, которые нужно заменить более распространенными альтернативами. Некоторые из них очевидны: «придурок» можно заменить на «сноб», «бренди» — на «виски» или «ликер», а «ниггер» в современном употреблении будет «чернокожий». Для глаголов типа «насмехаться», «баловать» и «звенеть» более распространенными вариантами могут быть «насмехаться», «портить» и «греметь». Прилагательные типа «тщеславный» можно заменить на «бессмысленный», «взглядящий» — на «яркий», а «вялый» — на «влажный». «Стервятник» можно заменить на «стервятник», «жажда» — на «жажда», а «пот» — на «пот». Для повторяющегося «папа» хорошо подойдут «отец» или «папа». «Кумир» можно заменить на «фигура» или «символ», а «вялый» как прилагательное — на «влажный».
-
-Once those substitutions are made, the paragraph structure can remain intact. The tone and rhythm of the original should be preserved as much as possible, just with more common vocabulary. For example, "prig" becomes "snob," "brandy" becomes "whiskey," "sneer" becomes "scoff," "pamper" becomes "spoil," and so on. The repeated "papa" can be changed to "father" or "dad" depending on context.
-
-После внесения этих замен структура абзаца может остаться неизменной. Тон и ритм оригинала следует сохранить по возможности, просто используя более распространенную лексику. Например, «придурок» становится «снобом», «бренди» становится «виски», «насмешка» становится «насмешкой», «баловать» становится «испортить» и так далее. Повторяющееся «папа» можно заменить на «отец» или «папа» в зависимости от контекста.
-
-Applying these changes, the text becomes:
-
-После внесения этих изменений текст приобретает следующий вид:
 
 ‘Why don’t you come? Colley’s all right, of course, but I want someone I can really trust.’ He said with importance. ‘A leader has the hell of a lot of responsibility.’
 
@@ -8987,14 +8911,6 @@ Wilditch took a second glass of brandy and asked tentatively, 'Do you remember m
 'Oh no, not then. Naturally she had to keep a front before the children. But when I inherited the place – you were in Africa – she warned Mary and me about the difficulties. She had very decided views, you know, about any mysteries, and that turned her against the garden. Too much shrubbery, she said. She wanted everything to be very clear. Early Fabian training, I dare say.'
 
 «О нет, только не тогда. Естественно, ей приходилось держать себя в руках перед детьми. Но когда я унаследовал это место — вы были в Африке — она предупредила меня и Мэри о трудностях. У нее были очень твердые убеждения, знаете ли, по поводу любых тайн, и это настроило ее против сада. Слишком много кустарника, говорила она. Она хотела, чтобы все было предельно ясно. Можно сказать, что это было раннее фабианское воспитание».
-
-First, I need to swap out each specified word with a more common one, keeping the meaning intact while staying within the top 6000 by frequency. For "morbid," a plain "strange" or "odd" fits; for "brandy," something like "drink" works. "Yawn" can become "stretch," "flush" (noun) as "handle," "plumber" as "worker," "flush" (adjective) as "full," "splinter" as "gleam," "laurel" as "bush," "discordant" as "mixed," "murmur" as "noise," "churchgoer" as "worshiper," "bedside" as "night," "bookcase" as "shelf," "bookseller" as "seller," and "apprenticeship" as "training."
-
-Во-первых, мне нужно заменить каждое указанное слово на более распространенное, сохранив при этом его значение и оставаясь в числе 6000 наиболее часто употребляемых слов. Для слова «morbid» подойдут простые «strange» или «odd»; для слова «brandy» подойдет что-то вроде «drink». «Yawn» может стать «stretch», «flush» (существительное) — «handle», «plumber» — «worker», «flush» (прилагательное) — «full», «splinter» — «gleam», «laurel» — «bush», «discordant» — «mixed», «murmur» — «noise», «churchgoer» — «worshiper», «bedside» — «night», «bookcase» — «shelf», «bookseller» — «seller», а «apprenticeship» — «training».
-
-Applying these, the text becomes:
-
-Применив эти принципы, текст принимает следующий вид:
 
 ‘It’s odd. I don’t seem to have known her very well.’
 
@@ -9752,14 +9668,6 @@ I sat on the golden seat and looked at the photograph and listened to Javitt as 
 
 _
 
-The first step was to identify which words needed replacing and their parts of speech. Then, by checking a frequency list of the top 6000 words, I found suitable, more common alternatives that would fit naturally into the text without altering its meaning or flow. Some words had multiple possible replacements, so I chose the ones that felt most natural in context. Once the substitutions were made, I reviewed the paragraph to ensure it still read smoothly and maintained its original tone.
-
-Первым шагом было определение слов, которые нуждались в замене, и их частей речи. Затем, проверив частотный список из 6000 наиболее часто употребляемых слов, я нашел подходящие, более распространенные альтернативы, которые органично вписывались бы в текст, не изменяя его смысла или связности. Для некоторых слов существовало несколько вариантов замены, поэтому я выбрал те, которые казались наиболее естественными в контексте. После внесения замен я проверил абзац, чтобы убедиться, что он по-прежнему читается плавно и сохраняет свой первоначальный тон.
-
-Final text:
-
-Заключительный текст:
-
 ‘You laugh at Maria and me. You think we look ugly. I tell you she could have been painted if she had chosen by some of the greatest – there’s one that painted women with three eyes – she’d have suited him. But she knew how to tunnel in the earth like me, when to appear and when not to appear. It’s a long time now that we’ve been alone down here. It gets more dangerous all the time – if you can speak of time – on the upper floor. But don’t think it hasn’t happened before. But when I remember …’ But what he remembered has gone from my head, except only his concluding phrase and a sense of emptiness: ‘Looking round at all those palaces and towers, you’d have thought they’d been made like a child’s castle of the desert-sand.
 
 «Вы смеетесь над Марией и мной. Вы думаете, что мы уродливы. Поверьте, ее могли бы написать, если бы захотел кто-нибудь из величайших – есть один, который писал женщин с тремя глазами – она бы ему подошла. Но она умела рыть норы в земле, как и я, знала, когда появляться, а когда нет. Мы уже давно одни здесь, внизу. На верхнем этаже становится все опаснее – если вообще можно говорить о времени. Но не думайте, что такого раньше не случалось. Но когда я вспоминаю…» Но то, что он помнил, исчезло из моей головы, кроме его заключительной фразы и чувства пустоты: «Глядя на все эти дворцы и башни, можно было подумать, что они построены как детский замок из пустынного песка».
@@ -9776,13 +9684,9 @@ Final text:
 
 «Вы поймете, что я имею в виду, когда займетесь любовью с девушкой. Время измеряется не часами. Время бежит или тянется медленно, или же останавливается на какое-то время. Одна минута отличается от каждой другой. Когда вы занимаетесь любовью, время измеряется пульсацией в половом органе мужчины, а когда вы кончаете, времени вообще нет. Вот как приходит и уходит время, а не по будильнику, сделанному мужчиной со стеклом в глазу. Разве вы никогда не слышали, чтобы там наверху говорили: «Время…» — и он снова использовал слово, которое, как я догадался, было запретным, как и его имя, возможно, потому что оно тоже обладало силой.
 
-‘I dare say you are wondering how Maria and me could make a beautiful girl like that one. That’s an illusion people have about beauty. Beauty doesn’t come from beauty. All that beauty can produce is prettiness. Have you never looked around upstairs and counted the beautiful women with their pretty daughters? Beauty diminishes all the time, it’s the law of diminishing returns, and only when you get back to zero, to the real ugly base of things, there’s a chance to start again free and independent. Painters who paint what they call ugly things know that. I can still see that little head with its cap of blonde hair coming out from between Maria’s thighs and how she leapt out of Maria in a jerk (there wasn’t any doctor down here or nurse to give her a name and rob her of power – and she’s Miss Ramsgate to you and to the whole world upstairs). Ugliness and beauty; you see it in war too; when there’s nothing left of a house but a couple of pillars against the sky, the beauty of it starts all over again like before the builder ruined it. Perhaps when Maria and I go up there next, there’ll only be pillars left, sticking up around the flattened world like it was hell.’
+‘I dare say you are wondering how Maria and me could make a beautiful girl like that one. That’s an illusion people have about beauty. Beauty doesn’t come from beauty. All that beauty can produce is prettiness. Have you never looked around upstairs and counted the beautiful women with their pretty daughters? Beauty diminishes all the time, it’s the law of diminishing returns, and only when you get back to zero, to the real ugly base of things, there’s a chance to start again free and independent. Painters who paint what they call ugly things know that. I can still see that little head with its cap of blonde hair coming out from between Maria’s thighs and how she leapt out of Maria in a jerk (there wasn’t any doctor down here or nurse to give her a name and rob her of power – and she’s Miss Ramsgate to you and to the whole world upstairs). Ugliness and beauty; you see it in war too; when there’s nothing left of a house but a couple of pillars against the sky, the beauty of it starts all over again like before the builder ruined it. Perhaps when Maria and I go up there next, there’ll only be pillars left, sticking up around the flattened world like it was hell.’ (The word had become a familiar to me by this time and no longer had the power to shock.)
 
-«Смею предположить, вы задаетесь вопросом, как мы с Марией смогли создать такую прекрасную девушку. Это иллюзия красоты, которую люди питают. Красота не рождается из красоты. Всё, что может породить красота, — это очарование. Вы никогда не оглядывались наверху и не считали красивых женщин с их прекрасными дочерьми? Красота постоянно угасает, это закон убывающей отдачи, и только когда вы возвращаетесь к нулю, к настоящей, уродливой основе вещей, появляется шанс начать всё сначала, свободно и независимо. Художники, которые рисуют то, что они называют уродливыми вещами, знают это. Я до сих пор вижу эту маленькую головку с прядями светлых волос, торчащую из-под бедер Марии, и как она выскочила из Марии в рывке (здесь не было ни врача, ни медсестры, чтобы дать ей имя и лишить её власти — и для вас и для всего мира наверху она мисс Рамсгейт). Уродство и красота; вы видите это и на войне; Когда от дома не остаётся ничего, кроме пары колонн на фоне неба, его красота начинает проявляться заново, как до того, как строитель его разрушил. Возможно, когда мы с Марией в следующий раз поднимемся туда, останутся только колонны, торчащие вокруг разрушенного мира, словно это был ад.
-
-(The word had become a familiar to me by this time and no longer had the power to shock.)
-
-(К этому времени это слово стало мне хорошо знакомо и больше не вызывало шока.)
+«Смею предположить, вы задаетесь вопросом, как мы с Марией смогли создать такую прекрасную девушку. Это иллюзия красоты, которую люди питают. Красота не рождается из красоты. Всё, что может породить красота, — это очарование. Вы никогда не оглядывались наверху и не считали красивых женщин с их прекрасными дочерьми? Красота постоянно угасает, это закон убывающей отдачи, и только когда вы возвращаетесь к нулю, к настоящей, уродливой основе вещей, появляется шанс начать всё сначала, свободно и независимо. Художники, которые рисуют то, что они называют уродливыми вещами, знают это. Я до сих пор вижу эту маленькую головку с прядями светлых волос, торчащую из-под бедер Марии, и как она выскочила из Марии в рывке (здесь не было ни врача, ни медсестры, чтобы дать ей имя и лишить её власти — и для вас и для всего мира наверху она мисс Рамсгейт). Уродство и красота; вы видите это и на войне; Когда от дома не остаётся ничего, кроме пары колонн на фоне неба, его красота начинается заново, как до того, как строитель его разрушил. Возможно, когда мы с Марией в следующий раз поднимемся туда, останутся только колонны, торчащие вокруг разрушенного мира, словно это был ад. (К этому времени это слово стало мне привычным и уже не способно было шокировать.)
 
 ‘Do you know, boy, that when they make those maps of the universe you are looking at the map of something that looked like that six thousand million years ago? You can’t be much more out of date than that, I’ll swear. Why, if they’ve got pictures up there of us taken yesterday, they’ll see the world all covered with ice – if their photos are a bit more up to date than ours, that is. Otherwise we won’t be there at all, maybe, and it might just as well be a photo of the future. To catch a star while it’s alive you have to be as quick as if you were snatching at a racehorse as it goes by.
 
@@ -9802,7 +9706,7 @@ Final text:
 
 ‘We know the sex-taste of female birds better than we know the sex-taste of women. Only the most beautiful in the hen’s eyes survives, so when you admire a peacock you know you have the same taste as a pea-hen. But women are more mysterious than birds. You’ve heard of beauty and the beast, haven’t you? They have rogue-tastes. Just look at me and my leg. You won’t find Miss Ramsgate by going round the world grooming yourself like a peacock to attract a beautiful woman – she’s our daughter and she had rogue-tastes too. She isn’t for someone who wants a beautiful wife at his dinner-table to satisfy his pride, and an understanding wife in bed who’ll treat him just the same number of times as he was accustomed to at school – so many times a day or week. She went away, our daughter did, with a want looking for a want – and not a want you can measure in length either or calculate in numbers by the week. They say that in the northern countries people make love for their health, so it won’t be any good looking for her in the north. You might have to go as far as Africa or China. And talking of China …’
 
-«Мы знаем сексуальные предпочтения самок птиц лучше, чем сексуальные предпочтения женщин. Выживает только самая красивая в глазах курицы, поэтому, когда вы восхищаетесь павлином, вы понимаете, что у вас такой же вкус, как у павлины. Но женщины загадочнее птиц. Вы же слышали о красавице и чудовище , не так ли? У них своеобразные вкусы. Просто посмотрите на меня и мою ногу. Вы не найдете мисс Рамсгейт, путешествуя по миру и ухаживая за собой, как павлин, чтобы привлечь красивую женщину – она наша дочь, и у нее тоже были своеобразные вкусы. Она не для того, кто хочет красивую жену за обеденным столом, чтобы удовлетворить свою гордость, и понимающую жену в постели, которая будет заниматься с ним сексом ровно столько же раз, сколько он привык в школе – столько раз в день или неделю. Она ушла, как и наша дочь, с желанием, ищущим другое желание – и это желание нельзя измерить в длину или подсчитать в еженедельных цифрах». Говорят, что в северных странах любовь ценят за здоровье, поэтому на севере ей не повезёт с внешностью. Возможно, придётся ехать в Африку или Китай. А раз уж зашла речь о Китае…
+«Мы знаем сексуальные предпочтения самок птиц лучше, чем сексуальные предпочтения женщин. Выживает только самая красивая в глазах курицы, поэтому, когда вы восхищаетесь павлином, вы понимаете, что у вас такой же вкус, как у павлины. Но женщины загадочнее птиц. Вы же слышали о красавице и чудовище, не так ли? У них своеобразные вкусы. Просто посмотрите на меня и мою ногу. Вы не найдете мисс Рамсгейт, путешествуя по миру и ухаживая за собой, как павлин, чтобы привлечь красивую женщину – она наша дочь, и у нее тоже были своеобразные вкусы. Она не для того, кто хочет красивую жену за обеденным столом, чтобы удовлетворить свою гордость, и понимающую жену в постели, которая будет заниматься с ним сексом ровно столько же раз, сколько он привык в школе – столько раз в день или неделю. Она ушла, как и наша дочь, с желанием, ищущим другое желание – и это желание нельзя измерить в длину или подсчитать в еженедельных цифрах». Говорят, что в северных странах любовь ценят за здоровье, поэтому на севере ей не повезёт с внешностью. Возможно, придётся ехать в Африку или Китай. А раз уж зашла речь о Китае…
 
 _
 
@@ -9958,7 +9862,7 @@ Javitt shook his head. ‘You don’t count time like that with us,’ he said. 
 
 I have no idea what he had learned from the ceremony of the tea, but at least he seemed satisfied. He rose on his one leg, and now that he had his arms stretched out to either wall, he reminded me of a gigantic crucifix, and the crucifix moved in great hops down the way we had taken the day before. Maria gave me a little push from behind and I followed. The oil-lamp in Maria’s hand cast long shadows ahead of us.
 
-Понятия не имею, чему он научился на чайной церемонии, но, по крайней мере, он выглядел довольным. Он поднялся на одну ногу, и теперь, когда его руки были вытянуты к стенам, он напомнил мне гигантское распятие, а распятие, прыгая, двигалось вниз по той дороге, по которой мы шли накануне. Мария слегка подтолкнула меня сзади, и я последовала за ней. Масляная лампа в руке Марии отбрасывала длинные тени впереди нас.
+Понятия не имею, чему он научился на чайной церемонии, но, по крайней мере, он выглядел довольным. Он поднялся на одну ногу, и теперь, когда его руки были вытянуты к стенам, он напомнил мне гигантское распятие, а распятие, прыгая, двигалось вниз по той дороге, по которой мы шли накануне . Мария слегка подтолкнула меня сзади, и я последовала за ней. Масляная лампа в руке Марии отбрасывала длинные тени впереди нас.
 
 First we came under the lake and I remembered the tons of water hanging over us like a frozen falls, and after that we reached the spot where we had halted before, and again a car went rumbling past on the road above. But this time we continued our shuffling march. I calculated that now we had crossed the road which led to Winton Halt; we must be somewhere under the inn called The Three Keys, which was kept by our gardener’s uncle, and after that we should have arrived below the Long Mead, a field with a small minnowy stream along its northern border owned by a farmer called Howell. I had not given up all idea of escape and I noted our route carefully and the distance we had gone. I had hoped for some side-passage which might indicate that there was another entrance to the tunnel, but there seemed to be none and I was disappointed to find that, before we travelled below the inn, we descended quite steeply, perhaps in order to avoid the cellars – indeed at one moment I heard a groaning and a turbulence as though the gardener’s uncle were taking delivery of some new barrels of beer.
 
@@ -10246,15 +10150,15 @@ After he had pushed his way a few feet through the bushes he came on the blacken
 
 Пробравшись через кусты на несколько футов, он наткнулся на почерневшие остатки дуба; вероятно, его расколола молния, а затем распилила почти у земли на бревна. Это вполне могло быть источником его сна. Он споткнулся о старые корни, спрятанные в траве, и, присев на корточки, приложил ухо к земле. Его охватило нелепое желание услышать откуда-то издалека ква- ...
 
-But, of course, he could hear nothing except the emptiness you hear when a telephone rings in an empty house. Something touched his ear, and he almost hoped to find a sequin which had survived the years under the grass, but it was only an ant staggering with a load towards its tunnel. Wilditch got to his feet. As he lifted himself upright, his hand was scraped by the sharp rim of some metal object in the earth. He kicked the object free and found it was an old tin chamber-pot. It had lost all colour in the ground except that inside the handle there adhered a few flakes of yellow paint.
+But, of course, he could hear nothing except the emptiness you hear when a telephone rings in an empty house. Something touched his ear, and he almost hoped to find a sequin which had survived the years under the grass, but it was only an ant staggering with a load towards its tunnel.
 
-Но, конечно, он ничего не слышал, кроме пустоты, которую слышишь, когда звонит телефон в пустом доме. Что-то коснулось его уха, и он почти надеялся найти пайетку, сохранившуюся с годами под травой, но это был всего лишь муравей, шатающийся с грузом к своему туннелю. Уайлдич поднялся на ноги. Когда он выпрямился, его рука задела острый край какого-то металлического предмета в земле. Он оттолкнул предмет и обнаружил, что это старый жестяной ночной горшок. Он потерял весь цвет в земле, за исключением нескольких хлопьев желтой краски внутри ручки.
+Но, конечно же, он ничего не слышал, кроме пустоты, которую слышишь, когда звонит телефон в пустом доме. Что-то коснулось его уха, и он почти надеялся найти пайетку, сохранившуюся с годами под травой, но это был всего лишь муравей, ковыляющий с грузом к своему туннелю.
+
+Wilditch got to his feet. As he lifted himself upright, his hand was scraped by the sharp rim of some metal object in the earth. He kicked the object free and found it was an old tin chamber-pot. It had lost all colour in the ground except that inside the handle there adhered a few flakes of yellow paint.
+
+Уайлдич поднялся на ноги. Когда он выпрямился, его рука задела острый край какого-то металлического предмета, застрявшего в земле. Он оттолкнул предмет ногой и обнаружил, что это старый жестяной ночной горшок. Он совсем выцвел в земле, за исключением нескольких хлопьев желтой краски внутри ручки.
 
 _
-
-Here's the revised text with the specified words replaced by more common alternatives from the top 6000 most frequent words:
-
-Вот исправленный текст, в котором указанные слова заменены более распространенными вариантами из списка 6000 наиболее часто встречающихся слов:
 
 How long he had been sitting there with the pot between his knees he could not tell; the house was out of sight: he was as small now as he had been then – he couldn't see over the tops of the bushes, and he was back in Javitt's time. He turned the pot over and over; it was certainly not a golden bowl, but that proved nothing either way; a child might have mistaken it for one when it was newly painted. Had he then really dropped this in his flight – which meant that somewhere underneath him now Javitt sat on his toilet and Maria laughed beside the gas …? There was no certainty; perhaps years ago, when the paint was fresh, he had discovered the pot, just as he had done this day, and founded a whole afternoon-legend around it. Then why had W.W. omitted it from his story?
 

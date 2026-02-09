@@ -1,8 +1,8 @@
 ﻿<config freqGroupsPos="1"/>
 
-# Up in Michigan
+# Up in Michigan by Ernest Hemingway
 
-# В Мичигане
+# В Мичигане Эрнеста Хемингуэя
 
 Jim Gilmore came to Hortons Bay from Canada. He bought the blacksmith shop from old man Horton. Jim was short and dark with big mustaches and big hands. He was a good horseshoer and did not look much like a blacksmith even with his leather apron on. He lived upstairs above the blacksmith shop and took his meals at D. J. Smith’s.
 

@@ -12,13 +12,9 @@ Shakespeare, Measure for Measure
 
 Шекспир, «Мера за меру»
 
-Corrosive decay the hidden treasure erodes,
+Corrosive decay the hidden treasure erodes, But gold that's put to use more gold creates.
 
-Коррозионное разрушение разрушает спрятанное сокровище.
-
-But gold that's put to use more gold creates.
-
-Но золото, которое используется более эффективно, создает больше золота.
+Коррозионное разрушение разрушает спрятанное сокровище, но золото, использованное с большей пользой, создает еще больше золота.
 
 Venus and Adonis
 
@@ -70,7 +66,7 @@ A strongly built figure, fashionably dressed in light gray, turned and said easi
 
 Alex Vandervoort, blue-eyed and fair-haired with a touch of gray at the temples, was also an executive vice-president. Friendly and informal, his easygoing, "with-it" ways hid the tough firmness beneath. The two men—Heyward and Vandervoort—represented the second management level immediately below the presidency and, while each was seasoned and capable of co-operation, they were, in many ways, rivals. Their rivalry, and differing viewpoints, spread through the bank, giving each a group of supporters at lower levels.
 
-Алекс Вандерворт, голубоглазый и светловолосый с сединой на висках, также занимал должность исполнительного вице-президента. Дружелюбный и неформальный, его непринужденная, «современная» манера поведения скрывала жесткую и твердую натуру. Эти двое — Хейворд и Вандерворт — представляли второй управленческий уровень, непосредственно ниже президента, и, хотя каждый из них был опытным и способным к сотрудничеству, во многом они были соперниками. Их соперничество и разные точки зрения распространились по всему банку, обеспечив каждому группу сторонников на более низких уровнях.
+Алекс Вандерворт, голубоглазый и светловолосый с сединой на висках, также занимал должность исполнительного вице-президента. Дружелюбный и неформальный, его непринужденная, «современная» манера поведения скрывала жесткую и твердую натуру . Эти двое — Хейворд и Вандерворт — представляли второй управленческий уровень, непосредственно ниже президента, и, хотя каждый из них был опытным и способным к сотрудничеству, во многом они были соперниками. Их соперничество и разные точки зрения распространились по всему банку, обеспечив каждому группу сторонников на более низких уровнях.
 
 Now Alex took two glasses of sherry, passing one to Edwina D'Orsey, dark-haired and statuesque, FMA's ranking woman executive.
 
@@ -98,7 +94,7 @@ passed over the group. As always, his appearance seemed to strike a middle point
 
 The here-and-now Rosselli had the silver hair and mustache, almost as thick. Fashion across a century had revolved full circle. But what no reproduction showed was the family drive which all Rossellis had possessed and which, with cleverness and endless energy, raised First Mercantile American to its present greatness. Today, though, in Ben Rosselli the usual liveliness seemed missing. He was walking with the aid of a cane; no one present had seen him do so before.
 
-У нынешнего Росселли были седые волосы и почти такие же густые усы. Мода за столетие совершила полный оборот. Но ни одна репродукция не передавала той семейной энергии, которой обладали все Росселли и которая, благодаря смекалке и неиссякаемой силе, возвела First Mercantile American к нынешнему величию. Сегодня же Бен Росселли, казалось, утратил привычную живость. Он ходил с тростью; никто из присутствующих раньше его таким не видел.
+У нынешнего Росселли были седые волосы и почти такие же густые усы. Мода за столетие совершила полный оборот. Но ни одна репродукция не передавала той семейной энергии, которой обладали все Росселли и которая благодаря смекалке и неиссякаемой силе вознесла First Mercantile American до нынешнего величия. Сегодня же Бен Росселли, казалось, утратил привычную живость. Он ходил с тростью; никто из присутствующих раньше его таким не видел.
 
 Now he reached out, as if to pull one of the heavy directors' chairs toward him. But Nolan Wainwright, who—was nearest, moved more quickly. The security chief swung the chair-around, its high back to the meeting room table. With a whisper of thanks the president settled into it.
 
@@ -258,11 +254,11 @@ The comment about a personal announcement gave Heyward the opening he needed. "I
 
 "Thank you, Harold. At a time like this, one is never sure exactly what is best. The only thing certain is that someone must exercise leadership."
 
-«Спасибо, Гарольд. В такие моменты никогда нельзя быть уверенным, что именно лучше. Единственное, что можно сказать наверняка, это то, что кто-то должен проявить лидерские качества».
+«Спасибо, Гарольд. В такие моменты никогда нельзя быть уверенным наверняка, что лучше всего. Единственное, что можно сказать наверняка, это то, что кто-то должен проявить лидерские качества».
 
 The use of first names came easily to Heyward. He was old family himself, knew his way around most of the power bases in the state, and was a member in good standing of what the British call the old boy network. His personal connections extended far beyond state boundaries, to Washington and elsewhere. Heyward was proud of his social status and friendships in high places. He also liked to remind people of his own direct descent from one of the signers of the Declaration of Independence.
 
-Хейворд легко обращался к людям по имени. Он сам был потомственным родственником, хорошо знал большинство влиятельных кругов штата и состоял в так называемой «сети старых приятелей» (так называемой « сети старых друзей»). Его личные связи простирались далеко за пределы штата, в Вашингтон и другие места. Хейворд гордился своим социальным статусом и дружбой с высокопоставленными лицами. Он также любил напоминать людям о своем прямом происхождении от одного из подписантов Декларации независимости.
+Хейворд легко обращался к людям по имени. Он сам был потомственным родственником, хорошо знал большинство влиятельных кругов штата и состоял в так называемой «сети старых приятелей» (так называемой «сети старых друзей»). Его личные связи простирались далеко за пределы штата, в Вашингтон и другие места. Хейворд гордился своим социальным статусом и дружбой с высокопоставленными лицами. Он также любил напоминать людям о своем прямом происхождении от одного из подписантов Декларации независимости.
 
 Now he suggested, "Another reason for keeping board members informed is that this sad news about Ben is going to have tremendous impact. And it will travel quickly."
 
@@ -302,7 +298,7 @@ Heyward sensed the other man thinking carefully before answering. He could visua
 
 "I happen to think you are that man, Roscoe. I have for a long time. You've the qualities, experience, the toughness, too. So I'm willing to pledge you my support and there are others on the board whom I can persuade to go the same route with me. I assume you'd wish that."
 
-«Мне кажется, Роско, ты именно тот человек. Я так думаю уже давно. У тебя есть все необходимые качества, опыт, а также стойкость. Поэтому я готов оказать тебе поддержку, и есть другие члены совета директоров, которых я могу убедить пойти тем же путем вместе со мной. Полагаю, ты бы этого хотел».
+«Мне кажется, Роско, ты именно тот человек. Я давно так считаю. У тебя есть все необходимые качества, опыт, а также стойкость. Поэтому я готов оказать тебе поддержку, и есть другие члены совета директоров, которых я могу убедить пойти тем же путем вместе со мной. Полагаю, ты бы этого хотел».
 
 "I'm certainly grateful..."
 
@@ -366,7 +362,7 @@ And later in the conversation: "Roscoe, this lobbying job of yours is as transpa
 
 The steel company chairman brushed aside Heyward's quiet thanks as he went on.
 
-Председатель совета директоров сталелитейной компании проигнорировал тихую благодарность Хейворда и продолжил свой путь.
+Председатель совета директоров сталелитейной компании отмахнулся от тихой благодарности Хейворда и продолжил свой путь.
 
 "But good as you are, Roscoe, the point I'm making is you're not an over-all leader. At least, that's the way I see it, also the way I'll call it when the board convenes to decide on who's to follow Ben. The other thing I may as well tell you is that my choice is Vandervoort. I think you ought to know that."
 
@@ -532,13 +528,9 @@ Eventually the route to banking for young Alex was a Harvard scholarship and an 
 
 «Всё ещё может сложиться хорошо», — сказала Эдвина Д'Орси. «Предполагаю, что совет директоров выберет президента».
 
-"Yes," Alex answered almost absently. He had been thinking of Ben Rosselli and his father; his memories of the two were strangely mixed. "Length of service isn’t everything."
+"Yes," Alex answered almost absently. He had been thinking of Ben Rosselli and his father; his memories of the two were strangely mixed. "Length of service isn’t everything." "It counts."
 
-«Да», — почти рассеянно ответил Алекс. Он думал о Бене Росселли и своем отце; воспоминания о них были на удивление противоречивыми. «Стаж службы — это еще не все».
-
-"It counts."
-
-«Это имеет значение».
+«Да», — почти рассеянно ответил Алекс. Он думал о Бене Росселли и своем отце; воспоминания о них были на удивление противоречивыми. «Стаж службы — это не всё». «Это важно».
 
 Mentally, Alex weighed the probabilities. He knew he had the talent and experience to head First Mercantile American, but chances were, the directors would favor someone who had been around here longer. Roscoe Heyward, for example, had worked for the bank for almost twenty years, and despite his occasional lack of connection with Ben Rosselli, Heyward had a significant following on the board.
 
@@ -548,13 +540,9 @@ Yesterday the odds favored Alex. Today, they had been switched.
 
 Вчера шансы были на стороне Алекса. Сегодня же они изменились.
 
-He stood up and knocked out his pipe. "I must get back to work."
+He stood up and knocked out his pipe. "I must get back to work." "Me, too."
 
-Он встал и потушил трубку. «Мне пора возвращаться к работе».
-
-"Me, too."
-
-"Я тоже."
+Он встал и потушил трубку. «Мне пора возвращаться к работе». «Мне тоже».
 
 But Alex, when he was alone, sat silent, thoughtful.
 
@@ -570,7 +558,7 @@ Through the curving glass front, Edwina could see Rosselli Plaza outside with it
 
 It was the time of year, Edwina thought, she liked least of all. It spoke of sadness, winter soon to come, and death. Without thinking, she shuddered, then headed for the "tunnel," carpeted and softly lighted, which connected the bank’s headquarters with the main downtown branch—a grand, single-story structure. This was her domain.
 
-Это было то время года, подумала Эдвина, которое ей нравилось меньше всего. Оно предвещало печаль, скорую зиму и смерть. Не задумываясь, она вздрогнула и направилась к «туннелю», покрытому ковром и мягко освещенному, который соединял головной офис банка с главным филиалом в центре города — величественным одноэтажным зданием. Это было ее владение.
+Эдвина подумала, что это то время года, которое ей нравилось меньше всего. Оно предвещало печаль, скорую зиму и смерть. Не задумываясь, она вздрогнула и направилась к «туннелю», покрытому ковром и мягко освещенному, который соединял головной офис банка с главным филиалом в центре города — величественным одноэтажным зданием. Это было ее владение.
 
 ## Chapter 4
 
@@ -610,7 +598,7 @@ Banks everywhere were finding security in positive signals when all was well, an
 
 By now other officers and staff were coming in, checked by the uniformed worker who had taken command at the side door.
 
-К этому времени начали прибывать другие офицеры и сотрудники, которых проверял работник в форме, взявший на себя командование у боковой двери.
+К этому времени начали прибывать другие офицеры и сотрудники, которых проверял работник в форме, принявший командование у боковой двери.
 
 "Good morning, Mrs. D’Orsey." A white-haired bank veteran named Tottenhoe joined Edwina. He was operations officer, in charge of staff and routine running of the branch, and his long, gloomy face made him seem like an ancient animal. His normal moodiness and gloom had increased as required retirement neared; he resented his age and seemed to blame others for it. Edwina and Tottenhoe walked together across the bank’s main floor, then down a wide, carpeted stairs to the vault. Supervising the vault’s opening and closing was the duty officer’s responsibility.
 
@@ -750,7 +738,7 @@ The first armed guard shifted the sacks on his shoulders. "Don't worry, folks! T
 
 Edwina walked to her desk on the platform. Throughout the bank, activity was increasing. The main front doors were open, early customers streaming in.
 
-Эдвина подошла к своему столу на платформе. В банке нарастала активность. Главные входные двери были открыты, и первые клиенты начали заходить.
+Эдвина подошла к своему столу на платформе. В банке нарастала активность. Главные входные двери были открыты, и первые клиенты стекались внутрь.
 
 The platform where, by tradition, the senior officers worked, was raised slightly above the main-floor level and carpeted in dark red. Edwina's desk, the largest and most imposing, had two flags on both sides behind her—to the right the Stars and Stripes, and on her left the state banner. Sometimes, seated there, she felt as if she were on TV, ready to make a serious announcement while cameras dollied in.
 
@@ -802,7 +790,7 @@ Surprised, and aware of a strange link to yesterday's event, she read through th
 
 The loan officer who had made the file answered Edwina's intercom beep. "Castleman here." "Cliff, please come over."
 
-Сотрудник кредитной организации, оформивший дело, ответил на гудок домофона Эдвины. «Здесь Каслмен». «Клифф, пожалуйста, подойдите».
+Сотрудник кредитной организации, оформивший документы, ответил на гудок домофона Эдвины. «Здесь находится кавалер». «Клифф, пожалуйста, подойдите».
 
 "Sure." The loan officer, only half a dozen desks away, looked right at Edwina. "And I'll bet I know why you want me."
 
@@ -852,21 +840,13 @@ A capsule of the type sought—a giant bottle, really, and known as a "cryo-vaul
 
 Капсула нужного типа — по сути, гигантская бутылка, известная как «криогенное хранилище» — была доступна в Лос-Анджелесе, и её должны были доставить оттуда самолётом, если бы банковский кредит был одобрен. Примерно треть предполагаемой суммы кредита предназначалась для частичной оплаты аренды хранилища для капсулы и замены жидкого азота каждые четыре месяца.
 
-Castleman asked Edwina, "You've heard of cryonics societies?"
+Castleman asked Edwina, "You've heard of cryonics societies?" "Vaguely. It's fake-scientific. Not very respected."
 
-Кастлман спросил Эдвину: «Ты слышала о крионических обществах?»
+Каслман спросил Эдвину: «Ты слышала о крионических обществах?» «Смутно. Это псевдонаучное явление. Не пользуется большим уважением».
 
-"Vaguely. It's fake-scientific. Not very respected."
+"Not very. And fake indeed. But the fact is, cryonics groups have a big following and they've convinced Gosburne and his wife that when medical science is more advanced—say fifty or a hundred years from now—Andrea can be warmed out, brought back to life and cured. Incidentally, the cryonics people have a saying: Freeze, wait, reanimate." "Horrible," Edwina said.
 
-«Смутно. Это псевдонаучная теория. Не пользуется большим уважением».
-
-"Not very. And fake indeed. But the fact is, cryonics groups have a big following and they've convinced Gosburne and his wife that when medical science is more advanced—say fifty or a hundred years from now—Andrea can be warmed out, brought back to life and cured. Incidentally, the cryonics people have a saying: Freeze, wait, reanimate."
-
-«Не очень. И действительно, это фейк. Но дело в том, что у групп, занимающихся крионикой, много поклонников, и они убедили Госберна и его жену, что когда медицинская наука продвинется дальше — скажем, через пятьдесят или сто лет — Андреа можно будет разогреть, вернуть к жизни и вылечить. Кстати, у крионистов есть поговорка: Заморозить, подождать, оживить».
-
-"Horrible," Edwina said.
-
-«Ужасно», — сказала Эдвина.
+«Не очень. И действительно, это фальшивка. Но дело в том, что у групп, занимающихся крионикой, много поклонников, и они убедили Госберна и его жену, что когда медицинская наука продвинется дальше — скажем, через пятьдесят или сто лет — Андреа можно будет разогреть, вернуть к жизни и вылечить. Кстати, у крионистов есть поговорка: Заморозить, подождать, оживить». «Ужасно», — сказала Эдвина.
 
 The loan officer conceded, "Mostly I agree with you. But look at it their way. They believe. Also they're adult, reasonably intelligent people, deeply religious. So who are we, as bankers, to be judge and jury? As I see it, the only question is: Can Gosburne repay the loan? I've gone over the figures, and I say he can and will. The guy may be a nut. But the record shows he's a nut who pays his bills."
 
@@ -876,17 +856,9 @@ Reluctantly Edwina studied the income and expenses figures. "It will be a terrib
 
 Эдвина с неохотой изучила данные о доходах и расходах. «Это будет ужасно тяжело в финансовом плане».
 
-"The man knows that but insists he can handle it. He's taking on some spare time work. And his wife is looking for a job."
+"The man knows that but insists he can handle it. He's taking on some spare time work. And his wife is looking for a job." Edwina said, "They have four younger children." "Yes."
 
-«Мужчина это знает, но настаивает, что справится. Он подрабатывает в свободное время. А его жена ищет работу».
-
-Edwina said, "They have four younger children."
-
-Эдвина сказала: «У них четверо младших детей».
-
-"Yes."
-
-"Да."
+«Мужчина это знает, но настаивает, что справится. Он подрабатывает в свободное время. А его жена ищет работу», — сказала Эдвина. — «У них четверо младших детей». — «Да».
 
 "Has anyone pointed out that the other children—the living—will need money soon for college, other things, and that twenty-five thousand dollars could be put to better use for them?"
 
@@ -950,7 +922,7 @@ Edwina excused herself and went to a telephone in a small room.
 
 The voice of her branch operations officer complained, "I've been trying to locate you." "Now you have! What is it?"
 
-Голос сотрудницы её филиала, отвечающей за оперативное управление, прозвучал жалобно: «Я пытался вас найти». «Теперь нашли! Что случилось?»
+Голос сотрудницы её филиала с досадой произнес: «Я пытался вас найти». «Теперь нашли! Что случилось?»
 
 "We have a serious cash shortage." He went on to explain: A clerk had reported the loss a half hour ago. Checking had been going on continuously since. Edwina sensed panic as well as despair in Tottenhoe's voice and asked how much money was involved. She heard him swallow. "Six thousand dollars." "I'll be down right away."
 
@@ -982,7 +954,7 @@ A half hour had passed since Edwina's return to the main branch. Now, as the oth
 
 The time was shortly after 3 P.M. Customers had gone. The outer doors were closed.
 
-Было чуть больше 15:00. Посетители разошлись. Внешние двери были закрыты.
+Было чуть больше 3 часов дня. Посетители разошлись. Внешние двери были закрыты.
 
 Activity, as usual, was continuing in the branch, though Edwina was conscious of covert glances toward the platform from other employees who knew by now that something serious was wrong.
 
@@ -1086,7 +1058,7 @@ The girl hesitated, seeming less sure of herself. "Maybe twenty minutes."
 
 The unhelpful, short answers were becoming annoying to Edwina. And the sullen hostility which she sensed earlier seemed more pronounced.
 
-Неудобные, краткие ответы начинали раздражать Эдвину. И та мрачная враждебность, которую она чувствовала раньше, стала еще более выраженной.
+Неудобные, краткие ответы начинали раздражать Эдвину. И та угрюмая враждебность, которую она чувствовала раньше, стала еще более выраженной.
 
 Tottenhoe repeated the crucial question. "After lunch, why were you certain not only that money was missing, but exactly how much?" The young woman's small face set defiantly. "I knew." There was a doubtful silence.
 
@@ -1102,7 +1074,7 @@ Miles Eastin asked, "When you left your clerk's position before you went to lunc
 
 That, too, was normal . Once the operations officer's combination had been set to "open" each morning, it was usual to leave it that way through the remainder of the day.
 
-Это тоже было нормально. После того как кодовая комбинация оперативного сотрудника была установлена на «открытие» каждое утро, обычно ее оставляли в таком положении до конца дня.
+Это тоже было нормально. После того как кодовая комбинация оперативного сотрудника была установлена на «открытие» каждое утро, обычно её оставляли в таком положении до конца дня.
 
 "But when you came back from lunch your cash drawer was still in the vault, still locked?" `'Yes."
 
@@ -1166,7 +1138,7 @@ Watching closely as the girl answered, Edwina thought she detected fear. Well, i
 
 Edwina no longer had doubts about what had happened to the missing money. The Nunez girl had stolen it. No other explanation was possible. The difficulty was to find out how?
 
-У Эдвины больше не было сомнений в том, что случилось с пропавшими деньгами. Их украла девушка Нуньес. Другого объяснения не было. Трудность заключалась в том, чтобы выяснить, как это произошло?
+У Эдвины больше не было сомнений в том, куда делись пропавшие деньги. Их украла девушка Нуньес. Другого объяснения не было. Трудность заключалась в том, чтобы выяснить, как это произошло?
 
 One likely way was for Juanita Nunez to have passed it over the counter to a partner. No one would have noticed. During an ordinarily busy day it would have seemed like any routine cash withdrawal. Alternatively, the girl could have concealed the money and carried it from the bank during her lunch break, though in that case the risk would have been greater.
 
@@ -1282,7 +1254,7 @@ The bank manager-city official dropped over to police headquarters to have the t
 
 Less politely, the city official pointed out to Wainwright that he was new to the community, needed friends, and that non-co-operation was not the way to recruit them. Wainwright still declined to do anything about the summons.
 
-Менее вежливо городской чиновник указал Уэйнрайту на то, что тот недавно переехал в этот район, нуждается в друзьях и что отказ от сотрудничества — не лучший способ их завербовать. Уэйнрайт по-прежнему отказался что-либо предпринимать по поводу повестки.
+Менее вежливо городской чиновник указал Уэйнрайту на то, что тот недавно переехал в этот район, нуждается в друзьях и что отказ от сотрудничества — не способ их завербовать. Уэйнрайт по-прежнему отказался что-либо предпринимать по поводу повестки.
 
 The city official put on his banker's hat and reminded the police chief of his personal application to First Mercantile American Bank for a home mortgage loan which would make it possible to bring Wainwright's wife and family to the town. Mr. Rosselli, the branch manager added somewhat needlessly, was president of FMA.
 
@@ -1536,13 +1508,9 @@ Periodically, arrests and convictions of those using stolen or fake credit cards
 
 «Эти последние подделки, — спросил он, — не слишком ли вероятно, что за ними стоит какая-то преступная группировка?»
 
-"It's not only likely, it's a certainty. For the end product to be this good there has to be an organization. And it's got money behind it, machinery, specialist expertise, a distribution system. Besides, there are other signs pointing the same way."
+"It's not only likely, it's a certainty. For the end product to be this good there has to be an organization. And it's got money behind it, machinery, specialist expertise, a distribution system. Besides, there are other signs pointing the same way." "Such as?"
 
-«Это не просто вероятно, это наверняка. Для того чтобы конечный продукт был настолько хорош, необходима организация. И у неё должны быть деньги, оборудование, экспертные знания, система дистрибуции. Кроме того, есть и другие признаки, указывающие в том же направлении».
-
-"Such as?"
-
-"Такой как?"
+«Это не просто вероятно, это наверняка. Для того чтобы конечный продукт был настолько хорош, необходима организация. И у неё есть деньги, оборудование, экспертные знания, система дистрибуции. Кроме того, есть и другие признаки, указывающие в том же направлении». «Например?»
 
 "As you know," Wainwright said, "I keep in touch with law agencies. Recently there's been a big increase through the whole Midwest in fake money, travelers checks, credit cards—other cards as well as our own. There's also a lot more traffic than usual in stolen and fake securities, stolen and forged checks."
 
@@ -1690,7 +1658,7 @@ Her voice shook. "Because I am tired. I would like to go."
 
 He read contempt in her eyes. E arlier, when he began asking questions, he had sensed the girl's attitude as being easier toward him than the others. No doubt because he was black and she was Puerto Rican, she assumed they might be allies or, if not that, that he would be a softer touch. What she didn't know was that where investigative work was concerned he was color-blind. Nor could he concern himself about any personal problems the girl might have. Eldwina D'Orsey had mentioned these, but no personal circumstance, in Wainwright's view, ever justified stealing or lying.
 
-Он увидел в ее глазах презрение. Ранее, когда он начал задавать вопросы, он почувствовал, что девушка относится к нему более снисходительно, чем к другим. Несомненно, поскольку он был чернокожим, а она пуэрториканкой, она предположила, что они могут быть союзниками или, если не так, то что он будет более мягким человеком. Чего она не знала, так это того, что в вопросах расследования он не различал цвета кожи. Он также не мог беспокоиться о каких-либо личных проблемах девушки. Элдвина Д'Орси упоминала об этом, но, по мнению Уэйнрайта, никакие личные обстоятельства никогда не оправдывали кражу или ложь.
+Он увидел в ее глазах презрение. Ранее, когда он начал задавать вопросы, он почувствовал, что девушка относится к нему снисходительнее, чем к другим. Несомненно, поскольку он был чернокожим, а она пуэрториканкой, она предположила, что они могут быть союзниками или, если не так, то что он будет более мягким человеком. Чего она не знала, так это того, что в вопросах расследования он не различал цвета кожи. Он также не мог беспокоиться о каких-либо личных проблемах девушки. Элдвина Д'Орси упоминала об этом, но, по мнению Уэйнрайта, никакие личные обстоятельства никогда не оправдывали кражу или ложь.
 
 The Nu nez girl had been right, of course, about h is wanting to catch her out in some variation of her story. And it could happen, despite her obvious caution. She had complained of being tired. As an experienced investigator, Wainwright knew that guilty people, when tired, were apt to make mistakes during interrogation, a small one first, then another and another, until they became trapped in a web of lies and contradictions. Wondering if it would happen now, he pressed on.
 
@@ -1706,7 +1674,7 @@ At the end, Wainwright said, "All right, that's everything for now. Tomorrow you
 
 He made the announcement casually,-though watching for a reaction. What he had not expected was one as sudden or as fierce.
 
-Он сделал это заявление небрежно, хотя и ожидал реакции. Он не ожидал такой внезапной и резкой реакции.
+Он сделал это заявление небрежно, хотя и ожидал реакции. Он никак не ожидал такой внезапной и резкой реакции.
 
 The girl's small dark face flushed red. She shot straight n her chair. "NO, I will n ot! I will not take such a test! " "Why not?" "Because it is an insult "
 
@@ -1788,85 +1756,33 @@ Eastin seemed about to say something else, then apparently decided otherwise. Wa
 
 Истин, казалось, собирался сказать что-то ещё, но, видимо, передумал. Уэйнрайт спросил его: «Что-то тебя беспокоит?»
 
-Again Eastin hesitated, then admitted, “Well, yes, there is. It’s a thing I haven’t mentioned to anyone because it could be just a wild pitch.”
+Again Eastin hesitated, then admitted, “Well, yes, there is. It’s a thing I haven’t mentioned to anyone because it could be just a wild pitch.” “Does it relate in any way to the missing money?” “I suppose it could.”
 
-Истин снова замялся, а затем признал: «Ну да, есть. Я никому об этом не говорил, потому что это может быть просто случайная ставка».
+Истин снова замялся, а затем признал: «Ну да, есть. Я никому об этом не говорил, потому что это может быть просто надуманная затея». «Это как-то связано с пропавшими деньгами?» «Думаю, может быть».
 
-“Does it relate in any way to the missing money?”
+Wainwright said firmly, “Then whether you’re sure or not, you have to tell me.”   The assistant operations officer nodded. “All right.”  Wainwright waited.
 
-«Как-то это связано с пропавшими деньгами?»
+Уэйнрайт твердо сказал: «Тогда, уверены вы или нет, вы должны мне сказать». Помощник оперативного офицера кивнул. «Хорошо». Уэйнрайт подождал.
 
-“I suppose it could.”
+“It was mentioned to you by Mrs. D’Orsey, I think, that Juanita Nunez is married. Her husband deserted her. He left her with their child.” “I remember.”
 
-«Полагаю, это возможно».
+«Мне кажется, госпожа Д'Орси говорила вам, что Хуанита Нуньес замужем. Муж бросил её. Он оставил её с ребёнком». «Я помню».
 
-Wainwright said firmly, “Then whether you’re sure or not, you have to tell me.”
+“When the husband was living with Juanita he used to come in here occasionally. To meet her, I guess. I spoke to him a couple of times. I’m pretty sure his name is Carlos.” “What about him?” “I believe he was in the bank today.” Wainwright asked sharply, “Are you sure?”
 
-Уэйнрайт твердо сказал: «Тогда, уверены вы или нет, вы должны мне сказать».
+«Когда муж жил с Хуанитой, он иногда заходил сюда. Наверное, чтобы встретиться с ней. Я с ним пару раз разговаривал. Я почти уверен, что его зовут Карлос». — «А как насчет него?» — «По-моему, он сегодня был в банке», — резко спросил Уэйнрайт. — «Вы уверены?»
 
-The assistant operations officer nodded. “All right.”
+“Fairly sure, though not enough so I could swear to it in court. I just noticed someone, thought it was him, then put it out of mind. I was busy. There was no reason for me to think about it—at least not until a long time later.” “What time of day was it when you saw him?” “About midmorning.”
 
-Помощник оперативного офицера кивнул. «Хорошо».
+«Я почти уверен, хотя и не настолько, чтобы поклясться в этом в суде. Я просто заметил кого-то, подумал, что это он, а потом забыл об этом. Я был занят. У меня не было причин думать об этом — по крайней мере, до тех пор, пока не прошло много времени». «В какое время суток вы его видели?» «Примерно в середине утра».
 
-Wainwright waited.
+“This man you thought was the Nunez girl’s husband—did you see him go to the counter where she was working?” “No, I didn’t.” Eastin’s handsome young face was troubled. “As I say, I didn’t think about it much. The only thing is, if I saw him, he couldn’t have been far away from Juanita.” “And that’s everything?”
 
-Уэйнрайт ждал.
+«Этот мужчина, которого вы приняли за мужа девушки Нуньес, — вы видели, как он подошел к прилавку, где она работала?» «Нет, не видела». На красивом молодом лице Истина читалась тревога. «Как я уже сказала, я не особо об этом думала. Единственное, что меня смущало, так это то, что если я его и видела, то он был где-то неподалеку от Хуаниты». «И это всё?»
 
-“It was mentioned to you by Mrs. D’Orsey, I think, that Juanita Nunez is married. Her husband deserted her. He left her with their child.”
+“That’s it.” Miles Eastin added apologetically, “I’m sorry it isn’t more.” “You were right to tell me. It could be important.”
 
-«Мне кажется, госпожа Д'Орси упомянула вам, что Хуанита Нуньес замужем. Ее муж бросил ее. Он оставил ее с ребенком».
-
-“I remember.”
-
-"Я помню."
-
-“When the husband was living with Juanita he used to come in here occasionally. To meet her, I guess. I spoke to him a couple of times. I’m pretty sure his name is Carlos.”
-
-«Когда муж жил с Хуанитой, он иногда заходил сюда. Наверное, чтобы встретиться с ней. Я несколько раз с ним разговаривал. Я почти уверен, что его зовут Карлос».
-
-“What about him?”
-
-«А что с ним?»
-
-“I believe he was in the bank today.”
-
-«Я думаю, он сегодня был в банке».
-
-Wainwright asked sharply, “Are you sure?”
-
-Уэйнрайт резко спросил: «Вы уверены?»
-
-“Fairly sure, though not enough so I could swear to it in court. I just noticed someone, thought it was him, then put it out of mind. I was busy. There was no reason for me to think about it—at least not until a long time later.”
-
-«Я почти уверен, хотя и не настолько, чтобы поклясться в этом в суде. Я просто заметил кого-то, подумал, что это он, а потом забыл об этом. Я был занят. У меня не было причин думать об этом — по крайней мере, до тех пор, пока не прошло много времени».
-
-“What time of day was it when you saw him?”
-
-«В какое время суток вы его видели?»
-
-“About midmorning.”
-
-«Примерно в середине утра».
-
-“This man you thought was the Nunez girl’s husband—did you see him go to the counter where she was working?”
-
-«Ты думала, что этот мужчина был мужем девушки Нуньес? Ты видела, как он подошел к прилавку, где она работала?»
-
-“No, I didn’t.” Eastin’s handsome young face was troubled. “As I say, I didn’t think about it much. The only thing is, if I saw him, he couldn’t have been far away from Juanita.”
-
-«Нет, не видел». На красивом молодом лице Истина читалась тревога. «Как я уже говорил, я особо об этом не думал. Единственное, что меня беспокоило, так это то, что если я его и видел, то он мог быть где-то неподалеку от Хуаниты».
-
-“And that’s everything?”
-
-«И это всё?»
-
-“That’s it.” Miles Eastin added apologetically, “I’m sorry it isn’t more.”
-
-«Вот и всё», — извиняющимся тоном добавил Майлз Истин. — «Извините, что не больше».
-
-“You were right to tell me. It could be important.”
-
-«Вы были правы, сказав мне это. Это может быть важно».
+«Вот и всё», — извиняющимся тоном добавил Майлз Истин. — «Извините, что не могу рассказать больше». — «Вы были правы, сказав мне это. Это может быть важно».
 
 If Eastin were right, Wainwright reasoned, the presence of the husband could tie in with Wainwright’s own theory of an outside partner. Possibly the girl and her husband were together again or, if not, had some arrangement. Perhaps she had passed the money over the counter to him, and he had taken it from the bank, to divide it with her later. The possibility was certainly something for the FBI to work on.
 
@@ -2554,7 +2470,7 @@ It was close to midnight. A log fire, blazing earlier, had burned low in the fir
 
 An hour and a half ago they had had a late dinner here delivered from a service restaurant on the apartment block's main floor. An excellent Bordeaux, Alex's choice, Chateau Gruaud-Larose '66 accompanied the meal.
 
-Полтора часа назад им доставили сюда поздний ужин из ресторана быстрого обслуживания на первом этаже многоквартирного дома. К ужину подавали превосходное бордоское вино, выбор Алекса, Chateau Gruaud-Larose '66.
+Полтора часа назад им доставили сюда поздний ужин из ресторана быстрого обслуживания на первом этаже многоквартирного дома. К ужину подавали превосходное бордоское вино, выбранное Алексом, Chateau Gruaud-Larose '66.
 
 Apart from the area where the Keycharge advertising had been spread out, the apartment lights were low.
 
@@ -2578,7 +2494,7 @@ Alex admitted, "Yes, it's true. But banks have to make a profit somewhere."
 
 "I lie awake nights," Margot said, 'worrying if banks are making enough profit."
 
-«Я не сплю ночами, — сказала Марго, — переживая, получают ли банки достаточную прибыль».
+«Я не сплю ночами, — сказала Марго, — переживая, достаточно ли прибыли получают банки».
 
 As he laughed, she went on seriously, "Look, Alex, thousands of people who shouldn't are piling up long-term debts by using credit cards. Often it's to buy small things pharmacy items, records, bits of hardware, books, meals, other minor things; and they do it partly through unawareness, partly because small amounts of credit are ridiculously easy to obtain. And those small amounts, which ought to be paid by cash, add up to overwhelming debts, burdening unwise people for years ahead."
 
@@ -3170,7 +3086,7 @@ He looked nervous. Edwina saw his hand was shaking. He had the slip of paper and
 
 "If I hadn't seen it myself," the operations officer said, I might not have believed." For once his sadness was gone, surprise replacing it. "The figure was right?" "Exactly right."
 
-«Если бы я сам этого не видел, — сказал оперативный офицер, — я бы, наверное, не поверил». На этот раз его печаль исчезла, сменившись удивлением. «Цифра была верной?» «Абсолютно верной».
+«Если бы я сам этого не видел, — сказал оперативный офицер, — я бы, наверное, не поверил». На этот раз его печаль исчезла, сменившись удивлением. «Цифра была верной?» — «Абсолютно верной».
 
 Edwina sat tensely, marshaling her thoughts. Abruptly and dramatically, she knew, almost everything concerning the investigation had changed. Until this moment, all assumptions had been based upon the Nunez girl's inability to do what she had now demonstrated definitely that she could.
 
@@ -3834,7 +3750,7 @@ Miles Eastin stared, his expression frozen, shocked. A sudden shake went through
 
 "Cut that outl" Wainwright reached over, pulled Eastin's hands free and pushed his head up, though not roughly, remembering his promise to the FBI man. No damaged potato.
 
-«Прекрати это», — Уэйнрайт протянул руку, освободил руки Истина и, не грубо, приподнял его голову, вспомнив свое обещание агенту ФБР. Никакой поврежденной картошки.
+«Прекрати это», — Уэйнрайт протянул руку, освободил руки Истина и, не резко, приподнял его голову, вспомнив свое обещание агенту ФБР. Никакой поврежденной картошки.
 
 He added, "You've got some talking to do, so let's start."
 
@@ -3866,7 +3782,7 @@ When there was no response, Wainwright picked up the small black book and opened
 
 Through a confused dullness Eastin nodded. "Explain this one."
 
-Истин кивнул, выражая растерянность и вялость. «Объясните вот это».
+Истин, смутно оцепеневший от недоумения, кивнул. «Объясните вот это».
 
 It was a two-hundred-and-fifty-dollar bet, Miles Eastin mumbled, on the outcome of a football game between Texas and Notre Dame. He explained the odds. The bet had been on Notre Dame, Texas had won. "And this?"
 
@@ -4158,7 +4074,7 @@ Patterton, projected into prominence today, was normally quiet and, in the manag
 
 In appearance he resembled a gentleman farmer. Mostly bald, except for a white, ring-fringe of hair, he had a pointed pink head strangely like the narrow end of an egg. Oddly, his eyebrows were matted and fiercely sprouting; the eyes beneath were gray, bulbous, and becoming watery. Adding to the farmer image, he dressed tweedily. Alex Vandervoort's assessment of Patterton was that the vice-chairman had an excellent brain which in recent years he had used minimally, like a motor not in use.
 
-Внешне он напоминал джентльмена-фермера. Почти лысый, за исключением белой челки, он имел заостренную розовую голову, странно похожую на узкий конец яйца. Как ни странно, его брови были слипшимися и сильно торчали; глаза под ними были серыми, выпуклыми и становились слезящимися. Дополняя образ фермера, он был одет в твид. Алекс Вандерворт оценил Паттертона так: у вице -председателя был превосходный мозг, который в последние годы он использовал минимально, как неработающий мотор.
+Внешне он напоминал джентльмена-фермера. Почти лысый, за исключением белой челки, он имел заостренную розовую голову, странно похожую на узкий конец яйца. Как ни странно, его брови были слипшимися и сильно торчали; глаза под ними были серыми, выпуклыми и становились слезящимися. Дополняя образ фермера, он был одет в твид. Алекс Вандерворт оценил Паттертона так: у вице-председателя был превосходный мозг, который в последние годы он использовал минимально, как неработающий мотор.
 
 Predictably, Jerome Patterton began by paying tribute to Ben Rosselli, after which he read aloud the latest hospital bulletin which reported "diminishing strength and eroding consciousness." Among the directors, lips were pursed, heads shaken. "But the life of our community goes on." The vice-chairman listed reasons for the present meeting, principally the need to name, speedily, a new chief executive for First Mercantile American Bank.
 
@@ -4354,7 +4270,7 @@ Someone chuckled. Alex responded with an easy smile. He pushed the chair behind 
 
 "Something else about our profitability here at FMA is that it should be drastically improved. More about that later. For the moment I'd like to stay with beliefs.
 
-«Еще один аспект нашей прибыльности в FMA следует значительно улучшить. Подробнее об этом позже. А пока я хотел бы остановиться на своих убеждениях».
+«Еще один аспект нашей прибыльности в FMA заключается в том, что ее следует значительно улучшить. Подробнее об этом позже. А пока я хотел бы остановиться на своих убеждениях».
 
 "A belief of my own is that civilization in this decade is changing more meaningfully and quickly than at any other time since the Industrial Revolution. What we are seeing and sharing is a social revolution of conscience and behavior. A few don't like this revolution; personally I do. But like it or not, it's here; it exists; it will not reverse itself or go away.
 
@@ -4948,13 +4864,9 @@ Juanita smiled, then was serious as she described the six-thousand-dollar cash l
 
 Хуанита улыбнулась, а затем посерьезнела, описывая потерю шести тысяч долларов наличными и сорокавосьмичасовой кошмар подозрений и допросов. Пока Марго слушала, ее гнев, всегда нараставший, усиливался.
 
-"The bank had no right to keep on pressuring you without your having legal advice. Why didn’t you call me?"
+"The bank had no right to keep on pressuring you without your having legal advice. Why didn’t you call me?" "I never thought of it," Juanita said.
 
-«Банк не имел права продолжать оказывать на вас давление без консультации с юристом. Почему вы мне не позвонили?»
-
-"I never thought of it," Juanita said.
-
-«Мне это никогда не приходило в голову», — сказала Хуанита.
+«Банк не имел права продолжать оказывать на вас давление без консультации с юристом. Почему вы мне не позвонили?» — «Мне это и в голову не приходило», — ответила Хуанита.
 
 "That's the whole trouble. Most innocent people don’t." Margot considered, then added, "Edwina D'Orsey is my cousin. I’m going to talk to her about this."
 
@@ -5322,13 +5234,9 @@ Alex curbed a rising anger. "Is there a reason I wasn't consulted about any of t
 
 Алекс сдержал нарастающее раздражение. «Неужели есть причина, по которой со мной не посоветовались по этому поводу?»
 
-The PR head appeared surprised. "I thought you were aware. When I talked on the phone to Mr. Patterton yesterday I know Roscoe was with him because I could hear them talking. I assumed you were in there, too."
+The PR head appeared surprised. "I thought you were aware. When I talked on the phone to Mr. Patterton yesterday I know Roscoe was with him because I could hear them talking. I assumed you were in there, too." "Next time," Alex said, "don't assume anything."
 
-Глава отдела по связям с общественностью выглядел удивленным. «Я думал, вы в курсе. Когда я вчера разговаривал по телефону с мистером Паттертоном, я знаю, что Роско был с ним, потому что я слышал их разговор. Я предположил, что вы тоже там были».
-
-"Next time," Alex said, "don't assume anything."
-
-«В следующий раз, — сказал Алекс, — ничего не предполагай».
+Глава отдела по связям с общественностью выглядел удивленным. «Я думал, вы в курсе. Когда я вчера разговаривал по телефону с мистером Паттертоном, я знаю, что Роско был с ним, потому что я слышал их разговор. Я предположил, что вы тоже там были». «В следующий раз, — сказал Алекс, — ничего не предполагайте».
 
 He dismissed French, then instructed his secretary to inquire if Jerome Patterton was free. He was informed that the president had not yet arrived at the bank but was on his way, and Alex could see him at 11 A.M. He muttered impatiently and went back to work on the savings expansion program.
 
@@ -5346,13 +5254,9 @@ Today, bright sunshine from a cloudless winter sky shone through the wall-wide w
 
 «Я это видел, — сказал Алекс. — Ко мне также приходил Дик Френч. Он сказал мне, что вы с Роско вчера обсуждали вопросы для прессы. Поэтому мой первый вопрос: почему меня не проинформировали? Я участвую в работе Forum East не меньше других».
 
-“You should have been informed, Alex.” Jerome Patterton seemed embarrassed. “The truth is, I guess, we got a little rattled when the press calls showed there had been a leak.”
+“You should have been informed, Alex.” Jerome Patterton seemed embarrassed. “The truth is, I guess, we got a little rattled when the press calls showed there had been a leak.” “A leak of what?”
 
-«Тебя должны были проинформировать, Алекс», — смущенно сказал Джером Паттертон. — «По правде говоря, мы немного растерялись, когда сообщения в прессе показали, что произошла утечка информации».
-
-“A leak of what?”
-
-«Утечка чего?»
+«Тебя должны были проинформировать, Алекс». Джером Паттертон выглядел смущенным. «По правде говоря, мы немного встревожились, когда в прессе сообщили об утечке информации». «Утечка чего?»
 
 It was Heyward who answered. “Of a proposal I’ll be bringing before the money policy committee next Monday. I’m suggesting a reduction of the bank’s present commitment to Forum East by approximately fifty percent.”
 
@@ -5374,37 +5278,17 @@ A red-covered the president’s face and egg-like head. “It’s neither true n
 
 «Верно», — прямо добавил Хейворд. — «Совершенно законная тактика, Алекс. И если вы возражаете, позвольте напомнить, что вы неоднократно высказывали свои идеи Бену перед совещаниями по финансовой политике».
 
-“If I did,” Alex said, “they made a damn sight better sense than this one.”
+“If I did,” Alex said, “they made a damn sight better sense than this one.” “That, of course, is solely your opinion.” “Not solely. Others share it.”
 
-«Если бы я так и сделал, — сказал Алекс, — то эти варианты были бы гораздо логичнее этого».
-
-“That, of course, is solely your opinion.”
-
-«Это, разумеется, исключительно ваше мнение».
-
-“Not solely. Others share it.”
-
-«Не только они. Это разделяют и другие».
+«Если бы я так считал, — сказал Алекс, — то эти варианты были бы гораздо логичнее этого». «Это, конечно, исключительно ваше мнение». «Не исключительно. Другие его разделяют».
 
 Heyward was calm. “My own opinion is that we can put the bank’s money to substantially better use.” He turned toward Patterton. “Incidentally, Jerome, those rumors now circulating could be helpful to us if the proposal for a reduction is agreed to. At least the decision won’t come as a sudden shock.”
 
 Хейворд был спокоен. «Я считаю, что мы можем использовать деньги банка гораздо эффективнее». Он повернулся к Паттертону. «Кстати, Джером, эти циркулирующие сейчас слухи могут оказаться нам полезными, если предложение о сокращении будет принято. По крайней мере, решение не станет для нас неожиданностью».
 
-“If you see it that way,” Alex said, “maybe it was you who leaked the rumors.”
+“If you see it that way,” Alex said, “maybe it was you who leaked the rumors.” “I assure you it was not.” “Then how do you explain them?” Heyward shrugged. “Coincidence, I suppose.”
 
-«Если ты так думаешь, — сказал Алекс, — то, возможно, это ты распространил слухи».
-
-“I assure you it was not.”
-
-«Уверяю вас, это было не так».
-
-“Then how do you explain them?”
-
-«Тогда как вы это объясните?»
-
-Heyward shrugged. “Coincidence, I suppose.”
-
-Хейворд пожал плечами. «Полагаю, это совпадение».
+«Если ты так считаешь, — сказал Алекс, — может быть, это ты распространил слухи?» — «Уверяю тебя, это не ты». — «Тогда как ты их объяснишь?» — пожал плечами Хейворд. — «Совпадение, наверное».
 
 Alex wondered: Was it coincidence? Or had someone close to Roscoe Heyward floated a trial balloon on his behalf? Yes. It might well be Harold Austin, the Honorable Harold, who, as head of an advertising agency, would have plenty of contacts with the press. It seemed unlikely, though, that anyone would ever find out.
 
@@ -5486,13 +5370,9 @@ The power struggle between Alex Vandervoort and Roscoe Heyward was already well 
 
 Борьба за власть между Алексом Вандервортом и Роско Хейвордом была уже хорошо известна. Из-за этого некоторые руководители FMA выбрали чью-то сторону, возлагая надежды на продвижение по службе на победу того или иного противника. Раскол также проявился в составе комитета по финансовой политике.
 
-Alex argued, "Our profit last year was thirteen percent. That's damned good for any business, as all of us know. This year the prospect's even better a fifteen percent return on investment, maybe sixteen. But should we strain for more?"
+Alex argued, "Our profit last year was thirteen percent. That's damned good for any business, as all of us know. This year the prospect's even better a fifteen percent return on investment, maybe sixteen. But should we strain for more?" The treasurer, Orville Young, asked, "Why not?"
 
-Алекс возразил: «В прошлом году наша прибыль составила тринадцать процентов. Это чертовски хороший показатель для любого бизнеса, как мы все знаем. В этом году перспективы еще лучше — пятнадцать процентов прибыли на инвестиции, может быть, шестнадцать. Но стоит ли нам стремиться к большему?»
-
-The treasurer, Orville Young, asked, "Why not?"
-
-Казначей Орвилл Янг спросил: «Почему бы и нет?»
+Алекс возразил: «В прошлом году наша прибыль составила тринадцать процентов. Это чертовски хороший результат для любого бизнеса, как мы все знаем. В этом году перспективы еще лучше — пятнадцать процентов прибыли на инвестиции, может быть, шестнадцать. Но стоит ли нам стремиться к большему?» Казначей Орвилл Янг спросил: «Почему бы и нет?»
 
 'I already answered that," Straughan shot back. "It's reckless."
 
@@ -5558,13 +5438,9 @@ It was a neatly clever plan, made by Heyward, which Alex would struggle to stop.
 
 «Есть еще кое-что, — сказал Хейворд. — Даже не для тебя, Джером. Это может повлиять на сегодняшнее голосование». Остальные с новым интересом наблюдали за ним.
 
-"I’m hopeful – in fact it’s likely – that we’ll soon handle major business with Supranational Corporation. It’s another reason I don’t want to lock up funds elsewhere."
+"I’m hopeful – in fact it’s likely – that we’ll soon handle major business with Supranational Corporation. It’s another reason I don’t want to lock up funds elsewhere." "That’s great news," Orville Young said. Even Tom Straughan looked pleased.
 
-«Я надеюсь – и это, по сути, вполне вероятно, – что в скором времени мы заключим крупный контракт с Supranational Corporation. Это еще одна причина, по которой я не хочу вкладывать средства в другие компании».
-
-"That’s great news," Orville Young said. Even Tom Straughan looked pleased.
-
-«Это отличная новость», — сказал Орвилл Янг. Даже Том Страуган выглядел довольным.
+«Я надеюсь — и это, по сути, вероятно, — что вскоре мы заключим крупный контракт с Supranational Corporation. Это еще одна причина, по которой я не хочу вкладывать средства в другие места». «Это отличная новость», — сказал Орвилл Янг. Даже Том Страуган выглядел довольным.
 
 Supranational or SuNatCo, known by its famous global symbol, was a huge worldwide force, the top player in global networks. It also owned or ran dozens more firms, linked and unlinked to its main work. Its huge sway with governments of all kinds, from free states to strict regimes, was said to outdo any business group ever. Some claimed SuNatCo had more real clout than many nations where it worked.
 
@@ -5770,33 +5646,21 @@ Alex was tired. Then, "You know, I've been waiting all evening for you to fry me
 
 Алекс устал. Затем: «Знаешь, я весь вечер ждал, когда ты меня хорошенько проучишь по поводу Forum East. А ты так и не сказал ни слова».
 
-Margot tilted her head farther back, looking at him upside down. She asked innocently, "Why should I fry you, darling? The bank's money reduction wasn't your idea." Her small brow creased. "Or was it?"
+Margot tilted her head farther back, looking at him upside down. She asked innocently, "Why should I fry you, darling? The bank's money reduction wasn't your idea." Her small brow creased. "Or was it?" "You know damn well it wasn't."
 
-Марго еще сильнее запрокинула голову, глядя на него вверх ногами. Она невинно спросила: «Зачем мне тебя жарить, дорогой? Сокращение банковских счетов — это не твоя идея». Ее маленькие брови нахмурились. «Или все-таки твоя?»
-
-"You know damn well it wasn't."
-
-«Ты же прекрасно знаешь, что это было не так».
+Марго еще сильнее запрокинула голову, глядя на него вверх ногами. Она невинно спросила: «Зачем мне тебя жарить, дорогой? Сокращение банковских счетов — это не твоя идея». Ее маленькие брови нахмурились. «Или все-таки твоя?» «Ты же прекрасно знаешь, что это не твоя идея».
 
 "Of course I knew. Just as I was equally sure that you'd opposed it."
 
 «Конечно, я знал. Точно так же, как я был уверен, что вы были против».
 
-"Yes, I opposed it." He added regretfully, "For all the good it did."
+"Yes, I opposed it." He added regretfully, "For all the good it did." "You tried your best. That's all anyone can ask."
 
-«Да, я был против», — с сожалением добавил он. — «Несмотря на всю пользу, которую это принесло».
+«Да, я был против», — с сожалением добавил он. — «Несмотря на всю пользу, которую это принесло». — «Вы старались изо всех сил. Это всё, чего можно от вас ожидать».
 
-"You tried your best. That's all anyone can ask."
+Alex regarded her suspiciously. "None of this is like you." "Not like me in what way?"
 
-«Вы сделали все, что могли. Это все, чего можно от вас ожидать».
-
-Alex regarded her suspiciously. "None of this is like you."
-
-Алекс посмотрел на нее с подозрением. «Ничего из этого на тебя не похоже».
-
-"Not like me in what way?"
-
-"В чём именно я не похож?"
+Алекс посмотрел на нее с подозрением. «Ничего из этого на тебя не похоже». «На что не похоже?»
 
 "You're a fighter. It's one of the things I love about you. You don't give up. You won't accept defeat calmly."
 
@@ -5818,13 +5682,9 @@ He smiled affectionately. "You have told me something after all. All right, if y
 
 Он ласково улыбнулся. «В конце концов, вы мне кое-что рассказали. Хорошо, если вы не хотите никаких расспросов, я этого делать не буду. Но я попрошу одного подтверждения: что всё, что вы задумали, законно».
 
-Momentarily, Margot's temper flared. "I'm the lawyer around here. I'll decide what's legal and what isn't."
+Momentarily, Margot's temper flared. "I'm the lawyer around here. I'll decide what's legal and what isn't." "Even clever lady lawyers make mistakes."
 
-На мгновение Марго вспыхнула гневом. «Я здесь юрист. Я буду решать, что законно, а что нет».
-
-"Even clever lady lawyers make mistakes."
-
-«Даже умные женщины-юристы совершают ошибки».
+На мгновение Марго вспыхнула. «Я здесь главный юрист. Я буду решать, что законно, а что нет». «Даже умные женщины-юристы совершают ошибки».
 
 "Not this time." She seemed about to argue further, then gave in. Her voice softened. "You know I always operate inside the law. Also you know why."
 
@@ -5894,21 +5754,9 @@ Still curled comfortingly close to him, she asked, "How are things at the bank?"
 
 «Потому что это важно. То, что мы делаем, имеет смысл, и независимо от того, движемся ли мы вперед добровольно или нет, мы — профессионалы, которые нужны. Финансовая система стала настолько огромной, сложной и изощренной, что справиться с ней могут только банки». «Значит, ваша главная потребность — это толчок время от времени. Верно?»
 
-He looked at her intently, his curiosity reviving. "You're planning something in that complicated mischievous mind of yours."
+He looked at her intently, his curiosity reviving. "You're planning something in that complicated mischievous mind of yours." "I admit nothing." "Whatever it is, I hope it doesn't involve pay toilets." "Oh God, no!"
 
-Он пристально посмотрел на нее, его любопытство вновь разгорелось. «Ты что-то замышляешь в своем сложном, озорном уме».
-
-"I admit nothing."
-
-«Я ничего не признаю».
-
-"Whatever it is, I hope it doesn't involve pay toilets."
-
-«Что бы это ни было, надеюсь, это не связано с платными туалетами».
-
-"Oh God, no!"
-
-«О Боже, нет!»
+Он пристально посмотрел на неё, его любопытство возродилось. «Ты что-то замышляешь в своём сложном, озорном уме». «Я ничего не признаю». «Что бы это ни было, надеюсь, это не связано с платными туалетами». «О Боже, нет!»
 
 At the year-old memory, both laughed aloud. It had been one of Margot's combat victories and created wide attention.
 
@@ -7266,13 +7114,9 @@ The chef stood stiffly beside Big George’s chair, offering an out-size black l
 
 «Проблемы в вашем банке», — обратился Куортермейн к Роско Хейворду. «Демонстрации. Всё остальное. Всё улажено? Вы надёжны?»
 
-“We were always solid,” Heyward answered. “That was never in question.”
+“We were always solid,” Heyward answered. “That was never in question.” “The market didn’t think so.”
 
-«Мы всегда были сильны», — ответил Хейворд. «В этом никогда не было никаких сомнений».
-
-“The market didn’t think so.”
-
-«Рынок так не считал».
+«Мы всегда были на высоте», — ответил Хейворд. «В этом никогда не было сомнений». «Рынок так не считал».
 
 “Since when was the stock market an accurate indicator of anything?”
 
@@ -7400,7 +7244,7 @@ Thus, in less than twenty minutes they had returned to cruising altitude en rout
 
 The Vice-President was installed, with the dark-haired woman, Krista, taking care of him, an arrangement which he patently approved.
 
-Вице-президент был назначен на должность, и темноволосая женщина по имени Криста взяла на себя его обязанности, что он явно одобрил.
+Вице-президент был назначен на должность, и темноволосая женщина по имени Криста взяла на себя заботу о нем, что он явно одобрил.
 
 Secret Service men, guarding the Vice-President, had been accommodated somewhere at the rear.
 
@@ -8116,7 +7960,7 @@ Consciousness must have left him totally, then returned. From outside he heard a
 
 Bleeding, hurt, and barely conscious, Miles staggered out. The merest movement of his body caused him suffering.
 
-Истекая кровью, раненый и едва придя в себя, Майлз, шатаясь, выбрался наружу. Малейшее движение причиняло ему страдания.
+Истекая кровью, раненый и едва осознавая происходящее, Майлз, шатаясь, выбрался наружу. Малейшее движение причиняло ему страдания.
 
 "Hey, you!" the guard shouted from the platform. "Move ass, you damn weakling!"
 
@@ -8474,13 +8318,9 @@ Both men knew which taps, within First Mercantile American, Alex was referring t
 
 Оба мужчины знали, о каких именно «кранах» в First Mercantile American говорил Алекс. За несколько дней до этого членам комитета по денежно-кредитной политике был разослан меморандум с предложениями, составленный Роско Хейвордом и одобренный президентом банка Джеромом Паттертоном. Для того чтобы сделать возможной кредитную линию Supranational на пятьдесят миллионов долларов, предлагалось резко сократить объемы мелких кредитов, ипотечных кредитов и финансирования за счет муниципальных облигаций.
 
-"If the loan goes through and we make those cutbacks," Tom Straughan argued, "they'll be only temporary. In three months, maybe less, our funding can return to what it was before."
+"If the loan goes through and we make those cutbacks," Tom Straughan argued, "they'll be only temporary. In three months, maybe less, our funding can return to what it was before." "You may believe that, Tom. I don't."
 
-«Если кредит будет одобрен и мы проведем эти сокращения, — утверждал Том Страуган, — они будут лишь временными. Через три месяца, а может и меньше, наше финансирование сможет вернуться к прежнему уровню».
-
-"You may believe that, Tom. I don't."
-
-«Ты можешь в это верить, Том. Я — нет».
+«Если кредит будет одобрен, и мы проведем эти сокращения, — утверждал Том Страуган, — они будут лишь временными. Через три месяца, может быть, даже раньше, наше финансирование вернется к прежнему уровню». «Можете в это верить, Том. Я — нет».
 
 Alex was downcast before he came here. His converser lion with young Straughan now depressed him further.
 
@@ -8682,65 +8522,73 @@ Around the table a burst of turning pages signaled the opening of FMA's traditio
 
 «Спасибо, Джером». Роско Хейворд поправил свои очки без оправы, которые он по привычке полировал, и наклонился вперед в кресле. Когда он заговорил, его манера речи казалась менее строгой, чем обычно, а голос — приятным и уверенным.
 
-"Gentlemen, in starting any large loan, it is wise to check the borrower's financial strength, even with a top credit rating like Supranational. In attachment 'B' of your folders" — pages rustled around the table — "you'll find a summary I made of SuNatCo's assets and expected profits, including all smaller companies. This uses checked financial reports plus extra details from Supranational's controller, Mr. Stanley Inchbeck. The numbers are strong. Our risk is low."
+"Gentlemen, in embarking on any large loan commitment, it is wise to seek assurance of the borrower's financial health, even when that borrower has a triple A credit rating, as Supranational does. In appendix 'B' of your blue folders" around the table there was again a rifling of pages "you will find a summary I have personally prepared of assets and projected profits of the SuNatCo group, including all subsidiaries. This is based on audited financial statements plus additional data supplied at my request by Supranational's comptroller, Mr. Stanley Inchbeck. As you can see, the figures are excellent. Our risk is minimal."
 
-«Господа, при оформлении любого крупного кредита разумно проверить финансовую устойчивость заемщика, даже если у него такой высокий кредитный рейтинг, как у Supranational. В приложении «B» к вашим папкам», — страницы зашуршали на столе, — «вы найдете составленный мной обзор активов и ожидаемой прибыли SuNatCo, включая все более мелкие компании. В нем используются проверенные финансовые отчеты, а также дополнительные сведения от контролера Supranational, г-на Стэнли Инчбека. Цифры убедительны. Наш риск низок».
+«Господа, принимая решение о предоставлении крупного кредита, разумно убедиться в финансовом состоянии заемщика, даже если у него кредитный рейтинг AAA, как у Supranational. В приложении «B» ваших синих папок», — снова послышался шорох страниц, — «вы найдете составленный мной лично отчет об активах и прогнозируемой прибыли группы SuNatCo, включая все дочерние компании. Он основан на проверенной финансовой отчетности, а также на дополнительных данных, предоставленных по моей просьбе финансовым директором Supranational, г-ном Стэнли Инчбеком. Как видите, цифры превосходны. Наш риск минимален».
 
-"I don't know Inchbeck," cut in Wallace Sperrie, a scientific instrument company owner. "But I trust your judgment, Roscoe. If you back these figures, they're top-rated for me." Others joined in agreement. Alex Vandervoort drew shapes on his notepad.
+"I don't know Inchbeck's reputation," a director interjected; he was Wallace Sperrie, owner of a scientific instrument company. "But I know yours, Roscoe, and if you approve these figures then they're top-notch for me." Several others chimed in their agreement,
 
-«Я не знаком с Инчбеком, — вмешался Уоллес Сперри, владелец компании по производству научных приборов. — Но я доверяю вашему мнению, Роско. Если вы подтвердите эти цифры, они будут для меня первоклассными». Другие присоединились к согласию. Алекс Вандерворт нарисовал фигуры в своем блокноте.
+«Я не знаю репутации Инчбека», — вмешался один из директоров, Уоллес Сперри, владелец компании по производству научных приборов. «Но я знаю вашу, Роско, и если вы одобряете эти цифры, то они для меня первоклассные». Несколько других человек согласно кивнули.
 
-"Thank you, Wally, gentlemen." Heyward allowed a small smile. "I hope you'll support my related plan." He described granting Supranational full $50 million credit now while making cost reductions elsewhere, promising these cuts would be reversed "when safe." He added, "This plan will boost our own profits greatly."
+Alex Vandervoort doodled with a pencil on a pad in front of him.
 
-«Спасибо, Уолли, джентльмены». Хейворд слегка улыбнулся. «Надеюсь, вы поддержите мой план». Он рассказал о предоставлении Supranational полного кредита в размере 50 миллионов долларов сейчас, одновременно сокращая расходы в других областях, и пообещал, что эти сокращения будут отменены, «когда это станет безопасно». Он добавил: «Этот план значительно увеличит нашу собственную прибыль».
+Алекс Вандерворт что-то набросал карандашом на лежащем перед ним блокноте.
 
-As Heyward sat back, Jerome Patterton said, "Questions or comments?" Sperrie responded, "Seems clear. This is smart business for the bank. I say approve." Multiple voices called, "Second!"
+"Thank you, Wally, and gentlemen." Heyward permitted himself a slight smile. "I'm hopeful your confidence will extend to the related action I have recommended."
 
-Пока Хейворд откинулся на спинку кресла, Джером Паттертон спросил: «Вопросы или комментарии?» Сперри ответил: «Кажется, все ясно. Это разумное решение для банка. Я говорю: одобряю». Раздалось несколько возгласов: «Второй!»
+«Спасибо, Уолли и господа». Хейворд позволил себе легкую улыбку. «Надеюсь, ваше доверие распространится и на соответствующие действия, которые я рекомендовал».
 
-"Proposed and seconded," Patterton said formally, his mallet ready. "Ready to vote?"
+Although the recommendations were listed in the blue folder, he described them anyway the fifty-million-dollar line of credit to be granted in full to Supranational and subsidiaries immediately, with financial cutbacks in other areas of the bank to become effective at the same time. The cutbacks, Heyward assured the listening directors, would be restored "as soon as possible and wise," though he preferred not to specify when. He concluded, "I recommend this package to the board and I promise that, in light of it, our own profit figures will look very good indeed."
 
-«Предложение принято и поддержано», — официально заявил Паттертон, держа молоток наготове. «Готовы голосовать?»
+Хотя рекомендации были перечислены в синей папке, он все же описал их как предоставление кредитной линии в размере пятидесяти миллионов долларов в полном объеме компании Supranational и ее дочерним предприятиям немедленно, с одновременным вступлением в силу финансовых сокращений в других областях деятельности банка. Хейворд заверил слушавших его директоров, что сокращения будут восстановлены «как можно скорее и разумно», хотя он предпочел не уточнять, когда именно. В заключение он сказал: «Я рекомендую этот пакет совету директоров и обещаю, что с учетом его результатов наши собственные показатели прибыли будут выглядеть действительно очень хорошо».
 
-"No," Alex said calmly, pushing aside his drawings. "We need much more talk first."
+As Heyward leaned back in his chair, Jerome Patterton announced, 'The meeting is open for questions and discussion." "frankly," Wallace Sperrie said, "I see no need for either. Everything's clear. I think we're witnesses to a masterstroke of business for the bank and I propose approval." Several voices together called out, "Second!"
 
-«Нет», — спокойно ответил Алекс, отодвигая свои рисунки. — «Нам нужно сначала гораздо больше поговорить».
+Когда Хейворд откинулся на спинку стула, Джером Паттертон объявил: «Встреча открыта для вопросов и обсуждений». «Честно говоря, — сказал Уоллес Сперри, — я не вижу необходимости ни в том, ни в другом. Всё ясно. Я думаю, мы являемся свидетелями блестящего делового решения для банка, и я предлагаю его одобрить». Несколько голосов одновременно воскликнули: «Второе!»
 
-Patterton sighed, setting down the mallet. He'd hoped Alex would relent given the board's near-full agreement.
+"Proposed and seconded," Jerome Patterton intoned. "Are we ready to vote?" He obviously hoped so. His gavel was poised.
 
-Паттертон вздохнул и отложил молоток. Он надеялся, что Алекс уступит, учитывая почти полное согласие совета директоров.
+«Предложено и поддержано», — произнес Джером Паттертон. «Мы готовы голосовать?» Он явно надеялся на это. Его молоток был готов к удару.
 
-"Sorry to disagree with Jerome and Roscoe," Alex continued, "but I must voice my concern and opposition."
+"No," Alex Vandervoort said quietly. He pushed his pencil and doodling away. "Nor do I think anyone else should vote without a great deal more discussion."
 
-«Извините, что не согласен с Джеромом и Роско, — продолжил Алекс, — но я должен высказать свою озабоченность и несогласие».
+«Нет», — тихо ответил Алекс Вандерворт. Он отложил карандаш и свои каракули. — «И я не думаю, что кто-либо еще должен голосовать без более тщательного обсуждения».
 
-"What's wrong? Your lady friend dislike Supranational?" Forrest Richardson's sharp question came from the meat-packing executive known for his abrupt manner and strict management style.
+Patterton sighed. He set the gavel down. Alex had already warned him, as a courtesy, of his intentions, but Patterton had hoped that Alex, sensing the near-unanimous mood of the board, would change his mind.
 
-«Что случилось? Вашей подруге не нравится Supranational?» — резкий вопрос задал Форрест Ричардсон, руководитель мясоперерабатывающего предприятия, известный своей резкостью и строгим стилем управления.
+Паттертон вздохнул. Он положил молоток. Алекс уже предупредил его, из вежливости, о своих намерениях, но Паттертон надеялся, что Алекс, почувствовав почти единодушное настроение совета, изменит свое решение.
 
-Alex reddened. Directors might recall public links between him and Margot's protests months earlier, but he refused to have his private life picked apart here. Holding back a sharp reply, he answered, "Ms. Bracken and I rarely discuss banking now. This wasn't one."
+"I genuinely regret," Alex Vandervoort was saying now, "to find myself before the board in conflict with my fellow officers, Jerome and Roscoe. But I cannot, as a matter of duty and conscience, conceal my anxiety about this loan and my opposition to it."
 
-Алекс покраснел. Руководство, возможно, помнит публичные связи между ним и протестами Марго, происходившими несколько месяцев назад, но он отказался, чтобы его личную жизнь здесь разбирали по частям. Сдерживая резкий ответ, он сказал: «Мы с мисс Брэкен сейчас редко обсуждаем банковское дело. Этого не было».
+«Я искренне сожалею, — говорил теперь Алекс Вандерворт, — что оказался перед советом директоров в конфликте со своими коллегами, Джеромом и Роско. Но я не могу, из чувства долга и совести, скрывать свою тревогу по поводу этого займа и свое несогласие с ним».
 
-Another director asked, "What bothers you, Alex?"
+"What's the trouble? Doesn't your girl friend like Supranational?" The pointed question came from Forrest Richardson, a longtime PMA director; he was blunt mannered, had a reputation as a strict leader, and was a crown prince of meat-packing.
 
-Другой режиссёр спросил: «Что тебя беспокоит, Алекс?»
+«В чём дело? Твоей девушке не нравится Supranational?» Этот острый вопрос задал Форрест Ричардсон, многолетний директор Военной академии Филиппин; он был прямолинейным человеком, имел репутацию строгого руководителя и был одним из самых влиятельных деятелей мясоперерабатывающей промышленности.
 
-"Everything."
+Alex flushed with anger. No doubt directors remembered the public linking of his name with Margot's "bank-in" campaign three months earlier; just the same, he was not prepared to have his personal life examined here. But he withheld a strong retort and answered, "Miss Bracken and I rarely discuss banking nowadays. I assure you we haven't this."
 
-"Все."
+Алекс покраснел от гнева. Без сомнения, руководство помнило, как три месяца назад его имя связывали с кампанией Марго по привлечению инвестиций; тем не менее, он не был готов к тому, чтобы его личная жизнь здесь обсуждалась. Но он сдержал резкий ответ и сказал: «Мы с мисс Брэкен редко обсуждаем банковское дело в наши дни. Уверяю вас, мы этого не делали».
 
-The room buzzed with annoyed cries. Faces turned unfriendly.
+Another director asked, "Just what is it you don't like about the deal, Alex?" "Everything."
 
-В комнате раздавались раздраженные крики. Лица стали неприветливыми.
+Другой директор спросил: «Что именно тебе не нравится в этой сделке, Алекс?» «Всё».
 
-Patterton advised sharply, "Explain yourself fully."
+Around the table there was a restless stirring and exclamations of annoyed surprise. Faces which had turned toward Alex betrayed a lack of friendliness.
 
-Паттертон резко посоветовал: «Объясните все подробно».
+За столом царило беспокойное покачивание и раздавались раздраженные возгласы удивления. Лица, повернувшиеся к Алексу, выдавали отсутствие дружелюбия.
 
-"I will." Alex pulled notes from his folder. "First, I oppose risking so much on one client. This reckless focus skirts dishonesty under banking law Section 23A."
+Jerome Patterton advised sharply, "You'd better lay the whole thing out."
 
-«Я сделаю это». Алекс достал из папки заметки. «Во-первых, я против того, чтобы так сильно рисковать, работая с одним клиентом. Такая безрассудная сосредоточенность на одном клиенте граничит с нечестностью согласно статье 23А банковского законодательства».
+Джером Паттертон резко посоветовал: «Лучше выложите всё как есть».
+
+"Yes, I will." Alex reached into the file folder he had brought and extracted a single page of notes..
+
+«Да, я сделаю это». Алекс полез в принесенную им папку и достал одну страницу с заметками.
+
+"To begin with, I object to the extent of the commitment to a single account. And not only is it an ill-advised concentration of risk, in my opinion it is fraudulent under Section 23A of the Federal Reserve Act."
+
+«Прежде всего, я возражаю против масштабов обязательств, возложенных на один-единственный счет. И это не только необоснованная концентрация риска, но, на мой взгляд, мошенничество в соответствии со статьей 23A Закона о Федеральной резервной системе».
 
 Roscoe Heyward leaped to his feet. "I object to that word 'false.'" "Objecting doesn't change the truth," Alex said calmly.
 
@@ -8836,7 +8684,7 @@ Alex's face was set grimly. He wondered if this was the last FMA board meeting h
 
 "If you followed through logically on all that," Forrest Richardson objected, "half the members of this board could be accused of conflict of interest."
 
-«Если логически всё это проследить, — возразил Форрест Ричардсон, — то половину членов этого совета можно будет обвинить в конфликте интересов».
+«Если логически проследить все эти моменты, — возразил Форрест Ричардсон, — то половину членов этого совета можно будет обвинить в конфликте интересов».
 
 "Precisely. And the time is dose when the bank will have to face that situation and amend it."
 
@@ -9074,21 +8922,9 @@ Leonard Kingswood nodded, as did several others. Still more directors shed post-
 
 Леонард Кингсвуд кивнул, как и несколько других. Еще больше директоров, преодолев сонливость после обеда, вновь сосредоточились. Недаром Остин был членом совета директоров FMA с самым долгим стажем. Его влияние было всеобъемлющим. Он также умел убеждать других в своей точке зрения.
 
-"Near the beginning of your remarks, Alex," he said, "you spoke of a return to personal saving, and leadership which banks like ours might give."
+"Near the beginning of your remarks, Alex," he said, "you spoke of a return to personal saving, and leadership which banks like ours might give." "Yes, I did." "Could you expand that thought?" Alex hesitated. "I suppose so."
 
-«В начале своего выступления, Алекс, — сказал он, — вы говорили о возвращении к личным сбережениям и о лидерстве, которое могли бы обеспечить такие банки, как наш».
-
-"Yes, I did."
-
-«Да, я это сделал».
-
-"Could you expand that thought?"
-
-«Не могли бы вы развить эту мысль?»
-
-Alex hesitated. "I suppose so."
-
-Алекс замялся. «Полагаю, да».
+«В начале своего выступления, Алекс, — сказал он, — вы говорили о возвращении к личным сбережениям и о лидерстве, которое могли бы обеспечить такие банки, как наш». — Да, говорил. — Могли бы вы развить эту мысль? Алекс замялся. — Полагаю, да.
 
 Should he? Alex weighed choices. He was no longer surprised at the comment. He knew exactly why Austin had switched sides.
 
@@ -9182,13 +9018,9 @@ Harold Austin intercepted him. "Alex, when will you move on the savings plan?"
 
 «Немедленно». Не желая показаться невежливым, он добавил: «Спасибо за вашу поддержку».
 
-Austin nodded. "What I’d like to do now is come in with two or three of my agency people to discuss the campaign."
+Austin nodded. "What I’d like to do now is come in with two or three of my agency people to discuss the campaign." "Very well. Next week."
 
-Остин кивнул. «Сейчас я хотел бы прийти вместе с двумя-тремя сотрудниками моего агентства, чтобы обсудить предвыборную кампанию».
-
-"Very well. Next week."
-
-«Хорошо. На следующей неделе».
+Остин кивнул. «Сейчас я хотел бы прийти с двумя-тремя сотрудниками моего агентства, чтобы обсудить кампанию». «Хорошо. На следующей неделе».
 
 So Austin had confirmed without delay or embarrassment what Alex had figured out. Though to be fair, Alex thought, the Austin Advertising Agency did good work and could be selected to handle the savings campaign on merit."
 
@@ -9286,13 +9118,9 @@ During their second telephone conversation about Q-Investments, Big George calli
 
 Во время их второго телефонного разговора о Q-Investments, Большой Джордж, звонивший с удаленного робота SuNatCo в Чикаго, сказал: «Мы говорили о вас с Гарольдом Остином, Роско. Мы оба считаем, что вам пора присоединиться к нашей инвестиционной группе. Хотелось бы видеть вас с нами. Поэтому я выделил две тысячи акций, которые мы будем считать полностью оплаченными. Это номинальные сертификаты с незаполненными данными — так будет осторожнее. Я отправлю их по почте».
 
-Heyward had objected. 'Thank you, George, but I don't believe I should accept."
+Heyward had objected. 'Thank you, George, but I don't believe I should accept." "For Chrissakes, why not?" - "It would be unethical."
 
-Хейворд возразил: «Спасибо, Джордж, но я не думаю, что должен принимать это предложение».
-
-"For Chrissakes, why not?" - "It would be unethical."
-
-«Ради бога, почему бы и нет?» — «Это было бы неэтично».
+Хейворд возразил: «Спасибо, Джордж, но я не думаю, что должен принимать это предложение». «Ради бога, почему нет?» — «Это было бы неэтично».
 
 Big George had laughed. "This is the real world, Roscoe. Same kind of thing happens between clients and bankers all the time. You know it. I know it."
 
@@ -9344,7 +9172,7 @@ As Heyward entered his outer office, Mrs. Callaghan offered him her usual mother
 
 He nodded, but inside pushed the pile aside. He hesitated over papers which had been prepared, but were not yet approved, concerning the additional Q-Investments loan. Then he dismissed that too, and, using a phone which was a direct outside line, called the number of paradise.
 
-Он кивнул, но внутри отодвинул стопку бумаг. Он колебался над подготовленными, но еще не утвержденными документами, касающимися дополнительного кредита Q-Investments. Затем он отбросил и это, и, воспользовавшись телефоном с прямой внешней линией, позвонил по номеру, указанному в «раю».
+Он кивнул, но внутри отодвинул стопку бумаг. Он колебался над подготовленными, но еще не утвержденными документами, касающимися дополнительного кредита Q-Investments. Затем он отбросил и это, и, воспользовавшись телефоном с прямой внешней линией, позвонил по номеру, указанному в «Раю».
 
 "Rossie, sweetie," Avril whispered as the tip of her tongue explored his ear, "you're hurrying too much. Wait! Lie still! Still! Hold back!" She stroked his naked shoulder, then his spine, her fingernails hovering, sharp but soft light.
 
@@ -9662,13 +9490,9 @@ They studied the corpse in silence, then the detective asked, "You see anything 
 
 «В новостном сообщении говорилось, что он умер от ножевых ранений, а не от утопления».
 
-"It's what the autopsy showed. Before that he was tortured."
+"It's what the autopsy showed. Before that he was tortured." "How do you know?"
 
-«Это показали результаты вскрытия. До этого его пытали».
-
-"How do you know?"
-
-"Откуда вы знаете?"
+«Это показали результаты вскрытия. До этого его пытали». «Откуда вы это знаете?»
 
 "His balls were crushed. The expert's report said they must have been put in some kind of vise which was tightened until they burst. You want to see?"
 
@@ -10078,13 +9902,9 @@ Ms. Peacock considered. "How fast, really, is banking changing?"
 
 Мисс Пикок задумалась. «Насколько быстро на самом деле меняется банковская система?»
 
-"Technologically, we're developing more swiftly than aerospace. What you're seeing here is the most important development since the introduction of the checking account—and, within ten years or less, most banking will be done this way."
+"Technologically, we're developing more swiftly than aerospace. What you're seeing here is the most important development since the introduction of the checking account—and, within ten years or less, most banking will be done this way." "Will there still be some human workers?"
 
-«В технологическом плане мы развиваемся быстрее, чем аэрокосмическая отрасль. То, что вы видите здесь, — это самое важное достижение со времен введения расчетных счетов, и в течение десяти лет или даже раньше большая часть банковских операций будет осуществляться таким образом».
-
-"Will there still be some human workers?"
-
-«Останется ли часть сотрудников в штате?»
+«В технологическом плане мы развиваемся быстрее, чем аэрокосмическая отрасль. То, что вы видите здесь, — это самое важное достижение со времен введения расчетных счетов, и в течение десяти лет или даже раньше большая часть банковских операций будет осуществляться таким образом». «Останется ли часть сотрудников-людей?»
 
 "For a while, but the breed will disappear quickly. Quite soon, the notion of having an individual count out cash by hand, then pass it over a counter will be ancient and outdated as the old-fashioned grocer who used to weigh out sugar, peas, and butter, then put them into paper bags himself." "It's all rather sad," Ms. Peacock said. "Progress often is."
 
@@ -10462,7 +10282,7 @@ Without comment, Alex took a cigar which he sniffed appreciatively. He had long 
 
 "Answering your question," Lewis said, "I make no secret of the purpose of The D'Orsey Newsletter." He lit Alex's cigar, then his own, and inhaled luxuriously. "It's to help the elite get richer or at worst, keep what they have." "So I've noticed."
 
-«Отвечая на ваш вопрос, — сказал Льюис, — я не скрываю цели информационного бюллетеня Д'Орси». Он закурил сигару Алекса, затем свою, и с удовольствием вдохнул. «Это помогает элите разбогатеть или, в худшем случае, сохранить то, что у них есть». «Я это заметил».
+«Отвечая на ваш вопрос, — сказал Льюис, — я не скрываю цели информационного бюллетеня Д'Орси». Он закурил сигару Алекса, затем свою, и с удовольствием вдохнул. «Его цель — помочь элите разбогатеть или, в худшем случае, сохранить то, что у них есть». «Я это заметил».
 
 Such newsletter, as Alex was aware, contained profitable advice: securities to buy or sell, currencies to switch into or out of, commodities to deal in, foreign stock markets to favor or avoid, tax gaps for the wealthy and carefree, how to deal through Swiss accounts, political background likely to affect money, coming disasters which those with inside knowledge could turn to profit. The list was always long, the tone of the newsletter confident and absolute. There was seldom any hedging.
 
@@ -10548,7 +10368,7 @@ Sipping their brandy in the smoke-filled room, both men were silent. Alex turned
 
 More simple was:
 
-Проще было:
+Проще было так:
 
 Recommended mix of currencies:
 
@@ -10628,7 +10448,7 @@ Their surroundings at this moment were spartan, compared with most other departm
 
 The younger man hesitated before answering, then said, still nervously, "I know you tricked me with that first confession. The night I was arrested. My lawyer said it was illegal, it could never have been used in court. You knew that. But you let me go on thinking it was a legit confession, so I signed that second one for the FBI not knowing there was any difference..."
 
-Молодой человек помедлил, прежде чем ответить, а затем, всё ещё нервно, сказал: «Я знаю, что вы обманули меня этим первым признанием. В ночь моего ареста. Мой адвокат сказал, что это незаконно, это никогда не могло быть использовано в суде. Вы это знали. Но вы позволили мне продолжать думать, что это законное признание, поэтому я подписал второе признание для ФБР, не зная, что между ними есть разница…»
+Молодой человек помедлил, прежде чем ответить, а затем, всё ещё нервно, сказал: «Я знаю, что вы обманули меня первым признанием. В ночь моего ареста. Мой адвокат сказал, что это незаконно, это никогда не могло быть использовано в суде. Вы это знали. Но вы позволили мне продолжать думать, что это законное признание, поэтому я подписал второе признание для ФБР, не зная, что между ними есть разница…»
 
 Wainwright's eyes narrowed suspiciously. "Before I answer that, I want to know something. Are you carrying a recording device?" "No." "Why should I believe you'
 
@@ -10750,33 +10570,21 @@ Noticeably Eastin hesitated, then said flatly, "I don't know."
 
 «Я предполагаю вот что, — сказал Уэйнрайт, проигнорировав вопрос. — До сих пор вы держались подальше от людей, которых знали в тюрьме. Но поскольку здесь вы ничего не добились, вы решили пойти к ним. Вы рискуете, что вас увидят, и что вас освободят по условно-досрочному освобождению».
 
-"What the hell other kind of chance is there? And if you know so much, why ask?"
+"What the hell other kind of chance is there? And if you know so much, why ask?" "So you do have those contacts."
 
-«А какие ещё бывают шансы? И если ты так много знаешь, зачем спрашивать?»
-
-"So you do have those contacts."
-
-«Значит, у вас есть такие контакты».
+«А какие ещё бывают шансы? И если ты так много знаешь, зачем спрашивать?» «Значит, у тебя есть эти связи».
 
 "If I say yes," Eastin said scornfully, "the first thing you'll do when I've gone is telephone the parole board."
 
 «Если я скажу „да“, — презрительно заметил Истин, — то первым делом после моего ухода вы позвоните в комиссию по условно-досрочному освобождению».
 
-"No." Wainwright shook his head. "Whatever we decide, I promise you I won't do that."
+"No." Wainwright shook his head. "Whatever we decide, I promise you I won't do that." "What do you mean: 'Whatever we decide'?"
 
-«Нет». Уэйнрайт покачал головой. «Что бы мы ни решили, я обещаю вам, что этого делать не буду».
+«Нет». Уэйнрайт покачал головой. «Что бы мы ни решили, я обещаю вам, что этого не сделаю». «Что вы имеете в виду: „Что бы мы ни решили“?»
 
-"What do you mean: 'Whatever we decide'?"
+"There might just be something we could work out. If you were willing to run some risks. Big ones." "What kind of risks?"
 
-«Что вы имеете в виду: „Что бы мы ни решили“?»
-
-"There might just be something we could work out. If you were willing to run some risks. Big ones."
-
-«Возможно, мы сможем что-нибудь придумать. Если вы готовы пойти на риск. На большой риск».
-
-"What kind of risks?"
-
-«Какие именно риски?»
+«Возможно, мы сможем что-нибудь придумать. Если вы готовы пойти на риск. На большой риск». «На какой риск?»
 
 "Leave that for now. If we need to, we'll come back to it. Tell me first about the people you got to know inside and those you can make contact with now." Sensing continued caution, Wainwright added, "I give you my word I won't take advantage without your agreement of anything you tell me."
 
@@ -10818,29 +10626,9 @@ The other thing Miles had been told at Drummonburg was that there would be ways 
 
 «Мое предчувствие было верным. Отсюда вы бы туда и поехали».
 
-"Oh, God, Mr. Wainwright, I didn't want to! I still don't."
+"Oh, God, Mr. Wainwright, I didn't want to! I still don't." "Maybe, between us, you can cut it both ways." "How?" "You've heard of an undercover agent?" Miles Eastin looked surprised before admitting, "Yes..." "Then listen carefully." Wainwright began talking.
 
-«О, Боже, мистер Уэйнрайт, я не хотел! И до сих пор не хочу».
-
-"Maybe, between us, you can cut it both ways."
-
-«Возможно, между нами можно найти компромисс».
-
-"How?"
-
-"Как?"
-
-"You've heard of an undercover agent?"
-
-«Вы слышали о тайном агенте?»
-
-Miles Eastin looked surprised before admitting, "Yes..."
-
-Майлз Истин выглядел удивленным, прежде чем признаться: «Да...»
-
-"Then listen carefully." Wainwright began talking.
-
-«Тогда слушайте внимательно», — начал говорить Уэйнрайт.
+«О, Боже, мистер Уэйнрайт, я не хотел! И до сих пор не хочу». «Может быть, между нами можно найти компромисс». «Как?» «Вы слышали о тайном агенте?» Майлз Истин удивленно посмотрел на него, прежде чем признать: «Да…» «Тогда слушайте внимательно». Уэйнрайт начал говорить.
 
 Pour months earlier, when the bank security chief viewed the drowned and disfigured body of his informer, Vic, he had doubted if he would send anyone undercover again. At that moment, shocked and with a sense of personal guilt, he had meant what he said and had done nothing since to recruit a replacement. But this opportunity Eastin's desperation and ready-made connections was too promising to be ignored.
 
@@ -10908,7 +10696,7 @@ Miles frowned. "It's one-sided."
 
 "If you were me, which would it be?"
 
-«Если бы ты был на моем месте, что бы ты выбрал?»
+«Если бы вы были на моем месте, что бы вы выбрали?»
 
 "I'm not you, nor likely to be. But I'll tell you how I see it. The way things are, you don't have many choices.'
 
@@ -11896,7 +11684,7 @@ He found the Louisville airport without difficulty and after observing the rest 
 
 Through the remainder of the day Miles was weary from the lack of sleep, though he managed to keep working. In the afternoon LaRocca arrived, beaming and smoking a fat cigar.
 
-Остаток дня Майлз провел в состоянии усталости из-за недосыпа, хотя и продолжал работать. После обеда приехал Ларокка, сияющий от счастья и курящий толстую сигару.
+Остаток дня Майлз провел в состоянии усталости от недосыпа, хотя и продолжал работать. После обеда приехал Ларокка, сияющий от счастья и курящий толстую сигару.
 
 "Ya pulled off a clean job, Milesy. Nobody's pissed off. Everybody pleased."
 
@@ -12214,13 +12002,9 @@ Today, Vernon Jax was, if anything, more unimpressive in appearance than the las
 
 «Сегодня меня ждали все необходимые сюрпризы», — сказал Алекс, прикасаясь к лежащему перед ним отчету.
 
-"Anyway," Jax said, "that's how I got a lot of what's in there. The rest was hard work, patience, and knowing which rocks to look under."
+"Anyway," Jax said, "that's how I got a lot of what's in there. The rest was hard work, patience, and knowing which rocks to look under." "I see."
 
-«В общем, — сказал Джакс, — вот как я добыл большую часть того, что там находится. Остальное — результат упорного труда, терпения и умения искать под камнями».
-
-"I see."
-
-"Я понимаю."
+«В общем, — сказал Джакс, — вот как я добыл большую часть того, что там находится. Остальное — результат упорного труда, терпения и умения искать под камнями». «Понятно».
 
 "There's one other thing I'd like to clear up, Mr. Vandervoort, and I guess you'd call it personal pride. I've watched you look me over both times we've met, and you haven't much cared for what you've seen. Well, that's the way I prefer people to see me because a man who's plain and down-at-the-heel isn't as likely to be noticed or taken seriously by those he's trying to investigate. It works another way, too, because people I talk to don't think I'm important and they aren't on guard. If I looked anything like you, they would be. So that's the reason, but I'll also tell you this: The day you invite me to your daughter's wedding I'll be as well turned out as any other guest."
 
@@ -12418,13 +12202,9 @@ Patterton's red face had gone pale. He appealed to Alex, "Where do we stand?" No
 
 «Иисус!» — повторил Паттертон, — «Иисус Христос!» Он достал платок и вытер лицо и округлую голову.
 
-Alex went on steadily, "There's something else well have to consider publicity. If Supranational goes under there will be investigations. But even before that the press will be on to the story and do probing of their own. Some of the financial reporters are pretty good at it. When the questioning starts, it's unlikely our bank will escape attention, and the extent of our losses will become known and revealed. That kind of news can make depositors uneasy. It could cause heavy withdrawals."
+Alex went on steadily, "There's something else well have to consider publicity. If Supranational goes under there will be investigations. But even before that the press will be on to the story and do probing of their own. Some of the financial reporters are pretty good at it. When the questioning starts, it's unlikely our bank will escape attention, and the extent of our losses will become known and revealed. That kind of news can make depositors uneasy. It could cause heavy withdrawals." "You mean a run on the bank! That's unthinkable."
 
-Алекс продолжил: «Есть еще кое-что, что нам нужно учитывать в плане освещения в СМИ. Если Supranational обанкротится, начнутся расследования. Но даже до этого пресса сама займется этим делом и проведет собственное расследование. Некоторые финансовые журналисты в этом довольно хороши. Когда начнутся допросы, вряд ли наш банк избежит внимания, и масштабы наших потерь станут известны и раскрыты. Такие новости могут вызвать беспокойство у вкладчиков. Это может привести к массовому снятию средств».
-
-"You mean a run on the bank! That's unthinkable."
-
-«Вы имеете в виду массовое изъятие вкладов из банка! Это немыслимо».
+Алекс спокойно продолжил: «Есть еще кое-что, что нам нужно учитывать в плане освещения в СМИ. Если Supranational обанкротится, начнутся расследования. Но даже до этого пресса тоже подхватит эту историю и проведет собственное расследование. Некоторые финансовые журналисты в этом довольно хороши. Когда начнутся допросы, вряд ли наш банк избежит внимания, и масштабы наших потерь станут известны и раскрыты. Такие новости могут встревожить вкладчиков. Это может привести к массовому снятию средств». «Вы имеете в виду панику среди вкладчиков! Это немыслимо».
 
 "No, it isn't. It's happened elsewhere remember Franklin in New York. If you're a depositor, the only thing you care about is whether your money's safe. If you think it might not be, you take it out fast."
 
@@ -12434,13 +12214,9 @@ Patterton drank more water, then slumped into his chair. If possible, he looked 
 
 Паттертон выпил еще воды, а затем плюхнулся в кресло. По возможности, он выглядел еще бледнее, чем прежде.
 
-"What I suggest," Alex said, "is that you call the money policy committee together immediately and we concentrate, during the next few days, on attaining maximum liquidity. That way, we'll be prepared if there's a sudden drain on cash."
+"What I suggest," Alex said, "is that you call the money policy committee together immediately and we concentrate, during the next few days, on attaining maximum liquidity. That way, we'll be prepared if there's a sudden drain on cash." Patterton nodded. "All right."
 
-«Я предлагаю, — сказал Алекс, — немедленно созвать комитет по денежно-кредитной политике, и в течение следующих нескольких дней мы сосредоточимся на достижении максимальной ликвидности. Таким образом, мы будем готовы к внезапному оттоку денежных средств».
-
-Patterton nodded. "All right."
-
-Паттертон кивнул. "Хорошо."
+«Я предлагаю, — сказал Алекс, — немедленно созвать комитет по денежно-кредитной политике, и в течение следующих нескольких дней мы сосредоточимся на достижении максимальной ликвидности. Таким образом, мы будем готовы к внезапному оттоку денежных средств». Паттертон кивнул. «Хорошо».
 
 "Apart from that there's not much else to do but pray." For the first time since coming in, Alex smiled. "Maybe we should get Roscoe working on that."
 
@@ -12450,13 +12226,9 @@ Patterton nodded. "All right."
 
 «Роско!» — воскликнул Паттертон, словно внезапно вспомнив: «Он изучил данные Supranational, рекомендовал кредит и заверил нас, что все отлично».
 
-"Roscoe wasn't alone," Alex pointed out. "You and the board supported him. And plenty of others studied the figures and drew the same conclusion."
+"Roscoe wasn't alone," Alex pointed out. "You and the board supported him. And plenty of others studied the figures and drew the same conclusion." "You didn't."
 
-«Роско был не одинок», — отметил Алекс. «Вы и совет директоров поддержали его. И многие другие, изучив цифры, пришли к тому же выводу».
-
-"You didn't."
-
-«Вы этого не сделали».
+«Роско был не одинок», — заметил Алекс. «Вы и совет директоров поддержали его. И многие другие, изучив цифры, пришли к тому же выводу». «Вы — нет».
 
 "I was uneasy; suspicious, maybe. But I had no idea SuNatCo was in the mess it is."
 
@@ -13104,7 +12876,7 @@ Miles asked, "and the drivers' licenses and credit cards?"
 
 In a fever of eagerness now Miles waited for a chance to communicate what he had learned to Nolan Wainwright, via Juanita. Frustratingly, though, it was proving impossible to leave the Double-Seven and the risk of conveying such vital intelligence over the health club's telephone seemed too great.
 
-В лихорадочном нетерпении Майлз ждал возможности передать Нолану Уэйнрайту через Хуаниту то, что он узнал. К сожалению, покинуть «Двойную семерку» оказалось невозможно, а риск передачи столь важной информации по телефону фитнес-клуба казался слишком велик.
+В лихорадочном нетерпении Майлз ждал возможности передать полученные знания Нолану Уэйнрайту через Хуаниту. К сожалению, покинуть «Двойную семерку» оказалось невозможно, а риск передачи столь важной информации по телефону фитнес-клуба казался слишком велик.
 
 On Thursday morning the day after Danny's frank revelations the old man showed every sign of having made a full recovery from his alcoholic excess. He was clearly enjoying Miles's company and their chess games continued. So did their conversations, though Danny was more on guard than he had been the day before.
 
@@ -13698,7 +13470,7 @@ The poultryman had presented them. They totaled $23,000.
 
 "We haven't enough money left to pay that much." He should have known, of course. The drain on cash since opening had been continuous with many large withdrawals.
 
-«У нас не осталось достаточно денег, чтобы заплатить столько». Конечно, он должен был это знать. С момента открытия банк постоянно терял наличные деньги, было совершено множество крупных снятий средств.
+«У нас не осталось денег, чтобы заплатить столько». Конечно, он должен был это знать. С момента открытия банк постоянно терял наличные, совершалось множество крупных снятий средств.
 
 But the remark was unfortunate. Now there were new complaints among those in line, the clerk's statement being repeated and passed back. "You hear that! They say they don't have any money."
 
@@ -13706,7 +13478,7 @@ But the remark was unfortunate. Now there were new complaints among those in lin
 
 "By Christ!" The poultry farmer leaned angrily forward, a tight fist pounding.
 
-«Ей-богу!» — сердито наклонился вперед птицевод, сжимая кулак.
+«Ей-богу!» — сердито наклонился вперед фермер, сжимая кулак.
 
 "You just better pay those checks, Gatwick, or I'll be over there and tear this damn bank apart." "There's no need for any of that, Steve.
 
@@ -13766,7 +13538,7 @@ Then, with a showy flourish, the bank's outer doors flung open and a procession 
 
 Edwina D'Orsey headed it. Following her were Cliff Castleman and the two young women clerks, one of them the small figure of Juanita Nunez.
 
-Во главе группы стояла Эдвина Д'Орси. За ней следовали Клифф Кастлман и две молодые женщины-клерка, одна из которых, невысокая Хуанита Нуньес, также входила в группу.
+Во главе группы стояла Эдвина Д'Орси. За ней следовали Клифф Кастлман и две молодые женщины-клерки, одна из которых, невысокая Хуанита Нуньес, также входила в группу.
 
 Behind was a team of security guards shouldering heavy canvas sacks, escorted by other protective guards with drawn guns.
 
@@ -13778,7 +13550,7 @@ A half dozen more staff who had arrived from other branches filed in behind the 
 
 Edwina spoke clearly across the crowded, now nearsilent bank. "Good morning, Mr. Gatwick. I'm sorry we all took so long, but traffic was heavy.
 
-Эдвина четко произнесла через переполненный, теперь почти безмолвный банк: «Доброе утро, мистер Гатвик. Извините, что мы все так долго ехали, но было много машин».
+Эдвина четко произнесла через переполненный, теперь почти безмолвный банк: «Доброе утро, мистер Гатвик. Извините, что мы так долго ехали, но было много машин».
 
 I understand you may require twenty million dollars.
 
@@ -14198,7 +13970,7 @@ Again there was an appreciative hum. Nolan Wainwright came to Alex, whispered br
 
 Others are still being contacted."
 
-С другими еще ведется работа по установлению контакта.
+С другими еще ведется работа по налаживанию контактов.
 
 From among those waiting in the street a male voice called, "Can you recommend a good bank?" "Yes," Alex said. "My own choice would be First Mercantile American. It's the one I know best, the one I'm surest of, and its record has been long and honorable."
 
@@ -14632,37 +14404,17 @@ Wizard Wong tried not to be intimidated, either by Marino's bulk or his reputati
 
 Волшебник Вонг старался не поддаваться страху ни перед внушительными размерами Марино, ни перед его репутацией сурового человека. Но, то ли из-за жары в помещении, то ли по другим причинам, Вонг начал потеть.
 
-He protested, "I didn't waste all that time, Mr. Marino. I found out some other things I thought you'd want to know—"
+He protested, "I didn't waste all that time, Mr. Marino. I found out some other things I thought you'd want to know—" "Such as?" "I can tell you the number that was called. You see, by using a stop watch to time the length of each dial turn as recorded on the tape, then comparing it..."
 
-Он возразил: «Я не зря потратил столько времени, мистер Марино. Я узнал кое-что ещё, что, как мне показалось, вам будет интересно узнать…»
+Он возразил: «Я не зря потратил столько времени, мистер Марино. Я узнал кое-что ещё, что, как мне показалось, вам будет интересно узнать…» — «Например?» — «Я могу сказать вам номер, который был назван. Видите ли, используя секундомер, чтобы засечь время каждого поворота циферблата, зафиксированное на ленте, а затем сравнить его…»
 
-"Such as?"
+"Cut the crap. Just give me the number." "There it is." A slip of paper passed across the desk. "You've traced it? Whose number is it?"
 
-"Такой как?"
+«Хватит болтать. Просто дай мне номер». «Вот он». Через стол передали клочок бумаги. «Ты его отследил? Чей это номер?»
 
-"I can tell you the number that was called. You see, by using a stop watch to time the length of each dial turn as recorded on the tape, then comparing it..."
+"I have to tell you, tracing a number like that isn't easy. Especially since this particular one is unlisted. Fortunately, I have some contacts in the phone company..." Tony Bear exploded. He slammed a palm on the desktop, the impact like a gun blast.
 
-«Я могу назвать вам номер, который был назван. Видите ли, используя секундомер для измерения длительности каждого поворота циферблата, зафиксированной на ленте, а затем сравнивая полученные данные…»
-
-"Cut the crap. Just give me the number."
-
-«Хватит нести чушь. Просто дайте мне номер».
-
-"There it is." A slip of paper passed across the desk.
-
-«Вот оно». Через стол передали клочок бумаги.
-
-"You've traced it? Whose number is it?"
-
-"Вы отследили его? Чей это номер?"
-
-"I have to tell you, tracing a number like that isn't easy. Especially since this particular one is unlisted. Fortunately, I have some contacts in the phone company..."
-
-«Должен вам сказать, отследить такой номер непросто. Особенно учитывая, что этот конкретный номер не указан в телефонном справочнике. К счастью, у меня есть контакты в телефонной компании…»
-
-Tony Bear exploded. He slammed a palm on the desktop, the impact like a gun blast.
-
-Тони Беар взорвался. Он ударил ладонью по столу, удар был похож на выстрел из пистолета.
+«Должен вам сказать, отследить такой номер непросто. Особенно учитывая, что этот конкретный номер не указан в телефонном справочнике. К счастью, у меня есть контакты в телефонной компании…» — взорвался Тони Беар. Он ударил ладонью по столу, удар был похож на выстрел из пистолета.
 
 "Don't play games with me, you little bastard! If you got information, give!"
 
@@ -14672,25 +14424,41 @@ Tony Bear exploded. He slammed a palm on the desktop, the impact like a gun blas
 
 «Суть в том, — продолжал Визард, еще больше потея, — что это дорого. Мне пришлось погасить задолженность перед оператором связи».
 
-"You paid a damn lot less than you'll squeeze out of me. Get on with it!" Wizard relaxed a little, aware that he had made his point and Tony Bear would meet the price to be asked, each of them knowing there might be another time.
+"You paid a damn lot less than you'll squeeze out of me.
 
-«Ты заплатил гораздо меньше, чем выжмешь из меня. Давай уже!» Волшебник немного расслабился, понимая, что добился своего, и Тони Медведь согласится на запрошенную цену, хотя оба они знали, что может быть еще один раз.
+«Ты заплатил гораздо меньше, чем выжмешь из меня».
 
-"The phone belongs to a Mrs. J. Nunez. She lives at Forum East. Here's the building and apartment number." Wong passed over another slip. Marino took it, glanced at the address, and put it down.
+Get on with it!" Wizard relaxed a little, aware that he had made his point and Tony Bear would meet the price to be asked, each of them knowing there might be another time.
 
-«Телефон принадлежит миссис Дж. Нуньес. Она живет в Форум-Ист. Вот номер дома и квартиры». Вонг передал еще один чек. Марино взял его, взглянул на адрес и положил.
+«Давай уже!» — Волшебник немного расслабился, понимая, что добился своего, и Тони Медведь согласится на запрошенную цену, хотя оба они знали, что может быть еще один раз.
 
-"There's something else might be of interest to you. The records show the phone was installed a month ago as a hurry-up job. Now normally, there's a long waiting list for phones at Forum East, but this one wasn't on the list at all, then all of a sudden it was put on at the top."
+"The phone belongs to a Mrs. J. Nunez.
 
-«Есть ещё кое-что, что может вас заинтересовать. Согласно записям, телефон был установлен месяц назад в спешке. Обычно в Forum East существует длинная очередь на телефоны, но этого телефона вообще не было в списке, а потом его вдруг поставили на первое место».
+«Телефон принадлежит миссис Дж. Нуньес».
+
+She lives at Forum East. Here's the building and apartment number." Wong passed over another slip. Marino took it, glanced at the address, and put it down.
+
+Она живёт в Forum East. Вот номер дома и квартиры». Вонг передал ещё один листок. Марино взял его, взглянул на адрес и положил.
+
+"There's something else might be of interest to you. The records show the phone was installed a month ago as a hurry-up job.
+
+«Есть ещё кое-что, что может вас заинтересовать. Согласно записям, телефон был установлен месяц назад в спешке».
+
+Now normally, there's a long waiting list for phones at Forum East, but this one wasn't on the list at all, then all of a sudden it was put on at the top."
+
+Обычно в Forum East существует длинная очередь на телефоны, но этого телефона вообще не было в списке, а потом его вдруг поставили на первое место.
 
 Marino's growing frown was part annoyance, part anger at what he heard.
 
 Нахмуренное лицо Марино выражало отчасти раздражение, отчасти гнев по поводу услышанного.
 
-Wizard Wong went on quickly, "What happened was, some pressure was applied. My contact told me there's a memo in the phone company files showing it came from a guy named Nolan Wainwright who's head of security for a bank First Mercantile American. He said the phone was needed urgently for bank business. Billing for it is going to the bank, too." For the first time since the audio technician's arrival, Tony Bear was startled.
+Wizard Wong went on quickly, "What happened was, some pressure was applied. My contact told me there's a memo in the phone company files showing it came from a guy named Nolan Wainwright who's head of security for a bank First Mercantile American.
 
-Волшебник Вонг быстро продолжил: «Произошло следующее: на меня оказали давление. Мой контакт сообщил мне, что в архивах телефонной компании есть служебная записка, подтверждающая, что она пришла от человека по имени Нолан Уэйнрайт, главы службы безопасности банка First Mercantile American. Он сказал, что телефон срочно нужен для банковских операций. Счета за него тоже будут поступать в банк». Впервые с момента прибытия звукотехника Тони Беар был поражен.
+Волшебник Вонг быстро продолжил: «Произошло следующее: на меня оказали давление. Мой контакт сообщил мне, что в архивах телефонной компании есть служебная записка, подтверждающая, что она была отправлена неким Ноланом Уэйнрайтом, начальником службы безопасности банка First Mercantile American».
+
+He said the phone was needed urgently for bank business. Billing for it is going to the bank, too." For the first time since the audio technician's arrival, Tony Bear was startled.
+
+Он сказал, что телефон срочно нужен для банковских операций. Счета за него тоже поступают в банк». Впервые с момента приезда звукотехника Тони Беар был поражен.
 
 Momentarily the surprise revealed itself on his face, then vanished, to be replaced by a blank expression. Under it, his mind was working, relating what he had just learned to certain facts he already knew.
 
@@ -14704,17 +14472,29 @@ Marino knew of the bank click by reputation. In that earlier series of events To
 
 Марино знал о банковской группировке лишь по слухам. В той предыдущей серии событий Тони Беар был замешан в них в полной мере.
 
-Was there another one now? If so, Tony Bear had a strong idea what action he was after, though there was a lot of other business through the Double-Seven he had no wish to see disclosed. Tony Bear did not waste time in speculation. The caller's voice, a whisper only, you couldn't tell. But the other voice the woman's had been traced, so whatever else was needed they could get from her.
+Was there another one now?
 
-Появился ли ещё один? Если да, то Тони Беар прекрасно понимал, чего он добивается, хотя через «Двойную семерку» велось множество других дел, которые он не хотел разглашать. Тони Беар не стал тратить время на догадки. Голос звонившей был едва слышен, его невозможно было определить. Но голос другой женщины удалось отследить, так что всё необходимое они могли получить от неё.
+Появился ли ещё один?
+
+If so, Tony Bear had a strong idea what action he was after, though there was a lot of other business through the Double-Seven he had no wish to see disclosed. Tony Bear did not waste time in speculation. The caller's voice, a whisper only, you couldn't tell.
+
+Если так, то Тони Беар прекрасно понимал, чего хочет добиться, хотя у него было много других дел, связанных с «Двойной семеркой», о которых он не хотел рассказывать. Тони Беар не стал тратить время на догадки. Голос звонившего был едва слышен, его невозможно было определить.
+
+But the other voice the woman's had been traced, so whatever else was needed they could get from her.
+
+Но голос другой женщины удалось отследить, так что все необходимое они могли получить от нее.
 
 It did not enter his mind that the woman might not co-operate; if she was foolish, there were plenty of ways.
 
 Ему и в голову не приходило, что женщина может не сотрудничать; если она окажется глупой, то найдется множество других способов.
 
-Marino paid Wong off quickly and sat thinking. For a while, he followed his usual cautious pattern, not rushing a decision and leaving his thoughts to simmer for several hours. But he had lost time, a week.
+Marino paid Wong off quickly and sat thinking.
 
-Марино быстро расплатился с Вонгом и сел, задумавшись. Какое-то время он придерживался своей обычной осторожности, не торопясь с принятием решения и давая своим мыслям немного постоять. Но он потерял время, целую неделю.
+Марино быстро расплатился с Вонгом и задумался.
+
+For a while, he followed his usual cautious pattern, not rushing a decision and leaving his thoughts to simmer for several hours. But he had lost time, a week.
+
+Какое-то время он придерживался своей обычной осторожности, не торопясь с принятием решения и давая своим мыслям немного постоять. Но он потерял время, целую неделю.
 
 Later that night he summoned two thugs. Tony Bear gave them a Forum East address and an order. "Pick up the Nunez broad."
 
@@ -14912,25 +14692,69 @@ The Secret Service agent Jordan, a dour, hard-eyed, small man whose stomach rumb
 
 Агент Секретной службы Джордан, угрюмый, худощавый, невысокий мужчина с постоянно урчащим животом, жаловался: «Если бы нас предупредили, мы могли бы остановить. А так, ваш человек Истин может быть виновен в совершении тяжкого преступления, а вы — в соучастии».
 
-Wainwright pointed out patiently, “I already explained there was no chance for Eastin to notify anybody, including me. He took a risk and knew it; I happen to think he did the right thing. As to a felony, we don’t even know for sure there was fake money in that car.” “It was there all right,” Jordan grumbled. “It’s been surfacing in Louisville ever since. What we didn’t know was how it came in.” “Well, you do now,” the FBI agent Innes injected. “And thanks to Nolan, we’re all that much more ahead.” Wainright added, “If you’d made an interception, sure you might have got a batch of fake. But not much else, and Eastin’s usefulness would have been ended.”
+Wainwright pointed out patiently, “I already explained there was no chance for Eastin to notify anybody, including me.
 
-Уэйнрайт терпеливо заметил: «Я уже объяснил, что у Истина не было ни единого шанса кого-либо уведомить, включая меня. Он рисковал и знал это; я считаю, что он поступил правильно. Что касается уголовного преступления, мы даже не знаем наверняка, были ли в той машине фальшивые деньги». «Они там были, конечно», — проворчал Джордан. «С тех пор они всплывают в Луисвилле. Чего мы не знали, так это как они туда попали». «Ну, теперь знаете», — вставил агент ФБР Иннес. «И благодаря Нолану мы все намного продвинулись вперед». Уэйнрайт добавил: «Если бы вы перехватили деньги, конечно, вы могли бы найти партию фальшивых. Но не более того, и полезность Истина была бы исчерпана».
+Уэйнрайт терпеливо заметил: «Я уже объяснил, что у Истина не было никакой возможности уведомить кого-либо, включая меня».
 
-In a way, Wainwright sympathized with the Secret Service point of view. The agents were overloaded, harassed, their service understaffed, yet the amount fake money in circulation had increased by huge amounts in recent years. They were fighting a monster with many heads. No sooner did they locate one source of supply than another sprang up; others remained permanently elusive. For public purposes the fiction was maintained that forgers were always caught, that their kind of crime didn’t pay. In reality, Wainwright knew, it paid plenty.
+He took a risk and knew it; I happen to think he did the right thing.
 
-В каком-то смысле Уэйнрайт сочувствовал точке зрения Секретной службы. Агенты были перегружены, подвергались преследованиям, в их службе не хватало персонала, и при этом количество фальшивых денег в обращении за последние годы значительно увеличилось. Они боролись с многоголовым чудовищем. Не успевало они обнаружить один источник, как появлялся другой; остальные оставались неуловимыми. В общественных целях поддерживалась иллюзия, что фальшивомонетчиков всегда ловят, что их преступления не приносят выгоды. В действительности, как знал Уэйнрайт, они приносили немалую выгоду.
+Он рискнул и понимал это; я считаю, что он поступил правильно.
 
-Despite the initial friction, a big plus from involving law enforcement agencies was access to their records. Individuals whom Eastin had named were identified and files gathered against the time when a series of arrests could be made. The forger, Danny, was identified as Daniel Kerrigan, age seventy-three. “Long ago,” Innes reported, “Kerrigan had three arrests and two convictions for forgery, but we haven’t heard of him in fifteen years. He’s either been legit, lucky, or clever.” Wainwright recalled and repeated a remark of Danny’s passed on by Eastin to the effect that he had been working with an efficient organization. “Could be,” Innes said. After their first conference Wainwright and the four agents kept in touch often and he promised to inform them immediately of any new report from Eastin.
+As to a felony, we don’t even know for sure there was fake money in that car.” “It was there all right,” Jordan grumbled.
 
-Несмотря на первоначальные разногласия, большим плюсом привлечения правоохранительных органов стал доступ к их документам. Лица, которых Истин назвал по именам, были идентифицированы, и были собраны материалы дела с учетом времени, когда можно было произвести серию арестов. Фальсификатор, Дэнни, был идентифицирован как Дэниел Керриган, 73 лет. «Давным-давно, — сообщил Иннес, — у Керригана было три ареста и два обвинительных приговора за подделку документов, но мы ничего о нем не слышали уже пятнадцать лет. Либо он был честным человеком, либо ему повезло, либо он был хитрым». Уэйнрайт вспомнил и повторил замечание Истина о Дэнни, о том, что тот работал в эффективной организации. «Возможно», — сказал Иннес. После первой встречи Уэйнрайт и четверо агентов часто поддерживали связь, и он пообещал немедленно сообщать им о любых новых сообщениях от Истина.
+Что касается уголовного преступления, мы даже не знаем наверняка, были ли в той машине фальшивые деньги». «Они там были, конечно», — проворчал Джордан.
+
+“It’s been surfacing in Louisville ever since. What we didn’t know was how it came in.”
+
+«С тех пор это постоянно всплывает в Луисвилле. Мы не знали, как это туда попало».
+
+“Well, you do now,” the FBI agent Innes injected. “And thanks to Nolan, we’re all that much more ahead.” Wainright added, “If you’d made an interception, sure you might have got a batch of fake.
+
+«Ну, теперь вы знаете», — вставил агент ФБР Иннес. «И благодаря Нолану мы все намного продвинулись вперед». Уэйнрайт добавил: «Если бы вы сделали перехват, конечно, вы могли бы получить партию поддельных документов».
+
+But not much else, and Eastin’s usefulness would have been ended.”
+
+Но если бы не другие факторы, то полезность Истина была бы сведена на нет.
+
+In a way, Wainwright sympathized with the Secret Service point of view. The agents were overloaded, harassed, their service understaffed, yet the amount fake money in circulation had increased by huge amounts in recent years. They were fighting a monster with many heads. No sooner did they locate one source of supply than another sprang up; others remained permanently elusive.
+
+В некотором смысле Уэйнрайт сочувствовал точке зрения Секретной службы. Агенты были перегружены, подвергались преследованиям, в их службе не хватало персонала, а количество фальшивых денег в обращении за последние годы значительно увеличилось. Они боролись с многоголовым чудовищем. Не успевало они обнаружить один источник, как появлялся другой; остальные оставались неуловимыми.
+
+For public purposes the fiction was maintained that forgers were always caught, that their kind of crime didn’t pay. In reality, Wainwright knew, it paid plenty.
+
+В общественных целях поддерживалась иллюзия, что фальсификаторов всегда ловят, что за подобные преступления не платят никакой компенсации. В действительности, как знал Уэйнрайт, компенсация была весьма существенной.
+
+Despite the initial friction, a big plus from involving law enforcement agencies was access to their records. Individuals whom Eastin had named were identified and files gathered against the time when a series of arrests could be made.
+
+Несмотря на первоначальные трудности, большим плюсом привлечения правоохранительных органов стал доступ к их данным. Лица, имена которых назвал Истин, были идентифицированы, и были собраны материалы дела на тот момент, когда можно было произвести ряд арестов.
+
+The forger, Danny, was identified as Daniel Kerrigan, age seventy-three. “Long ago,” Innes reported, “Kerrigan had three arrests and two convictions for forgery, but we haven’t heard of him in fifteen years. He’s either been legit, lucky, or clever.”
+
+Фальсификатором, Дэнни, был опознан Дэниел Керриган, 73 лет. «Давным-давно, — сообщил Иннес, — Керриган трижды арестовывался и дважды был осужден за подделку документов, но мы ничего о нем не слышали последние пятнадцать лет. Либо он был честным человеком, либо ему повезло, либо он был хитрым».
+
+Wainwright recalled and repeated a remark of Danny’s passed on by Eastin to the effect that he had been working with an efficient organization.
+
+Уэйнрайт вспомнил и повторил замечание Дэнни, переданное Истином, о том, что он работал в эффективной организации.
+
+“Could be,” Innes said. After their first conference Wainwright and the four agents kept in touch often and he promised to inform them immediately of any new report from Eastin.
+
+«Возможно», — сказал Иннес. После первой встречи Уэйнрайт и четверо агентов часто поддерживали связь, и он пообещал немедленно сообщать им о любых новых сообщениях от Истина.
 
 All were agreed that the remaining key piece of information was the location of the forgers’ headquarters. So far, no one had any idea where that might be. Yet hopes of getting a more lead were high, and if and when it happened the FBI and Secret Service were ready to close in.
 
 Все сходились во мнении, что ключевой информацией оставалось местонахождение штаб-квартиры фальсификаторов. Пока никто не имел ни малейшего представления о том, где она может находиться. Тем не менее, надежды на получение новых зацепок были высоки, и если это произойдет, ФБР и Секретная служба были готовы начать операцию.
 
-Abruptly, as Nolan Wainwright thought, his telephone rang. A secretary said that Mr. Vandervoort would like to see him as soon as possible. Wainwright was disbelieving. Facing Alex Vandervoort, across the latter’s desk, he protested, “You can’t be serious.” “I’m serious,” Alex said. “Though I have trouble believing you were, making use of the Nunez girl the way you have. Of all the insane notions…” “Insane or not, it worked.” Alex ignored the comment. “You put the girl in danger, consulting no one. As a result we’re obligated to take care of her, and may even have a lawsuit on our hands.”
+Abruptly, as Nolan Wainwright thought, his telephone rang. A secretary said that Mr. Vandervoort would like to see him as soon as possible. Wainwright was disbelieving.
 
-Внезапно, как и предполагал Нолан Уэйнрайт, зазвонил телефон. Секретарша сказала, что мистер Вандерворт хотел бы видеть его как можно скорее. Уэйнрайт не поверил своим ушам. Повернувшись к Алексу Вандерворту, сидевшему напротив его стола, он возразил: «Вы не можете говорить серьезно». «Я говорю серьезно, — ответил Алекс. — Хотя мне трудно поверить, что вы говорили серьезно, используя девушку Нуньес таким образом. Из всех безумных идей…» «Безумная она или нет, но это сработало». Алекс проигнорировал замечание. «Вы подвергли девушку опасности, ни с кем не посоветовавшись. В результате мы обязаны позаботиться о ней, и, возможно, нам даже придется подать в суд».
+Внезапно, как и предполагал Нолан Уэйнрайт, зазвонил телефон. Секретарша сказала, что мистер Вандерворт хотел бы увидеться с ним как можно скорее. Уэйнрайт не поверил своим ушам.
+
+Facing Alex Vandervoort, across the latter’s desk, he protested, “You can’t be serious.”
+
+Обращаясь к Алексу Вандерворту, сидевшему напротив его стола, он возразил: «Вы не можете говорить серьезно».
+
+“I’m serious,” Alex said. “Though I have trouble believing you were, making use of the Nunez girl the way you have. Of all the insane notions…” “Insane or not, it worked.” Alex ignored the comment. “You put the girl in danger, consulting no one. As a result we’re obligated to take care of her, and may even have a lawsuit on our hands.”
+
+«Я говорю серьёзно», — сказал Алекс. «Хотя мне трудно поверить, что ты говорил серьёзно, используя девушку Нуньес таким образом. Из всех безумных идей…» — «Безумная она или нет, но это сработало». Алекс проигнорировал замечание. «Ты подверг девушку опасности, ни с кем не посоветовавшись. В результате мы обязаны позаботиться о ней, и, возможно, нам даже придётся подать в суд».
 
 "I worked on the assumption," Wainwright argued, "that the fewer people who knew what she was doing, the safer she would be."
 
@@ -15542,7 +15366,7 @@ The fake furniture trick had been one of Danny Kerrigan's notions.
 
 The old man had had some other good ones, as well as proving a champion forger since Tony Bear Marino brought him into the organization a dozen years ago.
 
-У старика были и другие удачные находки, а также он зарекомендовал себя как чемпион по подделке документов с тех пор, как Тони Беар Марино привёл его в организацию двенадцать лет назад.
+У старика были и другие удачные экземпляры, а также он зарекомендовал себя как чемпион по подделке документов с тех пор, как Тони Беар Марино привёл его в организацию двенадцать лет назад.
 
 Shortly before that time, Tony Bear heard about Kerrigan's reputation as an expert worker, and that he had become an alcoholic, down-and-out bum.
 
@@ -15670,7 +15494,7 @@ Angelo dropped the cigar and ground it out with his heel. He looked questioningl
 
 "How in hell would I know? Same guy's phoned four times, asking for you. Wouldn't leave a name; no message." Nathanson said sharply,
 
-«Откуда мне знать? Один и тот же человек звонил четыре раза, спрашивая о тебе. Не оставил имени, не написал сообщения», — резко сказал Натансон.
+«Откуда мне знать? Один и тот же парень звонил четыре раза, спрашивая о тебе. Не оставил имени, не написал сообщения», — резко сказал Натансон.
 
 "Where's the deposit book?" Miles handed it over.
 
@@ -16028,9 +15852,125 @@ He motioned to the bowling ball, bag, and the shoes he had chosen. "How much?" T
 
 Он указал на выбранный им шар для боулинга, сумку и обувь. «Сколько?» — спросил кассир, оторвав взгляд от купюры. «Восемьдесят шесть долларов и девяносто пять, плюс налог». «Послушайте, — сказал Майлз, — я хочу оплатить через Keycharge».
 
-He took out his wallet and offered the LYNCOLP card, trying to stop his hands from trembling. "That's okay, but..." "I know, you need authorization. Go ahead. Phone for it." The clerk took the card and bill to a glassed-in office area. He was gone several minutes, then returned. Miles asked anxiously, "Get through?" "Sure. Everything's okay, Mr. Lyncolp." Miles wondered what was happening now at the Keycharge Center in FMA Headquarters Tower. Would it help him? Could anything help?... Then he remembered the second instruction passed by Juanita After using the card, delay as much as possible. Give Wainwright time to move. "Sign here, please, Mr. Lyncolp." A Keycharge account slip was filled in for the amount he had spent. Miles leaned over the counter to add a signature. Straightening up, he felt a hand touch his shoulder lightly. A voice said quietly, "Milesy." As he turned, Jules LaRocca said, "Don't make no trouble. It won't do no good and you'll get hurt the worse." Behind LaRocca, their faces blank, were Angelo and Lou, and a fourth man another thug type whom Miles hadn't seen before. The four moved around him, seizing him, holding his arms. "Move, shitass." The order was from Angelo, low-voiced. Miles considered crying out, but who was there to help him? The timid clerk, watching open-mouthed, could not. The hunt was ended. The pressure on his arms tightened. He felt himself propelled helplessly toward the outer door. The confused clerk ran after them. "Mr. Lyncolpl You've forgotten your bowling ball" It was LaRocca who told him, "You keep it, buddy. This guy don't even need the balls he's got." The black Cadillac was parked a few yards down the street They pushed Miles roughly into it and drove off. Business in the Keycharge authorization center was near its daily peak. A normal shift of fifty operators was on duty in the semidarkened hall-style center, each seated at a keyboard with a TV-like monitor above it. To the young operator who received the call, the H. E. LYNCOLP credit request was simply one of thousands dealt with routinely during a working day. All were totally cold. Neither she nor others like her ever knew where the calls they handled came from not even which city or state. The credit sought might be to pay a New York housewife's grocery bill, provide clothing for a Kansas farmer, allow a rich Chicago widow to load herself with unneeded jewelry, advance a Princeton student's tuition fees, or help a Cleveland alcoholic buy the case of liquor which finally would kill him. But the operator was never told details. If really needed later, the specifics of a purchase could be traced back, though it seldom happened. The reason: No one cared. The money mattered, the money changing hands, the ability to repay the credit granted; that was all. The call began with a flashing light on the operator's panel. She touched a switch and spoke into her headphones mike. "What is your merchant number, please?" The caller a sporting goods clerk attending to Miles Eastin gave it. As he did, the operator typed the number. Simultaneously it appeared on her monitor screen. She asked, "Card number and date of expiration?" Another answer. Again, details on the screen. "Amount of purchase?" "Ninety dollars, forty-three." Typed. On screen. The operator pressed a key, alerting a computer several floors below. Within a moment the computer processed the information, searched its records and flashed an answer. APPROVED. AUTH.No.7416984 ~ URGENT...EMERGENCY...DO..NOT..REPEAT DO NOTALERT MERCHANT...ADVISE YOUR SUPERVISOR...EXECUTE...IM MEDIATELY EMERGENCY....INSTRUCTION 17... "The purchase is approved," the operator told the caller. "Authorization number..." She was speaking more slowly than usual. Even before she began, she had flashed a signal to an elevated supervisors' booth. Now in the booth another young woman, one of six supervisors on duty, was already reading her own copy of the monitor display.
+He took out his wallet and offered the LYNCOLP card, trying to stop his hands from trembling. "That's okay, but..." "I know, you need authorization.
 
-Он достал бумажник и протянул карту LYNCOLP, стараясь сдержать дрожь в руках. «Всё в порядке, но…» — «Я знаю, вам нужно разрешение. Пожалуйста. Позвоните». Сотрудник отнёс карту и счёт в застеклённую офисную зону. Он отсутствовал несколько минут, а затем вернулся. Майлз с тревогой спросил: «Дозвонились?» — «Конечно. Всё в порядке, мистер Линкольп». Майлз задумался, что сейчас происходит в центре Keycharge в штаб-квартире FMA. Поможет ли это ему? Может ли что-нибудь помочь?… Затем он вспомнил второе указание Хуаниты: «После использования карты, задержитесь как можно дольше. Дайте Уэйнрайту время двигаться. Подпишитесь здесь, пожалуйста, мистер Линкольп». Была заполнена квитанция Keycharge на сумму потраченных средств. Майлз наклонился над стойкой, чтобы поставить подпись. Выпрямившись, он почувствовал, как чья-то рука слегка коснулась его плеча. Тихий голос произнёс: «Майлси». Когда он обернулся, Жюль Ларокка сказал: «Не устраивай скандал. Это ни к чему хорошему не приведёт, и тебе будет ещё хуже». За Лароккой, с бесстрастными лицами, стояли Анджело и Лу, и четвёртый мужчина, ещё один бандит, которого Майлз раньше не видел. Четверо окружили его, схватили за руки. «Убирайся, ублюдок». — тихо произнёс приказ Анджело. Майлз подумывал позвать на помощь, но кто мог ему помочь? Робкий клерк, наблюдавший за происходящим с открытым ртом, не мог. Поиски закончились. Давление на его руки усилилось. Он почувствовал, как его беспомощно тянет к наружной двери. Растерянный клерк побежал за ними. «Мистер Линкольн, вы забыли свой шар для боулинга». Именно Ларокка сказал ему: «Оставь его себе, приятель. Этому парню даже шары не нужны». Черный «Кадиллак» был припаркован в нескольких метрах дальше по улице. Они грубо затолкали Майлза в него и уехали. В центре авторизации Keycharge был почти пиковый поток посетителей. В полутемном зале, оформленном в виде коридора, дежурила обычная смена из пятидесяти операторов, каждый из которых сидел за клавиатурой с монитором, похожим на телевизор, над ней. Для молодого оператора, принявшего звонок, запрос на кредит HE LYNCOLP был всего лишь одним из тысяч, обрабатываемых в течение рабочего дня. Все они были совершенно бесчувственны. Ни она, ни другие подобные ей никогда не знали, откуда поступают звонки, которые они обрабатывают, — даже из какого города или штата. Запрашиваемый кредит мог быть нужен для оплаты продуктов домохозяйке из Нью-Йорка, для обеспечения одеждой фермера из Канзаса, для того, чтобы богатая вдова из Чикаго могла набить себя ненужными украшениями, для оплаты обучения студента Принстона или для того, чтобы помочь алкоголику из Кливленда купить ящик спиртного, который в конце концов его и убил. Но оператору никогда не сообщали подробности. Если бы это действительно понадобилось позже, детали покупки можно было бы отследить, хотя это случалось редко. Причина: никому не было дела. Важны были деньги, оборот денег, возможность погасить предоставленный кредит; вот и всё. Звонок начался с мигания индикатора на панели оператора. Она нажала на кнопку и заговорила в микрофон наушников: «Какой у вас номер продавца?» Звонивший, продавец спортивных товаров, обслуживающий Майлза Истина, назвал его. В этот момент оператор набрала номер. Одновременно он появился на экране её монитора. Она спросила: «Номер карты и срок действия?» Ещё один ответ. Снова подробности на экране. «Сумма покупки?» «Девяносто долларов сорок три». Напечатано. На экране. Оператор нажала клавишу, оповестив компьютер несколькими этажами ниже. Через мгновение компьютер обработал информацию, выполнил поиск в своих записях и вывел ответ: ОДОБРЕНО. НОМЕР АВТОРИЗАЦИИ 7416984 ~ СРОЧНО... ЧРЕЗВЫЧАЙНАЯ СИТУАЦИЯ... НЕ... ПОВТОРЯТЬ... НЕ... СООБЩИТЬ ПРОДАВЦУ... СООБЩИТЬ РУКОВОДИТЕЛЮ... ВЫПОЛНИТЬ... НЕМЕДЛЕННО... ЧРЕЗВЫЧАЙНАЯ СИТУАЦИЯ... ИНСТРУКЦИЯ 17... «Покупка одобрена», — сообщила оператор звонившему. «Номер авторизации...» Она говорила медленнее обычного. Еще до начала разговора она подала сигнал в расположенную на возвышении кабину руководителя. Теперь в кабине другая молодая женщина, одна из шести дежурных руководителей, уже читала свою копию информации на мониторе.
+Он достал бумажник и протянул карту LYNCOLP, стараясь не дать рукам дрожать. «Хорошо, но…» «Я знаю, вам нужно разрешение».
+
+Go ahead. Phone for it." The clerk took the card and bill to a glassed-in office area. He was gone several minutes, then returned. Miles asked anxiously,
+
+«Давай. Позвони». Кассир отнес карту и чек в застекленную офисную зону. Он отсутствовал несколько минут, а затем вернулся. Майлз с тревогой спросил:
+
+"Get through?" "Sure. Everything's okay, Mr. Lyncolp." Miles wondered what was happening now at the Keycharge Center in FMA Headquarters Tower.
+
+"Прошли?" "Конечно. Всё в порядке, мистер Линкольп." Майлз гадал, что сейчас происходит в центре Keycharge в башне штаб-квартиры FMA.
+
+Would it help him? Could anything help?... Then he remembered the second instruction passed by Juanita After using the card, delay as much as possible. Give Wainwright time to move.
+
+Поможет ли это ему? Может ли что-нибудь помочь?... Затем он вспомнил второе указание Хуаниты: «После использования карты, задержитесь как можно дольше. Дайте Уэйнрайту время двигаться».
+
+"Sign here, please, Mr. Lyncolp."
+
+«Пожалуйста, подпишитесь здесь, мистер Линкольп».
+
+A Keycharge account slip was filled in for the amount he had spent. Miles leaned over the counter to add a signature.
+
+Он заполнил квитанцию об оплате в Keycharge, указав сумму потраченных средств. Майлз наклонился над прилавком, чтобы поставить свою подпись.
+
+Straightening up, he felt a hand touch his shoulder lightly. A voice said quietly, "Milesy." As he turned, Jules LaRocca said, "Don't make no trouble. It won't do no good and you'll get hurt the worse."
+
+Выпрямившись, он почувствовал легкое прикосновение руки к плечу. Тихий голос произнес: «Майлзи». Когда он повернулся, Жюль Ларокка сказал: «Не устраивай скандалов. Это ни к чему хорошему не приведет, и тебе будет еще хуже».
+
+Behind LaRocca, their faces blank, were Angelo and Lou, and a fourth man another thug type whom Miles hadn't seen before.
+
+Позади Ларокки, с бесстрастными лицами, шли Анджело и Лу, а также четвертый мужчина, еще один бандит, которого Майлз раньше не видел.
+
+The four moved around him, seizing him, holding his arms. "Move, shitass." The order was from Angelo, low-voiced. Miles considered crying out, but who was there to help him?
+
+Четверо окружили его, схватили, держа за руки. «Убирайся, ублюдок». — тихо приказал Анджело. Майлз подумывал закричать, но кто мог ему помочь?
+
+The timid clerk, watching open-mouthed, could not.
+
+Робкий клерк, наблюдая за происходящим с открытым ртом, не смог ничего сделать.
+
+The hunt was ended. The pressure on his arms tightened.
+
+Поиски закончились. Давление на его руки усилилось.
+
+He felt himself propelled helplessly toward the outer door. The confused clerk ran after them. "Mr. Lyncolpl You've forgotten your bowling ball"
+
+Он почувствовал, как его беспомощно несёт к наружной двери. Растерянный клерк побежал за ними. «Мистер Линкольн, вы забыли свой шар для боулинга».
+
+It was LaRocca who told him, "You keep it, buddy.
+
+Именно Ларокка сказал ему: «Оставь это себе, приятель».
+
+This guy don't even need the balls he's got."
+
+Этому парню даже яйца не нужны.
+
+The black Cadillac was parked a few yards down the street They pushed Miles roughly into it and drove off.
+
+Черный «Кадиллак» был припаркован в нескольких метрах дальше по улице. Они грубо затолкали Майлза в него и уехали.
+
+Business in the Keycharge authorization center was near its daily peak.
+
+В авторизационных центрах Keycharge наблюдался почти максимальный суточный приток посетителей.
+
+A normal shift of fifty operators was on duty in the semidarkened hall-style center, each seated at a keyboard with a TV-like monitor above it. To the young operator who received the call, the H. E. LYNCOLP credit request was simply one of thousands dealt with routinely during a working day.
+
+В полутемном помещении, оформленном в виде холла, дежурила обычная смена из пятидесяти операторов, каждый из которых сидел за клавиатурой с монитором, похожим на телевизор, над ней. Для молодого оператора, принявшего звонок, запрос на кредит HE LYNCOLP был всего лишь одним из тысяч, обрабатываемых в течение рабочего дня.
+
+All were totally cold.
+
+Всем было ужасно холодно.
+
+Neither she nor others like her ever knew where the calls they handled came from not even which city or state. The credit sought might be to pay a New York housewife's grocery bill, provide clothing for a Kansas farmer, allow a rich Chicago widow to load herself with unneeded jewelry, advance a Princeton student's tuition fees, or help a Cleveland alcoholic buy the case of liquor which finally would kill him. But the operator was never told details.
+
+Ни она, ни другие подобные ей люди никогда не знали, откуда поступают звонки, которые они обрабатывали, — даже из какого города или штата. Запрос на кредит мог касаться оплаты продуктов домохозяйке из Нью-Йорка, предоставления одежды фермеру из Канзаса, разрешения богатой вдове из Чикаго накупить ненужных украшений, оплаты обучения студенту Принстона или помощи алкоголику из Кливленда в покупке ящика спиртного, которое в конечном итоге его и убило. Но оператору никогда не сообщали подробности.
+
+If really needed later, the specifics of a purchase could be traced back, though it seldom happened. The reason: No one cared.
+
+Если бы это действительно понадобилось позже, детали покупки можно было бы отследить, хотя такое случалось редко. Причина: никому это не было важно.
+
+The money mattered, the money changing hands, the ability to repay the credit granted; that was all. The call began with a flashing light on the operator's panel. She touched a switch and spoke into her headphones mike. "What is your merchant number, please?" The caller a sporting goods clerk attending to Miles Eastin gave it.
+
+Важны были деньги, сам процесс передачи денег, возможность погасить предоставленный кредит — вот и всё. Разговор начался с мигания индикатора на панели оператора. Она нажала на кнопку и сказала в микрофон наушников: «Какой у вас номер продавца?» Звонивший, продавец спортивных товаров, обслуживавший Майлза Истина, назвал его.
+
+As he did, the operator typed the number. Simultaneously it appeared on her monitor screen. She asked, "Card number and date of expiration?" Another answer. Again, details on the screen. "Amount of purchase?" "Ninety dollars, forty-three." Typed. On screen.
+
+Пока он это делал, оператор набирал номер. Одновременно он появлялся на экране ее монитора. Она спросила: «Номер карты и срок действия?» Еще один ответ. Снова подробности на экране. «Сумма покупки?» «Девяносто долларов сорок три». Набрано. На экране.
+
+The operator pressed a key, alerting a computer several floors below. Within a moment the computer processed the information, searched its records and flashed an answer.
+
+Оператор нажал клавишу, отправив сигнал компьютеру, расположенному несколькими этажами ниже. Через мгновение компьютер обработал информацию, выполнил поиск в своих записях и вывел ответ.
+
+APPROVED.
+
+ОДОБРЕННЫЙ.
+
+AUTH.No.7416984 ~
+
+Номер авторизации: 7416984 ~
+
+URGENT...EMERGENCY...DO..NOT..REPEAT DO
+
+СРОЧНО... ЧРЕЗВЫЧАЙНАЯ СИТУАЦИЯ... НЕ... ПОВТОРЯТЬ...
+
+NOTALERT MERCHANT...ADVISE YOUR
+
+ВНИМАНИЕ, ПРОДАВЕЦ... СООБЩИТЕ ВАШЕМУ
+
+SUPERVISOR...EXECUTE...IM MEDIATELY
+
+РУКОВОДИТЕЛЬ...ВЫПОЛНИТЬ...НЕМЕДЛЕННО
+
+EMERGENCY....INSTRUCTION 17...
+
+ЧРЕЗВЫЧАЙНАЯ СИТУАЦИЯ....ИНСТРУКЦИЯ 17...
+
+"The purchase is approved," the operator told the caller. "Authorization number..." She was speaking more slowly than usual. Even before she began, she had flashed a signal to an elevated supervisors' booth. Now in the booth another young woman, one of six supervisors on duty, was already reading her own copy of the monitor display.
+
+«Покупка одобрена», — сообщила оператор звонившему. «Номер авторизации…» Она говорила медленнее обычного. Еще до начала разговора она подала сигнал в расположенную на возвышении кабинку руководителя. В кабинке уже сидела другая молодая женщина, одна из шести дежурных руководителей, и читала свою копию информации на мониторе.
 
 She reached for a card index, seeking emergency instruction 17. The original operator deliberately stumbled over the authorization number and began again.
 
@@ -16120,13 +16060,9 @@ The reply came back: The agents were downtown, not far from the address given, a
 
 «Продавец, обслуживавший Истина, был так напуган, что не уверен, вошли ли четверо или трое мужчин. Говорит, что все произошло так быстро, что он не может описать или опознать никого. И никто, ни внутри магазина, ни снаружи, не помнит, чтобы видел машину».
 
-Wainwright's face was drawn, the strain of anxiety and conscience showing.
+Wainwright's face was drawn, the strain of anxiety and conscience showing. "So what comes next?" "You were a cop," Innes said. "You know how it is in real life. We wait, hoping something else will turn up."
 
-Лицо Уэйнрайта было изможденным, на нем читались тревога и угрызения совести.
-
-"So what comes next?" "You were a cop," Innes said. "You know how it is in real life. We wait, hoping something else will turn up."
-
-— Так что же будет дальше? — Ты же был полицейским, — сказал Иннес. — Ты же знаешь, как это бывает в реальной жизни. Мы ждём, надеясь, что всплывёт что-нибудь ещё.
+Лицо Уэйнрайта было изможденным, на нем читались тревога и угрызения совести. «И что будет дальше?» — спросил он. «Ты же был полицейским, — ответил Иннес. — Ты же знаешь, как это бывает в реальной жизни. Мы ждем, надеясь, что всплывет что-нибудь еще».
 
 ## Chapter 22
 
@@ -16184,9 +16120,17 @@ He had known from the beginning of his deal with Wainwright it had been the root
 
 С самого начала сделки с Уэйнрайтом он знал, что именно это и было корнем его страхов: простая смерть покажется легкой по сравнению с тем, что ждет разоблаченного информатора. И все же, то, чего он боялся, было ничто по сравнению с невероятно ужасным, мучительным наказанием, которое ему сейчас уготовано.
 
-His legs and thighs were strapped tightly, cruelly together. His arms had been forced down onto a rough wooden table. His hands and wrists were being nailed to the table... nailed with carpenter's nails... hammered hard...a nail was already in the left wrist, two more in the wide part of the hand between the wrist and fingers, fastening it tightly down... The last few strokes of the hammer had smashed bone... One nail was in the right hand, another ready to tear, to cut through flesh and muscle... No pain was ever, could be ever.. . Oh, God, help me.. would be ever greater. Miles twisted, screamed, pleaded, screamed again. But the hands holding his body tightened. The hammer blows, which had briefly paused, resumed. "He ain't crying out loud enough,'' Marino told Angelo, who was wielding the hammer. "When you get through with that, try nailing down a couple of the bastard's fingers." Tony Bear, who was smoking a cigar while he watched and listened, had not bothered concealing himself this time. There would be no possibility of Eastin identifying him because Eastin would soon be dead.
+His legs and thighs were strapped tightly, cruelly together.
 
-Его ноги и бедра были туго, жестоко связаны вместе. Его руки были прижаты к грубому деревянному столу. Его кисти и запястья прибивали к столу… прибивали столярными гвоздями… сильно забивали молотком… один гвоздь уже был в левом запястье, еще два в широкой части ладони между запястьем и пальцами, крепко скрепляя ее… Последние удары молотка раздробили кость… Один гвоздь был в правой руке, другой готов был разорвать, прорезать плоть и мышцы… Никакой боли никогда не было, никогда не могло быть… О, Боже, помоги мне… никогда не будет больше. Майлз извивался, кричал, умолял, кричал снова. Но руки, державшие его тело, сжимались все сильнее. Удары молотка, которые ненадолго прекратились, возобновились. «Он недостаточно громко кричит», — сказал Марино Анджело, который размахивал молотком. «Когда закончишь с этим, попробуй прибить ему пару пальцев». Тони Беар, который курил сигару, наблюдая и слушая, на этот раз не стал прятаться. Истин не смог бы его опознать, потому что Истин скоро умрет.
+Его ноги и бедра были туго и жестоко связаны вместе.
+
+His arms had been forced down onto a rough wooden table. His hands and wrists were being nailed to the table... nailed with carpenter's nails... hammered hard...a nail was already in the left wrist, two more in the wide part of the hand between the wrist and fingers, fastening it tightly down... The last few strokes of the hammer had smashed bone... One nail was in the right hand, another ready to tear, to cut through flesh and muscle... No pain was ever, could be ever.. . Oh, God, help me.. would be ever greater. Miles twisted, screamed, pleaded, screamed again. But the hands holding his body tightened. The hammer blows, which had briefly paused, resumed. "He ain't crying out loud enough,'' Marino told Angelo, who was wielding the hammer.
+
+Его руки были прижаты к грубому деревянному столу. Его кисти и запястья прибивали к столу… прибивали столярными гвоздями… сильно забивали молотком… один гвоздь уже был в левом запястье, еще два — в широкой части ладони между запястьем и пальцами, крепко скрепляя ее… Последние удары молотка раздробили кость… Один гвоздь был в правой руке, другой готов был разорвать, прорезать плоть и мышцы… Никакой боли никогда не было, никогда не могло быть… О, Боже, помоги мне… никогда не будет. Майлз извивался, кричал, умолял, кричал снова. Но руки, державшие его тело, сжались. Удары молотка, которые ненадолго прекратились, возобновились. «Он кричит недостаточно громко», — сказал Марино Анджело, который размахивал молотком.
+
+"When you get through with that, try nailing down a couple of the bastard's fingers." Tony Bear, who was smoking a cigar while he watched and listened, had not bothered concealing himself this time. There would be no possibility of Eastin identifying him because Eastin would soon be dead.
+
+«Когда закончишь с этим, попробуй прибить ему пару пальцев». Тони Беар, который курил сигару, наблюдая и слушая, на этот раз не стал утруждать себя тем, чтобы спрятаться. Истин не смог бы его опознать, потому что Истин скоро умрет.
 
 First, though, it was necessary to remind him and others to whom the news of what had happened here would filter out that for a stool pigeon there was never any easy death.
 
@@ -16312,9 +16256,145 @@ Then Miles cried out with a new and different agony as the burning spread and de
 
 Затем Майлз вскрикнул от новой, иной агонии, когда жжение распространилось и усилилось. Пока остальные с завороженным видом наблюдали, плоть под кислотой горела, меняя цвет с розового на коричневато-черный. Тони Беар снова обмакнул кисть в стекло.
 
-"I'll ask you one more time, jerk. If I don't get answers, this goes on the other side. What else did you find out and tell?" Miles's eyes were wild, like a cornered animal's. He stammered, "The fake... money." "What about it?" "I bought some... sent it to the bank... then drove the car... took more to Louisville." "And?" 'Credit cards... drivers' licenses' "You know who made them? Printed the fake money?" Miles motioned his head as best he could. "Danny." "Who told you?" "He... told me." "And afterwards you spilled your guts to that cop at the bank? He knows all that?" "Yes." Tony Bear swung fiercely to Kerrigan. "You drunken stupid fool! You're no better than him." The old man stood trembling. "Mr. Marino, I wasn't drunk. I just thought he..." "Shut up!" Tony Bear seemed about to hit the old man, then changed his mind. He returned to Miles. "What else do they know?" "Nothing else!" "Do they know where the printing's done? Where this place is?" "No." Tony Bear returned the brush to the acid and withdrew it. Miles followed every movement. Experience told him the expected answer. He shouted, "Yes! Yes, they know!" "You told that bank security bum?" Despairingly, Miles lied. "Yes, yes" "How'd you find out?" The brush hovered above the acid. Miles knew he had to find an answer. Any answer which would satisfy. He turned his head to Danny. "He told me." "You're a liar! You lousy, stinking goddamned liar!" The old man's face was working, his mouth opening and closing and jaw trembling as emotion gripped him. He pleaded with Tony Bear. "Mr. Marino, he's lying! I swear he's lying! It isn't true." But what he saw in Marino's eyes increased his panic. Now Danny rushed at Miles. "Tell him the truth, you jerk! Tell him!" Crazy, knowing the potential penalty for himself, the old man looked around for a weapon. He saw the acid jar. Seizing it, he tossed the contents in Miles's face. A fresh scream started, then abruptly stopped. As the smell of acid and the sickly odor of burning flesh mingled, Miles fell forward, unconscious, across the table where his crushed, bleeding hands were nailed. Though not fully understanding what was happening to Miles, Juanita suffered through his cries and pleadings and finally the silencing of his voice. She wondered coldly, because her feelings were now dulled beyond caring. She thought about how long it would be before she and Estela shared Miles's fate. That they would both die now seemed certain. Juanita was grateful for one thing: Estela had not moved, despite the chaos. If sleep stayed with her, perhaps she'd be spared whatever horror remained. As she hadn't in years, Juanita prayed to the Virgin Mary to make death easy for Estela. Juanita heard new movement in the next room. It sounded like furniture being shifted, drawers slammed, things dropped heavily. Once came the clang of metal poured on cement and curses afterward. Then, surprisingly, Lou appeared beside her and began loosening her ropes. She guessed she was being moved, swapping one hell for another. When done, he left her there and untied Estela. "Stand up!" he ordered both. Estela, waking slowly, obeyed while crying softly, the sound silenced by her gag. Juanita wanted to comfort her but couldn't move yet; she leaned on the chair, pain flooding her stiff limbs as blood rushed back.
+"I'll ask you one more time, jerk.
 
-«Я спрошу тебя ещё раз, придурок. Если я не получу ответов, дело перейдёт на другую сторону. Что ещё ты узнал и рассказал?» Глаза Майлза были дикими, как у загнанного в угол животного. Он заикаясь пробормотал: «Фальшивые… деньги». «Что?» «Я купил немного… отправил в банк… потом поехал на машине… отвёз ещё в Луисвилл». «И?» «Кредитные карты… водительские права». «Ты знаешь, кто их сделал? Напечатал фальшивые деньги?» Майлз покачал головой, как мог. «Дэнни». «Кто тебе сказал?» «Он… сказал мне». «А потом ты выложил всё тому копу в банке? Он всё это знает?» «Да». Тони Беар яростно махнул рукой Керригану. «Пьяный дурак! Ты ничем не лучше его». Старик стоял, дрожа. «Мистер Марино, я не был пьян. Я просто подумал, что он…» «Заткнись!» Тони Беар, казалось, собирался ударить старика, но передумал. Он вернулся к Майлзу. «Что еще они знают?» «Ничего!» «Знают ли они, где печатают? Где это место?» «Нет». Тони Беар вернул кисть к кислоте и убрал ее. Майлз следил за каждым движением. Опыт подсказывал ему ожидаемый ответ. Он закричал: «Да! Да, они знают!» «Ты сказал этому банковскому охраннику?» В отчаянии Майлз солгал. «Да, да». «Как ты узнал?» Кисть зависла над кислотой. Майлз знал, что должен найти ответ. Любой ответ, который его удовлетворит. Он повернул голову к Дэнни. «Он мне сказал». «Ты лжец! Ты мерзкий, вонючий, чертов лжец!» Лицо старика выражало негодование: рот открывался и закрывался, челюсть дрожала от переполнявших его эмоций. Он умолял Тони Беара. «Мистер Марино, он лжет! Клянусь, он лжет! Это неправда!» Но то, что он увидел в глазах Марино, усилило его панику. Теперь Дэнни бросился на Майлза. «Скажи ему правду, придурок! Скажи ему!» Безумный, зная о возможном наказании для себя, старик огляделся в поисках оружия. Он увидел банку с кислотой. Схватив ее, он плеснул содержимым в лицо Майлзу. Раздался новый крик, который затем резко оборвался. Когда запах кислоты и отвратительный запах горящей плоти смешались, Майлз упал вперед, без сознания, на стол, где его раздробленные, кровоточащие руки были прибиты гвоздями. Хотя Хуанита не до конца понимала, что происходит с Майлзом, она терпела его крики и мольбы, и наконец, его голос затих. Она холодно размышляла, потому что ее чувства теперь притупились до такой степени, что ей было все равно. Она думала о том, как долго пройдет, прежде чем она и Эстела разделят судьбу Майлза. Теперь казалось, что они оба умрут. Хуанита была благодарна за одно: Эстела не двигалась, несмотря на весь хаос. Если бы сон остался с ней, возможно, ей бы удалось избежать оставшегося ужаса. Как и много лет назад, Хуанита молилась Деве Марии, чтобы смерть для Эстелы стала легкой. Хуанита услышала новое движение в соседней комнате. Это было похоже на перемещение мебели, хлопанье ящиков, падение тяжелых предметов. Затем раздался лязг металла, вылитого на цемент, и последовали проклятия. Затем, неожиданно, рядом с ней появился Лу и начал развязывать веревки. Она догадалась, что ее перемещают, меняя один ад на другой. Закончив, он оставил ее там и развязал Эстелу. «Вставай!» — приказал он им обоим. Эстела, медленно просыпаясь, подчинилась, тихо плача, который заглушал кляп. Хуанита хотела утешить ее, но пока не могла двигаться; она облокотилась на стул, боль разлилась по ее окоченевшим конечностям, и кровь хлынула обратно.
+«Я спрошу тебя ещё раз, придурок».
+
+If I don't get answers, this goes on the other side.
+
+Если я не получу ответов, это дело перейдёт на другую сторону.
+
+What else did you find out and tell?" Miles's eyes were wild, like a cornered animal's.
+
+Что ещё ты узнал и рассказал? — Глаза Майлза были дикими, как у загнанного в угол животного.
+
+He stammered, "The fake... money." "What about it?"
+
+Он заикнулся: «Фальшивые... деньги». «И что с того?»
+
+"I bought some... sent it to the bank... then drove the car... took more to Louisville."
+
+«Я купил немного... отправил деньги в банк... потом поехал на машине... взял ещё немного и отвёз в Луисвилл».
+
+"And?" 'Credit cards... drivers' licenses' "You know who made them?
+
+"И что?" "Кредитные карты... водительские права" "Знаете, кто их сделал?"
+
+Printed the fake money?" Miles motioned his head as best he could. "Danny."
+
+«Напечатал фальшивые деньги?» — Майлз, как мог, кивнул головой. — «Дэнни».
+
+"Who told you?" "He... told me." "And afterwards you spilled your guts to that cop at the bank? He knows all that?"
+
+«Кто тебе сказал?» — «Он... сказал мне». — «А потом ты излил душу тому копу в банке? Он всё это знает?»
+
+"Yes." Tony Bear swung fiercely to Kerrigan.
+
+«Да». Тони Беар яростно замахнулся на Керриган.
+
+"You drunken stupid fool! You're no better than him." The old man stood trembling.
+
+«Пьяный дурак! Ты ничем ему не лучше!» — старик дрожал.
+
+"Mr. Marino, I wasn't drunk. I just thought he..."
+
+«Мистер Марино, я не был пьян. Мне просто показалось, что он...»
+
+"Shut up!" Tony Bear seemed about to hit the old man, then changed his mind. He returned to Miles. "What else do they know?"
+
+«Заткнись!» Тони Беар, казалось, собирался ударить старика, но передумал. Он вернулся к Майлзу. «Что еще они знают?»
+
+"Nothing else!" "Do they know where the printing's done? Where this place is?"
+
+«Больше ничего!» «Они знают, где печатают? Где это место?»
+
+"No." Tony Bear returned the brush to the acid and withdrew it.
+
+«Нет». Тони Беар вернул кисть в кислоту и убрал её.
+
+Miles followed every movement.
+
+Майлз следил за каждым движением.
+
+Experience told him the expected answer. He shouted, "Yes! Yes, they know!"
+
+Опыт подсказал ему ожидаемый ответ. Он закричал: «Да! Да, они знают!»
+
+"You told that bank security bum?" Despairingly, Miles lied. "Yes, yes" "How'd you find out?" The brush hovered above the acid.
+
+«Ты рассказал тому банковскому охраннику?» — отчаянно солгал Майлз. — «Да, да». — «Как ты узнал?» — кисть зависла над кислотой.
+
+Miles knew he had to find an answer. Any answer which would satisfy.
+
+Майлз понимал, что должен найти ответ. Любой ответ, который его удовлетворит.
+
+He turned his head to Danny. "He told me." "You're a liar! You lousy, stinking goddamned liar!"
+
+Он повернул голову к Дэнни. «Он мне сказал». «Ты лжец! Мерзкий, вонючий, чертов лжец!»
+
+The old man's face was working, his mouth opening and closing and jaw trembling as emotion gripped him. He pleaded with Tony Bear.
+
+Лицо старика выражало недовольство: рот то открывался, то закрывался, челюсть дрожала от переполнявших его эмоций. Он умолял Тони Беара.
+
+"Mr. Marino, he's lying! I swear he's lying! It isn't true."
+
+«Мистер Марино, он лжет! Клянусь, он лжет! Это неправда!»
+
+But what he saw in Marino's eyes increased his panic. Now Danny rushed at Miles.
+
+Но то, что он увидел в глазах Марино, усилило его панику. Теперь Дэнни бросился на Майлза.
+
+"Tell him the truth, you jerk! Tell him!" Crazy, knowing the potential penalty for himself, the old man looked around for a weapon.
+
+«Скажи ему правду, придурок! Скажи ему!» Понимая, какое наказание его ждет, старик, обезумев, огляделся в поисках оружия.
+
+He saw the acid jar.
+
+Он увидел банку с кислотой.
+
+Seizing it, he tossed the contents in Miles's face. A fresh scream started, then abruptly stopped.
+
+Схватив его, он швырнул содержимое Майлзу в лицо. Раздался новый крик, который затем резко оборвался.
+
+As the smell of acid and the sickly odor of burning flesh mingled, Miles fell forward, unconscious, across the table where his crushed, bleeding hands were nailed. Though not fully understanding what was happening to Miles, Juanita suffered through his cries and pleadings and finally the silencing of his voice.
+
+Когда смешались запах кислоты и отвратительный запах горящей плоти, Майлз, потеряв сознание, упал вперед на стол, где его раздробленные, кровоточащие руки были прибиты гвоздями. Хотя Хуанита не до конца понимала, что с Майлзом происходит, она терпела его крики и мольбы, пока наконец его голос не затих.
+
+She wondered dispassionately, because her feelings were now dulled beyond the point where more emotion could affect her if he were dead.
+
+Она бесстрастно размышляла, потому что ее чувства притупились настолько, что смерть его уже не могла вызвать у нее никаких эмоций.
+
+She thought about how long it would be before she and Estela shared Miles's fate.
+
+Она задумалась о том, сколько времени пройдет, прежде чем она и Эстела разделят судьбу Майлза.
+
+That they would both die now seemed certain. Juanita was grateful for one thing: Estela had not moved, despite the chaos.
+
+Казалось, что теперь они оба умрут наверняка. Хуанита была благодарна лишь за одно: Эстела не сдвинулась с места, несмотря на весь этот хаос.
+
+If sleep stayed with her, perhaps she'd be spared whatever horror remained. As she hadn't in years, Juanita prayed to the Virgin Mary to make death easy for Estela. Juanita heard new movement in the next room.
+
+Если бы сон не сломил её, возможно, ей удалось бы избежать оставшегося ужаса. Как и много лет назад, Хуанита молилась Деве Марии, чтобы смерть для Эстелы стала лёгкой. Хуанита услышала новое движение в соседней комнате.
+
+It sounded like furniture being shifted, drawers slammed, things dropped heavily. Once came the clang of metal poured on cement and curses afterward.
+
+Звук был похож на то, как сдвигают мебель, захлопывают ящики, тяжело роняют вещи. Потом раздался лязг металла, разлитого по цементу, а затем последовали проклятия.
+
+Then, to her surprise, the man she had come to recognize as Lou appeared beside her and began unfastening her bonds. She supposed she was being taken somewhere, exchanging one perdition for another.
+
+Затем, к ее удивлению, рядом с ней появился мужчина, которого она узнала как Лу, и начал развязывать ее путы. Она предположила, что ее куда-то везут, меняя одно бедствие на другое.
+
+When done, he left her there and untied Estela.
+
+Закончив, он оставил её там и развязал Эстелу.
+
+"Stand up!" he ordered both. Estela, coming awake, complied, though sleepily.
+
+«Вставайте!» — приказал он им обоим. Эстела, проснувшись, подчинилась, хотя и была сонливой.
+
+She began crying softly, the sound muffled by her gag. Juanita wanted to go to her but could not yet move forward; she supported her weight against the chair, suffering as blood flowed through her cramped limbs.
+
+Она начала тихо плакать, звук был приглушен кляпом. Хуанита хотела подойти к ней, но пока не могла; она опиралась всем весом на стул, страдая от того, как кровь приливала к ее скованным конечностям.
 
 "Listen to me," Lou told Juanita.
 
@@ -16322,7 +16402,7 @@ Then Miles cried out with a new and different agony as the burning spread and de
 
 "You got lucky because of your kid. The boss is gonna let you go.
 
-«Вам повезло благодаря вашему ребёнку. Начальник вас уволит».
+«Вам повезло благодаря ребёнку. Начальник вас уволит».
 
 You'll be blindfolded, taken in a car a long ways from here, and then let out. You don't know where you've been, so you can't bring nobody back.
 
@@ -16590,9 +16670,17 @@ Wainwright wondered how Jordan managed on jobs where he had to stay hidden and s
 
 Уэйнрайт задавался вопросом, как Джордан справлялся с работой, где ему приходилось оставаться незамеченным и молчаливым. Или же его урчание в животе мешало ему выполнять такую работу?
 
-"That area," Dalrymple pointed out, "is at least five square miles." "Then let's search it," Jordan answered. "In teams, in cars. Our shop and yours, and we'll ask help from the city police." Lieutenant Pazackerly, who had joined them asked, "And what will we all be looking for, gentlemen?" "If you want the truth," Jordan said, "I have no idea."
+"That area," Dalrymple pointed out, "is at least five square miles." "Then let's search it," Jordan answered. "In teams, in cars.
 
-«Эта территория, — заметил Далримпл, — составляет не менее пяти квадратных миль». «Тогда давайте обыщем её, — ответил Джордан. — В группах, на машинах. В нашей мастерской и в вашей, и мы попросим помощи у городской полиции». Лейтенант Пазакерли, присоединившийся к ним, спросил: «И что мы будем искать, господа?» «Если хотите знать правду, — сказал Джордан, — я понятия не имею».
+«Эта территория, — отметил Далримпл, — составляет как минимум пять квадратных миль». «Тогда давайте её обыщем, — ответил Джордан. — В командах, на машинах».
+
+Our shop and yours, and we'll ask help from the city police." Lieutenant Pazackerly, who had joined them asked,
+
+«Мы закроем и ваш магазин, а заодно попросим помощи у городской полиции», — спросил лейтенант Пазакерли, присоединившийся к ним.
+
+"And what will we all be looking for, gentlemen?" "If you want the truth," Jordan said, "I have no idea."
+
+«И что же мы все будем искать, господа?» — «Если вы хотите узнать правду, — сказал Джордан, — я понятия не имею».
 
 Juanita rode in an FBI car with Innes and Wainwright.
 
@@ -16860,25 +16948,13 @@ She followed it out and into the ambulance. No one tried to stop her. Now she be
 
 Она последовала за ним и села в машину скорой помощи. Никто не пытался ее остановить. Теперь она начала молиться. Слова приходили легко; слова из давних времен...
 
-Virgen Maria... that never was it known that anyone who fled to your protection, begged your help or sought your intercession was left unaided. Inspired by that confidence I come to you...
+Virgen Maria... that never was it known that anyone who fled to your protection, begged your help or sought your intercession was left unaided. Inspired by that confidence I come to you... Something the ambulance attendant had said, but she hadn't taken in, played back in her inner mind. Miles's eyes. They were burned with the remainder of his face. Her voice trembled. "Will he be blind?" "The specialists will have to answer that. Soon's we get to Emergency he'll get the best treatment.
 
-Дева Мария… никогда не было известно, чтобы кто-либо, прибегнувший к Твоей защите, моливший о Твоей помощи или искавший Твоего заступничества, остался без помощи. Вдохновленный этой уверенностью, я прихожу к Тебе…
+Дева Мария… никогда не было известно, чтобы кто-либо, обратившийся к Твоей защите, моливший о Твоей помощи или искавший Твоего заступничества, остался без помощи. Вдохновленная этой уверенностью, я прихожу к Тебе… Что-то, сказанное фельдшером скорой помощи, но что она не восприняла всерьез, промелькнуло у нее в голове. Глаза Майлза. Они были обожжены, как и остальная часть его лица. Ее голос дрожал. «Он ослепнет?» «На этот вопрос должны ответить специалисты. Как только мы доберемся до отделения неотложной помощи, он получит лучшее лечение».
 
-Something the ambulance attendant had said, but she hadn't taken in, played back in her inner mind. Miles's eyes. They were burned with the remainder of his face. Her voice trembled. "Will he be blind?" "The specialists will have to answer that. Soon's we get to Emergency he'll get the best treatment.
+There isn't a lot more I can do right here." Juanita thought: there wasn't anything she could do either. Except to stay with Miles, as she would, with love and devotion for as long as he wanted and needed her. That, and pray... Oh Virgen Madre de las virgines!... To you I come, before you I stand, sinful and sad. O Mother of the Word Incarnate, do not turn from my petitions but hear and answer me. Amen. Some pillared buildings flashed by. "We're almost there," the attendant said. He had his fingers on Miles's pulse. "He's still alive."
 
-Что-то сказанное фельдшером скорой помощи, что она не восприняла всерьез, промелькнуло у нее в голове. Глаза Майлза. Они были выжжены вместе с остальной частью его лица. Ее голос дрожал. «Он ослепнет?» «На этот вопрос должны ответить специалисты. Как только мы доберемся до отделения неотложной помощи, он получит наилучшее лечение».
-
-There isn't a lot more I can do right here."
-
-Я больше ничего здесь сделать не могу.
-
-Juanita thought: there wasn't anything she could do either. Except to stay with Miles, as she would, with love and devotion for as long as he wanted and needed her. That, and pray... Oh Virgen Madre de las virgines!... To you I come, before you I stand, sinful and sad. O Mother of the Word Incarnate, do not turn from my petitions but hear and answer me. Amen.
-
-Хуанита подумала: она тоже ничего не могла сделать. Разве что остаться с Майлзом, как и всегда, с любовью и преданностью столько, сколько он захочет и будет в ней нуждаться. И ещё молиться… О, Дева Мария, Мать Дев!… К Тебе я прихожу, перед Тобой стою, грешный и печальный. О, Матерь Воплощенного Слова, не отворачивайся от моих прошений, но услышь и ответь мне. Аминь.
-
-Some pillared buildings flashed by. "We're almost there," the attendant said. He had his fingers on Miles's pulse. "He's still alive."
-
-Мимо промелькнули здания с колоннами. «Мы почти на месте», — сказал дежурный. Он держал палец на пульсе Майлза. «Он еще жив».
+«Я больше ничего не могу здесь сделать», — подумала Хуанита. Она тоже ничего не могла сделать. Разве что остаться с Майлзом, как и всегда, с любовью и преданностью столько, сколько он захочет и будет в ней нуждаться. И ещё молиться… О, Дева Мария, Мать Дев!… К Тебе я прихожу, перед Тобой стою, грешный и печальный. О Матерь Воплощенного Слова, не отворачивайся от моих прошений, но услышь и ответь мне. Аминь. Мимо промелькнули здания с колоннами. «Мы почти на месте», — сказал служитель. Он держал палец на пульсе Майлза. «Он ещё жив».
 
 ## Chapter 24
 
@@ -16950,7 +17026,7 @@ There must have been a swimming pool full of cash."
 
 Including FMA's two million, Heyward thought. He asked,
 
-Хейворд подумал, включая два миллиона FMA. Он спросил:
+Хейворд подумал, включая два миллиона от FMA. Он спросил:
 
 "What happened to it?" "The bastard transferred everything into offshore shell companies of his own, then moved the money out of them, so all Q-Investments is left with is shares in the shells just worthless paper."
 
@@ -17058,7 +17134,7 @@ Heyward thought. Especially if the newspaper paid her, and he supposed they had.
 
 Heyward was silent. What could he say? Damn all newspapers and writers, their obsession with invading privacy, their eternal digging, digging!
 
-Хейворд молчал. Что он мог сказать? Проклятые все газеты и писатели, их одержимость вторжением в частную жизнь, их вечное копание, копание!
+Хейворд молчал. Что он мог сказать? Проклятые газеты и писатели, их одержимость вторжением в частную жизнь, их вечное копание, копание!
 
 Obviously someone inside SuNatCo had been induced to talk, had stolen or copied papers. He remembered something Avril had said about "the list" a confidential roster of those who could be entertained at Supranational's expense.
 
@@ -17344,9 +17420,9 @@ Wasn't Margot's work among the poor and needy far more important than his own, a
 
 Разве работа Марго среди бедных и нуждающихся не была гораздо важнее его собственной, разве это не был больший вклад в их время? Однако всё было не так просто, потому что банки были необходимы, по-своему столь же важны и насущны, как еда. Цивилизация рухнула бы без денег.
 
-system. Banks, though imperfect, made the money system work.
+... system. Banks, though imperfect, made the money system work.
 
-система. Банки, хоть и несовершенные, обеспечили функционирование денежной системы.
+...система. Банки, хоть и несовершенные, обеспечили функционирование денежной системы.
 
 Those were abstract considerations; there was a practical one. Even if Alex accepted the leadership of First Mercantile American at this late stage, there was no assurance of success. He might merely preside, shamefully, over FMA's demise or take-over by another bank. If so, he would be remembered for it, his reputation as a banker destroyed, too.
 
@@ -17472,6 +17548,50 @@ Everyone in them looked there was no other word for it ridiculous. Roscoe, in on
 
 Все они выглядели – иначе и не скажешь – нелепо. На одном снимке Роско завороженно смотрел на обнаженных женщин; на другом – одна из них целовала его, а его пальцы касались ее груди.
 
-Harold Austin exhibited a soft body, hanging penis, and foolish smile. Another man, with his behind to the camera, faced the women. As to the women well, Alex thought, some people might consider them attractive. For himself, he would take Margot, with her clothes on, any day. He didn't laugh, though out of respect for Dora Callaghan who had drained her drink and was standing up. "Mr. Vandervoort, I'd better go." "You were right to bring these things to me," he told her. "I appreciate it, and I'll take care of them personally." "I'll see you out," Margot said. She retrieved Mrs. Callaghan's coat and went with her to the elevator. Alex was by a window, looking out at the city's lights, when Margot returned. "A nice woman," she pronounced. "And loyal." "Yes," he said, and thought: Whatever changes were made tomorrow and in following days, he would see that Mrs. Callaghan was treated kindly. There would be other people to think of, too. Alex would immediately promote Tom Straughan to Alex's own previous post as an executive vice-president. Orville Young could fill Heyward's shoes well. Edwina D'Orsey must move up to senior vice-president in charge of the trust department; it was a post Alex had had in mind for Edwina for some time, and soon he expected her to move higher still. Meanwhile she must be named, at once, a member of the board. He realized suddenly: he was taking for granted that he himself would accept the bank presidency. Well, Margot had just told him that. Obviously she was right. He turned away from the window and the outside darkness. Margot was standing at the coffee table, looking down at the photographs. Suddenly she giggled, and then he did what he had wanted to, and laughed with her. "Oh, God!" Margot said. "Funny-sad!" When their laughter ended he bent down, collected the prints and returned them to their envelope. He was tempted to throw the package on the fire, but knew he mustn't. It would be destruction of evidence which might be needed. But he would do his best, he decided, to keep the photos from other eyes for Roscoe's sake. "Funny-sad," Margot repeated. "Isn't it all?" "Yes," he agreed, and in that moment knew he needed her, and always would. He took her hands, remembering what they had been speaking of before Mrs. Callaghan came. "Never mind any gulfs between us," Alex urged. "We have a lot of bridges, too. You and I are good for each other. Let's live together permanently, Bracken, starting now." She objected, "It probably won't works or last. The odds are against us." "Then we'll try to prove them wrong." "Of course, there is one thing in our favor." Margot's eyes shone playfully. "Most couples who pledge 'to love and to cherish, till death us do part,' wind up in divorce courts within a year. Maybe if we start out not believing or expecting much, we'll do better than the rest." As he took her in his arms, he told her, "Sometimes bankers and lawyers talk too much."
+Harold Austin exhibited a soft body, hanging penis, and foolish smile.
 
-Гарольд Остин демонстрировал мягкое тело, висячий пенис и глупую улыбку. Другой мужчина, повернувшись спиной к камере, стоял лицом к женщинам. Что касается женщин, подумал Алекс, то некоторым они могут показаться привлекательными. Что касается себя, он бы выбрал Марго, в одежде, в любой день. Он не засмеялся, хотя и из уважения к Доре Каллахан, которая допила свой напиток и встала. «Мистер Вандерворт, мне лучше уйти». «Вы правильно сделали, что принесли мне эти вещи», — сказал он ей. «Я ценю это и лично позабочусь об этом». «Провожу вас», — сказала Марго. Она взяла пальто миссис Каллахан и пошла с ней к лифту. Алекс стоял у окна, любуясь огнями города, когда вернулась Марго. «Хорошая женщина», — произнесла она. «И верная». «Да», — сказал он и подумал: какие бы изменения ни произошли завтра и в последующие дни, он позаботится о том, чтобы к миссис Каллахан относились с добротой. Нужно было подумать и о других людях. Алекс немедленно повысит Тома Страухана до его прежней должности исполнительного вице-президента. Орвилл Янг отлично бы заменил Хейворда. Эдвина Д'Орси должна подняться до старшего вице-президента, возглавляющего трастовый отдел; эту должность Алекс давно планировал для Эдвины, и вскоре он ожидал, что она поднимется еще выше. Тем временем ее нужно немедленно назначить членом совета директоров. Он вдруг осознал: он считал само собой разумеющимся, что сам примет предложение стать президентом банка. Что ж, Марго только что сказала ему об этом. Очевидно, она была права. Он отвернулся от окна и темноты снаружи. Марго стояла у кофейного столика, глядя на фотографии. Внезапно она захихикала, и тогда он сделал то, что хотел, и засмеялся вместе с ней. «О, Боже!» — сказала Марго. «Как смешно-грустно!» Когда их смех утих, он наклонился, собрал фотографии и положил их обратно в конверт. Ему хотелось бросить пакет в огонь, но он понимал, что не должен этого делать. Это означало бы уничтожение улик, которые могут понадобиться. Но он решил сделать все возможное, чтобы скрыть фотографии от посторонних глаз ради Роско. «Забавно-грустно», — повторила Марго. «Разве не так?» «Да», — согласился он, и в тот момент понял, что нуждается в ней, и всегда будет нуждаться. Он взял ее за руки, вспоминая, о чем они говорили до прихода миссис Каллахан. «Не обращай внимания на пропасть между нами», — настаивал Алекс. «У нас много общего. Мы с тобой подходим друг другу. Давай жить вместе навсегда, Бракен, прямо сейчас». Она возразила: «Вероятно, это не сработает и не продлится долго. Шансы не в нашу пользу». «Тогда мы попытаемся доказать им обратное». «Конечно, есть одно, что играет нам на руку». Глаза Марго игриво заблестели. «Большинство пар, которые клянутся «любить и беречь друг друга до самой смерти», в течение года оказываются в суде по делам о разводе. Возможно, если мы начнем не верить и не ожидать многого, у нас все получится лучше, чем у остальных». Обняв ее, он сказал: «Иногда банкиры и юристы слишком много говорят».
+Гарольд Остин демонстрировал мягкое тело, висячий пенис и глупую улыбку.
+
+Another man, with his behind to the camera, faced the women. As to the women well, Alex thought, some people might consider them attractive. For himself, he would take Margot, with her clothes on, any day. He didn't laugh, though out of respect for Dora Callaghan who had drained her drink and was standing up. "Mr. Vandervoort, I'd better go."
+
+Другой мужчина, повернувшись спиной к камере, смотрел на женщин. Что касается женщин, подумал Алекс, некоторым они могут показаться привлекательными. Что касается себя, он бы выбрал Марго, в одежде, в любой день. Он не засмеялся, хотя и из уважения к Доре Каллахан, которая допила свой напиток и встала. «Мистер Вандерворт, мне пора идти».
+
+"You were right to bring these things to me," he told her. "I appreciate it, and I'll take care of them personally." "I'll see you out," Margot said. She retrieved Mrs. Callaghan's coat and went with her to the elevator. Alex was by a window, looking out at the city's lights, when Margot returned.
+
+«Ты правильно сделала, что принесла мне эти вещи», — сказал он ей. «Я ценю это и лично обо всем позабочусь». «Я тебя выведу», — сказала Марго. Она взяла пальто миссис Каллахан и пошла с ней к лифту. Алекс стоял у окна, любуясь огнями города, когда Марго вернулась.
+
+"A nice woman," she pronounced. "And loyal."
+
+«Прекрасная женщина, — заявила она. — И верная».
+
+"Yes," he said, and thought: Whatever changes were made tomorrow and in following days, he would see that Mrs. Callaghan was treated kindly.
+
+«Да», — сказал он и подумал: какие бы изменения ни произошли завтра и в последующие дни, он позаботится о том, чтобы к миссис Каллахан относились с добротой.
+
+There would be other people to think of, too. Alex would immediately promote Tom Straughan to Alex's own previous post as an executive vice-president. Orville Young could fill Heyward's shoes well. Edwina D'Orsey must move up to senior vice-president in charge of the trust department; it was a post Alex had had in mind for Edwina for some time, and soon he expected her to move higher still.
+
+Нужно было подумать и о других кандидатах. Алекс немедленно повысит Тома Страухана до его прежней должности исполнительного вице-президента. Орвилл Янг мог бы хорошо заменить Хейворда. Эдвина Д'Орси должна подняться до старшего вице-президента, возглавляющего трастовый отдел; эту должность Алекс давно планировал для Эдвины, и вскоре он ожидал, что она поднимется еще выше.
+
+Meanwhile she must be named, at once, a member of the board. He realized suddenly: he was taking for granted that he himself would accept the bank presidency.
+
+Между тем ее необходимо немедленно назначить членом совета директоров. Он вдруг осознал: он считал само собой разумеющимся, что сам примет предложение стать президентом банка.
+
+Well, Margot had just told him that. Obviously she was right. He turned away from the window and the outside darkness. Margot was standing at the coffee table, looking down at the photographs. Suddenly she giggled, and then he did what he had wanted to, and laughed with her.
+
+Что ж, Марго только что ему это сказала. Очевидно, она была права. Он отвернулся от окна и темноты за окном. Марго стояла у кофейного столика, глядя на фотографии. Внезапно она хихикнула, и тогда он сделал то, что хотел, и рассмеялся вместе с ней.
+
+"Oh, God!" Margot said. "Funny-sad!" When their laughter ended he bent down, collected the prints and returned them to their envelope. He was tempted to throw the package on the fire, but knew he mustn't. It would be destruction of evidence which might be needed. But he would do his best, he decided, to keep the photos from other eyes for Roscoe's sake.
+
+«О, Боже!» — воскликнула Марго. «Как смешно и грустно!» Когда их смех утих, он наклонился, собрал фотографии и положил их обратно в конверт. Ему хотелось бросить пакет в огонь, но он понимал, что не должен этого делать. Это означало бы уничтожение улик, которые могут понадобиться. Но он решил сделать все возможное, чтобы скрыть фотографии от посторонних глаз ради Роско.
+
+"Funny-sad," Margot repeated. "Isn't it all?" "Yes," he agreed, and in that moment knew he needed her, and always would. He took her hands, remembering what they had been speaking of before Mrs. Callaghan came.
+
+«Забавно-грустно», — повторила Марго. «Разве не так?» «Да», — согласился он и в тот момент понял, что нуждается в ней, и всегда будет нуждаться. Он взял её за руки, вспоминая, о чём они говорили до прихода миссис Каллахан.
+
+"Never mind any gulfs between us," Alex urged. "We have a lot of bridges, too. You and I are good for each other. Let's live together permanently, Bracken, starting now."
+
+«Не обращай внимания на все разногласия между нами, — настаивал Алекс. — У нас много общего. Мы с тобой подходим друг другу. Давай жить вместе навсегда, Бракен, прямо сейчас».
+
+She objected, "It probably won't works or last. The odds are against us." "Then we'll try to prove them wrong." "Of course, there is one thing in our favor." Margot's eyes shone playfully. "Most couples who pledge 'to love and to cherish, till death us do part,' wind up in divorce courts within a year. Maybe if we start out not believing or expecting much, we'll do better than the rest." As he took her in his arms, he told her, "Sometimes bankers and lawyers talk too much."
+
+Она возразила: «Вероятно, это не сработает и не продлится долго. Шансы не в нашу пользу». «Тогда мы попытаемся доказать им обратное». «Конечно, есть один фактор в нашу пользу». Глаза Марго игриво заблестели. «Большинство пар, которые клянутся «любить и беречь друг друга до самой смерти», в течение года оказываются в суде по делам о разводе. Может быть, если мы начнем не верить и ничего не ожидать, у нас все получится лучше, чем у остальных». Обняв ее, он сказал: «Иногда банкиры и юристы слишком много говорят».

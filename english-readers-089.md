@@ -2675,3 +2675,1717 @@ He had a name. I was sure that he had a name now. He was in a place where he bel
 I hope Holly has found a place where she belongs, too.
 
 Надеюсь, Холли тоже нашла место, где ей комфортно.
+
+# Rain Man by Leonore Fleischer (B1)
+
+# «Человек дождя» Леоноры Флейшер (B1)
+
+## CHAPTER ONE
+
+## ГЛАВА ПЕРВАЯ
+
+It was Friday afternoon in the office of Babbitt Cars, Los Angeles. Charlie Babbitt was shouting on the phone.
+
+Была пятница после обеда в офисе компании Babbitt Cars в Лос-Анджелесе. Чарли Баббитт кричал в телефон.
+
+'But I have waited five weeks for these cars. Where are they?'
+
+«Но я ждал эти машины пять недель. Где же они?»
+
+On another phone, Charlie's secretary, Susanna, was talking j to a customer. The customer wanted six Lamborghini cars and he wanted them that day. Then a call came from the ! bank.
+
+По другому телефону секретарь Чарли, Сюзанна, разговаривала с клиентом. Клиент хотел шесть автомобилей Lamborghini и хотел получить их в тот же день. Затем раздался звонок из банка.
+
+Susanna put her hand over the phone. 'They want you to pay back the money you borrowed,' she said. 'They want it this afternoon.'
+
+Сюзанна закрыла трубку рукой. «Они хотят, чтобы ты вернула деньги, которые взяла в долг, — сказала она. — Они хотят получить их сегодня днем».
+
+'Tell them I'll pay on Monday,' said Charlie. Then he spoke into his own phone. 'You can have the cars on Monday, sir... Yes, I'm sure... Thank you, sir!'
+
+«Скажите им, что я заплачу в понедельник», — сказал Чарли. Затем он заговорил в свой телефон: «Машины вы можете получить в понедельник, сэр… Да, конечно… Спасибо, сэр!»
+
+Charlie put the phone down and smiled for the first time in a week. Monday. And this was only Friday! He had the weekend to think of something to save his business.
+
+Чарли положил трубку и впервые за неделю улыбнулся. Понедельник. А ведь была только пятница! У него были выходные, чтобы придумать что-нибудь, что спасёт его бизнес.
+
+He looked over at Susanna, his Italian secretary. She was his girl and she was so beautiful! Charlie loved every part of her little body, her big black eyes, her long brown hair.
+
+Он взглянул на Сюзанну, свою итальянскую секретаршу. Она была его девушкой, и она была так прекрасна! Чарли любил каждую часть ее хрупкого тела, ее большие черные глаза, ее длинные каштановые волосы.
+
+'Are you ready for our weekend in Palm Springs?'
+
+«Вы готовы к нашим выходным в Палм-Спрингс?»
+
+Susanna looked surprised. 'We're still going?'
+
+Сюзанна выглядела удивленной. «Мы все еще собираемся идти?»
+
+'Of course,' said Charlie. 'Don't worry about this little problem. I'm going to make eighty thousand dollars from those cars.' He smiled his best smile. 'Not bad... for two or three phone calls.'
+
+«Конечно, — сказал Чарли. — Не беспокойся об этой маленькой проблеме. Я заработаю восемьдесят тысяч долларов на этих машинах». Он широко улыбнулся. «Неплохо… за два-три телефонных звонка».
+
+_
+
+They were driving through the desert when a call came through on Charlie's car phone.
+
+Они ехали по пустыне, когда на автомобильный телефон Чарли поступил звонок.
+
+'Mr Babbitt? Mr Charles Babbitt?' It was a girl's voice.
+
+«Мистер Баббит? Мистер Чарльз Баббит?» Это был девичий голос.
+
+'Yes?'
+
+'Да?'
+
+'I'm calling for Mr John Mooney. He's your father's lawyer... here in Cincinnati. And... I'm sorry, but it's bad news. Your father has died, sir.'
+
+«Я зову мистера Джона Муни. Он адвокат вашего отца... здесь, в Цинциннати. И... мне очень жаль, но это плохие новости. Ваш отец умер, сэр».
+
+'Oh, no!' Susanna said, her eyes on Charlie. But his face didn't change, and he didn't say a word.
+
+«О нет!» — воскликнула Сюзанна, не сводя глаз с Чарли. Но выражение его лица не изменилось, и он не произнес ни слова.
+
+'The funeral is on Sunday, Mr Babbitt. I've got his telephone number if you...'
+
+«Похороны состоятся в воскресенье, мистер Баббит. У меня есть его номер телефона, если вам…»
+
+But Charlie was not listening. He just continued to look at the road in front of them.
+
+Но Чарли не слушал. Он просто продолжал смотреть на дорогу перед ними.
+
+'Oh, Charlie,' Susanna said softly. 'Are you all right?'
+
+«О, Чарли, — тихо сказала Сюзанна. — Ты в порядке?»
+
+He didn't answer, but a few seconds later he turned off the road and stopped the car. 'Sorry about the weekend,' he said finally.
+
+Он ничего не ответил, но через несколько секунд съехал с дороги и остановил машину. «Извините за выходные», — наконец сказал он.
+
+'The weekend?' Susanna said. 'Charlie -'
+
+— Выходные? — спросила Сюзанна. — Чарли… —
+
+Charlie did not look at her. 'Look,' he said quietly, 'I hated my father and he hated me.'
+
+Чарли не смотрел на неё. «Послушай, — тихо сказал он, — я ненавидел своего отца, и он ненавидел меня».
+
+Susanna looked across at him. Charlie was only twenty-six, but she thought he was the most handsome man in the world. He was tall and strong, with thick dark hair and a wonderful smile.
+
+Сюзанна посмотрела на него. Чарли было всего двадцать шесть, но она считала его самым красивым мужчиной в мире. Он был высоким и сильным, с густыми темными волосами и чудесной улыбкой.
+
+'Poor Charlie! That's very sad.'
+
+«Бедный Чарли! Это очень грустно».
+
+'My mother died when I was two. And then it was just... me and him.'
+
+«Моя мать умерла, когда мне было два года. И тогда остались только я и он».
+
+Susanna bit her lip and touched Charlie on the shoulder. 'What happened?'
+
+Сюзанна прикусила губу и дотронулась до плеча Чарли. «Что случилось?»
+
+Charlie was silent. Then he said, 'Nothing I did was ever good enough for him.'
+
+Чарли молчал. Затем он сказал: «Ничто из того, что я делал, никогда не было для него достаточно хорошим».
+
+'I'm going with you to the funeral,' Susanna said suddenly.
+
+«Я пойду с тобой на похороны», — внезапно сказала Сюзанна.
+
+Charlie smiled. 'That's nice,' he said, 'but you don't need to.'
+
+Чарли улыбнулся. «Это мило, — сказал он, — но тебе не обязательно».
+
+'I want to go,' Susanna said.
+
+«Я хочу пойти», — сказала Сюзанна.
+
+Charlie looked across at Susanna. 'I forgot who I was talking to,' he said, with a small, sad smile.
+
+Чарли посмотрел на Сюзанну. «Я забыл, с кем разговаривал», — сказал он с легкой, грустной улыбкой.
+
+## CHAPTER TWO
+
+## ГЛАВА ВТОРАЯ
+
+Charlie Babbitt walked away from his father's funeral without looking back. Getting into the car beside Susanna, he said, 'We're going to stay in Cincinnati another night, OK? There's something I have to do before we go.' Charlie started the car.
+
+Чарли Бэббитт ушел с похорон отца, не оглядываясь. Сев в машину рядом с Сюзанной, он сказал: «Мы останемся в Цинциннати еще на одну ночь, хорошо? Мне нужно кое-что сделать, прежде чем мы уедем». Чарли завел машину.
+
+'Where are we going now?' Susanna asked.
+
+«Куда мы теперь идём?» — спросила Сюзанна.
+
+'East Walnut Hills.'
+
+«Ист-Уолнат-Хиллз».
+
+Walnut Hills is the richest part of Cincinnati. All the houses are big and very expensive.
+
+Уолнат-Хиллз — самый богатый район Цинциннати. Все дома там большие и очень дорогие.
+
+Charlie parked the car in front of one of the largest, most expensive houses in Walnut Hills - Sanford Babbitt's house. 'This is my father's place,' he said.
+
+Чарли припарковал машину перед одним из самых больших и дорогих домов в Уолнат-Хиллз — домом Сэнфорда Баббитта. «Это дом моего отца», — сказал он.
+
+Susanna got out of the car. 'Is this where you lived when you were a boy?' she asked, her eyes wide, full of questions.
+
+Сюзанна вышла из машины. «Ты жил здесь, когда был мальчиком?» — спросила она, широко раскрыв глаза, полные вопросов.
+
+'Yeah, but I left when I was sixteen,' Charlie said. He picked up the suitcases and carried them towards the house.
+
+«Да, но я уехал, когда мне было шестнадцать», — сказал Чарли. Он поднял чемоданы и понес их к дому.
+
+'I had no idea... you came... from all this,' Susanna said. This was a Charlie Babbitt that she didn't know.
+
+«Я понятия не имела… откуда ты взялась… из всего этого», — сказала Сюзанна. Это был незнакомый ей Чарли Бэббит.
+
+But Charlie wasn't listening. He put the suitcases down and walked towards a car that was in front of the garage.
+
+Но Чарли не слушал. Он поставил чемоданы и направился к машине, стоявшей перед гаражом.
+
+It was a 1949 Buick Roadmaster. It was light blue and everything about it was perfect.
+
+Это был Buick Roadmaster 1949 года выпуска. Он был светло-голубого цвета, и в нём всё было идеально.
+
+'I've always known this car,' Charlie said in a quiet voice, 'but I only drove it once.'
+
+«Я всегда знал эту машину, — тихо сказал Чарли, — но я водил её всего один раз».
+
+Near the garage was a flower garden with some wonderful roses.
+
+Рядом с гаражом находился цветочный сад с прекрасными розами.
+
+'Someone must water those roses,' said Susanna, who loved flowers. 'They're all dying.'
+
+«Кто-то должен поливать эти розы, — сказала Сюзанна, которая очень любила цветы. — Они все умирают».
+
+'I hate those roses!' Charlie said suddenly.
+
+«Я ненавижу эти розы!» — внезапно воскликнул Чарли.
+
+Susanna looked at him in surprise, but Charlie was already opening the front door.
+
+Сюзанна удивленно посмотрела на него, но Чарли уже открывал входную дверь.
+
+Later that afternoon, Charlie and Susanna were looking round Charlie's old bedroom.
+
+Позже в тот же день Чарли и Сюзанна осматривали старую спальню Чарли.
+
+'You know that car in front of the garage?' Charlie asked suddenly.
+
+— Знаешь ту машину перед гаражом? — внезапно спросил Чарли.
+
+'It's beautiful.'
+
+'Это красиво.'
+
+'My father loved that car. The car and the roses. The Buick was his car and I could never drive it. But one day I borrowed it to drive my friends round town.'
+
+«Мой отец обожал эту машину. И машину, и розы. «Бьюик» был его машиной, а я никогда не мог на ней сесть. Но однажды я взял её напрокат, чтобы покатать друзей по городу».
+
+'What happened?'
+
+'Что случилось?'
+
+'My father telephoned the police. He knew I had the car, but he telephoned the police and said, "Someone has stolen my car". The police stopped us and took us to the police station.' Charlie's face was angry now. 'My friends' parents came for them after an hour. My father left me there for two days.'
+
+«Мой отец позвонил в полицию. Он знал, что машина у меня, но позвонил и сказал: „Кто-то угнал мою машину“. Полиция остановила нас и отвезла в полицейский участок». Лицо Чарли теперь выражало гнев. «Родители моих друзей приехали за ними через час. Мой отец оставил меня там на два дня».
+
+'Two days!' Susanna said. 'And you were only sixteen. Poor Charlie!'
+
+«Два дня!» — сказала Сюзанна. — «А тебе было всего шестнадцать. Бедный Чарли!»
+
+But now Charlie was picking up an old coat from a box in the comer of the room.
+
+Но в этот момент Чарли доставал из коробки в углу комнаты старое пальто.
+
+'Is that yours, Charlie?' Susanna asked.
+
+«Это твоё, Чарли?» — спросила Сюзанна.
+
+Charlie didn't answer. He was looking carefully at the little coat. 'It's like a map...' he said, in a strange voice. 'A map of my past.'
+
+Чарли не ответил. Он внимательно разглядывал маленькое пальто. «Это как карта…» — сказал он странным голосом. — «Карта моего прошлого».
+
+'What are you talking about?'
+
+'О чем ты говоришь?'
+
+'What?' Charlie looked over at Susanna and then back at the coat. 'Oh, I was just thinking... Susanna, when you were a child, did you have... secret friends?'
+
+«Что?» Чарли посмотрел на Сюзанну, а затем снова на пальто. «О, я просто подумал… Сюзанна, когда ты была ребенком, у тебя были… тайные друзья?»
+
+'Yes, I think everyone does.'
+
+«Да, я думаю, все так считают».
+
+'What was the name of my secret friend?' Charlie asked himself. He tried to remember. 'Rain Man. That's it. The Rain Man. When I was frightened I held this coat and listened to the Rain Man sing.' He smiled. 'That was a long time ago.'
+
+«Как звали моего тайного друга?» — спросил себя Чарли, пытаясь вспомнить. «Человек дождя. Вот он. Человек дождя. Когда мне было страшно, я держал это пальто и слушал, как поет Человек дождя». Он улыбнулся. «Это было очень давно».
+
+Susanna laughed and touched Charlie's arm. 'What happened to your friend?'
+
+Сюзанна рассмеялась и дотронулась до руки Чарли. «Что случилось с твоим другом?»
+
+'I don't know,' Charlie said. 'I just... grew up, I think.' He turned the coat around in his hands for a few seconds longer. Then he threw it back into the box.
+
+«Не знаю», — сказал Чарли. «Просто... я, кажется, повзрослел». Он еще несколько секунд покрутил пальто в руках. Затем бросил его обратно в коробку.
+
+'Let's go and eat.'
+
+«Пойдемте поедим».
+
+_
+
+Charlie Babbitt and his father's lawyer, John Mooney, met in the dining-room that evening.
+
+В тот вечер в столовой встретились Чарли Бэббит и адвокат его отца, Джон Муни.
+
+Mr Mooney put on his glasses and took some papers from his case. 'Before I read the will,' he said, 'your father has asked me to read you a letter that he wrote to you. Is that all right?'
+
+Мистер Муни надел очки и достал из футляра несколько бумаг. «Прежде чем я прочитаю завещание, — сказал он, — ваш отец попросил меня прочитать вам письмо, которое он вам написал. Вы не против?»
+
+Charlie did not want to listen to his father's letter. But he did want his father's money. 'Of course,' he said.
+
+Чарли не хотел читать письмо отца. Но ему очень хотелось получить отцовские деньги. «Конечно», — сказал он.
+
+Mooney opened an envelope and took out two pieces of expensive paper.
+
+Муни открыл конверт и достал два листа дорогой бумаги.
+
+'"To my son, Charles Babbitt. Dear Charles,"' the lawyer began. '"Today is my seventieth birthday. I am an old man, but I well remember the day that we brought you home from the hospital. You were the perfect child..."'
+
+«Моему сыну, Чарльзу Баббитту. Дорогой Чарльз, — начал адвокат. — Сегодня мне исполняется семьдесят. Я уже старый человек, но хорошо помню тот день, когда мы привезли тебя домой из больницы. Ты был идеальным ребенком…»
+
+'He wrote it,' Charlie said, with a very small smile. 'I hear his voice.' .
+
+«Это он написал», — сказал Чарли с едва заметной улыбкой. «Я слышу его голос».
+
+'"And I remember too,"' Mooney continued reading, '"the day you left home. You were so angry, and you had all these big ideas..."'
+
+«И я тоже помню, — продолжал читать Муни, — тот день, когда ты ушла из дома. Ты была так зла, и у тебя были все эти грандиозные планы…»
+
+The lawyer stopped reading. He looked up at Charlie, but there was no change in the young man's expression.
+
+Адвокат перестал читать. Он поднял взгляд на Чарли, но выражение лица молодого человека не изменилось.
+
+Mooney did not look up from the letter again. '"You did not write, or telephone, or come back into my life in any way. For all these years I have not had a son. But I want for you now what I always wanted for you. I want you to have the best life possible."'
+
+Муни больше не поднимал глаз от письма. «Ты мне не писал, не звонил и никак не возвращался в мою жизнь. Все эти годы у меня не было сына. Но сейчас я хочу для тебя того, чего всегда хотел. Я хочу, чтобы у тебя была самая лучшая жизнь».
+
+John Mooney stopped reading and put the letter back into its envelope. The old lawyer seemed sad. Charlie did not say any- thing. He just sat there waiting for Mooney to read the will.
+
+Джон Муни перестал читать и положил письмо обратно в конверт. Старый адвокат выглядел грустным. Чарли ничего не сказал. Он просто сидел и ждал, пока Муни зачитает завещание.
+
+Now Mooney picked up the will. Without looking at Charlie, he began to read.
+
+Затем Муни взял завещание. Не глядя на Чарли, он начал читать.
+
+'"To Charles Sanford Babbitt, I give my 1949 Buick. I also give him my roses"'
+
+«Чарльзу Сэнфорду Баббитту я дарю свой Buick 1949 года выпуска. А ещё я дарю ему свои розы».
+
+Charlie moved anxiously in his chair. He did not like what he was hearing.
+
+Чарли нервно ерзал на стуле. Ему не нравилось то, что он слышал.
+
+'"I am leaving my home and all my money to someone who is very important to me. Because this person cannot use the money, a friend will look after the money for him."'
+
+«Я оставляю свой дом и все свои деньги человеку, который мне очень дорог. Поскольку этот человек не сможет воспользоваться деньгами, друг позаботится о них за него».
+
+Mooney stopped reading and looked up.
+
+Муни перестал читать и поднял глаза.
+
+'I don't understand,' Charlie said.
+
+«Я не понимаю», — сказал Чарли.
+
+'Your father's money, around three million dollars, will go to someone who cannot use it,' Mooney explained. 'An- other person will look after the money.'
+
+«Деньги вашего отца, около трех миллионов долларов, достанутся тому, кто не сможет ими воспользоваться», — объяснил Муни. «Другой человек позаботится о деньгах».
+
+So Charlie Babbitt was not getting his father's house, or his father's money.
+
+Таким образом, Чарли Бэббит не получил ни дом своего отца, ни деньги своего отца.
+
+'What's the name of the person who is going to get the money?' he asked.
+
+«Как зовут человека, который получит деньги?» — спросил он.
+
+John Mooney put the will back into his bag. 'The will says that I cannot tell you.'
+
+Джон Муни положил завещание обратно в сумку. «В завещании сказано, что я не могу вам его сообщить».
+
+Charlie was beginning to get angry. 'Who is this person who's going to look after the money? You?'
+
+Чарли начал злиться. «Кто этот человек, который будет присматривать за деньгами? Ты?»
+
+'No, it isn't me,' Mooney said. The old lawyer stood up and picked up his hat.
+
+«Нет, это не я», — сказал Муни. Старый адвокат встал и поднял свою шляпу.
+
+'Who is it then?'
+
+«А кто же это?»
+
+'I'm sorry, Charles,' Mooney said. 'I'm your father's lawyer. I can't tell you.' He walked towards the door and then turned to face Charlie. 'I'm sorry, son. I can see that you're upset, but -'
+
+«Прости, Чарльз, — сказал Муни. — Я адвокат твоего отца. Я не могу тебе сказать». Он направился к двери, а затем повернулся к Чарли. «Прости, сынок. Я вижу, что ты расстроен, но…»
+
+'Upset?' Charlie jumped out of his chair. 'I get an old car and some roses. Wonderful! And this man without a name —'
+
+«Расстроен?» — Чарли вскочил со стула. — «Мне подарили старую машину и розы. Замечательно! А этот человек без имени…»
+
+'Charles —'
+
+«Чарльз —»
+
+'This secret person gets three million dollars!'
+
+«Этот секретный человек получит три миллиона долларов!»
+
+'Charles -'
+
+«Чарльз —»
+
+'Sanford Babbitt. You want to be his son for five minutes?' Charlie shouted. 'Did you hear that letter? Were you listening?' Charlie was so angry, he could not continue speaking.
+
+«Сэнфорд Баббит. Хочешь побыть его сыном хотя бы пять минут?» — крикнул Чарли. «Ты слышал это письмо? Ты вообще слушал?» Чарли был так зол, что не мог продолжать говорить.
+
+'Yes, sir, I was,' John Mooney replied, looking at Charlie straight in the eye. 'Were you?'
+
+«Да, сэр, был», — ответил Джон Муни, глядя Чарли прямо в глаза. «А вы?»
+
+## CHAPTER THREE
+
+## ГЛАВА ТРЕТЬЯ
+
+Charlie wanted that three million dollars. It was his money! But first he had to know who was looking after it.
+
+Чарли хотел эти три миллиона долларов. Это были его деньги! Но сначала ему нужно было узнать, кто ими распоряжается.
+
+Next morning, he went to his father's bank and talked to a woman there. He smiled his beautiful smile and lied to her. Five minutes later he had the name and address that he needed in his pocket. Dr Walter Bruner of Wallbrook Home, Ohio.
+
+На следующее утро он пошёл в банк своего отца и поговорил там с женщиной. Он улыбнулся своей прекрасной улыбкой и солгал ей. Пять минут спустя у него в кармане оказались нужные имя и адрес. Доктор Уолтер Брунер из Уоллбрук-Хоум, штат Огайо.
+
+With Susanna next to him, Charlie drove the Buick out of Cincinnati. It was a hot July day and they had the roof of the car open. On both sides of the road were the Ohio hills.
+
+Чарли, рядом с Сюзанной, выехал на «Бьюике» из Цинциннати. Был жаркий июльский день, и крыша машины была открыта. По обеим сторонам дороги простирались холмы Огайо.
+
+'This is beautiful,' Susanna said. 'Where are we going?'
+
+«Это прекрасно», — сказала Сюзанна. «Куда мы едем?»
+
+'We're going to see a Dr Bruner,' Charlie answered. He did not say another word.
+
+«Мы идём к доктору Брунеру», — ответил Чарли. Больше он ничего не сказал.
+
+Twenty minutes later Charlie slowed the car down and turned to the left. The new road was very narrow. On both sides there were big trees. 'This is the place,' he said, 'Wallbrook Home.'
+
+Через двадцать минут Чарли сбавил скорость и повернул налево. Новая дорога была очень узкой. По обеим сторонам росли большие деревья. «Это то самое место, — сказал он, — Уоллбрук Хоум».
+
+'But why have we come here, Charlie?' Susanna asked.
+
+«Но зачем мы сюда пришли, Чарли?» — спросила Сюзанна.
+
+'It's something about my father's will,' Charlie said. 'It won't take long.'
+
+«Это связано с завещанием моего отца, — сказал Чарли. — Это не займет много времени».
+
+On the way up to the house, they saw a strange man. There was paint all over his face and he was smiling like a child. They got out of the car and walked up to the front door. A nurse came out to meet them.
+
+По дороге к дому они увидели странного мужчину. Его лицо было полностью покрыто краской, и он улыбался, как ребенок. Они вышли из машины и подошли к входной двери. Навстречу им вышла медсестра.
+
+'I'd like to see Dr Bruner, please.'
+
+«Я бы хотела попасть на прием к доктору Брунеру, пожалуйста».
+
+The nurse took them into a comfortable waiting-room.
+
+Медсестра проводила их в уютную комнату ожидания.
+
+'Could you wait here, please?'
+
+«Не могли бы вы подождать здесь, пожалуйста?»
+
+The nurse left the room. Charlie jumped up and went through a door into another room.
+
+Медсестра вышла из комнаты. Чарли вскочил и прошел через дверь в другую комнату.
+
+'Charlie,' Susanna called. 'Where are you going?'
+
+«Чарли», — позвала Сюзанна. — «Куда ты идёшь?»
+
+She followed him into the other room where a group of people were watching television. Others sat at tables, playing with children's games. Two nurses in white coats sat at the back of the room. Nobody spoke.
+
+Она последовала за ним в другую комнату, где группа людей смотрела телевизор. Другие сидели за столами, играя в детские игры. Две медсестры в белых халатах сидели в задней части комнаты. Никто не произнес ни слова.
+
+'I don't like being Here, Charlie,' Susanna said. 'It isn't right! Let's go back to the waiting-room.'
+
+«Мне не нравится здесь находиться, Чарли, — сказала Сюзанна. — Это неправильно! Пойдем обратно в зал ожидания».
+
+_
+
+Dr Bruner was a big man. He was about fifty-six, with grey hair and a calm face.
+
+Доктор Брунер был крупным мужчиной. Ему было около пятидесяти шести лет, у него были седые волосы и спокойное лицо.
+
+'Could you please tell me the name of the person who will get my father's money?' Charlie asked politely.
+
+«Не могли бы вы назвать имя человека, который получит деньги моего отца?» — вежливо спросил Чарли.
+
+'I'm sorry. I cannot tell you that.' Just like Mooney.
+
+«Простите, я не могу вам этого сказать». Прямо как Муни.
+
+'Why is it a secret?' Charlie left his chair and went over to stand by the window. 'Is this person... an old girlfriend of Dad's?'
+
+«Почему это секрет?» — Чарли встал со стула и подошел к окну. — «Эта девушка… бывшая подруга папы?»
+
+From the window, Charlie could see the old Buick. Susanna was sitting in the back, enjoying the afternoon sun. A small man, carrying a bag, moved towards the car. He walked in a strange way, moving from side to side.
+
+Из окна Чарли мог видеть старый «Бьюик». Сюзанна сидела сзади, наслаждаясь послеполуденным солнцем. Невысокий мужчина с сумкой направился к машине. Он шел странным образом, переминаясь с ноги на ногу.
+
+'Mr Babbitt, I knew your father from the time you were two years old,' Dr Bruner said softly.
+
+«Мистер Баббит, я знал вашего отца с тех пор, как вам было два года», — тихо сказал доктор Брунер.
+
+Charlie turned. 'The year my mother died,' he said quickly.
+
+Чарли обернулся. «В тот год, когда умерла моя мать», — быстро произнес он.
+
+'Yes,' said Bruner. 'Now, the will names me as the person to look after the money. But this hospital and I get none of that money. I am doing this for your father.'
+
+«Да, — сказал Брунер. — В завещании указано, что я должен распоряжаться деньгами. Но ни больница, ни я не получим ни копейки из этих денег. Я делаю это ради вашего отца».
+
+Charlie was beginning to feel very angry. To calm himself, he turned back to the window. The man with the bag was now standing next to the Buick. 'And you want me to just forget about the money?'
+
+Чарли начал сильно злиться. Чтобы успокоиться, он снова повернулся к окну. Мужчина с сумкой теперь стоял рядом с «Бьюиком». «И вы хотите, чтобы я просто забыл о деньгах?»
+
+'I think you have been upset,' Bruner said softly, 'by a man who never knew how to show love.'
+
+«Думаю, вас расстроил человек, который никогда не умел проявлять любовь», — тихо сказал Брунер.
+
+Charlie knew that this was true. He did not know what to say. Outside, the man was taking a small notebook out of his bag. He began writing in it.
+
+Чарли знал, что это правда. Он не знал, что сказать. На улице мужчина достал из сумки небольшой блокнот и начал в нем писать.
+
+'I understand how you feel,' Dr Bruner continued. 'But there's nothing I can do.'
+
+«Я понимаю ваши чувства, — продолжил доктор Брунер. — Но я ничего не могу сделать».
+
+'I'll fight for my money, Dr Bruner,' Charlie said.
+
+«Я буду бороться за свои деньги, доктор Брунер», — сказал Чарли.
+
+Dr Bruner got up from his chair. 'I'm sure you are a fighter, Mr Babbitt,' he said. 'Your father was a fighter. But I am a fighter too.'
+
+Доктор Брунер встал со стула. «Уверен, вы боец, мистер Баббит, — сказал он. — Ваш отец был бойцом. Но я тоже боец».
+
+Dr Bruner walked with Charlie out through the front door. The day was getting hotter, but it was still beautiful weather.
+
+Доктор Брунер вместе с Чарли вышел через парадную дверь. День становился все жарче, но погода по-прежнему была прекрасной.
+
+The little man with the bag was still standing by the Buick. He was writing in his notebook. Again and again he looked from the car back to the notebook. He did not look at Susanna.
+
+Маленький человечек с сумкой все еще стоял у «Бьюика». Он что-то писал в своем блокноте. Снова и снова он переводил взгляд с машины на блокнот. На Сюзанну он не смотрел.
+
+'Raymond,' said Dr Bruner, 'go back inside.'
+
+«Рэймонд, — сказал доктор Брунер, — возвращайся внутрь».
+
+The man with the notebook was not listening. He continued writing in the notebook. Charlie walked past him and went to open the door.
+
+Мужчина с блокнотом не слушал. Он продолжал писать в блокноте. Чарли прошёл мимо него и пошёл открывать дверь.
+
+'Of course, this car is not white,' Raymond said. He did not look up from his notebook. 'This is a blue car now...'
+
+«Конечно, эта машина не белая», — сказал Реймонд, не поднимая глаз от блокнота. «Теперь это синяя машина…»
+
+Charlie looked at Raymond in surprise. He was a small man of about forty. He looked clean and tidy, with short hair and very ordinary clothes. What was a little strange was that there was no expression on his face. There was no light in his small black eyes, and no movement in his mouth. It was a face that was neither happy nor sad.
+
+Чарли с удивлением посмотрел на Реймонда. Это был невысокий мужчина лет сорока. Он выглядел опрятно и аккуратно, с короткой стрижкой и в самой обычной одежде. Что было немного странно, так это отсутствие выражения на его лице. В его маленьких черных глазах не было света, и губы не двигались. На его лице не было ни радости, ни грусти.
+
+Smiling, Charlie turned to Susanna. 'You know,' he said slowly, 'this car was white. My dad painted it blue when I was very little.'
+
+Улыбаясь, Чарли повернулся к Сюзанне. «Знаешь, — медленно произнес он, — эта машина была белой. Мой папа покрасил ее в синий цвет, когда я был совсем маленьким».
+
+'And, and,' Raymond continued quickly to himself, '... it cost an arm and a leg.'
+
+«И, и, — быстро продолжил Реймонд про себя, — это стоило целое состояние».
+
+The smile left Charlie's face. 'That's what my father often said - "an arm and a leg". How does this man know that?' he asked.
+
+Улыбка исчезла с лица Чарли. «Мой отец часто говорил: „рука и нога“. Откуда этот человек это знает?» — спросил он.
+
+Charlie looked at the man called Raymond. Raymond looked up for a second. Then he looked at his notebook again.
+
+Чарли посмотрел на мужчину по имени Рэймонд. Рэймонд на секунду поднял взгляд. Затем он снова посмотрел в свой блокнот.
+
+'You come with me, Raymond,' Dr Bruner said. 'These people have to go.'
+
+«Пойдем со мной, Раймонд, — сказал доктор Брунер. — Эти люди должны уйти».
+
+But Charlie was moving closer to Raymond. 'Do you know this car?' he asked.
+
+Но Чарли приближался к Реймонду. «Ты знаешь эту машину?» — спросил он.
+
+A frightened expression came across Raymond's face. He looked at Dr Bruner for help. 'I... don't... know,' he muttered.
+
+На лице Раймонда появилось испуганное выражение. Он посмотрел на доктора Брунера в поисках помощи. «Я… не… знаю», — пробормотал он.
+
+'Yes, you do know this car!' Charlie said angrily. 'Why do you know?'
+
+«Да, ты же знаешь эту машину!» — сердито сказал Чарли. «А откуда ты знаешь?»
+
+'That's enough, Mr Babbitt,' Dr Bruner said. 'You're upsetting him. You're -'
+
+«Довольно, мистер Баббит, — сказал доктор Брунер. — Вы его расстраиваете. Вы…»
+
+'Charlie, please,' Susanna said.
+
+«Чарли, пожалуйста», — сказала Сюзанна.
+
+Now Raymond looked from Susanna to Dr Bruner. He began writing in his notebook and muttering to himself.
+
+Теперь Реймонд перевел взгляд с Сюзанны на доктора Брунера. Он начал что-то записывать в свой блокнот и бормотать себе под нос.
+
+'Babbitt Charlie. Charlie... Babbitt. Charlie Babbitt. 1961 Beechcrest Avenue.'
+
+«Бэббит Чарли. Чарли... Бэббит. Чарли Бэббит. Бичкрест-авеню, 1961».
+
+Charlie was astonished. 'How do you know that address?' he asked.
+
+Чарли был поражен. «Откуда вы знаете этот адрес?» — спросил он.
+
+Dr Bruner spoke quietly. 'Because he's your brother,' he said.
+
+Доктор Брунер говорил тихо. «Потому что он ваш брат», — сказал он.
+
+'But I don't have a brother,' the astonished Charlie said. 'I never had a brother.'
+
+«Но у меня нет брата», — изумлённо сказал Чарли. «У меня никогда не было брата».
+
+## CHAPTER FOUR
+
+## ГЛАВА ЧЕТВЕРТАЯ
+
+Charlie and Dr Bruner walked through the flower garden and talked together. Susanna sat with Raymond, who was still writing in his notebook.
+
+Чарли и доктор Брунер прогуливались по цветочному саду и разговаривали. Сюзанна сидела рядом с Реймондом, который все еще что-то записывал в свой блокнот.
+
+'What can I tell you?' the doctor asked.
+
+«Что я могу вам сказать?» — спросил доктор.
+
+'Where to begin? What does he write in that notebook?'
+
+«С чего начать? Что он пишет в этом блокноте?»
+
+'He writes down things that he thinks are dangerous. Things like bad weather reports.'
+
+«Он записывает то, что, по его мнению, опасно. Например, плохие прогнозы погоды».
+
+'Why does he do that?'
+
+«Зачем он это делает?»
+
+'I think he writes dangerous things down to try and hide them. Raymond sees danger everywhere. Any change frightens him. That is why he always does things in the same way every day.'
+
+«Думаю, он записывает опасные вещи, чтобы скрыть их. Раймонд видит опасность повсюду. Любые перемены его пугают. Поэтому он всегда делает всё по-одному каждый день».
+
+'What do you mean?'
+
+'Что ты имеешь в виду?'
+
+'Raymond always eats the same way, sleeps the same way, talks the same way. Everything. But he's a person, your brother. In some ways, a very intelligent person.'
+
+«Рэймонд всегда ест одинаково, спит одинаково, говорит одинаково. Всё как положено. Но он человек, твой брат. В каком-то смысле очень умный человек».
+
+Dr Bruner looked at Charlie for a second or two, then he continued. 'Raymond cannot have relationships with other people, and he cannot see the relationship between things. He talks to you, but he also talks to the car and the television. Everything is the same to him. Doctors call this sort of person autistic.'
+
+Доктор Брунер посмотрел на Чарли секунду-две, а затем продолжил: «Рэймонд не способен строить отношения с другими людьми и не видит взаимосвязи между вещами. Он разговаривает с вами, но также разговаривает с машиной и телевизором. Для него всё одно и то же. Врачи называют таких людей аутистами».
+
+Charlie thought about this. It was difficult to understand.
+
+Чарли задумался. Это было трудно понять.
+
+'And the most important thing is that Raymond can't feel. He cannot be happy or sad in the way that we are happy or sad.'
+
+«И самое главное, что Раймонд ничего не чувствует. Он не может быть счастлив или грустен так, как грустим мы».
+
+Dr Bruner stopped speaking and looked at Charlie. Charlie was biting his lip and looking over at his brother.
+
+Доктор Брунер замолчал и посмотрел на Чарли. Чарли кусал губу и смотрел на своего брата.
+
+'What Raymond did with you today... that was very good,' Dr Bruner said softly. 'Very good. For a stranger.'
+
+«То, что Рэймонд сделал с вами сегодня… это было очень хорошо», — тихо сказал доктор Брунер. «Очень хорошо. Для незнакомого человека».
+
+Charlie shook his head and laughed. 'The world is strange,' he said. 'Three million dollars! What's he going to spend it on?'
+
+Чарли покачал головой и рассмеялся. «Какой странный мир», — сказал он. «Три миллиона долларов! На что он их потратит?»
+
+_
+
+It was late afternoon. Charlie was walking with Raymond. Susanna waited in the car. She thought that Charlie was saying goodbye to his new brother.
+
+Был поздний вечер. Чарли шел с Реймондом. Сюзанна ждала в машине. Она думала, что Чарли прощается со своим новорожденным братом.
+
+Charlie walked quickly towards the Buick. Raymond walked next to him.
+
+Чарли быстро направился к «Бьюику». Рядом с ним шел Рэймонд.
+
+'This is Daddy's car,' Raymond said. 'It was white. But now this is a blue car.'
+
+«Это папина машина, — сказал Реймонд. — Она была белая. А теперь это синяя машина».
+
+Charlie got into the Buick. 'Get in, Raymond,' he said.
+
+Чарли сел в «Бьюик». «Садись, Реймонд», — сказал он.
+
+Raymond got into the car.
+
+Рэймонд сел в машину.
+
+'Charlie, wait a minute!' Susanna said. 'Where are we taking him?'
+
+«Чарли, подожди минутку!» — сказала Сюзанна. — «Куда мы его везём?»
+
+'For a holiday,' Charlie said. He started the car and they drove away. Raymond looked back over his shoulder at the house that they were leaving. There was no expression on his face, but it was very clear that he was anxious.
+
+«На каникулы», — сказал Чарли. Он завел машину, и они уехали. Рэймонд оглянулся через плечо на дом, который они покидали. На его лице не было никакого выражения, но было совершенно ясно, что он встревожен.
+
+'Don't worry, Raymond,' Susanna told him, 'you're coming back.'
+
+«Не волнуйся, Раймонд, — сказала ему Сюзанна, — ты вернешься».
+
+Charlie said nothing.
+
+Чарли ничего не сказал.
+
+## CHAPTER FIVE
+
+## ГЛАВА ПЯТАЯ
+
+They drove back to Cincinnati. Raymond sat in the back of the Buick and watched the road go by. He said nothing to Charlie or Susanna, but muttered strange things to himself.
+
+Они поехали обратно в Цинциннати. Рэймонд сидел на заднем сиденье «Бьюика» и смотрел на проплывающую мимо дорогу. Он ничего не говорил Чарли и Сюзанне, но бормотал что-то странное себе под нос.
+
+They went to a hotel, and took two rooms. Charlie showed Raymond his room.
+
+Они пошли в отель и сняли два номера. Чарли показал Рэймонду его номер.
+
+'This is your room, Ray,' he said.
+
+«Это твоя комната, Рэй», — сказал он.
+
+That was a big mistake.
+
+Это была большая ошибка.
+
+Raymond looked around the room. 'This is not my room,' he said. There was a frightened expression on his face. 'This is... is not my room.'
+
+Реймонд оглядел комнату. «Это не моя комната», — сказал он. На его лице читался страх. «Это… это не моя комната».
+
+'Just for tonight,' Charlie said.
+
+«Только на сегодня», — сказал Чарли.
+
+'Until we take you home,' Susanna said.
+
+«Пока мы не отвезем тебя домой», — сказала Сюзанна.
+
+But Raymond was very upset now. He was shaking his head from side to side and muttering to himself. 'Of course, I'm going to be here a long time. A very long time... Of course, they moved my bed.'
+
+Но теперь Реймонд был очень расстроен. Он качал головой из стороны в сторону и бормотал себе под нос: «Конечно, я пробуду здесь долго. Очень долго… Конечно, они передвинули мою кровать».
+
+'Sorry, Raymond,' Charlie said. 'You like the bed under the window.' He started pushing the bed into its new place.
+
+«Прости, Реймонд, — сказал Чарли. — Тебе нравится кровать под окном». Он начал задвигать кровать на новое место.
+
+But Raymond was still unhappy. He started muttering about books. The only book in the room was a telephone book for Cincinnati.
+
+Но Реймонд по-прежнему был недоволен. Он начал бормотать что-то о книгах. Единственной книгой в комнате был телефонный справочник Цинциннати.
+
+'Charlie, let's take him home,' Susanna said. She liked Raymond, and she did not like to see him upset.
+
+«Чарли, давай отвезем его домой», — сказала Сюзанна. Ей нравился Рэймонд, и ей не нравилось видеть его расстроенным.
+
+'He's OK,' Charlie said. 'Do you like pizza, Ray?'
+
+«С ним все в порядке», — сказал Чарли. «Ты любишь пиццу, Рэй?»
+
+'Do you like pizza, Charlie Babbitt?' Raymond knew the word 'pizza' because 'pizza' was a Wallbrook word. This calmed him a little.
+
+«Тебе нравится пицца, Чарли Бэббит?» Реймонд знал слово «пицца», потому что это слово из Уоллбрука. Это немного его успокоило.
+
+'I'll ask the hotel to send a pizza up to your room,' Charlie said. 'We like pizza, don't we, Ray? We're brothers.'
+
+«Я попрошу отель доставить пиццу тебе в номер», — сказал Чарли. «Мы любим пиццу, правда, Рэй? Мы же братья».
+
+'Charlie, he still doesn't look happy,' Susanna said. 'I don't understand why you brought him here. I think he wants to go back to Wallbrook.'
+
+«Чарли, он всё ещё выглядит несчастным», — сказала Сюзанна. «Я не понимаю, зачем ты его сюда привела. Думаю, он хочет вернуться в Уоллбрук».
+
+'Ray's fine,' Charlie said, 'all he needs is some TV and some pizza. What's on TV, Ray?'
+
+«С Рэем все в порядке, — сказал Чарли, — ему просто нужно посмотреть телевизор и съесть пиццу. Что показывают по телевизору, Рэй?»
+
+Raymond looked at his watch. 'The Lucky Money Wheel,' he told the watch.
+
+Реймонд посмотрел на часы. «Колесо Счастливых Денег», — сказал он часам.
+
+'Great. Sit down, and you can watch it.'
+
+«Отлично. Садитесь, и можете смотреть».
+
+Charlie turned on the television. The Lucky Money Wheel came on.
+
+Чарли включил телевизор. На экране появилось колесо удачи.
+
+'You've got your TV,' Charlie said. 'You've got a pizza coming. Aren't things good, Ray?'
+
+— У тебя есть телевизор, — сказал Чарли. — Тебе привезут пиццу. Всё хорошо, Рэй?
+
+Charlie looked at Raymond and Raymond looked at Charlie, but there was no expression on his face.
+
+Чарли посмотрел на Рэймонда, а Рэймонд посмотрел на Чарли, но на его лице не было никакого выражения.
+
+'Do you ever smile, Ray?' Charlie asked.
+
+«Ты вообще когда-нибудь улыбаешься, Рэй?» — спросил Чарли.
+
+'Do you ever smile?' Raymond repeated. There was still no expression on his face.
+
+«Ты вообще когда-нибудь улыбаешься?» — повторил Рэймонд. На его лице по-прежнему не было никакого выражения.
+
+_
+
+Raymond sat on his bed and watched television. Charlie came in with a pizza.
+
+Рэймонд сидел на кровати и смотрел телевизор. Чарли принёс пиццу.
+
+Ray looked at the pizza and shook his head. 'What's the problem, Ray?' Charlie asked.
+
+Рэй посмотрел на пиццу и покачал головой. «В чём проблема, Рэй?» — спросил Чарли.
+
+Raymond wanted to eat the pizza the way that he ate it at Wallbrook. Charlie cut the pizza into tiny squares for him, and put each square on a toothpick.
+
+Рэймонд хотел съесть пиццу так же, как ел её в Уоллбруке. Чарли разрезал пиццу на маленькие квадратики и насадил каждый квадратик на зубочистку.
+
+Charlie and Susanna went off to their room. Raymond watched a film. A man in the film told his son to turn the television off. Raymond got up and turned his television off.
+
+Чарли и Сюзанна ушли в свою комнату. Рэймонд смотрел фильм. В фильме мужчина велел своему сыну выключить телевизор. Рэймонд встал и выключил свой телевизор.
+
+Raymond continued to look at the television, but now there was nothing to watch. He heard the sound of another television in Charlie and Susanna's room. Raymond got up and went into their room.
+
+Реймонд продолжал смотреть телевизор, но смотреть было нечего. Он услышал звук другого телевизора в комнате Чарли и Сюзанны. Реймонд встал и пошел в их комнату.
+
+Charlie and Susanna were in bed. They did not see Raymond come into the room. Raymond sat on the end of the bed and watched the television.
+
+Чарли и Сюзанна были в постели. Они не видели, как в комнату вошел Рэймонд. Рэймонд сел на край кровати и смотрел телевизор.
+
+Susanna saw him first. 'Charlie,' she said, in a quiet voice. 'Raymond is sitting at the end of the bed.'
+
+Сюзанна увидела его первой. «Чарли, — тихо сказала она. — Раймонд сидит в изножье кровати».
+
+Charlie sat up and saw that Raymond was watching TV and eating pizza. 'Raymond, what are you doing in here?' he shouted. 'Get out!'
+
+Чарли приподнялся и увидел, что Рэймонд смотрит телевизор и ест пиццу. «Рэймонд, что ты здесь делаешь?» — крикнул он. «Убирайся!»
+
+Raymond got up and went back to his room. Susanna looked at Charlie with an angry expression on her face. 'Go and talk to him!' she said.
+
+Рэймонд встал и вернулся в свою комнату. Сюзанна посмотрела на Чарли с сердитым выражением лица. «Иди и поговори с ним!» — сказала она.
+
+'What for?' Charlie asked.
+
+«Зачем?» — спросил Чарли.
+
+'Because he's frightened,' Susanna said. 'He's never been away from Wallbrook before. You've upset him!'
+
+«Потому что он напуган», — сказала Сюзанна. «Он никогда раньше не уезжал из Уоллбрука. Ты его расстроила!»
+
+Charlie got angry. 'Raymond is not going back to Wallbrook,' he said. 'He has to learn how to live in the real world.'
+
+Чарли рассердился. «Рэймонд не вернется в Уоллбрук, — сказал он. — Он должен научиться жить в реальном мире».
+
+Susanna was astonished. 'What do you mean he's not going back to Wallbrook?'
+
+Сюзанна была поражена. «Что значит, он не вернется в Уоллбрук?»
+
+Charlie looked away from her and bit his lip. 'I took Raymond,' he said quietly, 'and I'm keeping him until I get my money.'
+
+Чарли отвернулся от неё и прикусил губу. «Я забрал Рэймонда, — тихо сказал он, — и буду держать его у себя, пока не получу свои деньги».
+
+Susanna's eyes widened. 'What money?' she asked.
+
+Глаза Сусанны расширились. «Какие деньги?» — спросила она.
+
+'Dad left Ray some money. A lot of money.'
+
+«Отец оставил Рэю немного денег. Много денег».
+
+Money! Now Susanna was beginning to understand. 'How much money... did... your... father... leave Raymond?' she asked angrily.
+
+Деньги! Теперь Сюзанна начала понимать. «Сколько денег... оставил... твой... отец... Реймонду?» — сердито спросила она.
+
+Charlie looked away again. 'He left him his house and all his money,' he said. 'Three million dollars.'
+
+Чарли снова отвел взгляд. «Он оставил ему свой дом и все свои деньги, — сказал он. — Три миллиона долларов».
+
+Susanna muttered some angry words in Italian and jumped out of bed. Then, she picked up her suitcase from the floor and threw it open.
+
+Сюзанна пробормотала что-то сердитое по-итальянски и вскочила с кровати. Затем она подняла с пола чемодан и распахнула его.
+
+'What are you doing?' Charlie asked.
+
+«Что ты делаешь?» — спросил Чарли.
+
+'I'm leaving you, Charlie.' She was coldly angry.
+
+«Я ухожу от тебя, Чарли». Она была холодно разгневана.
+
+Now Charlie was astonished. 'Why?' he asked.
+
+Чарли был поражен. «Почему?» — спросил он.
+
+Susanna pushed her things into the suitcase and pulled on her coat. 'Because you've kidnapped your brother for money,' she shouted.
+
+Сюзанна запихнула свои вещи в чемодан и надела пальто. «Потому что ты похитила своего брата ради денег!» — закричала она.
+
+'I have not kidnapped him! I just want my money. What's wrong with that?'
+
+«Я его не похищала! Мне просто нужны мои деньги. Что в этом плохого?»
+
+'Everything!' Susanna shouted. She looked at Charlie for a second and shook her head. Then she picked up her suitcase and moved towards the door. When she got to the door, she turned and looked at Charlie again. 'I did love you, Charlie,' she said sadly. 'But you are not the man that I thought you were.'
+
+«Всё!» — крикнула Сюзанна. Она посмотрела на Чарли секунду и покачала головой. Затем взяла чемодан и направилась к двери. Дойдя до двери, она повернулась и снова посмотрела на Чарли. «Я любила тебя, Чарли, — грустно сказала она. — Но ты не тот человек, каким я тебя считала».
+
+## CHAPTER SIX
+
+## ГЛАВА ШЕСТЬ
+
+The next morning Charlie took Raymond to have breakfast in a cheap restaurant near their hotel.
+
+На следующее утро Чарли отвел Рэймонда позавтракать в недорогой ресторанчик неподалеку от их отеля.
+
+A pretty waitress came to their table. 'Good morning,' she said.
+
+К их столику подошла симпатичная официантка. «Доброе утро», — сказала она.
+
+Raymond read the girl's name on the front of her dress. 'Sally Dibbs,' he said suddenly. '460192.'
+
+Реймонд прочитал имя девушки на передней части ее платья. «Салли Диббс», — внезапно произнес он. «460192».
+
+Sally Dibbs was astonished. 'How do you know my telephone number?' she asked.
+
+Салли Диббс была поражена. «Откуда вы знаете мой номер телефона?» — спросила она.
+
+Charlie was also astonished. He looked at Sally and then at Raymond.
+
+Чарли тоже был поражен. Он посмотрел на Салли, а затем на Рэймонда.
+
+'How do you know her number, Raymond?' he asked.
+
+«Откуда ты знаешь её номер, Раймонд?» — спросил он.
+
+'The telephone book,' Raymond muttered. 'In the hotel. The telephone book.'
+
+«Телефонный справочник, — пробормотал Раймонд. — В отеле. Телефонный справочник».
+
+'You read the telephone book!' Charlie said. He turned to the waitress and laughed. 'He remembers things,' he said. Then he asked Raymond what he wanted for breakfast.
+
+«Ты читаешь телефонную книгу!» — сказал Чарли. Он повернулся к официантке и рассмеялся. «Он кое-что помнит», — сказал он. Затем он спросил Раймонда, что тот хочет на завтрак.
+
+'This is Tuesday,' Raymond said. 'Breakfast is coffee and cakes.'
+
+«Сегодня вторник, — сказал Реймонд. — На завтрак — кофе и пирожные».
+
+'That's fine,' Charlie said to the waitress. 'We'll have coffee and cakes.'
+
+«Хорошо», — сказал Чарли официантке. «Мы закажем кофе и пирожные».
+
+The waitress went to get the food. Suddenly, an anxious expression came across Raymond's face. 'Where are the toothpicks?' he asked.
+
+Официантка пошла за едой. Внезапно на лице Раймонда появилось тревожное выражение. «Где зубочистки?» — спросил он.
+
+'We don't need toothpicks for cakes,' Charlie said.
+
+«Для выпечки тортов зубочистки не нужны», — сказал Чарли.
+
+Raymond shook his head from side to side. 'Where are the toothpicks?' he repeated. 'Where are the toothpicks?'
+
+Реймонд покачал головой из стороны в сторону. «Где зубочистки?» — повторил он. «Где зубочистки?»
+
+Charlie closed his eyes and counted to ten. 'All right, Raymond,' he said. 'I'll get you some toothpicks. But I'm also going to make a phone call. I want you to wait for me here.'
+
+Чарли закрыл глаза и сосчитал до десяти. «Хорошо, Реймонд, — сказал он. — Я принесу тебе зубочистки. Но я также собираюсь позвонить. Подожди меня здесь».
+
+_
+
+Charlie was on the phone. 'Dr Bruner, this is Charlie Bab- bitt.'
+
+Чарли говорил по телефону: «Доктор Брунер, это Чарли Баббит».
+
+Dr Bruner was silent for a second. Then he asked calmly, 'Where are you, son?'
+
+Доктор Брунер помолчал секунду. Затем спокойно спросил: «Где ты, сынок?»
+
+'That's not important,' Charlie said. 'What is important is who I'm with.'
+
+«Это неважно, — сказал Чарли. — Важно то, с кем я нахожусь».
+
+'You have to bring Raymond back, Mr Babbitt,' the doctor said.
+
+«Вы должны вернуть Рэймонда, мистер Баббит», — сказал доктор.
+
+'Yes, I will,' Charlie said. 'When I get my one and a half million dollars, sir. All I want is my half of the money.'
+
+«Да, я соглашусь», — сказал Чарли. «Когда я получу свои полтора миллиона долларов, сэр, мне нужна только моя половина денег».
+
+'I can't do that, Mr Babbitt. You know I can't.'
+
+«Я не могу этого сделать, мистер Баббит. Вы же знаете, что не могу».
+
+Charlie turned to watch Raymond. He wasn't at their table! Then he saw him: Raymond was looking all round the restaurant. He still did not have his toothpicks.
+
+Чарли обернулся, чтобы посмотреть на Рэймонда. Его не было за их столиком! Затем он увидел его: Рэймонд осматривал весь ресторан. У него по-прежнему не было зубочисток.
+
+'Bring him back, Mr Babbitt,' Dr Bruner repeated. 'Bring him back now.'
+
+«Верните его, мистер Баббит, — повторил доктор Брунер. — Верните его немедленно».
+
+'I have not kidnapped him,' Charlie said. This was some- thing which worried him. Was Susanna right? Was Charlie the Businessman now Charlie the Criminal?
+
+«Я его не похищал», — сказал Чарли. Это его обеспокоило. Была ли Сюзанна права? Превратился ли Чарли-бизнесмен в Чарли-преступника?
+
+'I know you haven't kidnapped him,' Dr Bruner said. 'Raymond is not a prisoner at Wallbrook. He's always free to leave us.'
+
+«Я знаю, что вы его не похищали, — сказал доктор Брунер. — Раймонд не заключенный в Уоллбруке. Он всегда может уйти от нас».
+
+Charlie breathed more easily.
+
+Чарли вздохнул легче.
+
+'But we know how to look after Raymond here,' Dr Bruner continued. 'We know what he needs. You do not know anything about Raymond, Mr Babbitt.'
+
+«Но мы знаем, как заботиться о Рэймонде, — продолжил доктор Брунер. — Мы знаем, что ему нужно. Вы ничего не знаете о Рэймонде, мистер Баббит».
+
+Raymond was still looking round the restaurant for tooth- picks. Charlie watched him anxiously.
+
+Рэймонд всё ещё искал по ресторану зубочистки. Чарли с тревогой наблюдал за ним.
+
+'I'm Raymond's brother,' Charlie said into the phone, 'and my lawyer says I can get custody of him. If you want Raymond back, give me my money.'
+
+«Я брат Рэймонда, — сказал Чарли в трубку, — и мой адвокат говорит, что я могу получить над ним опеку. Если хочешь вернуть Рэймонда, отдай мне мои деньги».
+
+'It's not your money, Mr Babbitt,' the doctor was saying.
+
+«Это не ваши деньги, мистер Баббит», — говорил доктор.
+
+Charlie was not listening. He was waving to the waitress.
+
+Чарли не слушал. Он махал официантке рукой.
+
+'Toothpicks!' he shouted and he pointed at Raymond. 'He wants toothpicks!'
+
+«Зубочистки!» — крикнул он, указывая на Реймонда. — «Ему нужны зубочистки!»
+
+'I cannot give you what you want, Mr Babbitt,' Dr Bruner continued.
+
+«Я не могу дать вам то, что вы хотите, мистер Баббит», — продолжил доктор Брунер.
+
+At last Sally gave Raymond a full box of toothpicks. Raymond took the box back to their table.
+
+Наконец Салли дала Реймонду полную коробку зубочисток. Реймонд отнёс коробку обратно к их столику.
+
+Charlie was getting angry. 'Dr Bruner, you've made a big mistake!' he said. He put the phone down and walked over to where Raymond was sitting. 'We're leaving, Raymond.'
+
+Чарли начинал злиться. «Доктор Брунер, вы совершили большую ошибку!» — сказал он. Он положил трубку и подошел к Раймонду. «Мы уходим, Раймонд».
+
+Raymond stood up quickly and knocked the box of tooth- picks off the table. The box fell to the floor and broke open. The toothpicks went everywhere.
+
+Реймонд быстро встал и сбросил со стола коробку с зубочистками. Коробка упала на пол и разбилась. Зубочистки разлетелись во все стороны.
+
+'Oh, Raymond!' Charlie shouted.
+
+«О, Рэймонд!» — крикнул Чарли.
+
+But Raymond was looking down at the toothpicks on the floor. 'Eighty-two,' he muttered. 'Eighty-two, eighty-two eighty-two. Toothpicks.'
+
+Но Реймонд смотрел на разбросанные по полу зубочистки. «Восемьдесят две», — пробормотал он. «Восемьдесят две, восемьдесят две, восемьдесят две. Зубочистки».
+
+Charlie shook his head. 'Ray, there's a lot more than eighty-two toothpicks down there.'
+
+Чарли покачал головой. «Рэй, там гораздо больше, чем восемьдесят две зубочистки».
+
+Raymond's expression didn't change. 'Eighty-two, eighty- two, eighty-two. Of course that's two hundred and forty-six. Toothpicks.'
+
+Выражение лица Реймонда не изменилось. «Восемьдесят два, восемьдесят два, восемьдесят два. Конечно, это двести сорок шесть. Зубочистки».
+
+Charlie turned to Sally Dibbs. 'How many toothpicks in the box?' he asked.
+
+Чарли повернулся к Салли Диббс. «Сколько зубочисток в коробке?» — спросил он.
+
+The girl picked up the box and read the number off it.
+
+Девочка взяла коробку и прочитала с неё номер.
+
+'Two hundred and fifty.'
+
+«Двести пятьдесят».
+
+Charlie smiled at his brother. 'That was very close, Raymond,' he said. 'Come on, let's go. We're going to the airport. I have to go back to Los Angeles.'
+
+Чарли улыбнулся брату. «Было очень опасно, Реймонд, — сказал он. — Пошли. Мы едем в аэропорт. Мне нужно вернуться в Лос-Анджелес».
+
+As they walked to the door, Sally Dibbs called after them.
+
+Когда они подошли к двери, Салли Диббс окликнула их.
+
+'He was right! There were two hundred and forty-six toothpicks on the floor. The other four are still in the box.'
+
+«Он был прав! На полу валялось двести сорок шесть зубочисток. Остальные четыре всё ещё в коробке».
+
+_
+
+At the airport Charlie telephoned his office. The news was not good. Both the bank and the customer for the Lam- borghini cars were still very unhappy. Charlie needed to get back to Los Angeles fast.
+
+В аэропорту Чарли позвонил в свой офис. Новости были плохие. И банк, и покупатель автомобилей Lamborghini по-прежнему были очень недовольны. Чарли нужно было срочно вернуться в Лос-Анджелес.
+
+Charlie picked up his bag. 'OK, Raymond,' he said. 'We've got to move quickly. Our plane leaves in six minutes. Look, there it is out there.'
+
+Чарли взял свою сумку. «Хорошо, Реймонд, — сказал он. — Нам нужно действовать быстро. Наш самолет вылетает через шесть минут. Смотри, вот он, там».
+
+Charlie pointed out through the window at the plane.
+
+Чарли указал в окно на самолет.
+
+Raymond suddenly looked very anxious.
+
+Внезапно Рэймонд выглядел очень встревоженным.
+
+'Crash,' he muttered. 'That plane... crashed in August. August 16, 1987. One hundred and fifty-six people were... They were all...'
+
+«Крах», — пробормотал он. «Этот самолет... разбился в августе. 16 августа 1987 года. Сто пятьдесят шесть человек... Все они были...»
+
+'That was a different plane, Ray,' Charlie said. 'This is a beautiful plane. This one is safe.'
+
+«Это был другой самолет, Рэй, — сказал Чарли. — А этот — прекрасный. Этот в безопасности».
+
+'Crash,' Raymond muttered. 'Crash and burn.'
+
+«Крах», — пробормотал Раймонд. «Крах и сгорание».
+
+Charlie did not know what to do. They had only four minutes to catch the plane. 'We have to fly home, Ray,' he said. 'It's important. What did you think we were doing here? This is an airport. This is where they keep the planes! Come on!'
+
+Чарли не знал, что делать. У них оставалось всего четыре минуты, чтобы успеть на самолет. «Нам нужно лететь домой, Рэй, — сказал он. — Это важно. Что ты думал, мы здесь делаем? Это аэропорт. Здесь держат самолеты! Пойдем!»
+
+Charlie put his hand on Raymond's arm. Raymond put his hand to his mouth and bit it. Then he screamed and began to shake all over.
+
+Чарли положил руку на руку Рэймонда. Рэймонд прикрыл рот рукой и укусил её. Затем он закричал и начал дрожать всем телом.
+
+For a second, Charlie just looked at his brother with an astonished expression. Then he saw that he had to calm Raymond down. 'It's OK, Raymond,' he said quickly. 'It's OK. We'll drive to Los Angeles. It will take three days, but we'll drive. No planes.'
+
+На секунду Чарли просто смотрел на брата с изумлённым выражением лица. Затем он понял, что должен успокоить Рэймонда. «Всё в порядке, Рэймонд, — быстро сказал он. — Всё хорошо. Мы поедем в Лос-Анджелес. Это займёт три дня, но мы поедем на машине. Никаких самолётов».
+
+Raymond stopped screaming. His body stopped shaking and slowly the anxious expression left his face.
+
+Рэймонд перестал кричать. Его тело перестало дрожать, и постепенно тревожное выражение исчезло с его лица.
+
+'I'm sorry, Raymond,' Charlie said softly. 'I'm sorry I upset you.'
+
+«Прости, Рэймонд, — тихо сказал Чарли. — Прости, что я тебя расстроил».
+
+Charlie turned and began walking out of the airport. A second later Raymond followed him.
+
+Чарли повернулся и начал выходить из аэропорта. Секунду спустя за ним последовал Рэймонд.
+
+## CHAPTER SEVEN
+
+## ГЛАВА СЕДЬМАЯ
+
+Charlie drove all through the night. He felt tired and anxious. He needed to get back to Los Angeles fast to try and save his business. He was losing time that he did not have.
+
+Чарли ехал всю ночь. Он чувствовал усталость и тревогу. Ему нужно было быстро вернуться в Лос-Анджелес, чтобы попытаться спасти свой бизнес. Он терял время, которого у него и так не было.
+
+The next evening they stopped at a hotel. Their room had a small bathroom. Charlie went in to have a bath. Raymond was cleaning his teeth, and his mouth was full of toothpaste.
+
+На следующий вечер они остановились в отеле. В их номере была небольшая ванная комната. Чарли зашел принять ванну. Реймонд чистил зубы, и у него во рту была полная рот зубной пасты.
+
+'Don't use so much toothpaste, Ray!' Charlie said.
+
+«Не используй так много зубной пасты, Рэй!» — сказал Чарли.
+
+But Raymond continued cleaning his teeth. Toothpaste came out of his mouth and dropped on to his shirt.
+
+Но Реймонд продолжал чистить зубы. Зубная паста вытекла изо рта и упала на рубашку.
+
+'Will you stop that, Ray!' Charlie said.
+
+«Прекрати, Рэй!» — сказал Чарли.
+
+Raymond did not stop. 'You like it, Charlie Babbitt,' he muttered.
+
+Реймонд не остановился. «Тебе нравится, Чарли Бэббит», — пробормотал он.
+
+Charlie shook his head. 'No, I do not like it!' he shouted.
+
+Чарли покачал головой. «Нет, мне это не нравится!» — крикнул он.
+
+'You say, "Funny Rain Man... funny teeth."'
+
+«Вы говорите: "Забавный человек дождя... забавные зубы"».
+
+Suddenly Charlie stopped shouting. Funny Rain Man. Rain Man! That was the name of his secret friend when he was a child. 'What did you say?' he asked.
+
+Внезапно Чарли перестал кричать. Забавный Дождевой Человек. Дождевой Человек! Так звали его тайного друга в детстве. «Что ты сказал?» — спросил он.
+
+'You can't say Raymond,' his brother said. 'You're a baby. You say, "Rain Man." "Funny Rain Man."'
+
+«Нельзя говорить „Рэймонд“, — сказал его брат. — Ты же ещё ребёнок. Ты говоришь „Человек дождя“. „Забавный человек дождя“».
+
+Charlie sat down on the side of the bath. He didn't know what to think. He was finding it difficult to breathe. 'You... you're the Rain Man?' Charlie said finally.
+
+Чарли сел на край ванны. Он не знал, что и думать. Ему было трудно дышать. «Ты... ты — Человек дождя?» — наконец спросил Чарли.
+
+Raymond put his hand in his pocket and pulled out an envelope. He opened the envelope and carefully took out a small photograph.
+
+Реймонд засунул руку в карман и вытащил конверт. Он открыл конверт и аккуратно вынул небольшую фотографию.
+
+Charlie took the photograph and looked at it. A young man of about eighteen was looking at the camera, but not smiling. He was holding a baby in his arms. The baby was Charlie Babbitt, and the young man was Raymond Babbitt.
+
+Чарли взял фотографию и посмотрел на неё. Молодой человек лет восемнадцати смотрел в камеру, но не улыбался. Он держал на руках младенца. Младенца звали Чарли Баббит, а молодого человека — Рэймонд Баббит.
+
+'Daddy took the picture,' Raymond said.
+
+«Фотографию сделал папа», — сказал Реймонд.
+
+Charlie looked at the photograph for a long time. He was astonished. He and Raymond. Charlie and Raymond. Charlie and the Rain Man.
+
+Чарли долго смотрел на фотографию. Он был поражен. Он и Рэймонд. Чарли и Рэймонд. Чарли и Человек дождя.
+
+'And you... lived with us then? When... did you leave us?'
+
+«И ты... тогда жил с нами? Когда... ты нас покинул?»
+
+'It was Thursday,' Raymond said.
+
+«Это был четверг», — сказал Реймонд.
+
+'Which Thursday, Ray?'
+
+«В какой именно четверг, Рэй?»
+
+'It was snowing outside. Maria stayed with you when Daddy took me to my home. January 21st, 1965. On a Thursday.'
+
+«На улице шёл снег. Мария осталась с тобой, когда папа отвёз меня домой. 21 января 1965 года. Четверг».
+
+'That's when our mother died,' Charlie breathed softly. 'Just after New Year.'
+
+«Именно тогда умерла наша мама», — тихо прошептал Чарли. «Сразу после Нового года».
+
+'And you had your coat. And you waved to me from the window. Goodbye, Rain Man. Goodbye, Rain Man. On a Thursday.'
+
+«А у тебя было пальто. И ты помахал мне из окна. Прощай, Человек дождя. Прощай, Человек дождя. В четверг».
+
+Suddenly Charlie remembered deep into his past. He remembered the snow. And waving to Rain Man. And later crying. Crying for Rain Man. He wanted Rain Man, but Raymond didn't come. He never came again.
+
+Внезапно Чарли вспомнил глубокое прошлое. Он вспомнил снег. И как махал рукой Человеку Дождя. И как позже плакал. Плакал по Человеку Дождя. Он хотел Человека Дождя, но Рэймонд не пришел. Он больше никогда не приходил.
+
+'I sat with that coat,' Charlie said. Now he remembered his brother's eighteen-year-old face. 'And you sang to me.'
+
+«Я сидел в этом пальто», — сказал Чарли. Теперь он вспомнил восемнадцатилетнее лицо своего брата. «И ты пел мне».
+
+For a minute Raymond just looked at his brother. Then, very softly, he began to sing a song by The Beatles.
+
+На мгновение Реймонд просто смотрел на своего брата. Затем он очень тихо начал петь песню The Beatles.
+
+When Raymond finished singing, Charlie moved closer to him. Then he said, 'I remember I liked it. When you sang to me.'
+
+Когда Реймонд закончил петь, Чарли подошёл к нему ближе. Затем он сказал: «Помню, мне понравилось, когда ты пел для меня».
+
+But Raymond was cleaning his teeth again. Charlie picked up the photograph and muttered something about how nice it was. Then he put it down on the side of the bath and turned on the water.
+
+Но Реймонд снова чистил зубы. Чарли взял фотографию и пробормотал что-то о том, какая она хорошая. Затем он положил ее на край ванны и включил воду.
+
+Suddenly Raymond began to scream. 'No, no, no, no!' Charlie looked up and saw a terrible expression on his brother's face. Raymond was looking down at the water. 'It's BURNING him!' he screamed.
+
+Внезапно Реймонд начал кричать: «Нет, нет, нет, нет!» Чарли поднял глаза и увидел ужасное выражение на лице брата. Реймонд смотрел вниз на воду. «Она его ЖЖЕТ!» — закричал он.
+
+Quickly, Charlie turned off the water. He remembered it all now. His brother giving a two-year-old boy a bath that was too hot. Sanford Babbitt screaming, 'He's burning Charlie! He's going to kill him!'
+
+Чарли быстро выключил воду. Теперь он все вспомнил. Его брат купал двухлетнего мальчика в слишком горячей воде. Сэнфорд Бэббит кричал: «Он обжигает Чарли! Он его убьет!»
+
+That was why his father sent Raymond to Wallbrook. That was the end of the relationship between Charlie and Rain Man. And poor Raymond remembered it all.
+
+Вот почему его отец отправил Реймонда в Уоллбрук. На этом отношения между Чарли и Человеком Дождя закончились. И бедный Реймонд всё это помнил.
+
+'It's OK, Ray,' Charlie said softly to his brother. 'It's OK, man. I didn't bum. I'm fine.'
+
+«Всё в порядке, Рэй», — тихо сказал Чарли своему брату. «Всё в порядке, чувак. Я не слонялся без дела. Со мной всё хорошо».
+
+_
+
+It was late. Raymond was sleeping on one of the two beds in the hotel room. Charlie lay on the other bed, and smoked a cigarette. He felt very tired and very sad. He needed someone to love. Someone who loved him. He needed Susanna.
+
+Было поздно. Реймонд спал на одной из двух кроватей в гостиничном номере. Чарли лежал на другой кровати и курил сигарету. Он чувствовал себя очень уставшим и очень грустным. Ему нужен был кто-то, кого можно было бы любить. Кто-то, кто любил бы его. Ему нужна была Сюзанна.
+
+Charlie pulled the telephone towards him.
+
+Чарли потянул телефон к себе.
+
+'Hello?'
+
+'Привет?'
+
+'Hello, it's me, Charlie,' he said softly.
+
+«Привет, это я, Чарли», — тихо сказал он.
+
+There was no answer.
+
+Ответа не последовало.
+
+'I... I just want to hear... that our relationship is not...' Charlie waited for Susanna to say something. When she still did not speak, he said, 'I'm frightened that it's finished between us.'
+
+«Я… я просто хочу услышать… что наши отношения больше не…» Чарли ждал, что Сюзанна что-нибудь скажет. Когда она по-прежнему молчала, он сказал: «Я боюсь, что между нами всё кончено».
+
+Finally, Susanna spoke. 'Don't ask me today, Charlie. You won't like my answer. Give me some time.'
+
+Наконец, Сюзанна заговорила: «Не спрашивай меня сегодня, Чарли. Тебе не понравится мой ответ. Дай мне немного времени».
+
+'I'm... going to get custody of Ray. I've talked to my lawyer and he says that it is possible. Firstly, I have to take Ray to see a special doctor in Los Angeles.'
+
+«Я… собираюсь получить опеку над Рэем. Я поговорил со своим адвокатом, и он говорит, что это возможно. Во-первых, мне нужно отвезти Рэя к специалисту в Лос-Анджелес».
+
+'Charlie, they won't give you custody of Ray,' Susanna said. 'Dr Bruner has looked after him for more than twenty years. You've known him for four days.'
+
+«Чарли, тебе не отдадут Рэя под опеку», — сказала Сюзанна. «Доктор Брунер заботился о нем более двадцати лет. Ты же знаешь его всего четыре дня».
+
+She didn't understand. Nobody understood his relationship with Raymond. 'Can I phone you when I get back to Los Angeles?'
+
+Она не понимала. Никто не понимал его отношений с Рэймондом. «Могу я позвонить тебе, когда вернусь в Лос-Анджелес?»
+
+Susanna didn't say yes, but she didn't say no either.
+
+Сюзанна не сказала «да», но и не сказала «нет».
+
+## CHAPTER EIGHT
+
+## ГЛАВА ВОСЬМАЯ
+
+The next morning Charlie heard more bad news from the office. They were taking the Lamborghinis away. And Charlie had very little money left. He was paying for everything with his American Express card.
+
+На следующее утро Чарли получил очередную плохую новость из офиса. «Ламборгини» забирали. А у Чарли почти не осталось денег. Он расплачивался за всё своей картой American Express.
+
+Charlie and Ray sat together in the hotel restaurant. At the next table there was a group of twenty businessmen. They were finishing their meal and asked the waitress for the bill. Raymond looked over at the table. It was full of plates and cups and different bits of food.
+
+Чарли и Рэй сидели вместе в ресторанчике отеля. За соседним столиком сидела группа из двадцати бизнесменов. Они заканчивали трапезу и попросили официантку принести счет. Рэймонд взглянул на стол. Он был заставлен тарелками, чашками и различными закусками.
+
+'Of course that bill is ninety-three dollars, forty,' Raymond said.
+
+«Конечно, эта купюра стоит девяносто три доллара сорок», — сказал Реймонд.
+
+Charlie laughed. 'How can you know that, Ray?' 'Ninety-three dollars, forty,' Raymond repeated.
+
+Чарли рассмеялся. «Откуда ты это знаешь, Рэй?» — «Девяносто три доллара сорок», — повторил Рэймонд.
+
+The waitress returned with the bill. Charlie read over her shoulder. The bill was for ninety-three dollars, forty.
+
+Официантка вернулась со счетом. Чарли заглянул ей через плечо. Счет был на девяносто три доллара сорок.
+
+'How do you do it, Ray?' Charlie asked. 'You can remember every number in a phone book. You can count two hundred toothpicks in under a second. You're like a computer.'
+
+— Как тебе это удаётся, Рэй? — спросил Чарли. — Ты запоминаешь каждый номер в телефонной книге. Ты можешь насчитать двести зубочисток меньше чем за секунду. Ты как компьютер.
+
+'Today is Thursday,' Raymond said. 'Thursday is coffee and cakes. Same as Tuesday.'
+
+«Сегодня четверг, — сказал Реймонд. — В четверг — кофе и пирожные. Как и во вторник».
+
+Charlie looked at his brother. Suddenly he had an idea. A really great idea to end all his money problems.
+
+Чарли посмотрел на брата. Внезапно ему пришла в голову идея. По-настоящему отличная идея, чтобы положить конец всем его финансовым проблемам.
+
+'Raymond,' he asked his brother. 'Have you ever played cards?'
+
+«Рэймонд, — спросил он брата. — Ты когда-нибудь играл в карты?»
+
+_
+
+The next day they arrived in Las Vegas. Charlie bought new suits for Raymond and himself. He also bought Raymond a television the size of a small clock. Then he showed his brother how to play cards.
+
+На следующий день они прибыли в Лас-Вегас. Чарли купил новые костюмы для себя и для Рэймонда. Он также купил Рэймонду телевизор размером с маленькие часы. Затем он показал своему брату, как играть в карты.
+
+'Do you understand how to play now, Raymond?'
+
+«Теперь ты понимаешь, как играть, Раймонд?»
+
+'I count cards,' said Raymond.
+
+«Я считаю карты», — сказал Рэймонд.
+
+'Yes, but you must never say that.'
+
+«Да, но никогда нельзя этого говорить».
+
+They went into the Golden Casino at four o'clock in the afternoon. They sat down at one of the card tables. Five hours later they got up from the card table. Charlie was very, very tired, but very happy.
+
+Они пришли в казино «Голден» в четыре часа дня. Сели за один из карточных столов. Пять часов спустя они встали из-за стола. Чарли был очень-очень уставшим, но очень счастливым.
+
+He smiled at his brother. 'Raymond, you have won us ninety thousand dollars.'
+
+Он улыбнулся брату. «Рэймонд, ты принес нам девяносто тысяч долларов».
+
+Raymond did not look up from the television he now carried everywhere in his hand. 'Eighty-nine thousand, seven hundred and fifty-six dollars,' he said.
+
+Реймонд не поднимал глаз от телевизора, который теперь носил с собой повсюду. «Восемьдесят девять тысяч семьсот пятьдесят шесть долларов», — сказал он.
+
+And that was only in one visit! 'You're going to make us rich, Ray,' Charlie said.
+
+И это всего за один визит! «Ты сделаешь нас богатыми, Рэй», — сказал Чарли.
+
+Raymond looked from his television to his watch. 'Eight minutes to bed time,' he said. 'Eight minutes.'
+
+Реймонд перевел взгляд с телевизора на часы. «До сна осталось восемь минут», — сказал он. «Восемь минут».
+
+Charlie smiled. Raymond was still Raymond. 'Ray, we're going to stay in the best room in the hotel here,' he said. 'Tomorrow we're going to come down and enjoy ourselves. Perhaps we'll find you a girl.'
+
+Чарли улыбнулся. Рэймонд оставался Рэймондом. «Рэй, мы остановимся в лучшем номере отеля, — сказал он. — Завтра мы спустимся вниз и хорошо проведем время. Возможно, найдем тебе девушку».
+
+Raymond was watching his television again. 'A girl,' he repeated.
+
+Рэймонд снова смотрел телевизор. «Девушка», — повторил он.
+
+'Yes, why not?'
+
+«Да, почему бы и нет?»
+
+But first Charlie needed a hot bath and a good night's sleep. And he needed to talk to Susanna again.
+
+Но сначала Чарли нужно было принять горячую ванну и хорошо выспаться. А еще ему нужно было снова поговорить с Сюзанной.
+
+_
+
+There was a knock on the door. Charlie opened it. 'Susanna!' Charlie put his arms round the girl that he loved and kissed her. 'Ray, Susanna's here!'
+
+В дверь постучали. Чарли открыл её. «Сюзанна!» Чарли обнял любимую девушку и поцеловал её. «Рэй, Сюзанна здесь!»
+
+'How did you know we were here?' Charlie asked her.
+
+«Откуда ты узнала, что мы здесь?» — спросил её Чарли.
+
+Susanna spoke softly. 'They told me at the office,' she said. 'I'm sorry they took the cars away.'
+
+Сюзанна говорила тихо. «Мне сказали в офисе, — сказала она. — Мне очень жаль, что машины забрали».
+
+'Oh, don't worry about that,' Charlie said happily. 'We have some news to tell you. Ray, tell Susanna what we've done.'
+
+«О, не волнуйтесь об этом», — радостно сказал Чарли. «У нас есть новости для вас. Рэй, расскажите Сюзанне, что мы сделали».
+
+'We played cards,' Raymond said. 'I counted cards and we won money.'
+
+«Мы играли в карты, — сказал Реймонд. — Я считал карты, и мы выиграли деньги».
+
+'What?' Susanna asked.
+
+«Что?» — спросила Сюзанна.
+
+'It's a long story,' Charlie said, pulling Susanna towards the bedroom. 'We'll talk about it later.'
+
+— Это долгая история, — сказал Чарли, потянув Сюзанну в спальню. — Мы поговорим об этом позже.
+
+_
+
+Raymond knocked on the bedroom door.
+
+Рэймонд постучал в дверь спальни.
+
+'Come in,' Charlie called.
+
+«Входите», — позвал Чарли.
+
+Raymond opened the door and stood there with his little television in his hand.
+
+Рэймонд открыл дверь и остановился, держа в руке свой маленький телевизор.
+
+'Six minutes until I find a girl. To dance with,' Raymond said. 'You said ten o'clock.'
+
+«Шесть минут, и я найду девушку. Чтобы потанцевать с ней», — сказал Рэймонд. «Ты сказал десять часов».
+
+'A girl?' Susanna asked.
+
+«Девочка?» — спросила Сюзанна.
+
+Charlie was getting out of bed. 'I taught him to dance. Now, we're going to try to find him a girl to dance with.'
+
+Чарли вставал с постели. «Я научил его танцевать. Теперь мы попробуем найти ему девушку, с которой он мог бы танцевать».
+
+'Five minutes,' Raymond said.
+
+«Пять минут», — сказал Рэймонд.
+
+_
+
+They walked round the Golden Casino for an hour. It was very difficult to find a girl for Raymond to dance with. To other people Raymond seemed strange.
+
+Они бродили по Золотому казино целый час. Найти девушку для танца для Реймонда оказалось очень сложно. Другим людям Реймонд казался странным.
+
+Charlie pointed to one of the tables. 'This is where we played cards,' he said. Suddenly, he felt a hand on his shoulder. He turned around to see two big men in suits.
+
+Чарли указал на один из столов. «Здесь мы играли в карты», — сказал он. Внезапно он почувствовал руку на своем плече. Он обернулся и увидел двух крупных мужчин в костюмах.
+
+'Mr Babbitt?'
+
+«Мистер Баббит?»
+
+'Yes?'
+
+'Да?'
+
+'The boss wants to see you, please,' one of the men said. He did not smile and Charlie guessed that there was a problem.
+
+«Начальник хочет вас видеть, пожалуйста», — сказал один из мужчин. Он не улыбнулся, и Чарли догадался, что возникла проблема.
+
+Charlie turned to Susanna. 'Can you take Raymond back to our hotel room?'
+
+Чарли повернулся к Сюзанне. «Ты можешь отвести Рэймонда обратно в наш гостиничный номер?»
+
+'Of course,' Susanna said.
+
+«Конечно», — сказала Сюзанна.
+
+Susanna and Raymond took the lift back to their room. Raymond was watching a film with Fred Astaire and Ginger Rogers on his little TV.
+
+Сюзанна и Рэймонд вернулись в свой номер на лифте. Рэймонд смотрел фильм с Фредом Астером и Джинджер Роджерс на своем маленьком телевизоре.
+
+In the lift, Susanna looked at Raymond and felt sad for him. 'Raymond, have you ever danced with a girl before?' she asked.
+
+В лифте Сюзанна посмотрела на Рэймонда и посочувствовала ему. «Рэймонд, ты когда-нибудь танцевал с девушкой?» — спросила она.
+
+'I've danced with Charlie Babbitt,' Raymond said. 'One time. With Charlie Babbitt.' He did not look up from his TV.
+
+«Я танцевал с Чарли Бэббиттом, — сказал Реймонд. — Один раз. С Чарли Бэббиттом». Он не поднял глаз от телевизора.
+
+The music from the dancing below came into the lift. 'I like this music,' Susanna said softly. 'Do you want to dance with me, Raymond.'
+
+Музыка, доносившаяся из танцующих внизу, зашла в лифт. «Мне нравится эта музыка», — тихо сказала Сюзанна. «Хочешь потанцевать со мной, Раймонд?»
+
+Susanna stopped the lift between two floors. She moved closer to Raymond and took his hand in hers. They started to dance inside the lift. Raymond watched his television over Susanna's shoulder.
+
+Сюзанна остановила лифт между двумя этажами. Она подошла ближе к Рэймонду и взяла его за руку. Они начали танцевать в лифте. Рэймонд смотрел телевизор через плечо Сюзанны.
+
+The song came to an end. Susanna started the lift again. 'The other girls have missed a beautiful dance,' she said.
+
+Песня подошла к концу. Сюзанна снова начала поддержку. «Остальные девочки пропустили прекрасный танец», — сказала она.
+
+Later Charlie came up to the room. He looked very tired. 'We have to leave here tomorrow,' he said. 'They won't let us play cards here again.'
+
+Позже в комнату поднялся Чарли. Он выглядел очень уставшим. «Завтра нам нужно отсюда уехать, — сказал он. — Нам здесь больше не разрешат играть в карты».
+
+'Why not?' Susanna asked.
+
+«Почему бы и нет?» — спросила Сюзанна.
+
+'Because we won,' said Charlie, 'and they don't like people winning. I guess Raymond was too good for them.'
+
+«Потому что мы победили, — сказал Чарли, — а им не нравится, когда кто-то побеждает. Наверное, Рэймонд был для них слишком хорош».
+
+## CHAPTER NINE
+
+## ГЛАВА ДЕВЯТАЯ
+
+They left Las Vegas the next morning, and drove back to Los Angeles. Susanna sat next to Charlie in the front of the Buick. Raymond sat in the back of the car and watched another film on his TV. Sometimes he looked out at the desert they were driving through.
+
+На следующее утро они покинули Лас-Вегас и поехали обратно в Лос-Анджелес. Сюзанна сидела рядом с Чарли на переднем сиденье «Бьюика». Рэймонд сидел на заднем сиденье и смотрел очередной фильм по телевизору. Время от времени он смотрел на пустыню, через которую они ехали.
+
+Once Raymond drove the car for a few minutes. The road was empty so there was no danger.
+
+Однажды Реймонд проехал на машине несколько минут. Дорога была пуста, поэтому никакой опасности не было.
+
+'I'm a... very good... driver,' Raymond said.
+
+«Я… очень хороший… водитель», — сказал Рэймонд.
+
+Susanna got out at her flat in Santa Monica. Charlie and Raymond drove on to Charlie's house in Los Angeles.
+
+Сюзанна вышла из машины у своей квартиры в Санта-Монике. Чарли и Рэймонд поехали дальше к дому Чарли в Лос-Анджелесе.
+
+There was a letter waiting for Charlie. It was from Dr Bruner. 'I'm staying here in Los Angeles, at the Hotel California,' the letter said. 'Please come and see me. I think we need to talk.'
+
+Чарли ждало письмо. Оно было от доктора Брунера. «Я остановился здесь, в Лос-Анджелесе, в отеле «Калифорния», — говорилось в письме. — Пожалуйста, приезжайте ко мне. Думаю, нам нужно поговорить».
+
+That night Charlie went to see Dr Bruner at his hotel.
+
+В тот вечер Чарли отправился к доктору Брунеру в его отель.
+
+'Mr Babbitt, I want to stop playing games,' Dr Bruner said. 'My lawyer is talking to your lawyer. He is explaining to him... the facts. Raymond will see a special doctor on Friday. This doctor will decide who gets custody of Raymond. And you are going to lose.'
+
+«Мистер Баббит, я хочу прекратить эти игры», — сказал доктор Брунер. «Мой адвокат разговаривает с вашим адвокатом. Он объясняет ему... факты. В пятницу Реймонд посетит специального врача. Этот врач решит, кто получит опеку над Реймондом. И вы проиграете».
+
+'I think that is for the doctor to decide,' Charlie said. 'But I have helped Raymond more in one week than you have in twenty years.'
+
+«Думаю, это должен решить врач, — сказал Чарли. — Но я помог Рэймонду за одну неделю больше, чем ты за двадцать лет».
+
+'You think you have helped Raymond!' Dr Bruner said.
+
+«Вы думаете, что помогли Рэймонду!» — сказал доктор Брунер.
+
+'But Raymond is still autistic. He will always be autistic! Neither you nor I can change that fact.'
+
+«Но Рэймонд всё ещё аутист. Он всегда будет аутистом! Ни вы, ни я не можем изменить этот факт».
+
+Charlie turned to go. 'I'll see you on Friday, Dr Bruner.'
+
+Чарли повернулся, чтобы уйти. «Увидимся в пятницу, доктор Брунер».
+
+'Don't you understand, Charlie?' Dr Bruner called. 'Even if they give you custody of Raymond, you will not get your father's money. I don't have to pay you anything.'
+
+«Чарли, ты что, не понимаешь? — позвал доктор Брунер. — Даже если тебе отдадут опеку над Реймондом, ты не получишь денег отца. Я ничего тебе платить не обязан».
+
+'Goodbye, Dr Bruner,' Charlie said, walking away.
+
+«До свидания, доктор Брунер», — сказал Чарли, уходя.
+
+Dr Bruner called after him. 'I'll give you two hundred and fifty thousand dollars to have Raymond back now.'
+
+Доктор Брунер крикнул ему вслед: «Я дам вам двести пятьдесят тысяч долларов, чтобы вы вернули Рэймонда прямо сейчас!»
+
+Charlie stopped walking and turned round to face the doctor. He shook his head. 'I don't want your money, Dr Bruner,' he said, 'I want my brother.'
+
+Чарли остановился и повернулся к доктору. Он покачал головой. «Мне не нужны ваши деньги, доктор Брунер, — сказал он, — мне нужен мой брат».
+
+_
+
+Friday came. Dr Marston sat at his desk. Next to him was Dr Bruner. In front of him were Charlie and Raymond. The two brothers were both wearing suits.
+
+Наступила пятница. Доктор Марстон сидел за своим столом. Рядом с ним сидел доктор Брунер. Перед ним — Чарли и Реймонд. Оба брата были в костюмах.
+
+'There's no easy way to say this, Mr Babbitt,' Dr Marston began.
+
+«Мне непросто это сказать, мистер Баббит», — начал доктор Марстон.
+
+He did not need to continue. Charlie understood. 'You're sending Raymond back to Wallbrook,' he said.
+
+Ему не нужно было продолжать. Чарли всё понял. «Ты отправляешь Рэймонда обратно в Уоллбрук», — сказал он.
+
+'They can look after him there,' Dr Marston said. 'They understand Raymond's problems.'
+
+«Там о нем смогут позаботиться, — сказал доктор Марстон. — Они понимают проблемы Раймонда».
+
+'But Raymond has changed,' Charlie said angrily. 'He has only been seven days with me and already he is getting better. And you don't like that.'
+
+— Но Рэймонд изменился, — сердито сказал Чарли. — Он со мной всего семь дней, а уже поправляется. И тебе это не нравится.
+
+Dr Marston and Dr Bruner sat silently for a minute. Then Dr Bruner turned to Raymond.
+
+Доктор Марстон и доктор Брунер минуту молчали. Затем доктор Брунер повернулся к Реймонду.
+
+'How was your holiday, Raymond? Tell me what you did.'
+
+«Как прошёл твой отпуск, Раймонд? Расскажи, чем ты занимался».
+
+Raymond held his little TV to his heart. 'I played cards,' he said. 'With Charlie Babbitt. And I drove Daddy's car.'
+
+Реймонд прижал свой маленький телевизор к сердцу. «Я играл в карты, — сказал он. — С Чарли Бэббиттом. И я водил папину машину».
+
+Dr Bruner laughed. 'You drove a car, Raymond?'
+
+Доктор Брунер рассмеялся. «Ты водил машину, Раймонд?»
+
+'It was on a quiet road,' Charlie said.
+
+«Это было на тихой дороге», — сказал Чарли.
+
+'And I danced with Susanna,' Raymond said.
+
+«И я танцевал с Сюзанной», — сказал Реймонд.
+
+Even Charlie was surprised at this.
+
+Даже Чарли был удивлен этим.
+
+Dr Bruner took a pen from his pocket and wrote something down in a notebook. Then he turned to Raymond. 'Do you want to stay with Charlie, Raymond?' he asked.
+
+Доктор Брунер достал из кармана ручку и что-то записал в блокнот. Затем он повернулся к Реймонду. «Реймонд, ты хочешь остаться с Чарли?» — спросил он.
+
+'I want to stay with Charlie Babbitt,' Raymond said.
+
+«Я хочу остаться с Чарли Бэббиттом», — сказал Рэймонд.
+
+'You see,' Charlie said. 'Raymond wants to stay with me.'
+
+«Видите ли, — сказал Чарли, — Рэймонд хочет остаться со мной».
+
+But Dr Bruner did not look at Charlie. He looked at Raymond. 'Do you want to go back to Wallbrook, Raymond?'
+
+Но доктор Брунер не смотрел на Чарли. Он смотрел на Реймонда. «Реймонд, ты хочешь вернуться в Уоллбрук?»
+
+'I want to go back to Wallbrook.'
+
+«Я хочу вернуться в Уоллбрук».
+
+Dr Bruner wrote again in his notebook. Dr Marston also wrote something down.
+
+Доктор Брунер снова что-то записал в свой блокнот. Доктор Марстон тоже что-то сделал.
+
+'But what do you want to do, Raymond?' Dr Bruner asked again. 'Do you want to stay with Charlie? Or do you want to go back to Wallbrook?'
+
+«Но что ты хочешь делать, Реймонд?» — снова спросил доктор Брунер. «Ты хочешь остаться с Чарли? Или хочешь вернуться в Уоллбрук?»
+
+Raymond was now breathing very deeply. He shook his head from side to side, and moved uncomfortably in his chair. 'Wallbrook... Charlie Babbitt... Wallbrook... Charlie Babbitt,' he muttered.
+
+Реймонд теперь дышал очень глубоко. Он покачал головой из стороны в сторону и неловко заерзал на стуле. «Уоллбрук... Чарли Бэббит... Уоллбрук... Чарли Бэббит», — пробормотал он.
+
+Charlie jumped out of his chair. 'Stop asking him all these questions,' he shouted. 'You're upsetting him.'
+
+Чарли вскочил со стула. «Перестань задавать ему все эти вопросы! — крикнул он. — Ты его расстраиваешь!»
+
+Now Dr Bruner looked at Charlie. 'I'm showing you that Raymond is still autistic, Charlie,' he said calmly.
+
+Теперь доктор Брунер посмотрел на Чарли. «Я показываю тебе, что у Рэймонда по-прежнему аутизм, Чарли», — спокойно сказал он.
+
+Charlie sat down and put his head in his hands. He saw that they would never give him custody of Raymond. Perhaps they were right. Perhaps they did know how to look after Raymond at Wallbrook.
+
+Чарли сел и закрыл лицо руками. Он понял, что ему никогда не отдадут опеку над Реймондом. Возможно, они были правы. Возможно, в Уоллбруке действительно знали, как заботиться о Реймонде.
+
+But Charlie gave Raymond something they could not give him at Wallbrook. Charlie gave Raymond love. And Raymond, in his way, gave Charlie love.
+
+Но Чарли дал Реймонду то, чего ему не могли дать в Уоллбруке. Чарли подарил Реймонду любовь. И Реймонд по-своему подарил Чарли любовь.
+
+All Charlie wanted was the best for Raymond. Charlie wasn't the loser, Raymond was the winner.
+
+Чарли желал Рэймонду только самого лучшего. Чарли не был проигравшим, победителем был Рэймонд.
+
+'Ray, they want you to go back to Wallbrook,' Charlie said slowly to his brother. He looked up at the two doctors. 'Can I visit him?'
+
+«Рэй, они хотят, чтобы ты вернулся в Уоллбрук», — медленно произнес Чарли своему брату. Он поднял взгляд на двух врачей. «Можно я его навещу?»
+
+Dr Marston' turned to Dr Bruner for an answer. 'Of course,' Dr Burner answered. 'We would like you to.'
+
+«Доктор Марстон обратился к доктору Брунеру за ответом. — Конечно, — ответил доктор Брунер. — Мы бы хотели, чтобы вы это сделали».
+
+Raymond took out his photograph. It was a lovely picture of the eighteen-year-old Raymond and the two-year-old Charlie. Rain Man and Charlie. Brothers. Raymond handed the photograph to Charlie.
+
+Реймонд достал свою фотографию. Это был прекрасный снимок восемнадцатилетнего Реймонда и двухлетнего Чарли. Человек дождя и Чарли. Братья. Реймонд передал фотографию Чарли.
+
+Charlie began to cry softly.
+
+Чарли тихо заплакал.
+
+'Are you all right, son?' Dr Bruner asked.
+
+«С тобой всё в порядке, сынок?» — спросил доктор Брунер.
+
+Charlie looked up and smiled. Then he turned to his brother. 'I'll come to see you, Ray,' he said. 'And you can drive Dad's car when I visit.'
+
+Чарли поднял голову и улыбнулся. Затем он повернулся к брату. «Я приеду к тебе, Рэй, — сказал он. — А ты сможешь покататься на папиной машине, когда я приеду».
+
+'I'm a very good driver,' Raymond said.
+
+«Я очень хорошо вожу машину», — сказал Рэймонд.

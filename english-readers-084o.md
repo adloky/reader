@@ -1,6 +1,6 @@
 ﻿<config freqGroupsPos="1"/>
 
-# The Wee Free Men by Terry Pratchett
+# The Wee Free Men (Tiffany Aching) by Terry Pratchett
 
 # «Маленькие свободные люди» Терри Пратчетта
 

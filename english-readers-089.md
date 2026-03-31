@@ -4389,3 +4389,1569 @@ Charlie looked up and smiled. Then he turned to his brother. 'I'll come to see y
 'I'm a very good driver,' Raymond said.
 
 «Я очень хорошо вожу машину», — сказал Рэймонд.
+
+# Psycho by Robert Bloch (B1)
+
+# Психо Роберта Блоха (B1)
+
+## Introduction
+
+## Введение
+
+At first she thought she was dreaming. A hotel, here, in the middle of nowhere? Impossible. She closed her eyes and opened them again. Yes, it was true. There it was. A small sign shining in the night: BATES MOTEL.
+
+Сначала она подумала, что это сон. Отель, здесь, посреди пустыни? Невозможно. Она закрыла глаза и снова открыла их. Да, это правда. Вот он. Маленькая вывеска, сияющая в ночи: МОТЕЛЬ БЕЙТС.
+
+'I don't believe it,' she said to herself as she drove towards the sign. 'This is my lucky night.'
+
+«Не могу поверить», — сказала она себе, подъезжая к знаку. «Это моя счастливая ночь».
+
+Marion Crane is a secretary from Phoenix, Arizona. She is in love with Sam Loomis, who lives far away in Fairvale, Texas. She wants to marry him, but Sam cannot marry her because he doesn't have enough money. So Marion steals $40,000 from her boss and drives away with the money to be with Sam. It's a long, dangerous journey and, not far from Fairvale, Marion gets lost. It's dark, it's raining, she's tired and hungry. If she can find somewhere to stay for just one more night, then all her troubles will be over...
+
+Мэрион Крейн — секретарь из Финикса, штат Аризона. Она влюблена в Сэма Лумиса, который живёт далеко, в Фэрвейле, штат Техас. Она хочет выйти за него замуж, но Сэм не может этого сделать, потому что у него недостаточно денег. Поэтому Мэрион крадёт 40 000 долларов у своего босса и уезжает с деньгами к Сэму. Это долгое и опасное путешествие, и недалеко от Фэрвейла Мэрион теряется. Темно, идёт дождь, она устала и голодна. Если она найдёт, где переночевать ещё хотя бы одну ночь, то все её проблемы закончатся…
+
+But for Marion, as she drives through the rain towards the small, quiet motel by the side of the Old Highway, the bad dream is only just beginning.
+
+Но для Мэрион, когда она едет под дождем к небольшому тихому мотелю у старой автомагистрали, кошмар только начинается.
+
+Alfred Hitchcock (1899-1980) made the film Psycho in 1960. Hollywood believed that the book, by Robert Bloch, was impossible to film, but Hitchcock had different ideas. Working in black and white, he made one of Hollywood's most frightening films ever.
+
+Альфред Хичкок (1899-1980) снял фильм «Психо» в 1960 году. Голливуд считал, что экранизировать книгу Роберта Блоха невозможно, но у Хичкока были другие планы. Работая в черно-белом цвете, он создал один из самых страшных фильмов Голливуда.
+
+Robert Bloch was born in Chicago in 1917. His first book, The Scarf, came out in 1947. He wrote many mystery and science fiction books and stories for television. He also wrote the films Psycho II (1982) and Twilight Zone: The Movie (1983). He died in Los Angeles in 1994.
+
+Роберт Блох родился в Чикаго в 1917 году. Его первая книга, «Шарф», вышла в 1947 году. Он написал множество детективных и научно-фантастических книг и рассказов для телевидения. Он также написал сценарии к фильмам «Психо II» (1982) и «Сумеречная зона: Фильм» (1983). Он умер в Лос-Анджелесе в 1994 году.
+
+## Chapter 1 Marion and Sam
+
+## Глава 1 Мэрион и Сэм
+
+In a small, dark hotel room in Phoenix, Arizona, Marion Crane was looking at herself in the mirror. She was worried. Her hair was untidy and she was late getting back to work.
+
+В маленьком темном гостиничном номере в Финиксе, штат Аризона, Мэрион Крейн смотрела на себя в зеркало. Она волновалась. Ее волосы были растрепаны, и она опаздывала на работу.
+
+'Don't go, Marion,' said a voice from behind her.
+
+«Не уходи, Марион», — раздался голос позади неё.
+
+Marion looked in the mirror at the young man who was sitting on the bed. She smiled at him sadly. 'I must get back to the office, Sam,' she said. 'My boss is beginning to get worried about these long lunch-hours.'
+
+Мэрион посмотрела в зеркало на молодого человека, сидящего на кровати. Она грустно улыбнулась ему. «Мне пора возвращаться в офис, Сэм, — сказала она. — Мой начальник начинает беспокоиться из-за этих долгих обеденных перерывов».
+
+'But it's Friday afternoon,' Sam said. 'I don't see you very often. Can't you stay?'
+
+«Но сейчас пятница после обеда, — сказал Сэм. — Я тебя нечасто вижу. Не можешь остаться?»
+
+'When we're married,' Marion replied, walking across the room to pick up her handbag.
+
+«Когда мы поженимся», — ответила Марион, направляясь через комнату за своей сумочкой.
+
+Sam jumped off the bed and stood behind her. He touched the side of her face softly with the back of his hand. 'Can I see you next week?' he said.
+
+Сэм спрыгнул с кровати и встал позади неё. Он нежно коснулся её лица тыльной стороной ладони. «Можно увидеться на следующей неделе?» — спросил он.
+
+'Why?' she said, not looking at him. 'For another secret lunch, hoping that nobody will see us together in a small, cheap hotel room? It's the same every week.'
+
+«Зачем?» — спросила она, не глядя на него. «Чтобы снова тайно пообедать, надеясь, что никто нас не увидит вместе в маленьком дешевом гостиничном номере? Каждую неделю одно и то же».
+
+She turned to Sam, her eyes shining angrily. And then suddenly they softened. 'Oh, Sam,' she said quietly. She rested her face in his hand as she looked up into his eyes. 'Why can't we get married now? I want to be with you all the time. I want to walk along the street with you so that everyone can see us together.'
+
+Она повернулась к Сэму, ее глаза сердито блестели. А потом вдруг смягчились. «О, Сэм», — тихо сказала она. Она уткнулась лицом ему в руку и посмотрела ему в глаза. «Почему мы не можем пожениться сейчас? Я хочу быть с тобой все время. Я хочу гулять с тобой по улице, чтобы все видели нас вместе».
+
+This time, Sam walked away. He stood alone by the window and looked down at the hot, dry city. 'We can get married when I've paid off all my father's debts,' he said. 'I only need to pay another $11,000.'
+
+На этот раз Сэм ушел. Он остался один у окна и смотрел вниз на жаркий, сухой город. «Мы сможем пожениться, когда я расплачусь по всем долгам отца, — сказал он. — Мне нужно заплатить всего 11 000 долларов».
+
+'And how long will that take?'
+
+«И сколько времени это займет?»
+
+'Two years, maybe three.'
+
+«Два года, может быть, три».
+
+'Oh, Sam,' Marion cried, throwing the handbag onto the bed and running to hold him. 'I can't wait three years. I don't care about the money.' She kissed his face, but she was almost crying. 'I want to be with you. I'll leave my job. I'll come and work in your shop.'
+
+«О, Сэм!» — воскликнула Марион, бросив сумочку на кровать и подбежав к нему. — «Я не могу ждать три года. Деньги меня не волнуют». Она поцеловала его в лицо, но едва сдерживала слезы. — «Я хочу быть с тобой. Я брошу свою работу. Я приду работать в твой магазин».
+
+'Marion, please. You must understand. I don't want us to be poor when we get married. I want us to be happy. In three years' time, you'll be my wife - Mrs Sam Loomis. I promise.'
+
+«Мэрион, пожалуйста. Ты должна понять. Я не хочу, чтобы мы были бедны, когда поженимся. Я хочу, чтобы мы были счастливы. Через три года ты будешь моей женой — миссис Сэм Лумис. Обещаю».
+
+Marion sighed and turned round in his arms to rest her head against his shoulder. 'In three years, I'll be twenty-nine,' she thought unhappily.
+
+Марион вздохнула и повернулась в его объятиях, положив голову ему на плечо. «Через три года мне будет двадцать девять», — печально подумала она.
+
+Then she suddenly remembered that she was late for work. She left Sam by the window, picked up her bag and walked towards the door. 'I have to go, Sam,' she said again. 'I'm late. Mr Lowery will kill me.'
+
+Внезапно она вспомнила, что опаздывает на работу. Она оставила Сэма у окна, взяла сумку и направилась к двери. «Мне нужно идти, Сэм, — повторила она. — Я опаздываю. Мистер Лоуэри меня убьёт».
+
+## Chapter 2 Marion's Plan
+
+## Глава 2. План Мэрион
+
+'I'm sorry I'm late,' Marion called as she hurried into the office.
+
+«Простите за опоздание», — крикнула Марион, спеша в кабинет.
+
+'Don't worry,' the other secretary said. 'Mr Lowery's having lunch with a customer.'
+
+«Не волнуйтесь, — сказала другая секретарша. — Мистер Лоуэри обедает с клиентом».
+
+Marion gave the other woman a tired smile and sat at her desk. 'Did anyone phone while I was out?' she asked.
+
+Мэрион устало улыбнулась другой женщине и села за свой стол. «Кто-нибудь звонил, пока меня не было?» — спросила она.
+
+'Just your sister. She says that she's going away for the weekend...'
+
+«Просто твоя сестра. Она говорит, что уезжает на выходные…»
+
+Just then Mr Lowery walked in. He was talking to a loud-voiced man in a cowboy hat. Marion immediately looked down and tried to look busy. She knew Tommy Cassidy and she didn't like him. He was an unpleasant, greedy old man who was always talking about money.
+
+В этот момент вошел мистер Лоуэри. Он разговаривал с мужчиной в ковбойской шляпе, у которого был громкий голос. Мэрион тут же опустила глаза и попыталась сделать вид, что занята. Она знала Томми Кэссиди, и он ей не нравился. Это был неприятный, жадный старик, который постоянно говорил о деньгах.
+
+Cassidy sat down on Marion's desk and showed her a photograph of his daughter. 'She's eighteen years old,' he said. 'And she's never been unhappy.'
+
+Кэссиди сел на стол Мэрион и показал ей фотографию своей дочери. «Ей восемнадцать лет, — сказал он. — И она никогда не была несчастлива».
+
+Marion looked at the photograph and then at Cassidy. She didn't like the way that he was looking at her, with his clear, cold eyes and his wet, smiling lips.
+
+Мэрион посмотрела на фотографию, а затем на Кэссиди. Ей не понравился его взгляд: ясные, холодные глаза и влажные, улыбающиеся губы.
+
+'She's getting married next month,' he said, 'and I'm buying her a house.' He took a thick packet of money out of his pocket and waved it in front of Marion's face. '$40,000,' he smiled proudly. 'This will make her happy, won't it?'
+
+«Она выходит замуж в следующем месяце, — сказал он, — и я покупаю ей дом». Он вытащил из кармана толстую пачку денег и помахал ею перед лицом Мэрион. «40 000 долларов, — гордо улыбнулся он. — Это её обрадует, правда?»
+
+Marion looked at the money and smiled politely.
+
+Мэрион посмотрела на деньги и вежливо улыбнулась.
+
+'Are you happy, Marion?' Cassidy asked, still holding the money in front of her.
+
+«Ты довольна, Мэрион?» — спросила Кэссиди, всё ещё держа деньги перед собой.
+
+Marion wanted to stand up and shout at him: 'How can I be happy? I can't get married for three years while Sam works to pay off his father's debts. But you're rich! You can make $11,000 in three weeks. It isn't right!'
+
+Мэрион хотелось встать и закричать на него: «Как я могу быть счастлива? Я не могу выйти замуж на три года, пока Сэм работает, чтобы выплатить долги отца. Но ты же богат! Ты можешь заработать 11 000 долларов за три недели. Это несправедливо!»
+
+But she didn't say any of this, of course. She sat at her desk and smiled sweetly. 'I think so, Mr Cassidy,' she said.
+
+Но она, конечно же, ничего этого не сказала. Она сидела за своим столом и мило улыбалась. «Думаю, да, мистер Кэссиди», — сказала она.
+
+'I hope you are,' Cassidy said, putting the money on the desk. 'Remember, Marion. Money can't buy happiness, but it can stop unhappiness.'
+
+«Надеюсь, что так и есть», — сказала Кэссиди, кладя деньги на стол. «Помни, Мэрион. Деньги не могут купить счастье, но они могут предотвратить несчастье».
+
+He walked away into Mr Lowery's office, but Mr Lowery didn't follow him. He was looking at the money on Marion's desk and seemed worried. 'I don't want that money here over the weekend,' he said to her quietly. 'Take it to the bank after work.'
+
+Он отошел в кабинет мистера Лоуэри, но тот не последовал за ним. Он смотрел на деньги на столе Мэрион и выглядел обеспокоенным. «Мне не нужны эти деньги здесь на выходные», — тихо сказал он ей. «Отнеси их в банк после работы».
+
+'Perhaps I can take it now?' Marion asked. 'I've got a terrible headache.'
+
+«Может, я могу это принять сейчас?» — спросила Марион. — «У меня ужасно болит голова».
+
+'Good idea,' Mr Lowery agreed. 'Take the money straight to the bank, then go home and have an early night.'
+
+«Хорошая идея», — согласился мистер Лоуэри. «Отнеси деньги прямо в банк, а потом иди домой и ложись спать пораньше».
+
+Marion put the money into a white envelope, put the envelope into her handbag, and left the office.
+
+Марион положила деньги в белый конверт, положила конверт в свою сумочку и вышла из офиса.
+
+But she didn't take the money to the bank. A plan was taking shape inside her head. '$40,000 is a lot of money,' she thought. 'With this money, Sam'll be able to pay his debts. Then we'll be able to get married.'
+
+Но она не пошла в банк за деньгами. В ее голове зрел план. «40 000 долларов — это много», — подумала она. «На эти деньги Сэм сможет погасить свои долги. А потом мы сможем пожениться».
+
+Pleased with this idea, Marion went straight home. She put some clothes into a suitcase, and drove out of Phoenix.
+
+Довольная этой идеей, Марион сразу же отправилась домой. Она сложила кое-какую одежду в чемодан и уехала из Финикса.
+
+As she was waiting at some traffic-lights for people to cross the road, Marion looked at the bag next to her with the money in it. 'Of course,' she was thinking, 'I can't tell Sam that I stole the money from my boss. I'll, have to think of a good story to tell him...'
+
+Пока она ждала на светофоре, когда люди перейдут дорогу, Марион посмотрела на лежащую рядом сумку с деньгами. «Конечно же, — подумала она, — я не могу сказать Сэму, что украла деньги у своего босса. Придётся придумать хорошую историю, чтобы ему рассказать…»
+
+Suddenly one of the people crossing the road stopped in front of her car. It was Mr Lowery. Without thinking, Marion smiled at him and waved. He looked at her seriously, then walked away.
+
+Внезапно один из переходивших дорогу остановился перед ее машиной. Это был мистер Лоуэри. Недолго думая, Марион улыбнулась ему и помахала рукой. Он серьезно посмотрел на нее, а затем ушел.
+
+'Oh no!' Marion thought. 'Now he knows I haven't gone home with a headache. If he thinks I'm running away with the money, he'll phone the police. I must hurry. If I can get to Fairvale before Monday, they'll never find me. I'll be safe with Sam.'
+
+«О нет!» — подумала Мэрион. — «Теперь он знает, что я вернулась домой не с головной болью. Если он подумает, что я убегаю с деньгами, он позвонит в полицию. Мне нужно поторопиться. Если я доберусь до Фэрвейла до понедельника, они меня никогда не найдут. С Сэмом я буду в безопасности».
+
+It was a long journey. After driving all night across the desert, Marion began to feel tired. She had to stop. She drove off the highway and parked at the side of a quiet road. 'I'll just rest for half an hour,' she told herself.
+
+Это было долгое путешествие. После ночной поездки по пустыне Марион почувствовала усталость. Ей пришлось остановиться. Она съехала с шоссе и припарковалась на обочине тихой дороги. «Отдохну полчаса», — сказала она себе.
+
+But she was more tired than she thought. She lay down in the front of the car and slept until the morning.
+
+Но она устала сильнее, чем думала. Она легла на переднее сиденье машины и проспала до утра.
+
+## Chapter 3 Bates Motel
+
+## Глава 3 Мотель Бейтс
+
+Marion woke up suddenly. A policeman with a thin mouth and large dark glasses was looking at her through the car window. Without thinking, she sat up and turned the key to start the car. The policeman knocked on the window and told her to stop. Marion opened the window and looked at him nervously.
+
+Марион резко проснулась. Полицейский с тонкими губами и большими темными очками смотрел на нее через окно машины. Недолго думая, она села и повернула ключ, чтобы завести машину. Полицейский постучал в окно и велел ей остановиться. Марион открыла окно и нервно посмотрела на него.
+
+'Is anything wrong, miss?' the policeman asked.
+
+«Что-нибудь случилось, мисс?» — спросил полицейский.
+
+'No. I was feeling tired so I stopped the car.'
+
+«Нет. Я устал, поэтому остановил машину».
+
+'Why didn't you stay at a hotel? There are lots of hotels near here.'
+
+«Почему вы не остановились в отеле? Здесь поблизости много отелей».
+
+'I only wanted a rest,' said Marion. 'Why? Have I done anything wrong?'
+
+«Я просто хотела отдохнуть, — сказала Марион. — Почему? Я что-то сделала не так?»
+
+'No, miss,' the policeman replied, but he wasn't happy. 'Can I see your driving papers please?'
+
+«Нет, мисс», — ответил полицейский, но он был недоволен. «Можно мне, пожалуйста, посмотреть ваши водительские права?»
+
+Marion turned away from him and opened her bag. The policeman tried to watch over her shoulder, but he didn't see the white envelope full of money. She hid it carefully under her bag, then handed him her driving papers. He studied them for a minute, gave them back and, without a word, returned to his car.
+
+Марион отвернулась от него и открыла сумку. Полицейский попытался заглянуть ей через плечо, но не увидел белого конверта с деньгами. Она аккуратно спрятала его под сумку, затем передала ему свои водительские права. Он минуту изучал их, вернул и, не говоря ни слова, вернулся к своей машине.
+
+Marion started her car immediately and drove away. Looking in her driving mirror, she noticed that the police car was following her. She drove slowly so that it could go past, but it stayed behind her. 'Why's he following me?' Marion thought nervously. 'Has Mr Lowery reported me already? If he has, I'll have to sell this car as soon as I can and get another one. I don't want anyone to follow me to Fairvale.'
+
+Мэрион тут же завела машину и поехала. Взглянув в зеркало заднего вида, она заметила, что за ней следует полицейская машина. Она ехала медленно, чтобы та проехала мимо, но она осталась позади. «Почему он за мной следит?» — нервно подумала Мэрион. «Мистер Лоуэри уже заявил на меня? Если да, то мне придется как можно скорее продать эту машину и купить другую. Я не хочу, чтобы кто-то следил за мной до Фэрвейла».
+
+At last the police car stopped following her, and turned off along another road. About an hour later Marion arrived in a small town. She stopped at a garage and asked about changing her car for another one. While the man from the garage was looking at her old car, Marion walked out into the street to buy a newspaper. Then she noticed the policeman with the dark glasses. He was standing by his car across the road, watching her.
+
+Наконец полицейская машина перестала преследовать её и свернула на другую дорогу. Примерно через час Марион прибыла в небольшой городок. Она остановилась у автомастерской и спросила, можно ли обменять её машину на другую. Пока мастер осматривал её старую машину, Марион вышла на улицу, чтобы купить газету. Затем она заметила полицейского в тёмных очках. Он стоял у своей машины через дорогу и наблюдал за ней.
+
+Marion didn't look at him. She bought a newspaper and looked through it quickly. 'Good,' she thought. 'There's nothing in the paper about me or the money. Nobody knows yet. That policeman doesn't know anything. He's just trying to frighten me.'
+
+Марион не смотрела на него. Она купила газету и быстро просмотрела ее. «Хорошо, — подумала она. — В газете нет ничего ни обо мне, ни о деньгах. Пока никто ничего не знает. Этот полицейский ничего не знает. Он просто пытается меня запугать».
+
+She went back to the garage and showed the man the car that she wanted.
+
+Она вернулась в гараж и показала мужчине машину, которую хотела приобрести.
+
+'Don't you want to try it first?' he asked.
+
+«А не хочешь сначала попробовать?» — спросил он.
+
+'No thank you,' Marion replied. 'I'm in a hurry. How much will it cost?'
+
+«Нет, спасибо», — ответила Марион. «Я спешу. Сколько это будет стоить?»
+
+'Your car, and seven hundred dollars.'
+
+«Ваша машина и семьсот долларов».
+
+Marion went to the washroom and took seven hundred dollars from the white envelope. She came out and gave the money to the man, who looked at her strangely. Then she jumped into her new car.
+
+Мэрион пошла в туалет и достала из белого конверта семьсот долларов. Она вышла и отдала деньги мужчине, который странно на нее посмотрел. Затем она села в свою новую машину.
+
+'Just a minute, miss.'
+
+«Минутку, мисс».
+
+Marion's heart jumped. She looked round quickly, but it was only another man from the garage. He was carrying her coat and suitcase.
+
+Сердце Марион замерло. Она быстро оглянулась, но это был всего лишь другой мужчина из гаража. Он нес ее пальто и чемодан.
+
+'You left them in your old car,' he explained, putting them in the back of her new one.
+
+«Ты оставила их в своей старой машине», — объяснил он, кладя их на заднее сиденье ее новой машины.
+
+As Marion drove away, the policeman crossed the road and stood next to the man from the garage.
+
+Когда Мэрион уезжала, полицейский перешёл дорогу и встал рядом с мужчиной из гаража.
+
+'Did she seem strange to you?' the policeman asked. 'Very strange,' the man agreed.
+
+«Она показалась вам странной?» — спросил полицейский. «Очень странной», — согласился мужчина.
+
+Marion drove across the desert all day, then up into the hills. As it got dark, it began to rain. Tired and hungry, she looked hard through the window for somewhere to stay the night. She couldn't see anything in the heavy rain. No lights along the road, no other cars. 'I think I'm on the wrong road,' she thought. 'If I turn round and find the highway again, I'll soon find a place to stay.'
+
+Марион весь день ехала по пустыне, а затем поднялась в горы. С наступлением темноты начался дождь. Уставшая и голодная, она внимательно всматривалась в окно в поисках места, где можно переночевать. В проливном дожде она ничего не видела. Ни света вдоль дороги, ни других машин. «Кажется, я свернула не на ту дорогу», — подумала она. «Если я развернусь и снова окажусь на шоссе, то скоро найду место для ночлега».
+
+Suddenly, as she was looking for a good place to turn the car, she saw a light by the side of the road. At first she thought she was dreaming. A hotel, here, in the middle of nowhere? Impossible. She closed her eyes and opened them again. Yes, it was true. A small sign shining in the night: BATES MOTEL.
+
+Внезапно, когда она искала подходящее место для разворота, она увидела свет на обочине дороги. Сначала ей показалось, что это сон. Отель, здесь, посреди пустыни? Невозможно. Она закрыла глаза и снова открыла их. Да, это было правдой. Небольшая вывеска, сияющая в ночи: BATES MOTEL.
+
+'I don't believe it,' she said to herself as she drove towards the sign. 'This is my lucky night.'
+
+«Не могу поверить», — сказала она себе, подъезжая к знаку. — «Это моя счастливая ночь».
+
+## Chapter 4 Norman
+
+## Глава 4 Норман
+
+There were no other cars outside the motel, and the office was empty. Marion stood outside the office and waited. Looking up, she saw a large old house on a hill behind the motel. On the first floor of the house she could see a light in a window. There was a shadow moving behind the curtain. The shadow of a woman, Marion thought.
+
+Возле мотеля не было других машин, и офис был пуст. Марион стояла перед офисом и ждала. Подняв глаза, она увидела большой старый дом на холме позади мотеля. На первом этаже дома она разглядела свет в окне. За занавеской двигалась тень. Тень женщины, подумала Марион.
+
+She went back to her car and waited for someone to come. At last, through the darkness and the rain, she saw someone outside the house. It was a man, and he was running down the hill towards the motel. Marion got out of her car to meet him. He was a young man, tall and thin, with a friendly, boyish face.
+
+Она вернулась к машине и стала ждать, пока кто-нибудь придет. Наконец, сквозь темноту и дождь, она увидела кого-то возле дома. Это был мужчина, и он бежал вниз по склону холма к мотелю. Мэрион вышла из машины, чтобы встретить его. Это был молодой человек, высокий и худой, с дружелюбным, мальчишеским лицом.
+
+'I'm sorry I wasn't in the office,' he smiled.
+
+«Извините, что меня не было в офисе», — улыбнулся он.
+
+'Do you have a room?' Marion asked.
+
+«У вас есть комната?» — спросила Марион.
+
+'Twelve rooms, all of them empty,' the young man laughed. 'You're wet. Come into the office.'
+
+«Двенадцать комнат, и все они пустые», — засмеялся молодой человек. «Ты мокрый. Заходи в кабинет».
+
+Inside the office, the young man watched her carefully as she wrote her name in the visitors' book. Not her real name, but: 'MARIE SAMUELS'. Then he thought for a second before choosing a key from the small cupboard behind the desk.
+
+Внутри кабинета молодой человек внимательно наблюдал за ней, пока она записывала свое имя в книгу посетителей. Не настоящее имя, а: «МАРИ САМЮЭЛЬС». Затем он на секунду задумался, прежде чем взять ключ из небольшого шкафчика за столом.
+
+'Room One,' he smiled. 'It's next to this office.'
+
+«Комната номер один, — улыбнулся он. — Она находится рядом с этим офисом».
+
+The young man carried Marion's suitcase from the car, and she followed him into her room. He turned on the light, and opened the window.
+
+Молодой человек вынес чемодан Марион из машины, и она последовала за ним в свою комнату. Он включил свет и открыл окно.
+
+'It's small, but it's comfortable,' he said. 'And look. There's a shower in the bathroom.'
+
+«Она небольшая, но удобная, — сказал он. — И посмотрите. В ванной есть душ».
+
+'Thank you, Mr Bates,' Marion smiled.
+
+«Спасибо, мистер Бейтс», — улыбнулась Мэрион.
+
+'My name's Norman,' he said. 'If you want anything, I'll be in the office.'
+
+«Меня зовут Норман, — сказал он. — Если вам что-нибудь понадобится, я буду в офисе».
+
+'I just want to sleep. But before that, I need to eat.'
+
+«Я просто хочу поспать. Но перед этим мне нужно поесть».
+
+'There's a restaurant about ten miles away, outside Fairvale. But I was just thinking...' he said, lowering his eyes with a shy smile. 'It's a long way to Fairvale and it's still raining. Maybe you'd like to have dinner with me instead? Nothing much. Just bread, milk and cheese. But you can come up to my house with me, if you like.'
+
+«Примерно в десяти милях отсюда, за Фэрвейлом, есть ресторан. Но я тут подумал…» — сказал он, опустив глаза и застенчиво улыбнувшись. — «До Фэрвейла далеко, и дождь всё ещё идёт. Может, лучше поужинаем со мной? Ничего особенного. Просто хлеб, молоко и сыр. Но ты можешь приехать ко мне домой, если хочешь».
+
+'You're very kind,' said Marion.
+
+«Вы очень добры», — сказала Мэрион.
+
+Norman looked up, his eyes shining with excitement. 'I'll be back when everything's ready. With an umbrella!'
+
+Норман поднял голову, его глаза сияли от волнения. «Я вернусь, когда всё будет готово. С зонтиком!»
+
+Marion closed the door behind him and smiled for the first time in twenty-four hours. 'What an amusing young man,' she thought. 'Just like a little boy.'
+
+Марион закрыла за ним дверь и впервые за двадцать четыре часа улыбнулась. «Какой забавный молодой человек, — подумала она. — Прямо как маленький мальчик».
+
+But she was tired, and she had important things to thing about. The money, for example. Marion looked round the room for somewhere to hide it. There wasn't much furniture. She decided to put the envelope inside her newspaper and leave it next to the bed.
+
+Но она устала, и ей нужно было подумать о важных вещах. Например, о деньгах. Марион оглядела комнату в поисках места, где можно было бы спрятать конверт. Мебели было немного. Она решила положить конверт внутрь газеты и оставить его рядом с кроватью.
+
+While she was doing this, she heard a loud voice. It came from the big house on the hill. She went to the window and listened. It was the angry voice of an old woman.
+
+Пока она этим занималась, она услышала громкий голос. Он доносился из большого дома на холме. Она подошла к окну и прислушалась. Это был сердитый голос старой женщины.
+
+'No, you can't bring strange young girls up to this house.'
+
+«Нет, вы не можете приводить в этот дом незнакомых молодых девушек».
+
+'Mother, please...' Norman replied.
+
+«Мама, пожалуйста...» — ответил Норман.
+
+'First you bring them up to the house. Then what? Music after dinner? Holding hands and kissing?'
+
+«Сначала вы приводите их домой. А потом что? Музыка после ужина? Держаться за руки и целоваться?»
+
+'Mother, she's just a stranger. She's hungry and it's raining.'
+
+«Мама — просто незнакомка. Она голодна, и идёт дождь».
+
+'She's not having food with my son in this house. Do you understand, boy? Are you going to tell her, or shall I come down and tell her?'
+
+«Она не будет есть с моим сыном в этом доме. Ты понял, мальчик? Ты ей скажешь, или мне спуститься и сказать ей?»
+
+'Shut up!' Norman cried. 'Shut up!'
+
+«Заткнись!» — крикнул Норман. «Заткнись!»
+
+Then everything was silent.
+
+Затем воцарилась тишина.
+
+## Chapter 5 Mad Things
+
+## Глава 5 Безумные вещи
+
+Marion heard the front door of the big house as it closed. Moments later she left her room and met Norman, who was standing nervously outside her door.
+
+Мэрион услышала, как закрылась входная дверь большого дома. Через несколько мгновений она вышла из своей комнаты и встретила Нормана, который нервно стоял у ее двери.
+
+'I made trouble for you. I'm sorry.' Marion said.
+
+«Я доставила тебе неприятности. Прости», — сказала Мэрион.
+
+'No. It's my mother, that's all. She isn't well today. I'm sorry. I can't take you to the house. I've taken the food into my office. Would you like to come in there?'
+
+«Нет. Это просто моя мама, вот и все. Она сегодня плохо себя чувствует. Извините. Я не могу отвезти вас домой. Я отнесла еду в свой кабинет. Не хотите ли зайти туда?»
+
+Marion followed Norman into a small room behind his office. It was a strange room, full of old clocks and stuffed birds.
+
+Мэрион последовала за Норманом в небольшую комнату за его кабинетом. Это была странная комната, полная старых часов и чучел птиц.
+
+Norman watched her quietly as she began to eat. Then said: 'You eat like a bird.'
+
+Норман молча наблюдал за ней, пока она начала есть. Затем сказал: «Ты ешь как птичка».
+
+'Do you know a lot about birds?'
+
+«Вы много знаете о птицах?»
+
+'I don't know much about them. I just like stuffing them.'
+
+«Я о них мало что знаю. Мне просто нравится их набивать».
+
+'That's a strange thing to do,' said Marion.
+
+«Это довольно странный поступок», — сказала Мэрион.
+
+'I enjoy it.'
+
+«Мне это нравится».
+
+'Is your time so empty?'
+
+«Неужели ваше время так пустует?»
+
+'No. I'm very busy. I do everything in the office, I clean the rooms. I look after my mother.'
+
+«Нет. Я очень занята. Я делаю все в офисе, убираю комнаты. Я забочусь о своей матери».
+
+'Have you got any friends?'
+
+«У тебя есть друзья?»
+
+Norman looked surprised at this question. 'A boy's best friend is his mother.'
+
+Норман удивился этому вопросу. «Лучший друг мальчика — его мать».
+
+Marion looked at her bread and cheese. She couldn't think of anything to say. The room was quiet. Just the sound of the clocks.
+
+Марион посмотрела на свой хлеб и сыр. Она не могла придумать, что сказать. В комнате было тихо. Слышался только звон часов.
+
+'It's stopped raining,' Norman said.
+
+«Дождь прекратился», — сказал Норман.
+
+Marion smiled politely and continued eating.
+
+Марион вежливо улыбнулась и продолжила есть.
+
+'Where are you going?' Norman tried to start the conversation again.
+
+«Куда ты идёшь?» — Норман попытался возобновить разговор.
+
+'Somewhere nice,' said Marion.
+
+«В какое-нибудь хорошее место», — сказала Мэрион.
+
+'What are you pinning- away from?'
+
+«От чего ты так цепляешься?»
+
+This time, Marion was surprised. 'Why do you ask that?'
+
+На этот раз Марион удивилась. «Почему ты спрашиваешь?»
+
+'Oh, people are always trying to run away from something,' Norman replied. 'But people can never really run away, can they? Sometimes, when my mother talks to me like that, I want to run away. But I know I can't. She's ill.'
+
+«О, люди всегда пытаются от чего-то убежать, — ответил Норман. — Но на самом деле убежать невозможно, правда? Иногда, когда мама так со мной разговаривает, мне хочется убежать. Но я знаю, что не могу. Она больна».
+
+'She didn't seem ill to me,' said Marion.
+
+«Мне она не показалась больной», — сказала Марион.
+
+'I mean ill in the head,' said Norman. 'My father died when I was five. She was alone with me. Then a few years ago my mother met this man. She loved him. I think she loved him more than she loved me...' Norman's eyes darkened as he looked past Marion at the wall. 'When he died,' Norman said slowly, 'and the way that he died... That's why my mother became ill...'
+
+«Я имею в виду, что она была не в себе, — сказал Норман. — Мой отец умер, когда мне было пять лет. Она осталась со мной одна. А несколько лет назад моя мать встретила этого мужчину. Она полюбила его. Думаю, она любила его больше, чем меня…» Глаза Нормана потемнели, когда он посмотрел мимо Мэрион на стену. «Когда он умер, — медленно произнес Норман, — и как он умер… Вот почему моя мать заболела…»
+
+Marion felt sorry for Norman then. He was like a lost child, spending all his life in a small motel with his mad mother. 'Why don't you leave here?' she asked him.
+
+Мэрион пожалела Нормана. Он был словно потерянный ребенок, всю жизнь проведший в маленьком мотеле со своей сумасшедшей матерью. «Почему ты не уйдешь отсюда?» — спросила она его.
+
+'If you love someone, you don't leave them.'
+
+«Если любишь кого-то, не оставляй его».
+
+'Then why not put her somewhere like...'
+
+«Тогда почему бы не поместить её куда-нибудь, например…»
+
+'Like a hospital, you mean?' Norman looked at Marion angrily. 'A hospital for mad people?'
+
+— Ты имеешь в виду больницу? — Норман сердито посмотрел на Мэрион. — Больницу для душевнобольных?
+
+'I'm sorry. I didn't want to be rude.'
+
+«Прошу прощения. Я не хотел быть невежливым».
+
+'My mother isn't mad,' Norman said, his eyes still burning. Then suddenly, without warning, he became calm again. He smiled. 'I know,' he said, in a soft voice. 'I just hate thinking about it. My mother really isn't dangerous. She doesn't hurt anyone. She just does mad things sometimes. We all do mad things sometimes, don't we?'
+
+«Моя мать не сумасшедшая», — сказал Норман, его глаза все еще горели. Затем внезапно, без предупреждения, он снова успокоился. Он улыбнулся. «Знаю», — сказал он тихим голосом. «Просто ненавижу думать об этом. Моя мать на самом деле не опасна. Она никому не причиняет вреда. Она просто иногда творит безумные вещи. Все мы иногда творим безумные вещи, не так ли?»
+
+His eyes met Marion's and he seemed to look straight into her heart. 'Don't you do mad things too, sometimes?'
+
+Его взгляд встретился с взглядом Марион, и казалось, он смотрел прямо ей в сердце. «А ты тоже иногда творишь безумные вещи?»
+
+'Yes, sometimes,' Marion smiled. She thought about the $40,000 in the newspaper in her room. She did a mad thing yesterday afternoon, when she put Tommy Cassidy's money in her handbag and ran away with it. 'I must take it back,' she thought. 'Tomorrow morning.'
+
+«Да, иногда», — улыбнулась Мэрион. Она подумала о 40 000 долларов, которые лежали в газете в ее комнате. Вчера днем она совершила безумный поступок, положив деньги Томми Кэссиди в свою сумочку и сбежав с ними. «Надо вернуть их», — подумала она. «Завтра утром».
+
+She stood up. 'Thank you for the meal,' she said to Norman. 'I'm tired, and I have a long journey tomorrow. All the way back to Phoenix. You see, I made a bad mistake. I want to go back and put everything right before it's too late.'
+
+Она встала. «Спасибо за еду», — сказала она Норману. «Я устала, и завтра у меня долгая дорога. Вплоть до Финикса. Видишь ли, я совершила большую ошибку. Я хочу вернуться и всё исправить, пока не поздно».
+
+Norman gave her a warm smile. 'I've enjoyed talking to you,' he said. 'I'll bring you breakfast in the morning.'
+
+Норман тепло улыбнулся ей. «Мне было приятно с вами поговорить, — сказал он. — Завтра утром я принесу вам завтрак».
+
+'You'll have to be early,' Marion said.
+
+«Вам придётся прийти пораньше», — сказала Мэрион.
+
+'I will, don't worry,' Norman replied. 'Sleep well.'
+
+«Хорошо, не волнуйся», — ответил Норман. «Спокойной ночи».
+
+## Chapter 6 As Clean as Snow
+
+## Глава 6 Чистота как снег
+
+Marion went into her room and sat on the bed. 'Yes, it was a stupid idea to steal that money.' she thought. 'It was like a bad dream. Now, after talking to that strange, sweet young man,' she was awake again. 'I'll take the money to the bank first thing on Monday morning,' she thought. 'Nobody will know what I've done. Everything will be all right.'
+
+Марион вошла в свою комнату и села на кровать. «Да, это была глупая идея — украсть эти деньги», — подумала она. «Это было как кошмар. Теперь, после разговора с этим странным, милым молодым человеком…» — она снова проснулась. «Я отнесу деньги в банк первым делом в понедельник утром», — подумала она. «Никто не узнает, что я сделала. Все будет хорошо».
+
+She stood up. She suddenly felt very strong and happy. She felt wonderful. 'After I have a shower, I'll feel perfect,' she thought. 'I'll be as clean as snow.'
+
+Она встала. Внезапно она почувствовала себя очень сильной и счастливой. Она чувствовала себя чудесно. «После душа я буду чувствовать себя идеально», — подумала она. «Я буду чистой, как снег».
+
+She took off her blouse, her skirt and shoes, and threw them onto the bed. She didn't realize that someone was watching her. There was a hole in the Avail between Marion's room and the one behind Norman's office. Norman was looking through the hole, watching Marion as she undressed.
+
+Она сняла блузку, юбку и туфли и бросила их на кровать. Она не понимала, что за ней кто-то наблюдает. В комнате Мэрион и комнате за кабинетом Нормана была дыра. Норман смотрел сквозь дыру, наблюдая за Мэрион, пока она раздевалась.
+
+Before going into the shower, Marion suddenly thought of something. She sat down at a small desk and wrote some numbers on a piece of paper. 'I spent seven hundred dollars of that money today,' she thought. 'I must try to pay that back. But that isn't important now. I'm too tired to think about money. I want a shower.'
+
+Перед тем как пойти в душ, Марион вдруг кое-что вспомнила. Она села за небольшой столик и написала несколько цифр на листке бумаги. «Сегодня я потратила семьсот долларов из этой суммы, — подумала она. — Надо попытаться вернуть. Но сейчас это неважно. Я слишком устала, чтобы думать о деньгах. Я хочу принять душ».
+
+She walked into the bathroom and threw the piece of paper into the toilet. Then she took off her other clothes and got into the bath. Pulling the plastic curtain behind her, she turned on the shower.
+
+Она вошла в ванную и бросила листок бумаги в унитаз. Затем сняла остальную одежду и забралась в ванну. Задернув за собой пластиковую занавеску, она включила душ.
+
+It was lovely. Beautiful and warm. She closed her eyes. The warm water washed down over her body. The bad dream was over. She was becoming a good, clean girl again...
+
+Было чудесно. Прекрасно и тепло. Она закрыла глаза. Теплая вода омывала ее тело. Плохой сон закончился. Она снова становилась хорошей, чистой девочкой...
+
+Marion didn't hear the bathroom door as it quietly opened She didn't see the old woman who was slowly crossing the floor. She was facing the wall when the woman's hand pulled the plastic curtain open. She turned quickly and could see, through the water in her eyes, a face. A terrible white face with long grey hair and mad, shining eyes. And above the woman's head, in her hand, there was a large, silver knife.
+
+Марион не услышала, как тихо открылась дверь ванной. Она не увидела старуху, которая медленно шла по комнате. Она стояла лицом к стене, когда рука женщины дернула пластиковую занавеску. Марион быстро обернулась и сквозь слезы на глазах увидела лицо. Ужасное белое лицо с длинными седыми волосами и безумными, блестящими глазами. А над головой женщины, в ее руке, был большой серебряный нож.
+
+Marion screamed. The woman laughed and brought the knife straight down into her neck. Marion went on screaming as the knife cut into her arms, her throat, her stomach. She tried to fight, but the old woman was too strong. The knife cut deeply into her body, again and again and again. Marion became weaker, her screams became softer. Finally, with a small, strange noise at the back of her throat, Marion dropped to the floor of the bath and lay perfectly still. Water was falling into her face, into her beautiful, frightened eyes. It washed down over her body, red with blood.
+
+Марион закричала. Женщина засмеялась и вонзила нож ей прямо в шею. Марион продолжала кричать, пока нож врезался ей в руки, горло, живот. Она пыталась сопротивляться, но старуха была слишком сильна. Нож глубоко вонзался в ее тело снова и снова. Марион слабела, ее крики становились все тише. Наконец, с тихим, странным звуком в горле, Марион упала на пол ванны и лежала совершенно неподвижно. Вода лилась ей в лицо, в ее прекрасные, испуганные глаза. Она стекала по ее телу, красному от крови.
+
+Marion Crane was dead.
+
+Мэрион Крейн была мертва.
+
+## Chapter 7 The Swamp
+
+## Глава 7 Болото
+
+Norman felt sick when he saw the blood on his mother's clothes. 'Mother, oh God! Mother!' he cried. 'Blood! Blood!' He ran down the stairs from his mother's bedroom, out of the house and down the hill to the motel. He couldn't believe it. His mother a killer? It wasn't true...
+
+Норману стало плохо, когда он увидел кровь на одежде матери. «Мама, о Боже! Мама!» — закричал он. «Кровь! Кровь!» Он сбежал вниз по лестнице из спальни матери, выбежал из дома и побежал вниз по склону к мотелю. Он не мог поверить своим глазам. Его мать — убийца? Это неправда…
+
+But when he finally ran into the girl's room, he saw that it was true. The girl was lying in the bath with her eyes still open, dead. And his mother was the killer. He stood outside the bathroom, feeling sick and afraid. He tried to think, but he didn't know what to do.
+
+Но когда он наконец ворвался в комнату девочки, то увидел, что это правда. Девочка лежала в ванне с открытыми глазами, мертвая. А его мать была убийцей. Он стоял у ванной, чувствуя тошноту и страх. Он пытался что-то сообразить, но не знал, что делать.
+
+He thought about calling the police, but then stopped. He mustn't call them. Not now. Because his mother wasn't really a killer. She was sick. You were not a real killer if you were sick in the head.
+
+Он подумывал позвонить в полицию, но тут же остановился. Не стоит звонить. Не сейчас. Потому что его мать на самом деле не была убийцей. Она была больна. А если ты болен, то ты не настоящий убийца.
+
+No, he must stop people from knowing. He had time. The girl was alone. Nobody knew she was there. The best thing to do was to throw away the body. But how?
+
+Нет, он должен был скрыть это от людей. У него было время. Девушка была одна. Никто не знал, что она там. Лучше всего было выбросить тело. Но как?
+
+Then Norman had an idea. He turned off the bedroom light and the shower in the bathroom. Then he took the plastic curtain from the shower and opened it out on the bedroom floor. Next, he took Marion's body out of the bath and pulled her slowly onto the plastic curtain.
+
+Затем Норману пришла в голову идея. Он выключил свет в спальне и душ в ванной. Потом взял пластиковую занавеску из душа и разложил её на полу в спальне. Затем он вытащил тело Мэрион из ванны и медленно потянул её на пластиковую занавеску.
+
+After washing the blood from the floor and walls in the bathroom, he picked the body up inside the plastic curtain and carried it out to her car. He went back to the bedroom and put everything that belonged to the girl inside the suitcase. He put that into the car with the body. He looked round the room one last time. He saw the newspaper next to the bed, picked it up and, not knowing about the money inside it, he threw that into the car too.
+
+Смыв кровь с пола и стен в ванной, он поднял тело, спрятанное за пластиковой занавеской, и отнёс его к машине девушки. Он вернулся в спальню и сложил все вещи девушки в чемодан. Он положил чемодан в машину вместе с телом. Он ещё раз осмотрел комнату. Увидев газету рядом с кроватью, он поднял её и, не зная о деньгах внутри, бросил её тоже в машину.
+
+Then he got into the car and drove away towards a swamp not far from the motel. When he arrived, he got out of the car and pushed it into the swamp. He watched nervously as it slowly went down. It took a long time, but finally it disappeared.
+
+Затем он сел в машину и поехал в сторону болота неподалеку от мотеля. Приехав, он вышел из машины и столкнул ее в болото. Он нервно наблюдал, как она медленно погружается в воду. Это заняло много времени, но наконец она исчезла.
+
+Norman smiled. 'Mother's safe now,' he thought. 'Nobody will ever learn what happened to the girl.'
+
+Норман улыбнулся. «Теперь мама в безопасности, — подумал он. — Никто никогда не узнает, что случилось с девочкой».
+
+## Chapter 8 Lila
+
+## Глава 8 Лила
+
+One week later, Sam Loomis was sitting in the office at the back of his shop, writing a letter to Marion. 'Since I saw you last Friday afternoon,' he wrote, 'I've thought a lot about the things that you said. You're right. The money doesn't matter. I want to marry you now.'
+
+Неделю спустя Сэм Лумис сидел в офисе в задней части своей мастерской и писал письмо Мэрион. «С тех пор, как я видел тебя в прошлую пятницу днем, — писал он, — я много думал о том, что ты сказала. Ты права. Деньги не имеют значения. Я хочу жениться на тебе прямо сейчас».
+
+While he was writing, Bob Summerfield, the young man who worked in the shop, called to him: 'Sam, a young woman wants to see you.'
+
+Пока он писал, Боб Саммерфилд, молодой человек, работавший в магазине, окликнул его: «Сэм, тебя хочет видеть молодая женщина».
+
+Sam walked into the shop and saw a pretty young woman with fair hair and a small suitcase.
+
+Сэм зашёл в магазин и увидел симпатичную молодую женщину со светлыми волосами и небольшим чемоданчиком.
+
+'I'm Lila, Marion's sister,' she said without smiling. 'Is she here?'
+
+«Я Лила, сестра Марион», — сказала она без улыбки. «Она здесь?»
+
+'Of course not,' Sam replied. 'Is something wrong?'
+
+«Конечно, нет», — ответил Сэм. «Что-то не так?»
+
+'I haven't seen her since last Friday,' Lila said, her voice beginning to shake. 'She left home without saying anything. She hasn't even phoned me. Look, if she's here, I want to talk to her. She's in bad trouble.' She began to cry.
+
+«Я не видела её с прошлой пятницы», — сказала Лила, голос её начал дрожать. «Она ушла из дома, ничего не сказав. Она даже не позвонила мне. Послушай, если она здесь, я хочу с ней поговорить. У неё большие проблемы». Она начала плакать.
+
+Sam told Bob to leave the shop, then turned to Lila. 'Tell me,' he said softly. 'What are you talking about? What kind of trouble is she in?'
+
+Сэм велел Бобу покинуть магазин, затем повернулся к Лиле. «Скажи мне, — тихо спросил он. — О чём ты говоришь? В какую беду она попала?»
+
+'Yes,' said a flat, unfriendly voice from the door behind them. 'Let's all talk about Marion.'
+
+«Да», — раздался ровный, недружелюбный голос из двери позади них. — «Давайте все поговорим о Мэрион».
+
+Sam and Lila both turned to see who was talking. A short man with a hat low over his eyes walked slowly into the shop. He was carrying a raincoat over his arm.
+
+Сэм и Лила обернулись, чтобы посмотреть, кто говорит. В магазин медленно вошел невысокий мужчина в шляпе, надвинутой на глаза. Под мышкой он нес плащ.
+
+'My name's Arbogast,' he said, showing them a card. 'I'm a detective, but I'm not with the police.' He looked hard at Lila and said: 'Now Miss Crane, where's Marion?'
+
+«Меня зовут Арбогаст, — сказал он, показывая им карточку. — Я детектив, но не работаю в полиции». Он пристально посмотрел на Лилу и спросил: «Итак, мисс Крейн, где Мэрион?»
+
+'Why do you want to know?' said Sam.
+
+«Зачем тебе это знать?» — спросил Сэм.
+
+'$40,000,' Arbogast replied.
+
+«40 000 долларов», — ответил Арбогаст.
+
+'I don't understand.'
+
+'Я не понимаю.'
+
+'Your girlfriend stole $40,000.'
+
+«Ваша девушка украла 40 000 долларов».
+
+Sam looked at Lila. 'Is this true?'
+
+Сэм посмотрел на Лилу. «Это правда?»
+
+Lila explained everything. She spoke in a cold voice. She still believed that Sam was hiding Marion somewhere. But when she finished, her voice softened. 'Listen, Sam,' she said. 'Her boss doesn't want to call the police. He just wants his money back! if she's here...'
+
+Лила всё объяснила. Она говорила холодным голосом. Она еще была уверена, что Сэм где-то прячет Мэрион. Но когда она закончила, её голос смягчился. «Послушай, Сэм, — сказала она. — Его босс не хочет звонить в полицию. Он просто хочет вернуть свои деньги! Если она здесь…»
+
+'She isn't,' Sam said quickly.
+
+«Нет», — быстро ответил Сэм.
+
+'Miss Crane, can I ask you a question?' said Arbogast.
+
+«Мисс Крейн, можно задать вам вопрос?» — спросил Арбогаст.
+
+'Why did you come here to Fairvale? Did you know that your sister was here?'
+
+«Зачем ты приехал в Фэрвейл? Ты знал, что твоя сестра здесь?»
+
+'I hoped she was. I wasn't sure.'
+
+«Я надеялся, что это так. Я не был уверен».
+
+Arbogast looked at her and said nothing.
+
+Арбогаст посмотрел на нее и ничего не сказал.
+
+'It's true!' she cried angrily. 'Why don't you believe me?'
+
+«Это правда!» — сердито воскликнула она. — «Почему ты мне не веришь?»
+
+'I'm just doing my job, Miss Crane.'
+
+«Я просто выполняю свою работу, мисс Крейн».
+
+'Really?' said Sam. 'Then have you phoned any hospitals in Phoenix? Maybe she's had an accident.'
+
+— Правда? — спросил Сэм. — Тогда ты звонил в какие-нибудь больницы в Финиксе? Может, она попала в аварию?
+
+'That's not possible,' Arbogast replied. 'Her boss saw her in her car last Friday. She was driving out of Phoenix with the money.'
+
+«Это невозможно», — ответил Арбогаст. «Ее начальник видел ее в машине в прошлую пятницу. Она выезжала из Финикса с деньгами».
+
+Then Arbogast looked at Lila. He gave her a warm, friendly smile to show that he finally believed her. 'I think she's here, Mis Crane,' he said. 'Maybe not here with her boyfriend, but she's somewhere near Fairvale. I can feel it. Don't worry,' he said touching his hat and walking towards the door. 'I'll find her.'
+
+Затем Арбогаст посмотрел на Лилу. Он одарил её тёплой, дружелюбной улыбкой, показывая, что наконец-то поверил ей. «Думаю, она здесь, мисс Крейн», — сказал он. «Может быть, не со своим парнем, но где-то недалеко от Фэйрвейла. Я это чувствую. Не волнуйтесь», — сказал он, поправляя шляпу и направляясь к двери. «Я её найду».
+
+## Chapter 9 A Few Questions
+
+## Глава 9 Несколько вопросов
+
+The next day Arbogast visited all the hotels near Fairvale. He showed everyone a picture of Marion. 'Have you seen this girl?' he asked them. The answer was always 'No.'
+
+На следующий день Арбогаст обошел все отели рядом с Фэйрвейлом. Он показал всем фотографию Мэрион. «Вы видели эту девушку?» — спросил он их. Ответ всегда был «Нет».
+
+At last, as he was driving along the Old Highway outside Fairvale, he saw a small motel by the side of the road.
+
+Наконец, проезжая по старой автомагистрали за пределами Фэрвейла, он увидел небольшой мотель у обочины дороги.
+
+'Maybe I'll be lucky with this one,' he thought. 'I've tried all the others.'
+
+«Может, мне повезёт и с этим», — подумал он. — «Я уже все остальные перепробовал».
+
+Arbogast left the road and drove up to the motel. Norman Bates was sitting outside his office in the evening sun, reading a magazine. He stood up and smiled as Arbogast got out of his car.
+
+Арбогаст съехал с дороги и подъехал к мотелю. Норман Бейтс сидел на улице перед своим офисом под вечерним солнцем, читая журнал. Он встал и улыбнулся, когда Арбогаст вышел из машины.
+
+'I almost missed you,' Arbogast said.
+
+«Я чуть тебя не пропустил», — сказал Арбогаст.
+
+'I forgot to turn on the sign,' Norman replied. 'Do you want a room?'
+
+«Я забыл включить вывеску», — ответил Норман. «Хотите номер?»
+
+'No thanks. I only want to ask a few questions.'
+
+«Нет, спасибо. Я хочу задать всего несколько вопросов».
+
+'What sort of questions?' asked Norman, turning to go into his office.
+
+— Какие вопросы? — спросил Норман, поворачиваясь, чтобы войти в свой кабинет.
+
+'I'm trying to find a girl,' said Arbogast, following him. 'My name's Arbogast. I'm a detective.'
+
+«Я пытаюсь найти девушку», — сказал Арбогаст, следуя за ним. «Меня зовут Арбогаст. Я детектив».
+
+'Oh really?' Norman tried to smile calmly. 'A girl?'
+
+«Правда?» — Норман попытался спокойно улыбнуться. — «Девочка?»
+
+'Her name's Marion Crane,' Arbogast explained. 'She's from Phoenix. She disappeared last Friday and her family are very worried.' He showed Norman the photograph .'Have you seen her?'
+
+«Ее зовут Мэрион Крейн, — объяснил Арбогаст. — Она из Финикса. Она пропала в прошлую пятницу, и ее семья очень волнуется». Он показал Норману фотографию. «Вы ее видели?»
+
+Norman shook his head without looking.
+
+Норман покачал головой, не глядя.
+
+'Maybe she stopped here about a week ago?'
+
+«Может, она останавливалась здесь около недели назад?»
+
+'No. I haven't had any visitors for more than two weeks. Business has been bad since they moved the highway.'
+
+«Нет. У меня не было посетителей больше двух недель. Дела идут плохо с тех пор, как перенесли шоссе».
+
+'Can I see your book?'
+
+«Можно посмотреть вашу книгу?»
+
+Norman gave him the book from under the desk without speaking. He watched as Arbogast took out an envelope and studied the names in the book.
+
+Норман молча передал ему книгу из-под стола. Он наблюдал, как Арбогаст достал конверт и стал изучать имена в книге.
+
+'Ah.' Arbogast's finger stopped at the name of Marie Samuels from Los Angeles. 'You see? She was here last Saturday night. Look. The writing is the same as on this envelope.'
+
+«Ах», — палец Арбогаста остановился на имени Мари Сэмюэлс из Лос-Анджелеса. — «Видите? Она была здесь в прошлую субботу вечером. Смотрите. Почерк тот же, что и на этом конверте».
+
+'So?' Norman said in a weak voice.
+
+«И что?» — слабо произнес Норман.
+
+'The writing on this envelope belongs to Miss Crane.'
+
+«Надпись на этом конверте принадлежит мисс Крейн».
+
+Norman opened his mouth to speak, but his mouth was dry and he couldn't think of the right words. Finally he said: 'It's difficult sometimes.'
+
+Норман открыл рот, чтобы заговорить, но во рту пересохло, и он не мог подобрать нужных слов. Наконец он сказал: «Иногда это сложно».
+
+Arbogast looked at Norman. 'What's difficult?'
+
+Арбогаст посмотрел на Нормана. «Что сложного?»
+
+'Remembering things.'
+
+«Вспоминать вещи».
+
+'I know, I know,' Arbogast said softly, trying not to frighten him.
+
+«Знаю, знаю», — тихо сказал Арбогаст, стараясь не напугать его.
+
+'You know, I wasn't lying, mister. I just forgot about last week.'
+
+«Знаете, я не врал, мистер. Я просто забыл про прошлую неделю».
+
+'I understand.'
+
+'Я понимаю.'
+
+Arbogast's friendliness seemed to make Norman calmer. He smiled, and asked to see the photograph again. This time he studied it carefully.
+
+Казалось, дружелюбие Арбогаста успокоило Нормана. Он улыбнулся и попросил еще раз посмотреть фотографию. На этот раз он внимательно ее изучил.
+
+'Oh yes,' he said. 'I remember now. It was raining. This girl arrived late at night. She was tired and went straight to bed. She left early the next morning.'
+
+«Ах да, — сказал он. — Теперь я вспомнил. Шёл дождь. Девушка приехала поздно ночью. Она устала и сразу легла спать. Уехала рано утром следующего дня».
+
+'Did she meet anybody here?'
+
+«Она здесь с кем-нибудь познакомилась?»
+
+'No, she was alone.'
+
+«Нет, она была одна».
+
+'Did she phone anybody?'
+
+«Она кому-нибудь звонила?»
+
+'No.'
+
+'Нет.'
+
+'How do you know?'
+
+'Откуда вы знаете?'
+
+Norman shut his eyes. It was happening again. His face was burning and he couldn't think of an answer. Finally he said: 'She was tired. She said she wanted to go straight to bed because she had a long journey the next morning. And now, Mr Arbogast, I'm very busy. I have to go.'
+
+Норман закрыл глаза. Это повторялось снова. Его лицо горело, и он не мог придумать ответа. Наконец он сказал: «Она устала. Она сказала, что хочет сразу лечь спать, потому что завтра утром у нее долгая дорога. А сейчас, мистер Арбогаст, я очень занят. Мне нужно идти».
+
+'One more question, please,' Arbogast said as Norman began to walk away. 'Is she still here?'
+
+«Ещё один вопрос, пожалуйста», — сказал Арбогаст, когда Норман начал уходить. — «Она всё ещё здесь?»
+
+'No, she isn't. I told you before. If you don't believe me, I'll show you all the rooms.'
+
+«Нет, это не она. Я же тебе уже говорил. Если не веришь, я покажу тебе все комнаты».
+
+'No, that's all right,' Arbogast smiled.
+
+«Нет, всё в порядке», — улыбнулся Арбогаст.
+
+He followed Norman outside. It was dark now. He looked up at the house on the hill and noticed a light in a window.
+
+Он последовал за Норманом на улицу. Уже стемнело. Он поднял взгляд на дом на холме и заметил свет в окне.
+
+'Is anyone at home?' he asked, as Norman was walking away.
+
+«Кто-нибудь дома?» — спросил он, когда Норман уходил.
+
+Norman turned round and smiled. 'No.'
+
+Норман обернулся и улыбнулся. «Нет».
+
+'But there's someone sitting by that window.' Arbogast pointed at the house.
+
+«Но у того окна кто-то сидит», — Арбогаст указал на дом.
+
+'Oh, that's my mother. She's ill.'
+
+«О, это моя мама. Она больна».
+
+Arbogast looked hard at Norman for a moment, then said: 'Did that girl offer you a lot of money?'
+
+Арбогаст пристально посмотрел на Нормана, а затем спросил: «Эта девушка предлагала тебе большие деньги?»
+
+'What do you mean?'
+
+'Что ты имеешь в виду?'
+
+'To hide her here, maybe?'
+
+«Может, чтобы спрятать её здесь?»
+
+'Look mister, if you think I kidnapped her or something...'
+
+«Послушайте, мистер, если вы думаете, что я её похитил или что-то в этом роде…»
+
+'I'm not saying that. But perhaps she offered you money and asked you not to tell anyone? Maybe she told you some stupid story.' 'Mr Arbogast, I'm not stupid,' Norman said.
+
+«Я этого не говорю. Но, возможно, она предложила вам деньги и попросила никому не рассказывать? Может быть, она рассказала вам какую-нибудь глупую историю». «Мистер Арбогаст, я не дурак», — сказал Норман.
+
+'No, of course you're not. But sometimes it's just too easy to believe a pretty girl.'
+
+«Нет, конечно, ты не такая. Но иногда слишком легко поверить симпатичной девушке».
+
+'Even if I'm stupid, my mother isn't,' Norman was getting excited again. 'My mother didn't believe anything she said.'
+
+«Даже если я глупый, моя мать — нет», — Норман снова оживился. — «Моя мать не верила ничему из того, что говорила».
+
+'So your mother met her?' Arbogast looked surprised. 'Can I meet your mother too? I'd like to talk to her.'
+
+— Значит, твоя мать с ней познакомилась? — Арбогаст удивленно посмотрел на него. — Могу я тоже познакомиться с твоей матерью? Я бы хотел с ней поговорить.
+
+'No you can't. I told you. She's sick.'
+
+«Нет, не можешь. Я же тебе говорила. Она больна».
+
+Arbogast wanted to talk to the mother, but there was something strong and icy about Norman now. He decided not to push him. 'I'll come back later,' he thought. 'After I've phoned the girl's sister and told her what I know.'
+
+Арбогаст хотел поговорить с матерью, но в Нормане теперь чувствовалось что-то сильное и ледяное. Он решил не настаивать. «Я вернусь позже, — подумал он. — После того, как позвоню сестре девочки и расскажу ей все, что знаю».
+
+## Chapter 10 Shadow Behind the Curtain
+
+## Глава 10 Тень за занавесом
+
+After phoning Lila with the news of his conversation with Norman Bates, Arbogast drove back to the motel. There was a light in the office, and the sign was now on, but he couldn't find Norman anywhere. Looking up at the old house, he could still see the old woman by the window. He could see her shadow behind the curtain.
+
+Позвонив Лиле и сообщив о своем разговоре с Норманом Бейтсом, Арбогаст поехал обратно в мотель. В офисе горел свет, и вывеска горела, но Нормана нигде не было. Подняв взгляд на старый дом, он все еще видел старушку у окна. Он видел ее тень за занавеской.
+
+'I'll have to go and speak to her without her son's help,' he thought.
+
+«Мне придётся поговорить с ней без помощи её сына», — подумал он.
+
+After climbing the hill, Arbogast found that the front door was open. He walked inside, took his hat off and waited for a few seconds. Everything was quiet. He looked at the mirror, the flowers on the wallpaper, the old pictures on the wall.
+
+Поднявшись на холм, Арбогаст обнаружил, что входная дверь открыта. Он вошел, снял шляпу и подождал несколько секунд. Вокруг царила тишина. Он посмотрел в зеркало, на цветы на обоях, на старые фотографии на стене.
+
+Feeling sure that the son was busy somewhere, he decided to go upstairs and talk to the mother alone. He walked up the stairs very slowly. He didn't want to make a noise. And, if he was honest, he felt a little afraid. With its old furniture and silent rooms, this house was very strange.
+
+Уверенный, что сын где-то занят, он решил подняться наверх и поговорить с матерью наедине. Он очень медленно поднимался по лестнице, стараясь не шуметь. И, честно говоря, немного боялся. Этот дом со старой мебелью и тихими комнатами казался очень странным.
+
+At the top of the stairs, Arbogast heard the sound of the bedroom door. He turned round and saw the old woman. She was running straight towards him, with her long dress, white face and cold, mad eyes. He was too surprised to move. He saw the large silver knife above her head, and he tried to lift his hands, but he was too late.
+
+Наверху лестницы Арбогаст услышал звук открывающейся двери спальни. Он обернулся и увидел старуху. Она бежала прямо к нему, в длинном платье, с бледным лицом и холодными, безумными глазами. Он был слишком потрясен, чтобы пошевелиться. Он увидел большой серебряный нож над ее головой и попытался поднять руки, но было уже поздно.
+
+The knife cut his face open from the top of his head, through his left eye, to the corner of his mouth. He fell back, down the stairs, and lay very still. He couldn't move his arms or legs, but he could lift his head. With his one good eye he looked up the stairs - the old woman was flying down towards him, the silver knife in her hand, screaming like an animal. The last thing that he ever saw was the terrible white face above him, as she brought the knife down straight into his heart.
+
+Нож рассек ему лицо от макушки, через левый глаз, до уголка рта. Он упал назад, вниз по лестнице, и лежал совершенно неподвижно. Он не мог пошевелить руками или ногами, но мог поднять голову. Единственным здоровым глазом он посмотрел вверх по лестнице — старуха неслась к нему вниз, с серебряным ножом в руке, крича, как животное. Последнее, что он увидел, было ужасное белое лицо над ним, когда она вонзила нож прямо ему в сердце.
+
+## Chapter 11 A Visit to the Sheriff
+
+## Глава 11. Визит к шерифу
+
+Sam and Lila sat in the room behind the shop, waiting for Arbogast to return.
+
+Сэм и Лила сидели в комнате за магазином, ожидая возвращения Арбогаста.
+
+'It's over an hour,' said Lila. 'Why isn't he back yet?'
+
+«Прошло уже больше часа, — сказала Лила. — Почему он до сих пор не вернулся?»
+
+'Maybe he found something important.'
+
+«Возможно, он нашёл что-то важное».
+
+Lila pushed back her chair and stood up. 'He's more than an hour late. He hasn't even called. I'm going to the Old Highway. I know he's found something. Are you coming with me?'
+
+Лила отодвинула стул и встала. «Он опаздывает больше чем на час. Он даже не позвонил. Я еду на Старую Шоссе. Я знаю, что он что-то нашел. Ты пойдешь со мной?»
+
+Sam stood up with a sigh. 'I'll go. You stay here,' he said. 'Somebody must be here if Arbogast comes back.'
+
+Сэм вздохнул и встал. «Я пойду. Ты оставайся здесь», — сказал он. «Если Арбогаст вернется, здесь кто-то обязательно должен быть».
+
+The motel was dark and empty when Sam arrived. He called Arbogast's name several times, but nobody answered. He looked up at the big house behind the motel, and saw somebody at the window. 'I guess that's the mother,' he thought. 'The old woman that Arbogast wanted to speak to.' He climbed the hill and tried the door. Again, no answer.
+
+Когда Сэм приехал, мотель был темным и пустым. Он несколько раз окликнул Арбогаста по имени, но никто не ответил. Он поднял взгляд на большой дом позади мотеля и увидел кого-то в окне. «Полагаю, это мать», — подумал он. «Старуха, с которой Арбогаст хотел поговорить». Он поднялся на холм и попытался открыть дверь. Снова тишина.
+
+Sam drove back to Fairvale. 'There's nobody at the motel,' he told Lila. 'No Arbogast. No Bates. Just a sick old woman who couldn't answer the door.'
+
+Сэм вернулся в Фэрвейл. «В мотеле никого нет, — сказал он Лиле. — Ни Арбогаста, ни Бейтса. Только больная старушка, которая не смогла открыть дверь».
+
+'I'm worried,' Lila said. 'Something's wrong.'
+
+«Я волнуюсь, — сказала Лила. — Что-то не так».
+
+'I agree,' said Sam. 'We have to tell the police. Let's visit Jud Chambers. He's the sheriff of this town. He'll be able to help us.'
+
+«Согласен, — сказал Сэм. — Мы должны сообщить в полицию. Давайте навестим Джуда Чемберса. Он шериф этого города. Он сможет нам помочь».
+
+The sheriff and his wife had to get out of bed to answer the door. It was late, but they asked Sam and Lila to come in. They listened while Sam told them about Marion and Arbogast.
+
+Шерифу и его жене пришлось встать с постели, чтобы открыть дверь. Было поздно, но они попросили Сэма и Лилу войти. Те выслушали рассказ Сэма о Мэрион и Арбогасте.
+
+'Arbogast phoned us to say that he wanted to go back to the motel. He wanted to speak to Mrs Bates,' said Sam. 'But that was three hours ago.'
+
+«Арбогаст позвонил нам и сказал, что хочет вернуться в мотель. Он хотел поговорить с миссис Бейтс, — сказал Сэм. — Но это было три часа назад».
+
+'I didn't know that Norman had a wife,' said Mrs Chambers, surprised.
+
+«Я не знала, что у Нормана есть жена», — удивленно сказала миссис Чемберс.
+
+'No,' Sam explained. 'It's an old woman. His mother.'
+
+«Нет, — объяснил Сэм. — Это пожилая женщина. Его мать».
+
+The sheriff thought for a minute, then asked Lila: 'When did your sister disappear?'
+
+Шериф немного подумал, а затем спросил Лилу: «Когда исчезла твоя сестра?»
+
+'She left Phoenix a week ago.'
+
+«Она уехала из Финикса неделю назад».
+
+'How did you know that she came here?'
+
+«Откуда вы узнали, что она сюда приехала?»
+
+'She came to see me,' Sam explained.
+
+«Она пришла ко мне», — объяснил Сэм.
+
+'And she didn't say anything to you?' the sheriff was still looking at Lila.
+
+«И она тебе ничего не сказала?» — шериф все еще смотрел на Лилу.
+
+'No. She just ran away.'
+
+«Нет. Она просто сбежала».
+
+'From what?'
+
+«От чего?»
+
+Nobody spoke for a moment. Then Lila said quietly: 'She stole some money.'
+
+Некоторое время царила тишина. Затем Лила тихо сказала: «Она украла немного денег».
+
+'A lot?'
+
+'Много?'
+
+'$40,000.'
+
+'Why didn't you tell the police before?'
+
+«Почему вы не сообщили в полицию раньше?»
+
+'We wanted Marion to give back the money without telling the police.'
+
+«Мы хотели, чтобы Мэрион вернула деньги, не сообщая об этом в полицию».
+
+'Did this detective talk about the money when he phoned you three hours ago?'
+
+«Этот детектив говорил о деньгах, когда звонил вам три часа назад?»
+
+'The money doesn't matter, does it?' Lila cried unhappily. 'I just want to find my sister!'
+
+«Деньги не имеют значения, правда?» — печально воскликнула Лила. «Я просто хочу найти свою сестру!»
+
+The sheriff sighed, and tried to look friendly. 'What can I do?'
+
+Шериф вздохнул и попытался выглядеть дружелюбным. «Чем я могу помочь?»
+
+'I'm sure there's something wrong,' said Lila. 'At the motel, I mean.'
+
+«Я уверена, что что-то не так», — сказала Лила. «В мотеле, я имею в виду».
+
+Mrs Chambers looked at Lila and she felt sorry for her. 'Why don't you telephone Norman at the motel?' she said to her husband.
+
+Миссис Чемберс посмотрела на Лилу и пожалела её. «Почему бы тебе не позвонить Норману в мотель?» — сказала она мужу.
+
+'It's late.'
+
+'Уже поздно.'
+
+'Oh, please call,' said Lila.
+
+«О, пожалуйста, позвоните», — сказала Лила.
+
+The sheriff sighed again and picked up the telephone. 'Hello?' he said a few seconds later. 'Norman? It's Sheriff Chambers speaking. Listen, I have some people here. They're worried. Did you have any visitors tonight?... No, not a customer...' a detective Jud Chambers listened quietly for a minute, then put down the phone. 'Yes,' he said, turning to Sam and Lila. 'The detective was there tonight. Norman told him about the girl. The detective said thank you and left.'
+
+Шериф снова вздохнул и взял трубку. «Алло?» — спросил он несколько секунд спустя. «Норман? Говорит шериф Чемберс. Послушайте, у меня тут люди. Они волнуются. У вас сегодня были посетители?... Нет, ни одного клиента...» Детектив Джад Чемберс молча слушал минуту, затем положил трубку. «Да», — сказал он, повернувшись к Сэму и Лиле. «Детектив был сегодня вечером. Норман рассказал ему о девушке. Детектив поблагодарил его и ушел».
+
+'Without seeing Mr Bates's mother?' Lila asked.
+
+«Не повидавшись с матерью мистера Бейтса?» — спросила Лила.
+
+The sheriff looked Lila straight in the eye. 'Norman's mother died ten years ago.' He said. 'She killed her lover, then she killed herself. It was in all the newspapers. Norman found them dead together, in bed.'
+
+Шериф посмотрел Лиле прямо в глаза. «Мать Нормана умерла десять лет назад, — сказал он. — Она убила своего любовника, а потом покончила с собой. Об этом писали все газеты. Норман нашел их мертвыми вместе, в постели».
+
+'But that isn't true. I saw her!' Sam cried.
+
+«Но это неправда. Я её видел!» — воскликнул Сэм.
+
+'Yes,' Lila agreed. 'Arbogast saw her too.'
+
+«Да», — согласилась Лила. — «Арбогаст тоже её видел».
+
+'Mm,' Jud Chambers replied, looking at his wife. 'Very strange. If Norman's mother is still alive, who was the woman who killed herself ten years ago?'
+
+«Мм», — ответил Джад Чемберс, глядя на жену. — «Очень странно. Если мать Нормана еще жива, то кто была та женщина, которая покончила с собой десять лет назад?»
+
+Norman Bates put down the phone after speaking to Sheriff Chambers. 'The police will be here soon,' he thought. 'I must hide Mother before they come.'
+
+Норман Бейтс положил трубку после разговора с шерифом Чемберсом. «Скоро приедет полиция, — подумал он. — Я должен спрятать маму до их приезда».
+
+He ran out of the office, up the hill to the old house, and climbed the stairs to his mother's room.
+
+Он выбежал из кабинета, поднялся на холм к старому дому и по лестнице попал в комнату матери.
+
+'Mother, I have something to say,' he said.
+
+«Мама, мне нужно кое-что сказать», — ответил он.
+
+The old woman laughed. 'You're a stupid boy, telling me what to do.'
+
+Старуха рассмеялась. «Глупый мальчишка, что указываешь мне, что делать».
+
+'Mother, it's important.'
+
+«Мама, это важно».
+
+'No. I will not hide in the fruit cellar. I'm staying here. This is my room and no one will ever take me away.'
+
+«Нет. Я не буду прятаться в фруктовом погребе. Я остаюсь здесь. Это моя комната, и никто меня отсюда не заберет».
+
+'They'll come for you, Mother,' Norman tried to explain. 'That man came after the girl. Now someone will come after him. Mother please, just for a few days, so that they won't find you.'
+
+«Они придут за тобой, мама, — попытался объяснить Норман. — Тот мужчина преследовал девушку. Теперь кто-то придет за ним. Мама, пожалуйста, хотя бы на несколько дней, чтобы они тебя не нашли».
+
+'A few days in that ugly old cellar? No! You hid me there once before. I'll never go there again. Now go away!'
+
+«Несколько дней в этом уродливом старом подвале? Нет! Ты уже однажды прятал меня там. Я больше никогда туда не пойду. А теперь уходи!»
+
+But Norman wasn't listening. He picked his mother off the bed and carried her out of the bedroom, down the stairs, and into the fruit cellar.
+
+Но Норман не слушал. Он поднял мать с кровати, вынес ее из спальни, спустил по лестнице и отнес в фруктовый погреб.
+
+## Chapter 12 Room One
+
+## Глава 12 Комната первая
+
+The next day, Sunday morning, Sam and Lila met Jud Chambers and his wife as they were coming out of church.
+
+На следующий день, в воскресенье утром, Сэм и Лила встретили Джуда Чемберса и его жену, когда те выходили из церкви.
+
+'Do you want to go to the motel with us?' Lila asked.
+
+«Хочешь пойти с нами в мотель?» — спросила Лила.
+
+'I went before breakfast,' said the sheriff.
+
+«Я пошёл до завтрака», — сказал шериф.
+
+'What did Mr Bates say about my sister?'
+
+«Что мистер Бейтс сказал о моей сестре?»
+
+'The same as he told your detective. I promise you, Miss Crane, Norman Bates is alone at the motel. I looked everywhere.'
+
+«Все то же самое, что он сказал вашему детективу. Уверяю вас, мисс Крейн, Норман Бейтс один в мотеле. Я все обыскал».
+
+'You didn't even see his mother?'
+
+«Вы даже не видели его мать?»
+
+'No, I didn't. I'm sorry. If you want the police to help you, you'll have to make a report in the usual way. You can see me this afternoon, if you like. I'll be happy to help you.'
+
+«Нет, я этого не делал. Извините. Если вы хотите, чтобы полиция вам помогла, вам придётся подать заявление обычным способом. Можете встретиться со мной сегодня днём, если хотите. Я с удовольствием вам помогу».
+
+'Well,' said Sam, after saying goodbye to the sheriff and his wife. 'Maybe I was dreaming and Arbogast was lying. Perhaps I Saw a shadow on the curtain, that's all.'
+
+— Ну что ж, — сказал Сэм, попрощавшись с шерифом и его женой, — может, мне приснилось, и Арбогаст лгал. А может, я просто увидел тень на занавеске, вот и всё.
+
+'You weren't dreaming and Arbogast wasn't lying,' Lila told him. 'There's something wrong, and I'm going to the Bates Motel immediately. Come on.'
+
+«Ты не спала, и Арбогаст не лгал», — сказала ему Лила. «Что-то не так, и я немедленно еду в мотель Бейтса. Пойдем».
+
+Sam and Lila drove quickly to the motel on the Old Highway. While Sam looked for Norman Bates in the office, Lila stayed outside. She was interested in the house on the hill. There was something dark and strange about it, even in the morning sunshine. Suddenly she saw a tall, thin man at the top of the hill He stood still at first, then he began to walk quickly down the hill towards her. Lila called to Sam, who ran out of the office.
+
+Сэм и Лила быстро доехали до мотеля на Старой Шоссе. Пока Сэм искал Нормана Бейтса в офисе, Лила осталась снаружи. Ее заинтересовал дом на холме. В нем было что-то темное и странное, даже в утреннем солнечном свете. Внезапно она увидела на вершине холма высокого худого мужчину. Сначала он стоял неподвижно, а затем быстро спустился вниз к ней. Лила позвала Сэма, и тот выбежал из офиса.
+
+Norman Bates wasn't surprised to see the young man and woman outside his office. He walked down the hill towards them with his hands in his pockets.
+
+Норман Бейтс не удивился, увидев молодого человека и девушку возле своего кабинета. Он спустился к ним с холма, держа руки в карманах.
+
+'Do you want a room?' he asked them pleasantly.
+
+«Хотите отдельную комнату?» — любезно спросил он их.
+
+'Yes, please,' said Sam.
+
+«Да, пожалуйста», — сказал Сэм.
+
+'Then follow me,' Norman smiled, walking past them into his office.
+
+«Тогда следуйте за мной», — улыбнулся Норман, проходя мимо них в свой кабинет.
+
+'Is Room Ten okay?' he asked, taking the key from the small cupboard on the wall behind the desk.
+
+«Комната номер десять вас устраивает?» — спросил он, доставая ключ из небольшого шкафчика на стене за столом.
+
+'I'd like to write my name in the book first,' said Sam. 'Okay.' Norman took the book from under the desk and gave it to Sam.
+
+«Я бы хотел сначала записать своё имя в книгу», — сказал Сэм. «Хорошо». Норман достал книгу из-под стола и отдал её Сэму.
+
+While Sam was writing his name, Norman watched Lila. She was looking at the list of names in the book. 'I know who you are,' Norman thought. 'You're looking for the man who came yesterday. Well, you can look. You won't find anything. I've hidden everything. And you'll never find my mother in the cellar. But I mustn't make any mistakes. I must be careful...'
+
+Пока Сэм писал своё имя, Норман наблюдал за Лилой. Она рассматривала список имён в книге. «Я знаю, кто ты», — подумал Норман. «Ты ищешь человека, который приходил вчера. Что ж, можешь поискать. Ничего не найдёшь. Я всё спрятал. И ты никогда не найдёшь мою мать в подвале. Но я не должен ошибаться. Я должен быть осторожен…»
+
+He took the book and pen from Sam. 'Thank you,' he smiled. 'Now I'll get your bags.'
+
+Он взял у Сэма книгу и ручку. «Спасибо», — улыбнулся он. «Теперь я отнесу ваши сумки».
+
+'We haven't got any.'
+
+«У нас их нет».
+
+'Okay. I'll show you to your room.'
+
+«Хорошо. Я провожу тебя в твою комнату».
+
+'Don't worry,' said Sam, taking the key. 'We'll find it.'
+
+«Не волнуйся, — сказал Сэм, беря ключ. — Мы его найдем».
+
+When Sam and Lila were alone in their room, Lila sat on the bed and began to cry. 'I know something terrible has happened to Marion,' she said. 'Seeing that old house on the hill, the way that man kept looking at us. I can feel it.'
+
+Когда Сэм и Лила остались одни в своей комнате, Лила села на кровать и начала плакать. «Я знаю, что с Мэрион случилось что-то ужасное, — сказала она. — Видя тот старый дом на холме, то, как тот мужчина смотрел на нас... Я чувствую это».
+
+'I agree,' said Sam. 'But we need to find something to show the police. Let's go and search Room One. That's the room that Arbogast said she stayed in, isn't it?'
+
+«Согласен, — сказал Сэм. — Но нам нужно найти что-нибудь, чтобы показать полиции. Пойдем обыщем комнату номер один. Это та комната, в которой, по словам Арбогаст, она останавливалась, не так ли?»
+
+Sam and Lila opened the door and looked outside. They couldn't see anyone. Hoping that nobody was watching them, they hurried nervously back, past the other rooms, to Room One.
+
+Сэм и Лила открыли дверь и выглянули наружу. Никого не увидели. Надеясь, что никто за ними не наблюдает, они нервно поспешили обратно, мимо других комнат, в комнату номер один.
+
+They searched everywhere for some information about Marion. Something to show that Bates knew where the money was, perhaps. They found nothing in the bedroom, so they went into the bathroom.
+
+Они обыскали всё вокруг в поисках какой-нибудь информации о Мэрион. Возможно, что-то, что подтвердило бы, что Бейтс знал, где находятся деньги. В спальне они ничего не нашли, поэтому пошли в ванную.
+
+'That's interesting,' Sam said. 'No shower curtain.'
+
+«Интересно, — сказал Сэм. — Нет занавески для душа».
+
+Suddenly, Lila noticed something. 'Look,' she said, picking a small piece of paper out of the toilet. It was wet, but she could still read something on it. 'It's a number. Forty thousand.' She looked at Sam. 'This shows us that Marion was here.'
+
+Внезапно Лила кое-что заметила. «Смотри», — сказала она, вытаскивая из унитаза небольшой клочок бумаги. Он был мокрый, но она все еще могла что-то прочитать. «Это число. Сорок тысяч». Она посмотрела на Сэма. «Это доказывает, что Мэрион была здесь».
+
+'We know that already,' said Sam.
+
+«Мы это уже знаем», — сказал Сэм.
+
+'You don't understand. It shows us that Bates knew about the money.'
+
+«Вы не понимаете. Это доказывает, что Бейтс знал о деньгах».
+
+'Okay. I'll talk to him,' Sam said, and walked towards the door.
+
+«Хорошо. Я поговорю с ним», — сказал Сэм и направился к двери.
+
+But Lila stopped him. 'No,' she said. 'Let's talk to that old woman in the house. She told Arbogast something, and I want her to tell me the same thing. You find Bates and talk to him. I'm going to talk to his mother.'
+
+Но Либ остановила его. «Нет, — сказала она. — Давай поговорим с той старушкой в доме. Она кое-что рассказала Арбогасту, и я хочу, чтобы она сказала мне то же самое. Ты найди Бейтса и поговори с ним. А я поговорю с его матерью».
+
+Sam wasn't happy about Lila's plan, but he agreed.
+
+Сэму не понравился план Лилы, но он согласился.
+
+Opening the door, he looked out. 'It's clear,' he said to Lila. 'No one's watching. You can go.'
+
+Открыв дверь, он выглянул наружу. «Здесь чисто», — сказал он Лиле. «Никто не наблюдает. Можешь идти».
+
+Sam quietly shut the door as Lila ran towards the hill. He found Bates in his office.
+
+Сэм тихо закрыл дверь, когда Лила побежала к холму. Он обнаружил Бейтса в его кабинете.
+
+'Are you looking for me?' Bates asked.
+
+«Вы меня ищете?» — спросил Бейтс.
+
+'Yes,' said Sam, standing in front of Bates so that he couldn't see Lila. 'I'm bored - my wife's asleep and I wanted to talk to someone.'
+
+«Да», — сказал Сэм, встав перед Бейтсом так, чтобы тот не видел Лилу. — «Мне скучно — жена спит, и я хотел с кем-нибудь поговорить».
+
+'Good,' Norman smiled.'Come in and shut the door.'
+
+«Хорошо», — улыбнулся Норман. — «Входите и закройте дверь».
+
+## Chapter 13 The House on the Hill
+
+## Глава 13 Дом на холме
+
+Lila climbed the hill to the old house, and pushed the front door. It opened slowly. She walked inside and shut the door behind her. It was sunny outside, but inside the house it was strangely cold and dark. There was an unpleasant smell of dry wood and old furniture.
+
+Лила поднялась на холм к старому дому и толкнула входную дверь. Она медленно открылась. Лила вошла внутрь и закрыла за собой дверь. На улице было солнечно, но внутри дома было странно холодно и темно. В воздухе витал неприятный запах сухого дерева и старой мебели.
+
+'I mustn't be afraid,' Lila thought. 'I must find the old woman. She can tell me about Marion. Maybe I'll even find my sister here.'
+
+«Нельзя бояться, — подумала Лила. — Нужно найти старушку. Она расскажет мне о Марион. Может, я даже найду здесь свою сестру».
+
+So, thinking about her sister, Lila bravely began to move towards the stairs.
+
+Думая о сестре, Лила смело направилась к лестнице.
+
+'You don't talk very much, do you?' Sam said to Bates in the motel office.
+
+«Ты не очень разговорчив, правда?» — спросил Сэм у Бейтса в офисе мотеля.
+
+Bates, with his hands in his pockets and his back against the wall, laughed nervously.
+
+Бейтс, засунув руки в карманы и прислонившись спиной к стене, нервно рассмеялся.
+
+'I thought that people who lived alone enjoyed talking. You're alone, aren't you?'
+
+«Я думал, что люди, живущие в одиночестве, любят поговорить. А ты ведь один, правда?»
+
+'Yes.'
+
+'Да.'
+
+'I hate being alone,' said Sam. 'When I'm alone, I go mad.' Norman stopped smiling. 'Why do you say that?' 'I think that people who live alone go mad,' Sam answered, feeling quietly pleased. The smooth young man with the boyish smile was beginning to look uncomfortable. 'Don't you agree?' Norman's face went red.
+
+— Я ненавижу быть один, — сказал Сэм. — Когда я один, я схожу с ума. Норман перестал улыбаться. — Почему ты так говоришь? — Я думаю, что люди, которые живут одни, сходят с ума, — ответил Сэм, чувствуя тихое удовлетворение. Молодой человек с мальчишеской улыбкой начал выглядеть неловко. — Ты согласен? — Лицо Нормана покраснело.
+
+Lila arrived at the top of the stairs and knocked on the bedroom door.
+
+Лила поднялась по лестнице и постучала в дверь спальни.
+
+'Mrs Bates?' she called softly.
+
+«Миссис Бейтс?» — тихо позвала она.
+
+There was no reply, so she pushed the door open and walked inside. She couldn't believe her eyes. Everything was so old, from the heavy curtains by the window to the golden lamps on the darkly coloured walls. She walked across the room nervously towards the large cupboard with a mirror on the door. Opening the door, she saw a line of long, flowery dresses. The kind of dresses that women wore fifty years ago.
+
+Ответа не последовало, поэтому она толкнула дверь и вошла. Она не могла поверить своим глазам. Всё было таким старым, от тяжёлых штор на окне до золотых ламп на тёмных стенах. Она нервно прошла через комнату к большому шкафу с зеркалом на дверце. Открыв дверцу, она увидела ряд длинных платьев с цветочным принтом. Таких платьев, какие женщины носили пятьдесят лет назад.
+
+Lila closed the cupboard and looked round the room. Her eyes rested on a small table near the bed. She looked at the small glass cats, the silver soap-dishes, the old photographs of children... or were they different photographs of the same child?
+
+Лила закрыла шкаф и оглядела комнату. Ее взгляд остановился на маленьком столике возле кровати. Она посмотрела на маленьких стеклянных кошек, серебряные мыльницы, старые фотографии детей… или это были разные фотографии одного и того же ребенка?
+
+Everything was very old, but there was something even more unusual than this. Everything was so tidy. This was very strange.
+
+Всё было очень старым, но было нечто ещё более необычное. Всё было таким аккуратным. Это было очень странно.
+
+'If this is the mother's bedroom,' Lila thought, 'why doesn't she touch anything? The only thing that she seems to use is the bed. I can see from the bedclothes that she was here a short time ago. So she's here somewhere. But where?'
+
+«Если это спальня матери, — подумала Лила, — почему она ничего не трогает? Единственное, чем она, кажется, пользуется, это кровать. По постельному белью я вижу, что она была здесь совсем недавно. Значит, она где-то здесь. Но где?»
+
+'I don't think you're happy here,' Sam told Bates. 'Why don't you sell this place and leave?'
+
+«Думаю, тебе здесь не нравится», — сказал Сэм Бейтсу. «Почему бы тебе не продать это место и не уехать?»
+
+'This place is my world,' Bates said. 'I grew up in that house. I was a happy child. My mother and I were very happy!'
+
+«Это место — мой мир, — сказала Бейтс. — Я выросла в этом доме. Я была счастливым ребенком. Мы с мамой были очень счастливы!»
+
+Lila looked inside another room. It was a small room with an untidy bed and lots of books and children's things on the floor.
+
+Лила заглянула в другую комнату. Это была небольшая комната с неопрятной кроватью и множеством книг и детских вещей на полу.
+
+'Norman's room,' she thought, picking up some of the books. They were about the mysteries of life and strange illnesses. Looking at the unusual books and the children's play-things on the floor, Lila thought that she was beginning to understand something about Norman. 'He's a little boy who loves his mother,' she thought. 'An intelligent boy who has never grown up.'
+
+«Комната Нормана», — подумала она, поднимая книги. Они были о тайнах жизни и странных болезнях. Глядя на необычные книги и детские игрушки на полу, Лила подумала, что начинает что-то понимать о Нормане. «Он маленький мальчик, который любит свою мать, — подумала она. — Умный мальчик, который так и не повзрослел».
+
+'You look nervous,' Sam told Bates. 'Have I frightened you?'
+
+«Ты выглядишь нервным», — сказал Сэм Бейтсу. «Я тебя напугал?»
+
+'What are you talking about?'
+
+'О чем ты говоришь?'
+
+'I've said something about your mother, and you look afraid. How are you going to do it?'
+
+«Я кое-что сказала о твоей матери, и ты выглядишь испуганной. Как ты собираешься это сделать?»
+
+'Do what?'
+
+'Что делать?'
+
+'Buy a new motel. You won't have to hide your mother if you go to another town.'
+
+«Купи новый мотель. Тебе не придётся прятать свою мать, если ты уедешь в другой город».
+
+Norman's eyes became cold and narrow. He hated this man and wanted him to go.
+
+Глаза Нормана стали холодными и прищуренными. Он ненавидел этого человека и хотел, чтобы тот ушёл.
+
+'Where will you get the money?' Sam continued. 'Or do you already have the money? $40,000 perhaps?'
+
+— Откуда ты возьмешь деньги? — продолжил Сэм. — Или у тебя уже есть деньги? Может быть, 40 000 долларов?
+
+Bates walked into the room behind the office, and Sam followed him.
+
+Бейтс вошел в комнату за кабинетом, и Сэм последовал за ним.
+
+'Your mother knows about the money, doesn't she?' Sam said. 'She knows what you did to get it. And I think she'll tell us.'
+
+— Твоя мать знает о деньгах, не так ли? — спросил Сэм. — Она знает, как ты их раздобыл. И я думаю, она нам расскажет.
+
+Bates turned round, his eyes burning, his heart racing. 'I know why you're here,' he shouted. 'Where's that girl who came here with you?'
+
+Бейтс обернулся, глаза его горели, сердце бешено колотилось. «Я знаю, почему ты здесь!» — крикнул он. «Где та девушка, которая пришла сюда с тобой?»
+
+Sam said nothing. He turned away and began to walk out of the door. This was a mistake. Bates ran up behind him and hit him hard on the head with a metal box. Sam fell to the floor, and Bates ran out of the office as quickly as he could.
+
+Сэм ничего не сказал. Он отвернулся и начал выходить за дверь. Это была ошибка. Бейтс подбежал сзади и сильно ударил его по голове металлическим ящиком. Сэм упал на пол, и Бейтс как можно быстрее выбежал из кабинета.
+
+'I must find that girl before she finds Mother,' he thought, as he ran up the hill towards the old house.
+
+«Я должен найти эту девочку, прежде чем она найдет маму», — подумал он, поднимаясь по склону холма к старому дому.
+
+## Chapter 14 The Cellar
+
+## Глава 14 Подвал
+
+When Lila came back down to the bottom of the stairs, she looked through the window by the front door and saw Bates. He was running up the hill towards the house. She had no time to ask herself about Sam. She had to hide.
+
+Когда Лила спустилась вниз по лестнице, она посмотрела в окно у входной двери и увидела Бейтса. Он бежал вверх по склону холма к дому. У нее не было времени спрашивать себя о Сэме. Ей нужно было спрятаться.
+
+As Lila ran towards the kitchen, she heard Bates at the front door. Suddenly she noticed some stairs. They seemed to go down towards some kind of cellar. Without thinking, she ran onto the top stair and waited.
+
+Когда Лила побежала к кухне, она услышала Бейтса у входной двери. Внезапно она заметила лестницу. Казалось, она вела вниз, в какой-то подвал. Недолго думая, она забежала на верхнюю ступеньку и стала ждать.
+
+Bates stood still for a second. He couldn't see Lila, but he knew she was in the house. Probably upstairs, looking for his mother.
+
+Бейтс замер на секунду. Он не видел Лилу, но знал, что она в доме. Вероятно, наверху, ищет его мать.
+
+Lila stood up when she heard Bates upstairs in his mother's room. Now she could escape and find Sam. But she couldn't stop looking at the cellar door below her. Maybe the mother was down there? Perhaps Marion and Arbogast were prisoners down there? She had to go down to learn the secrets that were hiding behind that door.
+
+Лила встала, услышав голос Бейтса наверху, в комнате его матери. Теперь она могла сбежать и найти Сэма. Но она не могла оторвать взгляд от двери в подвал. Может быть, мать там? Может быть, Мэрион и Арбогаст были там пленниками? Она должна была спуститься вниз, чтобы узнать секреты, скрывающиеся за этой дверью.
+
+It was dark inside the cellar, and there was a strange smell of dead animals and oil. She stood still for a few seconds. Then she thought she could see a light on the opposite side of the room. It was coming from underneath a door. She walked slowly towards it in the dark, past tables full of glass bottles, knives and tins. At last, she came to the door and opened it slowly.
+
+В подвале было темно, и чувствовался странный запах дохлых животных и масла. Она замерла на несколько секунд. Затем ей показалось, что она видит свет на противоположной стороне комнаты. Он исходил из-под двери. Она медленно пошла к нему в темноте, мимо столов, заставленных стеклянными бутылками, ножами и жестяными банками. Наконец, она подошла к двери и медленно открыла ее.
+
+It was a small room with one light in the ceiling. In the middle of the room there was a wooden chair facing the opposite wall, and on the chair there was a woman. Lila looked at the back of her head. She seemed to be asleep.
+
+Это была маленькая комната с одним светильником на потолке. Посреди комнаты стоял деревянный стул, обращенный к противоположной стене, а на стуле сидела женщина. Лила посмотрела на затылок. Казалось, она спит.
+
+'Mrs. Bates?' Lila said quietly. She didn't want to frighten her. 'Mrs Bates?' she said again, moving slowly towards her.
+
+«Миссис Бейтс?» — тихо спросила Лила, не желая ее напугать. «Миссис Бейтс?» — повторила она, медленно приближаясь к ней.
+
+The woman didn't answer. Lila touched her shoulder. Lila turned the woman's chair round and looked down at her face. The first thing that she saw was the woman's teeth. They were large and yellow. And then Lila realized that the old woman had no eyes. She was looking down at the dry, brown face of a dead woman.
+
+Женщина не ответила. Лила дотронулась до её плеча. Лила повернула стул женщины и посмотрела на её лицо. Первое, что она увидела, были зубы женщины. Они были большими и жёлтыми. И тут Лила поняла, что у старушки нет глаз. Она смотрела на сухое, коричневое лицо мёртвой женщины.
+
+Lila screamed. She turned to run away but stopped. There was a tall, shadowy shape by the door. The shadow had long grey hair and wore a flowery dress. As it moved into the light, Lila could see the face, a white face with a terrible smile and mad, shining eyes.
+
+Лила закричала. Она повернулась, чтобы убежать, но остановилась. У двери стояла высокая, призрачная фигура. У тени были длинные седые волосы, и на ней было платье с цветочным узором. Когда она вышла на свет, Лила увидела лицо: белое лицо с ужасной улыбкой и безумными, сияющими глазами.
+
+Then she saw the knife. She wanted to scream again but her mouth was dry and she felt too weak. She moved back as the mad old woman ran towards her, laughing wildly, the silver knife in her hand, ready...
+
+Затем она увидела нож. Ей хотелось снова закричать, но во рту пересохло, и она чувствовала себя слишком слабой. Она отступила назад, когда безумная старуха, дико смеясь, подбежала к ней, держа в руке серебряный нож, готовый к применению…
+
+Then another person ran into the room and jumped on the mad woman from behind. Sam! He put one arm round the woman's neck and with his other hand he held her wrist, fighting for the knife. The woman fought hard, screaming wildly. But Sam was too strong for her.
+
+Затем в комнату вбежал другой человек и набросился на обезумевшую женщину сзади. Сэм! Он обхватил женщину за шею одной рукой, а другой схватил за запястье, пытаясь выхватить нож. Женщина отчаянно сопротивлялась, дико крича. Но Сэм был слишком силен для нее.
+
+Lila watched them as they fought. And then something unbelievable happened. As Sam pulled the old woman to the floor, the long grey hair slowly fell to one side of her head. Lila suddenly realized that the face wasn't the face of a woman. It was Norman Bates! And he was screaming like a woman!
+
+Лила наблюдала за их дракой. И тут произошло нечто невероятное. Когда Сэм повалил старушку на пол, длинные седые волосы медленно упали на одну сторону её головы. Лила вдруг поняла, что это не женское лицо. Это был Норман Бейтс! И он кричал как женщина!
+
+Lila pressed herself against the wall. She felt sick. And Norman Bates's mother, a dead woman with no eyes, watched with a wide smile on her brown face. She seemed to be laughing at her son as he lay screaming on the cold, stone floor.
+
+Лила прижалась к стене. Ей стало плохо. А мать Нормана Бейтса, мертвая женщина без глаз, наблюдала за ним с широкой улыбкой на своем смуглом лице. Казалось, она смеялась над сыном, который лежал и кричал на холодном каменном полу.
+
+## Chapter 15 'Look at that Fly on My Hand'
+
+## Глава 15 «Посмотрите на эту муху у меня на руке»
+
+Some time later, Sam and Lila sat with Jud Chambers in his office. The room was full of people, all of whom were listening to a man who was talking to them about Norman.
+
+Спустя некоторое время Сэм и Лила сидели с Джудом Чемберсом в его кабинете. Комната была полна людей, все они слушали человека, который рассказывал им о Нормане.
+
+'I got all the story,' Doctor Steiner said. 'But not from Norman. I heard it from his mother.'
+
+«Я узнал всю историю, — сказал доктор Штайнер. — Но не от Нормана. Я услышал её от его матери».
+
+'I don't understand,' said the sheriff.
+
+«Я не понимаю», — сказал шериф.
+
+'I know it's difficult, but I'll try to explain,' Doctor Steiner replied. 'You see, there is no Norman Bates. Not now. There never was one Norman Bates. He was half Norman, half his mother. Now he's all his mother. He'll probably never be Norman again.'
+
+«Я понимаю, это сложно, но я постараюсь объяснить», — ответил доктор Штайнер. «Видите ли, Нормана Бейтса не существует. Не сейчас. Никогда не было одного Нормана Бейтса. Он был наполовину Норманом, наполовину своей матерью. Теперь он — это только его мать. Вероятно, он никогда больше не станет Норманом».
+
+'Did he kill my sister?' Lila wanted to know.
+
+«Он убил мою сестру?» — хотела знать Лила.
+
+The doctor looked at her sadly. 'Yes. I'm sorry. He killed Arbogast too. If we look in that swamp near the motel, I think we'll find both of them. We'll probably find other dead people too. Pretty young women, just like your sister.'
+
+Доктор печально посмотрел на неё. «Да. Мне очень жаль. Он убил и Арбогаста. Если мы поищем в том болоте возле мотеля, думаю, найдём их обоих. Вероятно, найдём и других мёртвых. Красивые молодые женщины, прямо как твоя сестра».
+
+The doctor looked at all the serious faces in the room, and began to explain: 'We have to remember that, ten years ago, Norman killed his mother and her lover. He lived alone with his mother and she was the boss. Then she met another man, and Norman was jealous. He thought that his mother loved this other man more than she loved him, so he killed both of them. A short time later he went out one night, dug his dead mother out of the ground, brought her back to the house and hid her in the cellar. He looked after her like one of his stuffed birds.'
+
+Доктор окинул взглядом все серьёзные лица в комнате и начал объяснять: «Мы должны помнить, что десять лет назад Норман убил свою мать и её любовника. Он жил один с матерью, и она была главной. Потом она встретила другого мужчину, и Норман стал ревновать. Он подумал, что его мать любит этого другого мужчину больше, чем его, поэтому он убил их обоих. Вскоре после этого он вышел ночью, выкопал свою мёртвую мать из земли, принёс её в дом и спрятал в подвале. Он заботился о ней, как об одной из своих чучел птиц».
+
+'But keeping his mother's dead body was not enough. Norman soon began to think like his mother, to talk like his mother, to be his mother. She became half of him. Sometimes he was Norman, sometimes he was his mother, and sometimes he was both at the same time. He had to talk to himself.'
+
+«Но хранить тело мертвой матери было недостаточно. Вскоре Норман начал думать, говорить, говорить, быть похожей на свою мать. Она стала половиной его самого. Иногда он был Норманом, иногда – своей матерью, а иногда – и тем, и другим одновременно. Ему нужно было разговаривать с самим собой».
+
+'He was never all Norman, but he was sometimes all mother.'
+
+«Он никогда не был полностью Норманом, но иногда в нем проскальзывала вся его материнская непосредственность».
+
+'When he liked a girl, the mother side of his head became angry. His mother was jealous of him because he was jealous of her when she had a lover.'
+
+«Когда ему нравилась девушка, его материнская сторона начинала злиться. Мать ревновала его, потому что он ревновал её, когда у неё появлялся любовник».
+
+Doctor Steiner turned to Lila. 'When he met your sister, he thought she was beautiful. He wanted her. That was a problem for the mother side of him. There was a fight inside his head between the two of them, but his mother won because she was stronger. So he suddenly became his mother, and his mother killed Marion. When Marion was dead, Norman woke up after a kind of deep sleep, and really believed that his mother was the killer. He put your sister's body in the swamp because he loved his mother, and wanted to save her from the police.'
+
+Доктор Штайнер повернулся к Лиле. «Когда он встретил вашу сестру, он подумал, что она прекрасна. Он хотел ее. Это стало проблемой для его материнской стороны. Внутри его головы шла борьба между ними двумя, но его мать победила, потому что она была сильнее. Поэтому он внезапно стал похож на свою мать, а его мать убила Мэрион. Когда Мэрион умерла, Норман проснулся после какого-то глубокого сна и действительно поверил, что его мать — убийца. Он спрятал тело вашей сестры в болоте, потому что любил свою мать и хотел спасти ее от полиции».
+
+'When danger came too near, Norman put on his mother's clothes. He walked round the house, sat in her chair by the window and talked in her voice. He tried to be his mother, and now he is. The fight inside Norman's head is finished. The stronger person has won. He is now his mother.'
+
+«Когда опасность стала слишком близка, Норман надел одежду своей матери. Он ходил по дому, садился в ее кресло у окна и говорил ее голосом. Он пытался быть похожим на свою мать, и теперь он ею стал. Борьба в голове Нормана окончена. Победил сильнейший. Теперь он — его мать».
+
+'And what about the money?' said Jud Chambers. 'Who got that?'
+
+«А что насчет денег?» — спросил Джуд Чемберс. — «Кому они достались?»
+
+'The swamp,' Doctor Steiner replied.
+
+«Болото», — ответил доктор Штайнер.
+
+Somewhere in the same building, two policemen were standing guard outside a door. Behind the door there was a small white room with no furniture or windows. Norman Bates was alone in that room. He was sitting very still, with a strange smile on his face.
+
+Где-то в том же здании двое полицейских стояли на страже у двери. За дверью находилась небольшая белая комната без мебели и окон. Норман Бейтс был в этой комнате один. Он сидел совершенно неподвижно, со странной улыбкой на лице.
+
+Perhaps this person was Norman Bates: he had Norman's face, Norman's body, Norman's clothes. But it was really his mother who was alive. Norman was really dead now.
+
+Возможно, этим человеком был Норман Бейтс: у него было лицо Нормана, тело Нормана, одежда Нормана. Но на самом деле жива была его мать. Норман же теперь мертв.
+
+'It's sad when a mother has to tell the police about her son,' the voice inside Norman's head was saying. 'They'll put him in prison now. He in prison. A bad boy, who looked through holes in the wall and killed people. He thinks that I did all those bad things. He tried to tell that to the police. But they know it wasn't me. I've never done anything bad. I was like one of his stuffed birds. I could only watch. I couldn't stop him. I couldn't move.'
+
+«Как же грустно, когда матери приходится рассказывать полиции о своем сыне», — звучал голос в голове Нормана. «Они посадят его в тюрьму. Он в тюрьме. Плохой парень, который смотрел сквозь дыры в стенах и убивал людей. Он думает, что все эти плохие поступки совершил я. Он пытался рассказать об этом полиции. Но они знают, что это был не я. Я никогда не делал ничего плохого. Я был как одна из его чучел птиц. Я мог только смотреть. Я не мог его остановить. Я не мог пошевелиться».
+
+'Look at me. I can't even move a finger. And I'm not going to try. I'm going to sit here very still. I'm not going to move. I'll never move again.'
+
+«Посмотрите на меня. Я даже пальцем пошевелить не могу. И не буду пытаться. Я буду сидеть здесь совершенно неподвижно. Я не буду двигаться. Я никогда больше не пошевелюсь».
+
+'They're probably watching me now. They'll see the sort of person that I really am. I'm a kind person. The sort of person who can never hurt anyone. Look at that fly on my hand for example. I'm not going to kill it. I can't.'
+
+«Они, наверное, сейчас наблюдают за мной. Они увидят, какой я на самом деле человек. Я добрый. Такой человек, который никогда никому не причинит вреда. Посмотрите, например, на эту муху у меня на руке. Я не собираюсь её убивать. Не могу».
+
+'I hope they're watching. Then they'll see, and they'll know. And they'll say: "Look at her. She's a good woman. She can't even kill a fly."'
+
+«Надеюсь, они смотрят. Тогда они увидят и поймут. И скажут: „Посмотрите на неё. Она хорошая женщина. Она даже муху убить не может“».

@@ -12,7 +12,7 @@
 
 «Заседание Братского суда состоится в бухте Кораблекрушений», — сказал Барбосса. «Джек, мы с тобой туда поедем».
 
-"If the Pirate Lords arc meeting," Jack said angrily, "I'm going to sail my ship the other way."
+"If the Pirate Lords are meeting," Jack said angrily, "I'm going to sail my ship the other way."
 
 «Если пиратские лорды соберутся, — сердито сказал Джек, — я поплыву на своём корабле в другую сторону».
 
@@ -48,7 +48,7 @@ Thirteen years ago, the pirate Captain Jack Sparrow made an agreement with Davy 
 
 Тринадцать лет назад пиратский капитан Джек Воробей заключил соглашение с Дэви Джонсом. Джонс отдал Воробью корабль, «Чёрную жемчужину». Воробей согласился, спустя тринадцать лет, отдать свою душу и присоединиться к людям Джонса на «Летучем голландце». Но другой пират, Барбосса, украл «Жемчужину». С помощью Уильяма Тёрнера и Элизабет Суонн, дочери губернатора Порт-Рояля, Воробей попытался вернуть «Чёрную жемчужину». Ему это удалось, когда он убил Барбоссу на острове Муэрта.
 
-Elizabeth Swann is also our enemy. James Norrington, a British officer, wanted to marry her, but she fell in love with William Turner. When Norrington failed to catch Sparrow, he lost his job. Will Turner's father, "Bootstrap Bill," was a pirate on the Pearl. He is now a prisoner on the Flying Dutchman, and must work for Davy Jones for ever.
+Elizabeth Swann is also our enemy. James Norrington, a British officer, wanted to marry her, but she fell in love with William Turner. When Norrington failed to catch Sparrow, he lost his job. Will Turner's father, "Bootstrap Bill," was a pirate on the Pearl. He is now a prisoner on the Flying Dutchman, and must work for Davy Jones forever.
 
 Элизабет Суонн — тоже наш враг. Джеймс Норрингтон, британский офицер, хотел на ней жениться, но она влюбилась в Уильяма Тернера. Когда Норрингтону не удалось поймать Спэрроу, он потерял работу. Отец Уильяма Тернера, «Бутстрап Билл», был пиратом на «Жемчужине». Теперь он пленник на «Летучем голландце» и должен вечно работать на Дэйви Джонса.
 
@@ -170,7 +170,7 @@ Norrington was placing the key in the lock of the wooden box when Swann suddenly
 
 «Нет!» — крикнул Джонс. «Если ты убьешь сердце, то твое сердце должно занять его место. И ты станешь капитаном «Голландца»».
 
-Governor Swann stopped. He didn't want to take Jones's place and live for ever on this ship. But he wanted to stop Lord Beckett ... He turned again to the box, but Norrington held his arm and took the sword from him.
+Governor Swann stopped. He didn't want to take Jones's place and live forever on this ship. But he wanted to stop Lord Beckett ... He turned again to the box, but Norrington held his arm and took the sword from him.
 
 Губернатор Суонн остановился. Он не хотел занимать место Джонса и вечно жить на этом корабле. Но он хотел остановить лорда Беккета… Он снова повернулся к ящику, но Норрингтон схватил его за руку и отобрал меч.
 
@@ -210,9 +210,9 @@ Later, she felt bad about his death. She went with Will and Jack's sailors to se
 
 Позже она тяжело переживала его смерть. Она отправилась с Уиллом и моряками Джека к Тиа Далме. Тиа Далма была подругой Джека и могла видеть будущее. Она была загадочной женщиной.
 
-"You can bring Jack Sparrow back to the world of the living," Tia Dalma told them. "But you'll need the help of an old enemy ... Captain Barbossa. Jack killed Barbossa but / brought him back from the dead. He can help us to bring back Jack, too."
+"You can bring Jack Sparrow back to the world of the living," Tia Dalma told them. "But you'll need the help of an old enemy ... Captain Barbossa. Jack killed Barbossa but I brought him back from the dead. He can help us to bring back Jack, too."
 
-«Вы можете вернуть Джека Воробья в мир живых, — сказала им Тиа Далма. — Но вам понадобится помощь старого врага… капитана Барбоссы. Джек убил Барбоссу, но вернул его из мертвых. Он может помочь нам вернуть и Джека».
+«Вы можете вернуть Джека Воробья в мир живых, — сказала им Тиа Далма. — Но вам понадобится помощь старого врага… капитана Барбоссы. Джек убил Барбоссу, но я вернул его из мертвых. Он может помочь нам вернуть и Джека».
 
 Now Elizabeth and Barbossa were in a small boat in Singapore. Elizabeth looked across the city. It was a dark and shadowy place, full of secrets, pirates, and sharp knives.
 
@@ -242,9 +242,9 @@ Not far away, two Company agents were guarding an old, broken bridge. Captain Ja
 
 Неподалеку два агента Компании охраняли старый, разрушенный мост. Внизу, в воде, находились матросы капитана Джека Воробья. Рагетти поднял голову. Его здоровый глаз двигался, а деревянный глаз смотрел прямо перед собой. Пинтел, Гиббс, Коттон и Марти были позади него. Они подплыли к металлическим воротам и стали ждать. Они направлялись к убежищу Сао Фэна, чтобы помочь Элизабет и Барбоссе.
 
-There was a strange noise. The Company agents jumped to their feet. A woman came out of the darkness, pushing a large wooden box on noisy wheels. She smiled and showed a mouthful of black teeth. It was Tia Dahna. The noise of the wheels was loud and hid sounds from below. The pirates started to cut through the metal gate.
+There was a strange noise. The Company agents jumped to their feet. A woman came out of the darkness, pushing a large wooden box on noisy wheels. She smiled and showed a mouthful of black teeth. It was Tia Dalma. The noise of the wheels was loud and hid sounds from below. The pirates started to cut through the metal gate.
 
-Раздался странный шум. Агенты Компании вскочили на ноги. Из темноты вышла женщина, толкавшая большой деревянный ящик на шумных колёсах. Она улыбнулась и показала полный рот чёрных зубов. Это была Тиа Дана. Шум колёс был громким и заглушал звуки снизу. Пираты начали прорубать металлические ворота.
+Раздался странный шум. Агенты Компании вскочили на ноги. Из темноты вышла женщина, толкавшая большой деревянный ящик на шумных колёсах. Она улыбнулась и показала полный рот чёрных зубов. Это была Тиа Далма. Шум колёс был громким и заглушал звуки снизу. Пираты начали прорубать металлические ворота.
 
 Tai Huang took Barbossa and Elizabeth through an old bathhouse to Sao Feng's hiding place.
 
@@ -274,7 +274,7 @@ Sao Feng looked up. "Captain Barbossa!" he said. "Welcome to Singapore. I unders
 
 Сао Фэн поднял голову. «Капитан Барбосса!» — сказал он. «Добро пожаловать в Сингапур. Я так понимаю, вы от меня чего-то хотите?»
 
-"1 need a ship and some men," Barbossa replied.
+"I need a ship and some men," Barbossa replied.
 
 «Мне нужен корабль и несколько человек», — ответил Барбосса.
 
@@ -640,7 +640,7 @@ Elizabeth looked past Tia Dalma. Something was moving across the sand. It was th
 
 Элизабет посмотрела мимо Тиа Далмы. Что-то двигалось по песку. Это была «Чёрная жемчужина»! Капитан Джек Воробей гордо стоял у штурвала. Тысячи крабов поднесли жемчужину ближе, а затем сбросили её в воду.
 
-Jack waved to his men. "Gibbs! Pintel and you—the man with one eye." he cried. "Did the Kraken kill you, too?"
+Jack waved to his men. "Gibbs! Pintel and you—the man with one eye," he cried. "Did the Kraken kill you, too?"
 
 Джек помахал своим людям. «Гиббс! Пинтел и ты — одноглазый!» — крикнул он. «Кракен убил и тебя?»
 
@@ -900,9 +900,9 @@ Will went to Sao Feng's maps and looked at them again. Jack was already there, s
 
 Уилл подошел к картам Сао Фэна и снова их изучил. Джек уже был там, рассматривая таинственные круги и надписи. Барбосса стоял за штурвалом. Он не выглядел обеспокоенным.
 
-Will read the strange poem again. "Over the edge, hack, over again, sun up, sun down, a green light."
+Will read the strange poem again. "Over the edge, back, over again, sun up, sun down, a green light."
 
-Перечитаю это странное стихотворение. «За гранью, рубить, снова за гранью, восход солнца, закат солнца, зеленый свет».
+Перечитаю это странное стихотворение. «За край, обратно, снова за край, восход солнца, закат солнца, зеленый свет».
 
 Jack moved some of the circles on the maps, and suddenly saw some new words: "UP IS DOWN."
 
@@ -960,7 +960,7 @@ Will searched the deck until he found Elizabeth.
 
 «Солнце восходит», — сказала она, улыбаясь. «Мы еще не в безопасности — Дэви Джонс и лорд Беккет все еще где-то в океане. Но мы спасли Джека Воробья и выбрались из мира мертвых».
 
-Barbossa andjack were smiling, too. Everyone was happy—and then they all pulled out their guns. Barbossa and Elizabeth pointed their guns at Jack. Will and Gibbs pointed theirs at Barbossa. Jack pointed his gun at Will, then quickly pointed a second one at Barbossa. Barbossa also pulled out a second gun and pointed it at Gibbs. Elizabeth pointed her second gun at Barbossa.
+Barbossa and Jack were smiling, too. Everyone was happy—and then they all pulled out their guns. Barbossa and Elizabeth pointed their guns at Jack. Will and Gibbs pointed theirs at Barbossa. Jack pointed his gun at Will, then quickly pointed a second one at Barbossa. Barbossa also pulled out a second gun and pointed it at Gibbs. Elizabeth pointed her second gun at Barbossa.
 
 Барбосса и Джек тоже улыбались. Все были счастливы — а потом все достали оружие. Барбосса и Элизабет направили свои пистолеты на Джека. Уилл и Гиббс направили свои на Барбоссу. Джек направил свой пистолет на Уилла, а затем быстро направил второй на Барбоссу. Барбосса также вытащил второй пистолет и направил его на Гиббса. Элизабет направила свой второй пистолет на Барбоссу.
 
@@ -1574,7 +1574,7 @@ Bootstrap looked at her with sad eyes. "I know you," the old pirate said. "He sp
 
 «Да», — удивленно ответила Элизабет.
 
-"Will can't save me," Bootstrap said. "He won't, because of you. If he kills Davy Jones, he'll have to take his place. He'll be captain of the Dutchman for ever. If he saves me, he loses you."
+"Will can't save me," Bootstrap said. "He won't, because of you. If he kills Davy Jones, he'll have to take his place. He'll be captain of the Dutchman forever. If he saves me, he loses you."
 
 «Уилл не сможет меня спасти, — сказал Бутстрап. — Он не спасёт меня из-за тебя. Если он убьёт Дэви Джонса, ему придётся занять его место. Он навсегда останется капитаном «Голландца». Если он спасёт меня, он потеряет тебя».
 
@@ -1838,7 +1838,7 @@ Out in the ocean, Beckett's sailors pulled Will onto the Endeavour. He was very 
 
 «Барбосса созвал Братский суд не просто так, — объяснил Уилл. — Он хочет освободить некую Калипсо».
 
-Jones was afraid. "No!" he said. "They can't. She's a prisoner in a woman's body for ever. That was the agreement."
+Jones was afraid. "No!" he said. "They can't. She's a prisoner in a woman's body forever. That was the agreement."
 
 Джонс испугался. «Нет!» — сказал он. «Они не могут. Она навсегда останется пленницей в женском теле. Такова была договоренность».
 
@@ -2058,7 +2058,7 @@ Davy Jones looked away. "I don't love you," he said angrily.
 
 Дэви Джонс отвернулся. «Я тебя не люблю», — сердито сказал он.
 
-"That's sad," Tia Dalma said quietly. "Because soon 1 will be free. And when I am, I can give you my heart. We can be together, always."
+"That's sad," Tia Dalma said quietly. "Because soon I will be free. And when I am, I can give you my heart. We can be together, always."
 
 «Это грустно, — тихо сказала Тиа Далма. — Потому что скоро я буду свободна. И когда это произойдёт, я смогу отдать тебе своё сердце. Мы сможем быть вместе, всегда».
 
@@ -2392,7 +2392,7 @@ Beckett stood quietly on the Endeavour, drinking tea. He smiled. He wasn't worri
 
 Беккет тихо стоял на борту «Эндевора», попивая чай. Он улыбался. Он не волновался, потому что у него был «Летучий голландец».
 
-On the deck of the Du tchman, as Mercer ordered the sailors to prepare the cannon, the wind was getting stronger.
+On the deck of the Dutchman, as Mercer ordered the sailors to prepare the cannon, the wind was getting stronger.
 
 На палубе «Датчмена», когда Мерсер отдавал приказ матросам готовить пушки, ветер усиливался.
 
@@ -2640,9 +2640,9 @@ Beckett's other ships turned away.
 
 Остальные корабли Беккета повернули вспять.
 
-"They're running," Gibbs said. "They're afraid because the Dutchman and the Peart are working together."
+"They're running," Gibbs said. "They're afraid because the Dutchman and the Pearl are working together."
 
-«Они бегут, — сказал Гиббс. — Они боятся, потому что "Голландец" и "Пирт" действуют сообща».
+«Они бегут, — сказал Гиббс. — Они боятся, потому что "Голландец" и "Жемчужина" действуют сообща».
 
 On the Dutchman, Captain William Turner looked sadly across at the Pearl.
 
@@ -2718,7 +2718,7 @@ The Pearl was sailing away without him!
 
 «Опять случилось!» — сердито подумал он. «Как пират может честно зарабатывать деньги, если у него постоянно крадут корабль?»
 
-On the Pearl, Barbossa stood at the ship's wheel, and opened Sao Feng's old map. "There's more than one way to live for ever," he thought. Then he stepped back, surprised. There was a hole in the middle of the map! "Jack Sparrow ... again!"
+On the Pearl, Barbossa stood at the ship's wheel, and opened Sao Feng's old map. "There's more than one way to live forever," he thought. Then he stepped back, surprised. There was a hole in the middle of the map! "Jack Sparrow ... again!"
 
 На борту «Жемчужины» Барбосса стоял за штурвалом и открыл старую карту Сао Фэна. «Есть не один способ жить вечно», — подумал он. Затем он отступил назад, удивленный. Посередине карты была дыра! «Джек Воробей… снова!»
 

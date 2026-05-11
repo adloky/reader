@@ -708,9 +708,9 @@ The bartender shrugged and went off into the shadows.
 
 Бармен пожал плечами и скрылся в тени.
 
-## II
+## Chapter II
 
-## II
+## Глава II
 
 In the precinct the old man sat on a bench with the others, mostly thieves, who made up the late afternoon haul. He had neatly arranged along his thigh his Social Security card, his membership card in the St. Odo of Cluny Holy Name Society, a Golden Age Club badge, and a slip of paper naming him as a member of the American Legion. A young black man, eyeless behind space-age sunglasses, studied the little set of papers on the thigh next to his.
 
@@ -924,9 +924,9 @@ Jones listened in attentive silence somewhere within his cloud.
 
 «Ух ты!» — воскликнул Джонс, скрываясь в облаке.
 
-## III
+## Chapter III
 
-## III
+## Глава III
 
 Twilight was settling around the Night of Joy bar. Outside, Bourbon Street was beginning to light up. Neon signs flashed off and on, reflecting in the streets dampened by the light mist that had been falling steadily for some time. The taxis bringing the evening’s first customers, Midwestern tourists and conventioneers, made slight splashing sounds in the cold dusk.
 
@@ -1584,9 +1584,9 @@ Ignatius manipulated and concentrated. At last a vision appeared, the familiar f
 
 Игнатий сосредоточился и сконцентрировался. Наконец, ему явилось видение — знакомая фигура большого и преданного пса, который был его питомцем еще в старшей школе. «Гав!» — Игнатий почти услышал, как Рекс снова произнес: «Гав! Гав! Тянь!» Рекс выглядел таким живым. Одно ухо опустилось. Он тяжело дышал. Призрак перепрыгнул через забор и погнался за палкой, которая каким-то образом оказалась посреди одеяла Игнатия. По мере того, как рыжевато -белая шерсть приближалась, глаза Игнатия расширились, скосились и закрылись, и он слабо откинулся на четыре подушки, надеясь, что у него в комнате есть салфетки.
 
-## II
+## Chapter II
 
-## II
+## Глава II
 
 “I come about that cleaner job you got advertise in the paper.”
 
@@ -1748,9 +1748,9 @@ Jones shot out a fresh cloud. Through his glasses he could hardly see anything a
 
 Джонс выпустил новое облако. Сквозь очки он почти ничего не мог разглядеть.
 
-## III
+## Chapter III
 
-## III
+## Глава III
 
 Patrolman Mancuso enjoyed riding the motorcycle up St. Charles Avenue. At the station he had borrowed a large and loud one that was all shiny metal and baby blue, and at the touch of a switch it could become a game machine of flashing, winking, blinking red and white lights. The siren, a noise of twelve wild wildcats, was enough to make suspicious characters within a half-mile distance lose control in panic and rush for cover. Patrolman Mancuso’s love for the motorcycle was platonically intense.
 
@@ -2560,9 +2560,9 @@ Ignatius sighed heavily and said, "I see no alternative." He twisted his face in
 
 «Я так горжусь тобой, что ты наконец-то начнёшь работать», — сказала миссис Рейли с волнением и поцеловала сына в влажные усы.
 
-## IV
+## Chapter IV
 
-## IВ
+## Глава IV
 
 “Look at that old gal,” Jones mused to his psyche as the bus bounced and threw him against the woman sitting beside him. “She think cause I color I gonna rape her. She about to throw her grammaw ass out the window. Whoa! I ain gonna rape nobody.”
 
@@ -2592,9 +2592,9 @@ Jones turned from the window when the man in the red beard ran off and opened th
 
 Когда мужчина с рыжей бородой убежал, Джонс отвернулся от окна и открыл журнал Life, который ему дала Дарлин. По крайней мере, Дарлин была к нему любезна в «Ночь радости». Дарлин подписалась на Life с целью самосовершенствования и, подарив его Джонсу, предположила, что он тоже может найти его полезным. Джонс попытался прочитать статью об американском вмешательстве на Дальнем Востоке, но остановился на полпути, задаваясь вопросом, как что-то подобное может помочь Дарлин стать экзотической красавицей, о чем она постоянно говорила. Он вернулся к рекламе, потому что именно она его и интересовала в журналах. Выбор в этом журнале был превосходным. Ему понравилась реклама страховой компании Aetna с фотографией прекрасного дома, который только что купила пара. Мужчины, рекламирующие лосьон для бритья Yardley, выглядели круто и богато. Вот как журнал мог ему помочь. Он хотел выглядеть точно так же, как эти мужчины.
 
-## V
+## Chapter V
 
-## В
+## Глава V
 
 When Fortuna spins you downward, go out to a movie and get more out of life. Ignatius was about to say this to himself; then he remembered that he went to the movies almost every night, no matter which way Fortuna was spinning.
 
@@ -2904,9 +2904,9 @@ Ignatius shuffled miserably back to the kitchen and fell into a chair.
 
 "Боже мой!"
 
-## II
+## Chapter II
 
-## II
+## Глава II
 
 Patrolman Mancuso had a good idea that had been given to him by, of all people, Ignatius Reilly. He had telephoned the Reillys’ house to ask Mrs. Reilly when she could go bowling with him and his aunt. But Ignatius had answered the telephone and screamed, “Stop molesting us, you fool. If you had any sense, you would be investigating dens like that Night of Joy in which my beloved mother and I were mistreated and robbed. I, unfortunately, was the prey of a vicious, corrupt B-girl. In addition, the owner is a Nazi. We barely escaped with our lives. Go investigate that gang and let us alone, you home-wrecker.”
 
@@ -2960,9 +2960,9 @@ Patrolman Mancuso drifted sadly off to the lockers, wondering why he could never
 
 «Ещё бы», — задумчиво произнёс сержант. — «Что ж, ещё одна подобная жалоба — и мы арестуем Манкузо».
 
-## III
+## Chapter III
 
-## III
+## Глава III
 
 Mr. Gonzalez turned the lights on in the small office and lit the gas heater beside his desk. In the twenty years that he had been working for Levy Pants, he had always been the first person to arrive each morning.
 
@@ -3192,9 +3192,9 @@ That day one other office worker, the secretary, appeared. One woman telephoned 
 
 В тот день появилась еще одна сотрудница офиса, секретарь. Одна женщина позвонила и сказала, что решила уволиться и перейти на временную работу. Остальные вообще не связывались с Леви Пантсом.
 
-## IV
+## Chapter IV
 
-## IВ
+## Глава IV
 
 “Take those glasses off. How the hell can you see all that crap on the floor?”
 
@@ -3416,9 +3416,9 @@ Jones rested his mop against the bar and scouted for the coin, squinting through
 
 «Слушай, кого ты называешь „мальчиком“?» Джонс схватил метлу за ручку и энергично двинулся к алтарю. «Ты не Скарла О’Хоррор».
 
-## V
+## Chapter V
 
-## В
+## Глава V
 
 Ignatius eased himself into the taxi and gave the driver the Constantinople Street address. From the pocket of his coat he took a sheet of Levy Pants paper, and borrowing the driver’s board for a desk, he began to write as the taxi joined the dense traffic on St. Claude Avenue.
 
@@ -4024,9 +4024,9 @@ Happily pondering the thought that the world understood only strength and force,
 
 С удовольствием размышляя о том, что мир понимает только силу и мощь, Игнатиус скопировал подпись Леви на письме ручкой офис-менеджера, разорвал письмо мистера Гонсалеса к Абельману и вложил своё в ящик для исходящей корреспонденции. Затем он осторожно обошёл неподвижную маленькую фигурку мисс Трикси, вернулся в отдел делопроизводства, поднял стопку всё ещё нерассортированных документов и выбросил её в мусорное ведро.
 
-## II
+## Chapter II
 
-## II
+## Глава II
 
 “Hey, Miss Lee, that fat mother got him the green cap, he comin in here anymore?”
 
@@ -4068,9 +4068,9 @@ Lana twisted up her coral lips and tried to imagine who had tipped off the polic
 
 Лана поджала свои коралловые губы и попыталась представить, кто сообщил в полицию.
 
-## III
+## Chapter III
 
-## III
+## Глава III
 
 Mrs. Reilly could not believe that it had really happened to her. There was no television. There were no complaints. The bathroom was empty. Even the insects seemed to have pulled up stakes. She sat at the kitchen table sipping a little wine and blew away the one baby bug that was starting to cross the table. The tiny body flew off the table and disappeared, and Mrs. Reilly said, “So long, darling.” She poured another bit of wine, realizing for the first time that the house smelled different, too. It smelled as close as it ever did, but her son’s curious personal odor, which always reminded her of the scent of old tea bags, seemed to have lifted. She lifted her glass and wondered whether Levy Pants was beginning to smell a little of used pekoe.
 
@@ -4228,9 +4228,9 @@ Mrs. Reilly sighed and looked at the floor to see whether the baby bug was still
 
 «Хорошо, и послушай, дорогая, попробуй спросить у рыбного рынка, кто этот старик».
 
-## IV
+## Chapter IV
 
-## IВ
+## Глава IV
 
 The Levy home stood among the pines on a small rise overlooking the gray waters of Bay St. Louis. The exterior was an example of elegant country simplicity; the interior was a successful attempt at keeping the rustic out entirely, a permanently seventy-five-degree womb connected to the year-round air-conditioning unit by an umbilicus of vents and pipes that silently filled the rooms with filtered and recycled Gulf of Mexico breezes and breathed out the Levys’ carbon dioxide and cigarette smoke and boredom. The central machinery of the great life-giving unit pulsed somewhere in the soundproofed bowels of the home, like a Red Cross instructor giving rhythm in an artificial breathing class, “In comes the good air, out goes the bad air, in comes the good air.”
 
@@ -4452,9 +4452,9 @@ She touched the high plasticized curls of her platinum hair.
 
 «Я уже разрешил тебе оставить Трикси в офисе, где, я знаю, она, должно быть, целый день сводит этого Гонсалеса с ума. Когда я был там сегодня утром, все валялись на полу. Не спрашивай меня, что они там делали. Это могло быть что угодно». Мистер Леви присвистнул сквозь зубы. «Гонсалес, как обычно, на Луне, но ты бы видел, какой там ещё один придурок работает. Я не знаю, откуда его взяли. Ты бы не поверил своим глазам, поверь мне. Боюсь догадаться, что эти три клоуна делают в этом офисе целый день. Удивительно, что до сих пор ничего не произошло».
 
-## V
+## Chapter V
 
-## В
+## Глава V
 
 Ignatius had decided against going to the Prytania. The movie being shown was a widely praised Swedish drama about a man who was losing his soul, and Ignatius was not particularly interested in seeing it. He would have to speak with the manager of the theater about booking such dull fare.
 
@@ -4820,9 +4820,9 @@ Lana went back into the bar.
 
 «Раньше старые члены клуба «Киванис» любили приходить и смотреть, как симпатичная девушка немного потанцует. А теперь это обязательно должно быть с каким-нибудь животным. Знаете, что не так с людьми сегодня? Они больны. Человеку трудно честно заработать деньги». Лана закурила сигарету и, глядя на Джонса, ответила ему тем же. «Хорошо. Попробуем птицу. Наверное, тебе безопаснее быть на моей сцене с птицей, чем на моих стульях с полицейским. Приведи эту чертову птицу».
 
-## II
+## Chapter II
 
-## II
+## Глава II
 
 Mr. Gonzalez sat next to his little heater listening to the sounds of the river, his peaceful soul suspended in a Nirvana somewhere far above the two antennae of Levy Pants. His senses without thinking savored the noise of rats and the smell of old paper and wood and the possessed feeling that his pair of loose Levy Pants gave him. He breathed out a thin stream of filtered smoke and aimed the cigarette’s ashes like a shooter directly at the center of his tray. The impossible had happened: life at Levy Pants had become even better. The reason was Mr. Reilly. What fairy aunt had dropped Mr. Ignatius J. Reilly on the worn and rotting steps of Levy Pants?
 
@@ -5104,9 +5104,9 @@ Then he lumbered off to the factory door, roaring past Miss Trixie, who had fall
 
 Затем он, тяжело ступая, направился к двери фабрики, промчавшись мимо мисс Трикси, которая снова упала на колени перед крестом.
 
-## III
+## Chapter III
 
-## III
+## Глава III
 
 Patrolman Mancuso had tried a little moonlighting in his effort to catch someone, anyone for the sergeant. After dropping off his aunt from the bowling alley, he had stopped in the bar on his own to see what he could turn up. What had turned up was these three terrifying girls who had struck him. He touched the bandage on his head as he entered the precinct to see the sergeant, who had summoned him.
 
@@ -5164,9 +5164,9 @@ Patrolman Mancuso had tried a little moonlighting in his effort to catch someone
 
 «Не говори „хорошо“. Говори „да, сэр“. А теперь убирайся отсюда и иди поищи в своём шкафчике. Сегодня ты фермер».
 
-## IV
+## Chapter IV
 
-## IВ
+## Глава IV
 
 Ignatius opened “The Journal of a Working Boy” to the first unused sheet of Blue Horse paper filler, busily snapping the point of his pen forward. The point of the Levy Pants pen did not catch on the first snap and slipped back into the plastic cylinder. Ignatius snapped more vigorously, but again the point slid disobediently back out of sight. Cracking the pen furiously on the edge of his desk, Ignatius picked up one of the Venus Medalist pencils lying on the floor. He probed the wax in his ears with the pencil and began to concentrate, listening to the sounds of his mother’s preparations for an evening at the bowling alley. There were many sharp steps back and forth in the bathroom, which meant, he knew, that his mother was attempting to accomplish several phases of her toilet at once. Then there were the noises that he had grown accustomed to over the years whenever his mother was preparing to leave the house: the sound of a hair brush falling into the toilet bowl, the sound of a box of powder hitting the floor, the sudden exclamations of confusion and chaos.
 
@@ -5476,9 +5476,9 @@ Gary, Your Militant Working Boy
 
 Гэри, твой воинственный рабочий мальчик
 
-## V
+## Chapter V
 
-## В
+## Глава V
 
 Dr. Talc lit a Benson & Hedges, looking out of the window of his office in the Social Studies Building. Across the dark campus he saw some lights from the night classes in other buildings. All night he had been searching his desk for his notes on the British monarch of legend, notes hurriedly copied from a hundred-page survey of British history that he had once read in paperback. The lecture was to be given tomorrow, and it was now almost eight-thirty. As a lecturer Dr. Talc was renowned for the easy and sharp wit and easily digested generalizations that made him popular among the girl students and helped to conceal his lack of knowledge about almost everything in general and British history in particular.
 
@@ -5688,9 +5688,9 @@ Jones’s eyes widened behind his glasses.
 
 «Ну, мне нужно спросить его об этом», — сказал мужчина. «Я точно не хочу, чтобы меня водил за нос осужденный, запрещая проводить демонстрации».
 
-## II
+## Chapter II
 
-## II
+## Глава II
 
 Mr. Gonzalez was at Levy Pants early, as usual. He symbolically lit his little heater and a filtered cigarette with the same match, lighting two torches that signaled the start of another working day. Then he applied his mind to his early morning meditations. Mr. Reilly had added a new touch to the office the day before, strips of purple, gray, and tan paper looped from bulb to bulb across the ceiling. The cross and signs and strips in the office reminded the office manager of Christmas decorations and made him feel slightly sentimental. Looking happily into Mr. Reilly’s area, he noticed that the bean vines were growing so healthily that they had even begun to twist downward through the handles of the file drawers. Mr. Gonzalez wondered how the file clerk managed to do his filing without disturbing the tender shoots. Pondering this office puzzle, he was surprised to see Mr. Reilly himself burst like a missile through the door.
 
@@ -6160,17 +6160,17 @@ The warriors said nothing and began to follow the choir and the two standard-bea
 
 «Вернитесь сюда! Мы ещё не закончили. Можете позвать мисс Трикси, если хотите», — отчаянно кричал Игнатий исчезающему батальону, но процессия продолжала молча и решительно спускаться по лестнице в цех. Наконец, дверь захлопнулась, оставив последнего из борцов за мавританское достоинство.
 
-## III
+## Chapter III
 
-## III
+## Глава III
 
 Patrolman Mancuso looked at his watch. He had been in the rest room a full eight hours. It was time to check his costume in at the precinct and go home. He had arrested no one all day and, in addition, he seemed to be catching a cold. It was chilly and damp in that booth. He coughed and tried to open the door, but it wouldn’t give. He shook it, fumbled with the lock, which appeared to be stuck. After a minute or so of rattling and pushing, he called, “Help!”
 
 Патрульный Манкузо посмотрел на часы. Он пробыл в туалете целых восемь часов. Пора было сдать свою форму в участок и идти домой. За весь день он никого не арестовал, да и, к тому же, похоже, простудился. В туалетной кабинке было холодно и сыро. Он кашлянул и попытался открыть дверь, но она не открывалась. Он потряс её, повозился с замком, который, казалось, заклинило. После минуты или около того, в ходе которой он гремел и толкал дверь, он крикнул: «Помогите!»
 
-## IV
+## Chapter IV
 
-## IВ
+## Глава IV
 
 “Ignatius! So you got yourself fired.”
 
@@ -6268,9 +6268,9 @@ Mrs. Reilly snatched the paper from her son, leaving two little scraps of it in 
 
 "Ничего."
 
-## V
+## Chapter V
 
-## В
+## Глава V
 
 Mrs. Levy lay prone on the motorized exercising board, its several sections prodding her ample body gently, pushing and pressing her soft white flesh like a loving baker. Winding her arms under the table, she held it tightly.
 
@@ -7180,9 +7180,9 @@ Ignatius pondered the proposal for some time, scrutinizing the scar on the old m
 
 "Да."
 
-## II
+## Chapter II
 
-## II
+## Глава II
 
 Jones was blindly running a sponge along the bar. Lana Lee had gone on a shopping trip, her first one in a long time, locking the cash register loudly and warningly before leaving. After he had wet the bar a little, Jones tossed the sponge back into the bucket, took a seat in a booth, and tried to look at the latest Life Darlene had given him. He lit a cigarette, but the cloud of smoke made the magazine even more invisible. The best reading light in the Night of Joy was the small one on the cash register, so Jones went over to the bar and flipped it on. He was just beginning a study in-depth of a cocktail party scene in a Seagram’s V.O. advertisement when Lana Lee pushed into the bar.
 
@@ -7384,9 +7384,9 @@ Jones covered the two with some smoke and said, “I think Darlene and that ther
 
 «Ух ты! Вот это да! На это представление придет всякая ерунда».
 
-## III
+## Chapter III
 
-## III
+## Глава III
 
 “Santa, I hadda call you, honey.”
 
@@ -8084,9 +8084,9 @@ She tried to rise, but Mrs. Levy had pinned her to the yellow nylon.
 
 Она попыталась подняться, но миссис Леви прижала ее к желтому нейлону.
 
-## II
+## Chapter II
 
-## II
+## Глава II
 
 His cold was getting worse and worse, and each cough caused a vague pain in his lungs that lingered on for moments after the cough had burned his throat and chest. Patrolman Mancuso wiped his mouth clean and tried to clear the mucus from his throat. One afternoon he had had such a bad feeling of being trapped that he almost fainted in the booth. Now it seemed that he was ready to faint from the lightheadedness that the cold had induced. He leaned his head against the side of the booth for a moment and closed his eyes. Red and blue clouds floated across his eyelids. He had to capture some character and get out of that rest room before his fever got so bad that the sergeant had to carry him to and from the booth every day. He had always hoped to win honor on the force, but what honor was there in dying of pneumonia in a bus station rest room? Even his relatives would laugh. What would his children say to their friends at school?
 
@@ -8184,9 +8184,9 @@ This was really bad luck. That undercover agent would be searching the bus stati
 
 «Трусишка», — пробормотал Джордж. Он засунул пакеты повыше под мышку и понял, что несёт ещё и книгу, которую забрал у агента под прикрытием. Украл у копа. Это тоже хорошо. Мисс Ли попросила его принести ей нужную книгу. Джордж посмотрел на название: «Утешение философией». Что ж, теперь у неё есть книга.
 
-## III
+## Chapter III
 
-## III
+## Глава III
 
 Santa Battaglia tasted a spoonful of the potato salad, cleaned the spoon with her tongue, and placed the spoon neatly on a paper napkin next to the plate of salad. Sucking some pieces of parsley and onion from between her teeth, she said to the picture of her mother on the shelf, “They gonna love that. Nobody makes a good potatis salad like Santa.”
 
@@ -9424,9 +9424,9 @@ Ignatius folded the letter violently; then he rolled the folded Macy’s bag int
 
 «Заткнись там!» — прокричала мисс Энни сквозь ставни, когда Игнатий, закутавшись в мантию, ворвался в холл, обдумывая свою самую важную проблему: организацию новой атаки на наглость этого мальчишки. Борьба за гражданские права провалилась из-за дезертирства в рядах. Должны быть и другие атаки, которые можно было бы начать в сфере политики и секса. Желательно в политике. Эта стратегия заслуживала его полного внимания.
 
-## II
+## Chapter II
 
-## II
+## Глава II
 
 Lana Lee was on a bar stool, her legs crossed in tan leather trousers, her muscular buttocks pinning the stool to the floor and commanding it to support her in perfectly vertical form. When she moved slightly, the great muscles of her lower cheeks shifted to life to prevent the stool from leaning and wobbling even a bit. The muscles moved around the cushion of the stool and grabbed it, holding it erect. Long years of practice and usage had made her rear an unusually versatile and skilled thing.
 
@@ -9720,9 +9720,9 @@ Darlene sighed hopelessly and said, “There sure was plenty bones at that ball,
 
 Дарлин безнадежно вздохнула и сказала: «На том балу, конечно, было полно костей, дорогая, но я все равно получила свою награду».
 
-## III
+## Chapter III
 
-## III
+## Глава III
 
 Patrolman Mancuso leaned against the sergeant’s desk and gasped, “You gotta take me out that bathroom. I can breathe no more.”
 
@@ -9772,9 +9772,9 @@ Patrolman Mancuso nodded, sniffling.
 
 «Мне нужно привести к вам кое-кого», — снова выдохнул патрульный Манкузо, на этот раз еще более неубедительно, чем в первый раз. Затем он уснул в своем необычном костюме, став главной шуткой сержанта над ним. На нем была бейсболка и костюм Санта-Клауса.
 
-## IV
+## Chapter IV
 
-## IВ
+## Глава IV
 
 Ignatius ignored his mother’s pounding on his door and crying in the hall about the fifty cents in wages that he had brought home for the day’s work. Sweeping the Big Chief tablets, yo-yo, and rubber glove from his desk, he opened the Journal and began to write:
 
@@ -9872,9 +9872,9 @@ Lance, Your Harassed Working Boy
 
 Лэнс, твой измученный рабочий мальчик
 
-## V
+## Chapter V
 
-## В
+## Глава V
 
 The lovely girl smiled hopefully at Dr. Talc and breathed, “I just love your course. I mean, it’s grand.”
 
@@ -10096,9 +10096,9 @@ Mr. Levy couldn’t believe it. Miss Trixie looked exactly like Mrs. Levy’s mo
 
 Мистер Леви не мог поверить своим глазам. Мисс Трикси была точь-в-точь как мать миссис Леви.
 
-## II
+## Chapter II
 
-## II
+## Глава II
 
 In Mattie’s Ramble Inn, Jones poured a glassful of beer and sank his long teeth into the foam.
 
@@ -10168,9 +10168,9 @@ In Mattie’s Ramble Inn, Jones poured a glassful of beer and sank his long teet
 
 «Ух ты!»
 
-## III
+## Chapter III
 
-## III
+## Глава III
 
 Ignatius was beginning to feel worse and worse. His valve seemed to be glued, and no amount of bouncing was opening it. Great bursts tipped out of the gas pockets of his stomach and tore through his gut. Some escaped noisily. Others, smaller bursts, lodged in his chest and caused massive pain.
 
@@ -10860,9 +10860,9 @@ Dorian skipped off down the alley to find the corrupt sailor. Ignatius looked to
 
 Дориан, подпрыгивая, побежал по переулку, чтобы найти коррумпированного моряка. Игнатий посмотрел в сторону Ройал-стрит и задумался, что случилось с женской художественной группой. Он тяжело перевалился к пешеходной дорожке, где была спрятана его тележка, приготовил хот-дог и помолился, чтобы до конца дня появились покупатели. С грустью он понял, как низко Фортуна опустила его колесо. Он никогда не представлял, что однажды будет молиться, чтобы люди покупали у него хот-доги. По крайней мере, у него был готов великолепный новый план против М. Минкоффа. Мысль о стартовом митинге очень его воодушевила. На этот раз смутьян будет полностью сбит с толку.
 
-## IV
+## Chapter IV
 
-## IВ
+## Глава IV
 
 It was all a matter of storage. From almost one to three every afternoon George was stuck with the packages. One afternoon he had gone to a movie, but even there in the dark watching a double bill of two nudist colony films he wasn’t comfortable. He was afraid to put the packages down on an adjoining seat, especially in a theater like that one. Holding them in his lap, he was reminded of the burden throughout the three hours of tanned flesh that filled the screen. On the other days he had carried them around with him during boring wanderings through the business district and the Quarter. But by three o’clock he was so tired from the marathon of strolling that he hardly had the enthusiasm to negotiate his day’s business; and in two hours of being carried, the wrapping on the packages got damp and started to break. If one of those packages broke open on the street, he could plan to spend the next few years in a juvenile detention home. Why had that undercover agent tried to arrest him in the rest room? He hadn’t done a thing. That agent must have had some sort of detective ESP.
 
@@ -11296,9 +11296,9 @@ Mrs. Reilly was wondering if she could easily pull her hand out of Mr. Robichaux
 
 «Что?» — дико закричала миссис Рейли, разрыдавшись безудержным потоком, который не прекращался до тех пор, пока испуганный мистер Робишо не взял её тёмно-красную голову и осторожно не положил её себе на плечо.
 
-## II
+## Chapter II
 
-## II
+## Глава II
 
 Dear Reader,
 
@@ -11372,9 +11372,9 @@ Tab, Your Pacifist Working Boy
 
 Таб, твой пацифист-рабочий мальчик
 
-## III
+## Chapter III
 
-## III
+## Глава III
 
 Mrs. Levy helped the renovated Miss Trixie up the steps and opened the door.
 
@@ -11960,9 +11960,9 @@ In the sports car, as they drove through the salt marshes that led back to the c
 
 «Я же вам уже говорила!» — закричала миссис Леви. «Оставьте доску в покое!» — она поправила свои растрепанные меха. — «А теперь займитесь этим сумасшедшим Рейли, пока Абельман не спустился сюда и не начал разбирать колеса этой спортивной машины. С таким человеком у Абельмана нет никаких шансов. Врач Ленни сможет проанализировать Рейли, и государство посадит его куда-нибудь, где он не сможет причинять вред людям. Слава богу, Сьюзен и Сандра не узнают, что чуть не стали продавать таблетки от насекомых по домам. Их сердца бы разбились, если бы они узнали, как беспечно их собственный отец заботился об их благополучии».
 
-## IV
+## Chapter IV
 
-## IВ
+## Глава IV
 
 George had set up his watch on Poydras Street across from the Paradise Vendors, Incorporated, garage. He had remembered the name on the wagon and looked up the address of the selling firm. All morning he had waited for the big seller, who had never shown up. Perhaps he had been fired for stabbing the fairy in Pirate’s Alley. At noon George had left his post and gone down to the Quarter to get the packages from Miss Lee. Now he was back on Poydras wondering whether the seller was going to show. George had decided to try to be nice to him, to hand him a few dollars right away. Hot dog sellers must be poor. He’d appreciate a few bucks. This seller was a perfect front man. He would never know what was coming off. He had a good education, though.
 
@@ -14308,9 +14308,9 @@ Everything was going wrong.
 
 Всё шло наперекосяк.
 
-## II
+## Chapter II
 
-## II
+## Глава II
 
 Mr. Clyde looked at the morning paper and fired Reilly. The big ape’s career as a vendor was finished. Why was that fool wearing his outfit when he was off duty? One ape like Reilly could demolish ten years of trying to build up a decent commercial name. Hot dog vendors had an image problem already without one of them passing out in the street by a whorehouse.
 
@@ -14324,9 +14324,9 @@ Mr. Clyde telephoned the number on Constantinople Street several times and got n
 
 Мистер Клайд несколько раз звонил по номеру на Константинопольской улице, но никто не ответил. Может, его куда-то заперли. Наверное, мать этой большой обезьяны где-то лежит мертвецки пьяная. Один Бог знает, какая она. Должно быть, это довольно странная семья.
 
-## III
+## Chapter III
 
-## III
+## Глава III
 
 Dr. Talc had been having a miserable week. Somehow the students had found one of those threats that that disturbed graduate student had flooded him with a few years before. How it got into their hands he didn’t know. The results were already awful. An underground of rumors about the note was slowly spreading; he was becoming the butt of the campus. At a cocktail party one of his colleagues had finally explained to him the reason for the laughter and whispering that were disrupting his previously respectful classes.
 
@@ -14352,17 +14352,17 @@ Dr. Talc put down his paper and his glass and covered his face with his hands. H
 
 Доктор Тальк отложил бумагу и стакан и закрыл лицо руками. Ему придётся жить с этой запиской. Он будет всё отрицать.
 
-## IV
+## Chapter IV
 
-## IВ
+## Глава IV
 
 Miss Annie looked at her morning newspaper and turned red. She had been wondering why it was so quiet over at the Reilly household this morning. Well, this was the last straw. Now the neighborhood was getting a bad name. She couldn’t take it anymore. Those people had to move. She’d get the neighbors to sign a petition.
 
 Мисс Энни взглянула на свою утреннюю газету и покраснела. Она все удивлялась, почему сегодня утром в доме Рейли так тихо. Что ж, это была последняя капля. Теперь у района появилась плохая репутация. Она больше не могла этого терпеть. Эти люди должны переехать. Она попросит соседей подписать петицию.
 
-## V
+## Chapter V
 
-## В
+## Глава V
 
 Patrolman Mancuso looked at the newspaper again. Then he held it to his chest and the flashbulb popped. He had brought his own simple camera to the precinct and asked the sergeant to photograph him against certain official backdrops: the sergeant’s desk, the steps of the precinct, a squad car, a traffic officer whose specialty was school zone speeders.
 
@@ -14420,9 +14420,9 @@ Patrolman Mancuso cleared his throat very violently.
 
 «Можно мне вернуть мою камеру?» — почти невнятно спросил он, когда наконец откашлялся.
 
-## VI
+## Chapter VI
 
-## ВI
+## Глава VI
 
 Santa Battaglia held the newspaper up to her mother’s picture and said, “How you like that, babe? How you like the way your grandson Angelo made good? You like that, darling?” She pointed to another photograph. “How you like poor Irene’s crazy boy laying there in the street like a washed-up whale? Ain’t that sad? That girl’s gotta get that boy put away this time. You think any man’s gonna marry Irene with that big bum laying around the house? Of course not.”
 
@@ -14432,9 +14432,9 @@ Santa snatched at her mother’s picture and gave it a moist smack. “Take it e
 
 Санта схватил фотографию её матери и влажным шлепком её по ней. «Успокойся, детка. Я молюсь за тебя».
 
-## VII
+## Chapter VII
 
-## ВII
+## Глава VII
 
 Claude Robichaux looked at the newspaper with a heavy heart as he rode the bus to the hospital. How could that big boy disgrace a fine, sweet woman like Irene? Already she was pale and tired from worrying about her son. Santa was right: that son of Irene’s had to be treated before he brought any more disgrace to his wonderful mother.
 
@@ -14448,9 +14448,9 @@ But worst of all was the disgrace.
 
 Но хуже всего был позор.
 
-## VIII
+## Chapter VIII
 
-## ВIII
+## Глава VIII
 
 George was gluing the article in the Junior Achievement book that was one of his keepsakes from his last semester at school. He glued it on an empty page between his biology drawing of the main artery of a duck and his civics project on the history of the Constitution. He had to give it to that Mancuso guy: he was really on the ball. George wondered if his name was on that list the cops had found in the cabinet. If it was, it might be a good idea to go visit his uncle who lived on the coast. Even then, they’d have his name. He really didn’t have enough money to go anywhere. The best thing was to stay at home for a while. That Mancuso might spot him if he went downtown.
 
@@ -14472,9 +14472,9 @@ George started for the kitchen before he realized that there was nowhere to go. 
 
 Джордж направился на кухню, но не понял, что идти некуда. В квартирах этого жилого комплекса была всего одна дверь.
 
-## IX
+## Chapter IX
 
-## IX
+## Глава IX
 
 Lana Lee tore the newspaper into pieces and then tore the pieces into smaller pieces. When the guard stopped by the cell to tell her to clean it up, one of the members of the ladies’ group, all three of whom were sharing the cell, said to the guard, “Beat it. We’re the ones living in this place. We like paper on the floor.”
 
@@ -14544,9 +14544,9 @@ The three girls lunged for Lana at the same time.
 
 Все три девушки одновременно бросились на Лану.
 
-## X
+## Chapter X
 
-## X
+## Глава X
 
 Dorian Greene turned one of his severe calling cards over and printed on the reverse side: “Stunning apartment for rent. Apply at 1A.” He stepped out onto the stone sidewalk and tacked the card to the bottom of one of the black patent leather shutters. The girls would be gone for quite a while this time. Police were always so firm about second offenses. It was unfortunate that the girls had never been very friendly with their fellow residents in the Quarter; someone would certainly have pointed out that marvelous patrolman to them, and they would not have made the fatal mistake of attacking a member of the police force.
 
@@ -14560,9 +14560,9 @@ Dorian picked up a cowboy boot from which a heel had been broken and dropped it 
 
 Дориан поднял ковбойский сапог со сломанным каблуком и бросил его в мусорное ведро, гадая, всё ли в порядке с этим невыносимым Игнатиусом Дж. Рейли. Некоторые люди были просто невыносимы. Милая мать Цыганки, должно быть, была опустошена ужасной газетной шумихой.
 
-## XI
+## Chapter XI
 
-## XI
+## Глава XI
 
 Darlene cut her picture out of the paper and put it on the kitchen table. What an opening night. At least she had received a little publicity from it.
 
@@ -14580,9 +14580,9 @@ Darlene sat down to ponder job possibilities. The parrot flapped and cried until
 
 Дарлин села, чтобы обдумать варианты работы. Попугай хлопал крыльями и плакал, пока она не засунула ему в рот необычную серёжку, его любимую игрушку. Затем зазвонил телефон, и когда она ответила, мужчина сказал: «Послушайте, вы получили отличную рекламу. Теперь я управляю клубом в квартале пятьсот по Бурбон-стрит, и…»
 
-## XII
+## Chapter XII
 
-## XII
+## Глава XII
 
 Jones spread the newspaper on the bar of Mattie’s Ramble Inn and blew some smoke at it.
 
@@ -14624,9 +14624,9 @@ Jones blew a dark cloud, a storm warning, and said, “After the kinda job I jus
 
 «Да. Можешь так сказать, чувак. У тебя небольшой бизнес, сын, который преподает в школе, наверное, купил ему набор для пикника, Buick, кондиционер, телевизор. Ого! У меня даже радиопередатчика нет. Зарплата "Ночи радости" держит людей ниже уровня кондиционера». Джонс задумался. «Но в каком-то смысле ты прав, Уотсон. Возможно, дела обстоят хуже. Может быть, я стану той самой толстой мамочкой. Ого! Что же будет с таким человеком? Эй!»
 
-## XIII
+## Chapter XIII
 
-## XIII
+## Глава XIII
 
 Mr. Levy settled into the yellow nylon couch and unfolded his paper, which was delivered to the coast every morning at a higher subscription rate. Having the couch all to himself was wonderful, but the disappearance of Miss Trixie was not enough to brighten his spirits. He had spent a sleepless night. Mrs. Levy was on her exercising board treating her fullness to some early morning bouncing. She was silent, occupied with some plans for the foundation which she was writing on a sheet of paper held against the rolling front section of the board. Putting her pencil down for a moment, she reached down to select a cookie from the box on the floor. And the cookies were why Mr. Levy had spent a wakeful night. He and Mrs. Levy had driven out through the pines to see Mr. Reilly at Mandeville and had not only found he was not there but had also been treated very rudely by an authority of the place who had taken them for tricksters. Mrs. Levy had looked something like a trickster with her golden-white hair, her sunglasses with the blue lenses, the sea-blue makeup that made a ring around the blue lenses like a halo. Sitting there in the sports car before the main building at Mandeville with the huge box of Dutch cookies on her lap, she must have made the authority a little suspicious, Mr. Levy thought. But she had taken it all very calmly. Finding Mr. Reilly did not seem to bother Mrs. Levy particularly, it seemed. Her husband was beginning to sense that she did not especially want him to find Reilly, that somewhere in some corner of her mind she was hoping that Abelman would win the lawsuit so that she could show off their resulting poverty in the face of Susan and Sandra as their father’s ultimate failure. That woman had a twisted mind that was only predictable when she scented an opportunity to defeat her husband. Now he was beginning to wonder which side she was on, his or Abelman’s.
 

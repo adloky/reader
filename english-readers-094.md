@@ -742,7 +742,7 @@ Dickie slammed the door loudly. "Please get out of my clothes."
 
 «Ты просто так себя ведёшь», — сказал Дики и вышел за дверь.
 
-Tom quickly put his shorts back on and followed Dickie. Just; because Dickie liked him, Tom thought, Marge had spread her dirty ideas about him to Dickie. "Are you in love with Marge?"
+Tom quickly put his shorts back on and followed Dickie. Just, because Dickie liked him, Tom thought, Marge had spread her dirty ideas about him to Dickie. "Are you in love with Marge?"
 
 Том быстро надел шорты и последовал за Дики. Просто потому, что Дики он нравился, подумал Том, Мардж рассказала Дики о своих грязных мыслях о нем. «Ты влюблен в Мардж?»
 
@@ -1228,9 +1228,9 @@ Freddie had walked toward the bedroom and stopped, looking at the suitcases on t
 
 — Так что с Дики в последнее время? — спросил Фредди, нахмурившись. — Зачем он вообще от всех прячется?
 
-"He says he's been working pretty hard this winter," Torn said.
+"He says he's been working pretty hard this winter," Tom said.
 
-«Он говорит, что этой зимой очень много работал», — сказал Торн.
+«Он говорит, что этой зимой очень много работал», — сказал Том.
 
 "He seems to want privacy, but as far as I know he's still friendly with everybody, including Marge."
 
@@ -1384,9 +1384,9 @@ The voice stated that the body of Frederick Miles had been found that morning an
 
 «Не могли бы вы ответить на несколько вопросов? К вам подойдет полицейский».
 
-"I will be very glad to help if I can," Torn said in slow, careful Italian, "but can the officer come now? It is necessary for me to leave the house at ten o'clock."
+"I will be very glad to help if I can," Tom said in slow, careful Italian, "but can the officer come now? It is necessary for me to leave the house at ten o'clock."
 
-«Я с удовольствием помогу, если смогу, — медленно и осторожно произнес Торн по-итальянски, — но может ли офицер прийти сейчас? Мне нужно выйти из дома в десять часов».
+«Я с удовольствием помогу, если смогу, — медленно и осторожно произнес Том по-итальянски, — но может ли офицер прийти сейчас? Мне нужно выйти из дома в десять часов».
 
 The voice made a little sound and said probably not, but they would try.
 
@@ -2118,7 +2118,7 @@ Tom opened the door in a lazy way. "Good evening."
 
 «Мистер Рипли, где вы были с конца ноября?»
 
-"I have been traveling. I have been mostly in the north of Italy." Tom made a mistake here and there, and his Italian sounded quite different from Dickie s.
+"I have been traveling. I have been mostly in the north of Italy." Tom made a mistake here and there, and his Italian sounded quite different from Dickie's.
 
 «Я много путешествовал. В основном я был на севере Италии». Том допустил несколько ошибок, и его итальянский звучал совсем не так, как у Дики.
 
@@ -3052,9 +3052,9 @@ Tom heard himself speaking, in an amazingly calm voice. "Did you have time to sp
 
 "Что ты имеешь в виду?"
 
-"Marge was in love with him, and he wasn't with her, and at the same time he was seeing her so much in Mongibello, she kept on hoping—" Torn began to feel on safer ground, but he pretended to have difficulty in expressing himself. "He never actually discussed it with me. He always spoke very highly of Marge. He was very fond of her, but it was obvious to everybody—Marge, too—that he would never marry her. But Marge never quite gave up. I think that's the main reason Dickie left Mongibello."
+"Marge was in love with him, and he wasn't with her, and at the same time he was seeing her so much in Mongibello, she kept on hoping—" Tom began to feel on safer ground, but he pretended to have difficulty in expressing himself. "He never actually discussed it with me. He always spoke very highly of Marge. He was very fond of her, but it was obvious to everybody—Marge, too—that he would never marry her. But Marge never quite gave up. I think that's the main reason Dickie left Mongibello."
 
-«Мардж была влюблена в него, а он — нет, и в то же время он так часто виделся с ней в Монджибелло, что она всё надеялась…» — Торн начал чувствовать себя увереннее, но притворился, что ему трудно выразить свои мысли. — «Он никогда не обсуждал это со мной. Он всегда очень хорошо отзывался о Мардж. Он очень любил её, но всем было очевидно — и Мардж тоже, — что он никогда на ней не женится. Но Мардж никогда не сдавалась. Думаю, это главная причина, по которой Дики уехал из Монджибелло».
+«Мардж была влюблена в него, а он — нет, и в то же время он так часто виделся с ней в Монджибелло, что она всё надеялась…» — Том начал чувствовать себя увереннее, но притворился, что ему трудно выразить свои мысли. — «Он никогда не обсуждал это со мной. Он всегда очень хорошо отзывался о Мардж. Он очень любил её, но всем было очевидно — и Мардж тоже, — что он никогда на ней не женится. Но Мардж никогда не сдавалась. Думаю, это главная причина, по которой Дики уехал из Монджибелло».
 
 "What do you mean never gave up? What did she do?"
 
@@ -3316,7 +3316,7 @@ Herbert Greenleaf
 
 Герберт Гринлиф
 
-Was it a joke? But the paper in his hand felt real. Besides, Mr. Greenleaf wouldn't joke like this, not in a million years. Tom walked to the waiting taxi. It was no joke. It was his! Dickie s money and his freedom. He could have a house in Europe, and a house in America too, if he chose.
+Was it a joke? But the paper in his hand felt real. Besides, Mr. Greenleaf wouldn't joke like this, not in a million years. Tom walked to the waiting taxi. It was no joke. It was his! Dickie's money and his freedom. He could have a house in Europe, and a house in America too, if he chose.
 
 Это была шутка? Но бумага в его руке казалась настоящей. К тому же, мистер Гринлиф никогда бы так не шутил, ни за что на свете. Том подошел к ожидающему такси. Это была не шутка. Это было его! Деньги Дики и его свобода. Он мог бы иметь дом в Европе, и дом в Америке тоже, если бы захотел.
 

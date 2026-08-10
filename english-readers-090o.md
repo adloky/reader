@@ -1,4 +1,4 @@
-<config freqGroupsPos="1"/>
+<config freqGroupsPos="1" freqGroups="3000,4700,6700,10000"/>
 
 # Christmas Pig by J.K. Rowling
 

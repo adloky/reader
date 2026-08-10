@@ -1,2745 +1,5881 @@
 <config freqGroupsPos="1"/>
 
-# At World's End (Pirates of the Caribbean) by T. Elliot & T. Rossio (B1)
+Welcome back to the most professional Starcraft 2 with the rank one Terran in the world. 
 
-# На краю света (Пираты Карибского моря) Т. Эллиота и Т. Россио (B1)
+Снова приветствуем вас на самом профессиональном турнире по Starcraft 2 с лучшим в мире игроком за расу терранов.
 
-## Introduction
+In the red, it's Team Liquid's Clem facing off against the last surviving Zerg. 
 
-## Введение
+Красным цветом выделена Клем из Team Liquid, сражающаяся с последним выжившим зергом.
 
-"The Brethren Court is meeting at Shipwreck Cove," Barbossa said. "Jack, you and I are going there."
+In the blue, we have Shin in a best of seven Zerg versus Terran showdown to the $5,000 playoffs of Woody's Team Liquid map contest tournament. 
 
-«Заседание Братского суда состоится в бухте Кораблекрушений», — сказал Барбосса. «Джек, мы с тобой туда поедем».
+На синем фоне изображен Шин в матче до четырех побед между зергами и терранами за право участия в плей-офф турнира Woody's Team Liquid по составлению карт с призовым фондом в 5000 долларов.
 
-"If the Pirate Lords are meeting," Jack said angrily, "I'm going to sail my ship the other way."
+And before we get started, the incredible we could smash that like button, maybe even subscribe. 
 
-«Если пиратские лорды соберутся, — сердито сказал Джек, — я поплыву на своём корабле в другую сторону».
+А прежде чем мы начнём, невероятно, что мы могли бы нажать кнопку «Нравится», а может быть, даже подписаться.
 
-"They're meeting to fight Beckett," Elizabeth said. "And you're a Pirate Lord."
+It'll be count of the algorithm. 
 
-«Они собираются сразиться с Беккетом, — сказала Элизабет. — А ты — пиратский лорд».
+Это будет показатель работы алгоритма.
 
-Lord Cutler Beckett and the agents of the East India Trading Company want to command the oceans and kill every pirate in the world. Pirates are very bad for business. And the terrible monster Davy Jones is now working for Beckett. So the Pirate Lords of the world must fight these enemies together—but the Pirate Lords have never been friends.
+And Jimmy, what do we have? 1,842 
 
-Лорд Катлер Беккет и агенты Ост-Индской торговой компании хотят захватить власть над океанами и уничтожить всех пиратов в мире. Пираты очень вредны для бизнеса. А ужасный монстр Дэви Джонс теперь работает на Беккета. Поэтому пиратские лорды мира должны бороться с этими врагами вместе — но пиратские лорды никогда не были друзьями.
+А что у нас есть, Джимми? 1842
 
-Elizabeth Swann is fighting on the side of the pirates. But Will Turner, the love of her life, has other plans—to save his father from Davy Jones's ship. For this, he needs Jack Sparrow's fast ship, the Black Pearl, but the Pearl is at the bottom of the ocean with its captain. Who is a true friend? Who is an enemy? In this new adventure, it is difficult to tell.
+likes on this video, on this cast, and I'll cast another one and I'll probably do it anyways cuz I don't know what else I'd do with my life. 
 
-Элизабет Суонн сражается на стороне пиратов. Но у Уилла Тернера, любви всей её жизни, другие планы — спасти своего отца с корабля Дэйви Джонса. Для этого ему нужен быстроходный корабль Джека Воробья, «Чёрная жемчужина», но «Жемчужина» и её капитан находятся на дне океана. Кто настоящий друг? Кто враг? В этом новом приключении трудно сказать наверняка.
+Поставьте лайки этому видео, этому составу участников, и я проведу еще один кастинг, и, вероятно, сделаю это в любом случае, потому что я не знаю, чем еще я мог бы заниматься в жизни.
 
-This is the story of the third Pirates of the Caribbean movie. The first, The Curse of the Black Pearl, was made in 2003. The second movie, Dead Man's Chest, won prizes when it was first shown in 2006. At World's End was a great success in 2007. In these movies, Johnny Depp is Captain Jack Sparrow, Orlando Bloom is Will Turner, and Keira Knightley is Elizabeth Swann. All three stories are now Penguin Readers.
+But thank you for watching. 
 
-Это история третьего фильма «Пираты Карибского моря». Первый, «Проклятие Чёрной жемчуги», был снят в 2003 году. Второй фильм, «Сундук мертвеца», получил награды после премьеры в 2006 году. «На краю света» имел огромный успех в 2007 году. В этих фильмах Джонни Депп играет капитана Джека Воробья, Орландо Блум — Уилла Тёрнера, а Кира Найтли — Элизабет Суонн. Все три истории теперь доступны в серии книг Penguin Readers.
+Спасибо за просмотр.
 
-## Chapter 1 Death to All Pirates!
+Hopefully you've had a good day so far and hopefully it's about to get just a little bit better. 
 
-## Глава 1. Смерть всем пиратам!
+Надеюсь, у вас сегодня всё хорошо, и надеюсь, скоро станет ещё лучше.
 
-To all the King's men:
+As the reaper comes in, the queen pops out, drone pops in, reaper goes out. 
 
-Всем людям короля:
+Когда появляется жнец, вылетает королева, появляется трутень, и жнец вылетает.
 
-I am writing to you about an enemy of the East India Trading Company.
+You can't explain that. 
 
-Я пишу вам по поводу врага Ост-Индской торговой компании.
+Этому нельзя объяснить.
 
-Thirteen years ago, the pirate Captain Jack Sparrow made an agreement with Davy Jones. Jones gave a ship, the Black Pearl, to Sparrow. Sparrow agreed, after thirteen years, to give up his soul and join Jones's men on the Flying Dutchman. But another pirate, Barbossa, stole the Pearl. With the help of William Turner and Elizabeth Swann, the daughter of Port Royal's governor, Sparrow tried to get the Black Pearl back. He succeeded when he killed Barbossa on Isla de Muerta.
+Pushed away by the queen. 
 
-Тринадцать лет назад пиратский капитан Джек Воробей заключил соглашение с Дэви Джонсом. Джонс отдал Воробью корабль, «Чёрную жемчужину». Воробей согласился, спустя тринадцать лет, отдать свою душу и присоединиться к людям Джонса на «Летучем голландце». Но другой пират, Барбосса, украл «Жемчужину». С помощью Уильяма Тёрнера и Элизабет Суонн, дочери губернатора Порт-Рояля, Воробей попытался вернуть «Чёрную жемчужину». Ему это удалось, когда он убил Барбоссу на острове Муэрта.
+Оттолкнутый королевой.
 
-Elizabeth Swann is also our enemy. James Norrington, a British officer, wanted to marry her, but she fell in love with William Turner. When Norrington failed to catch Sparrow, he lost his job. Will Turner's father, "Bootstrap Bill," was a pirate on the Pearl. He is now a prisoner on the Flying Dutchman, and must work for Davy Jones forever.
+avoid suffering any losses. 
 
-Элизабет Суонн — тоже наш враг. Джеймс Норрингтон, британский офицер, хотел на ней жениться, но она влюбилась в Уильяма Тернера. Когда Норрингтону не удалось поймать Спэрроу, он потерял работу. Отец Уильяма Тернера, «Бутстрап Билл», был пиратом на «Жемчужине». Теперь он пленник на «Летучем голландце» и должен вечно работать на Дэйви Джонса.
+избежать каких-либо потерь.
 
-Sparrow went to Isla Cruces to find Jones's heart. Jones has to take orders from the person who has his heart. But James Norrington found it, and is now a British admiral.
+But as always, Clem as infuriating as possible with literally every the Reaper just a couple knitting needles or even a single one away from death. 
 
-Спэрроу отправился на остров Крусес, чтобы найти сердце Джонса. Джонс должен подчиняться тому, у кого находится его сердце. Но Джеймс Норрингтон нашёл его и теперь является британским адмиралом.
+Но, как всегда, Клем выводит из себя до предела, буквально каждый раз, когда Жнец оказывается всего в паре или даже одной спице от смерти.
 
-Without the heart, Sparrow could not fight Jones's monster, the Kraken. He tried to escape but Elizabeth Swann tied him to the Black Pearl. The Kraken destroyed the ship—and Sparrow.
+And that would be a huge win for uh Shin, the artist formerly and currently known as Ragnarok. 
 
-Без сердца Спэрроу не мог сражаться с чудовищем Джонса, Кракеном. Он попытался сбежать, но Элизабет Суонн привязала его к «Чёрной жемчуге». Кракен уничтожил корабль — и Спэрроу.
+И это стало бы огромной победой для Шина, художника, ранее и сейчас известного как Рагнарок.
 
-Turner, Swann, and Sparrow's men then went to Tia Dalma. She brought Barbossa back from the dead to find Sparrow in Davy Jones's Locker.
+So, I've seen him play under this tag for a couple tournaments now. 
 
-Затем Тернер, Суонн и люди Спэрроу отправились к Тиа Далме. Она вернула Барбоссу к жизни, чтобы тот нашел Спэрроу в сундуке Дэйви Джонса.
+Я видел, как он выступал под этим ником на нескольких турнирах.
 
-Captain Jack Sparrow is still dangerous. The East India Trading Company must find him and stop him.
+It doesn't seem like an accident. 
 
-Капитан Джек Воробей по-прежнему опасен. Ост-Индская торговая компания должна найти его и остановить.
+Похоже, это не случайность.
 
-Admiral Bratton
+He used to be named Ragnarok. 
 
-Адмирал Браттон
+Раньше его звали Рагнарок.
 
-_
+Um, but then he switched to Shin, which is Well, wait. 
 
-From high above the ship's deck, a pirate looked across the ocean. He saw nothing except the two ships that they traveled with. The Caribbean was calm. Everything was quiet. So why did he feel so worried?
+Эм, но потом он переключился на Шина, который... Ну, подождите.
 
-С высоты палубы пират смотрел на океан. Он не видел ничего, кроме двух кораблей, на которых они путешествовали. Карибское море было спокойным. Всё было тихо. Так почему же он так волновался?
+The Reaper dies. 
 
-He looked again. This time he could see something. Was a ship sailing toward them? Worse, was it an East India Trading Company ship?
+Жнец умирает.
 
-Он снова посмотрел. На этот раз он что-то увидел. Неужели к ним плывет корабль? Хуже того, не корабль ли это Ост-Индской торговой компании?
+That That wasn't in the script. 
 
-He knew about the Company agents. They killed pirates. The Company wanted to destroy every pirate who sailed in the Caribbean—and on every ocean across the world.
+Этого не было в сценарии.
 
-Он знал об агентах Компании. Они убивали пиратов. Компания хотела уничтожить каждого пирата, плавающего в Карибском море, и во всех океанах мира.
+Um, that's not supposed to happen. 
 
-The pirate decided to call to the captain. But then he saw a dark shape below the water next to the ship.
+Эм, этого не должно было произойти.
 
-Пират решил позвать капитана. Но тут он увидел под водой рядом с кораблем темный силуэт.
+Clem might not realize here on a new set of maps. 
 
-"CAPTAIN!" he shouted, but it was too late.
+Клем может этого не заметить на новых картах.
 
-«КАПИТАН!» — крикнул он, но было уже слишком поздно.
+We're on Black Rockck, which is ostensibly owned by the orcs, but the overlords are kind of creeping them out. 
 
-The shape came up out of the water. It was something from the pirate's darkest dreams. It was the Flying Dutchman!
+Мы находимся на Черной Скале, которая, по-видимому, принадлежит оркам, но их правители их немного пугают.
 
-Из воды показалась фигура. Это было нечто из самых мрачных снов пирата. Это был Летучий Голландец!
+And you may have heard that there is no cow level, which was not accounting for this map. 
 
-The Dutchman fired her cannon as she broke through the water. The pirates on all three ships tried to fire their cannon, but the Dutchman was too fast, too close, too big.
+Возможно, вы слышали, что уровень количества коров отсутствует, что не учитывалось при построении этой карты.
 
-«Голландец» открыл огонь из пушек, когда корабль пробивался сквозь воду. Пираты на всех трёх кораблях пытались открыть огонь из своих пушек, но «Голландец» был слишком быстр, слишком близко и слишком велик.
+There are a whole lot of farm animals scattered throughout, but I'm sure more on that later. 
 
-The attack ended very quickly. There was smoke above the burning boats, and the bodies of dead pirates in the water. The Dutchman sailed through, untouched. Nothing could stop her.
+По всей территории разбросано множество сельскохозяйственных животных, но об этом я расскажу позже.
 
-Атака закончилась очень быстро. Над горящими лодками клубился дым, а в воде виднелись тела убитых пиратов. «Голландец» проплыл мимо, невредимый. Ничто не могло его остановить.
+First, I was trying to get into the whole uh history of Shin's name, which is his name, Shin. 
 
-There was another ship on the ocean—an East India Trading Company ship, the Endeavour, carrying Lord Cutler Beckett, Admiral James Norrington, and Governor Weatherby Swann.
+Во-первых, я пытался разобраться в истории имени Шина, то есть его имени — Шин.
 
-В океане находилось еще одно судно — корабль Ост-Индской торговой компании, «Эндевор», на борту которого находились лорд Катлер Беккет, адмирал Джеймс Норрингтон и губернатор Уэзерби Суонн.
+Imagine naming yourself after yourself. 
 
-In the captain's room of the Dutchman, Davy Jones played his piano sadly. He lifted one finger to his eye and discovered a tear.
+Представьте, что вы назвали себя в свою честь.
 
-В капитанской каюте «Летучего голландца» Дэви Джонс печально играл на пианино. Он поднёс палец к глазу и обнаружил слезу.
+Clement Jon. 
 
-Above his room, Admiral Norrington and Lord Beckett were coming onto the ship with some soldiers. Some of the men threw a large wooden box onto the deck of the Dutchman. It was their job to guard that box. Inside it was Davy Jones's living heart.
+Клемент Джон.
 
-Над его каютой адмирал Норрингтон и лорд Беккет поднимались на корабль вместе с солдатами. Несколько человек бросили на палубу «Летучего голландца» большой деревянный ящик. Их задачей было охранять этот ящик. Внутри находилось живое сердце Дэйви Джонса.
+Anyways, I don't know if he feels like he's earned the nickname, but um I've taken until he determines which player he actually is. 
 
-Lord Beckett smiled. "I've waited for a long time to be here," he thought. "Jones is now under my command! His is the fastest ship on the oceans. Nobody can kill him—until they have his heart."
+В общем, я не знаю, считает ли он, что заслужил это прозвище, но... я пока подожду, пока он сам определится, кем он на самом деле является.
 
-Лорд Беккет улыбнулся. «Я долго ждал этого момента», — подумал он. «Теперь Джонс под моим командованием! Его корабль — самый быстрый в океане. Никто не сможет его убить, пока не завладеет его сердцем».
+When he's doing well, it's Ragnarok. 
 
-Many years before, after Davy Jones's true love broke his heart, Jones cut it out. He put the heart in a wooden box and hid it on Isla Cruces. Lord Beckett spent a lot of time searching for the box. He sent Will Turner to find Jack Sparrow's Compass. This Compass pointed to the thing that you wanted most. Beckett wanted it to take him to Davy Jones's heart.
+Когда у него всё идёт хорошо, наступает Рагнарок.
 
-Много лет назад, после того как возлюбленная разбила ему сердце, Джонс вырезал его. Он положил сердце в деревянную шкатулку и спрятал её на острове Крусес. Лорд Беккет потратил много времени на поиски шкатулки. Он послал Уилла Тёрнера найти компас Джека Воробья. Этот компас указывал на то, чего ты больше всего желаешь. Беккет хотел, чтобы он привёл его к сердцу Дэйви Джонса.
+When he's doing poorly, he's playing against Maru, usually edit Shin. 
 
-The heart was found, but not in the way that Beckett planned. Will, his girlfriend Elizabeth, and Jack reached Isla Cruces before Beckett. Norrington, then without a job, was with them. He stole Davy Jones's heart from the others and gave it to Beckett. Immediately, Beckett made Norrington an admiral.
+Когда у него дела идут плохо, он играет против Мару, обычно против Шина.
 
-Сердце было найдено, но не так, как планировал Беккет. Уилл, его девушка Элизабет и Джек добрались до острова Крусес раньше Беккета. Норрингтон, оставшийся без работы, был с ними. Он украл сердце Дэйви Джонса у остальных и передал его Беккету. Беккет немедленно присвоил Норрингтону звание адмирала.
+So, we'll see which Zerg player shows up today. 
 
-"I didn't get the Compass," Beckett thought. "But I have Davy Jones's heart ... and the Flying Dutchman. Now I—and the East India Trading Company—can command the oceans. Jack Sparrow's ship, the Black Pearl, is the only ship that can fight the Dutchman. But the Pearl is at the bottom of the ocean."
+Итак, посмотрим, какой игрок за зергов сегодня появится.
 
-«Компас мне не достался, — подумал Беккет. — Но у меня есть сердце Дэйви Джонса… и Летучий Голландец. Теперь я — и Ост-Индская торговая компания — можем править океанами. Корабль Джека Воробья, «Чёрная жемчужина», — единственный корабль, способный сразиться с «Летучим Голландцем». Но «Жемчужина» лежит на дне океана».
+Probably both, but which one more so remains to be determined. 
 
-Jones walked onto the deck of the Dutchman. "Go away, all of you—and take that with you!" he shouted, pointing at the wooden box. "I refuse to have that box on my ship!"
+Вероятно, и то, и другое, но какой из вариантов более вероятен, еще предстоит определить.
 
-Джонс вышел на палубу «Голландца». «Уходите все вы — и заберите это с собой!» — крикнул он, указывая на деревянный ящик. «Я отказываюсь держать этот ящик на своем корабле!»
+A very quick is this a roach speed rush? 420. 
 
-"I'm sorry to hear that," Lord Beckett said coldly. "Because it's staying here. I have your heart, so you will work for me."
+Это очень быстрый прилив энергии, как у тараканов? 420.
 
-«Мне очень жаль это слышать, — холодно сказал лорд Беккет. — Потому что оно останется здесь. Ваше сердце принадлежит мне, поэтому вы будете работать на меня».
+He's already blazing his way through the uh tech tree as the heliens try to do the same, but there's not much to get through. 
 
-"I'm the captain of the Dutchman," Jones said, angrily.
+Он уже вовсю прокладывает себе путь по технологической ветке, в то время как гелиены пытаются сделать то же самое, но пройти им практически нечего.
 
-«Я капитан «Голландца», — сердито заявил Джонс.
+And this tiny little choke point between the rocks is difficult for anything but the smaller units to squeeze through. 
 
-"This is not your world now, Jones," Beckett replied. "I am your commander."
+А через этот крошечный узкий проход между скалами трудно протиснуться чему-либо, кроме более мелких объектов.
 
-«Теперь это не твой мир, Джонс, — ответил Беккет. — Я твой командир».
+The lair will be given away by the fact he sent an overseer in. 
 
-Governor Swann stepped angrily up to the two men. "When you destroyed those pirate ships," he said to Davy Jones, "was my daughter on one of them? She was searching for Will and Jack. I have to find her before she is killed as a pirate."
+Логово выдаст тот факт, что он послал туда надзирателя.
 
-Губернатор Суонн сердито подошел к двум мужчинам. «Когда вы уничтожили эти пиратские корабли, — сказал он Дэви Джонсу, — была ли моя дочь на одном из них? Она искала Уилла и Джека. Я должен найти ее, прежде чем она погибнет как пиратка».
+There's a Viking out of Clem, which is notable because it's not a banshee. 
 
-Jones turned to Swann. "Your daughter is dead. She was pulled under the ocean with the Black Pearl—by my Kraken. Didn't Lord Beckett tell you?" He smiled.
+В Клеме есть викинг, что примечательно, потому что это не банши.
 
-Джонс повернулся к Суонну. «Ваша дочь мертва. Ее унесло под воду вместе с «Черной жемчужиной» — моим Кракеном. Разве лорд Беккет вам не говорил?» Он улыбнулся.
+And the queens will hold the door. 
 
-Swann looked at Beckett. His face was pale. "Did you lie to me?" he asked. "Is Elizabeth dead?"
+А королевы будут держать дверь.
 
-Свон посмотрел на Беккета. Его лицо было бледным. «Ты мне солгал?» — спросил он. «Элизабет мертва?»
+as without a reaper to potentially bounce him out of the way or some sort of revolutionary tactic to deal with them by the Frenchman that he just can't get in now. 
 
-Norrington was placing the key in the lock of the wooden box when Swann suddenly pulled him around. Swann took a sword from the nearest soldier. Then he opened the box and lifted the sword above Jones's heart.
+Поскольку у француза нет ни жнеца, который мог бы его оттеснить, ни какой-либо революционной тактики, чтобы справиться с ними, он просто не может сейчас пробиться.
 
-Норрингтон вставлял ключ в замок деревянного ящика, когда Свонн внезапно резко развернул его. Свонн выхватил меч у ближайшего солдата. Затем он открыл ящик и поднял меч над сердцем Джонса.
+The queens is he going to bait him? 
 
-"No!" Jones shouted. "If you kill the heart, then your heart must take its place. And you will be captain of the Dutchman."
+Он собирается его спровоцировать на это?
 
-«Нет!» — крикнул Джонс. «Если ты убьешь сердце, то твое сердце должно занять его место. И ты станешь капитаном «Голландца»».
+He knows Clem can't help it. 
 
-Governor Swann stopped. He didn't want to take Jones's place and live forever on this ship. But he wanted to stop Lord Beckett ... He turned again to the box, but Norrington held his arm and took the sword from him.
+Он знает, что Клем ничего не может с этим поделать.
 
-Губернатор Суонн остановился. Он не хотел занимать место Джонса и вечно жить на этом корабле. Но он хотел остановить лорда Беккета… Он снова повернулся к ящику, но Норрингтон схватил его за руку и отобрал меч.
+There's a bunch of roaches behind it. 
 
-"Do you think Elizabeth wanted this?" he asked. He took Governor Swann away. Beckett, Jones, and Mercer, Beckett's assistant, watched them leave.
+За ним целая куча тараканов.
 
-«Как вы думаете, Элизабет этого хотела?» — спросил он. Он увел губернатора Суонна. Беккет, Джонс и Мерсер, помощник Беккета, смотрели, как они уходят.
+This He knows like this was Oh, come on, Clen. 
 
-"You can go, Captain," Beckett said to Davy Jones.
+Он знает это так же, как и все. О, да ладно, Клен.
 
-«Можете идти, капитан», — сказал Беккет Дэви Джонсу.
+He gets in, incinerates some drones immediately. 
 
-"I want to fight him," Jones thought. "But I can't win."
+Он проникает внутрь и тут же сжигает несколько дронов.
 
-«Я хочу с ним подраться, — подумал Джонс. — Но я не могу победить».
+Gets two. 
 
-The Dutchman continued to sail across the bright blue Caribbean waters, ready to bring more death to the next pirate ship. Lord Beckett and the East India Trading Company had the heart of Davy Jones, so no pirate was safe.
+Получает два.
 
-«Голландец» продолжал плыть по ярко-синим водам Карибского моря, готовый принести еще больше смерти следующему пиратскому кораблю. Лорд Беккет и Ост-Индская торговая компания владели сердцем Дэви Джонса, поэтому ни один пират не был в безопасности.
+Oh, that could have been a lot worse. 
 
-"Soon I will destroy every pirate in the Caribbean," Lord Beckett thought happily.
+Да уж, могло быть гораздо хуже.
 
-«Скоро я уничтожу всех пиратов Карибского моря», — радостно подумал лорд Беккет.
+But the roaches a I'm not going to call it a a masterful bait. 
 
-## Chapter 2 The Pirate Lord of Singapore
+Но тараканы... Я не буду называть это мастерской приманкой.
 
-## Глава 2 Пиратский лорд Сингапура
+Maybe a diamond league one. 
 
-Lord Cutler Beckett was wrong: Elizabeth Swann was still alive. She was half-way across the world, looking for the Pirate Lord of Singapore.
+Возможно, в алмазной лиге.
 
-Лорд Катлер Беккет ошибался: Элизабет Суонн была еще жива. Она находилась на другом конце света, разыскивая пиратского лорда Сингапура.
+I'm not convinced that letting the Helens in and letting them see the roaches was necessarily the best call, but the fact that Clem clearly could not help himself even though there's something. 
 
-Months earlier, when the Kraken was searching for Jack, Elizabeth tricked Jack onto the Black Pearl with a kiss. Then she tied him to the side of the ship so she and Will could escape from the monster. She watched the Black Pearl and Jack Sparrow go to the bottom of the ocean.
+Я не уверена, что впустить Хелен и показать им тараканов было лучшим решением, но тот факт, что Клем явно не смог удержаться, несмотря на то, что там что-то есть, меня возмутил.
 
-Несколькими месяцами ранее, когда Кракен искал Джека, Элизабет обманом заманила его на «Чёрную жемчугу» поцелуем. Затем она привязала его к борту корабля, чтобы они с Уиллом могли сбежать от чудовища. Она наблюдала, как «Чёрная жемчуга» и Джек Воробей опускаются на дно океана.
+The Viking is walking. 
 
-Later, she felt bad about his death. She went with Will and Jack's sailors to see Tia Dalma. Tia Dalma was a friend of Jack's, and she could see into the future. She was a mysterious woman.
+Викинг идёт.
 
-Позже она тяжело переживала его смерть. Она отправилась с Уиллом и моряками Джека к Тиа Далме. Тиа Далма была подругой Джека и могла видеть будущее. Она была загадочной женщиной.
+Still faster than a queen off creep. 
 
-"You can bring Jack Sparrow back to the world of the living," Tia Dalma told them. "But you'll need the help of an old enemy ... Captain Barbossa. Jack killed Barbossa but I brought him back from the dead. He can help us to bring back Jack, too."
+Всё равно быстрее, чем королева на крипе.
 
-«Вы можете вернуть Джека Воробья в мир живых, — сказала им Тиа Далма. — Но вам понадобится помощь старого врага… капитана Барбоссы. Джек убил Барбоссу, но я вернул его из мертвых. Он может помочь нам вернуть и Джека».
+And it can also fly, which is, you know, uh, double doubly insulting. 
 
-Now Elizabeth and Barbossa were in a small boat in Singapore. Elizabeth looked across the city. It was a dark and shadowy place, full of secrets, pirates, and sharp knives.
+А еще оно умеет летать, что, знаете ли, вдвойне оскорбительно.
 
-Теперь Элизабет и Барбосса находились в небольшой лодке в Сингапуре. Элизабет посмотрела на город. Это было темное и мрачное место, полное тайн, пиратов и острых ножей.
+But back at home, Glen third command center will lift immediately before building even a single SUV. 
 
-She tied the boat to a wooden bridge. Suddenly, a man and his two guards stepped out of the darkness. He was tall and strong, with cold, hard eyes and a sharp sword. He was Tai Huang, second in command to Sao Feng, the Pirate Lord of Singapore.
+Но дома, в третьем командном центре Глена, работы начнутся немедленно, прежде чем будет построен хотя бы один внедорожник.
 
-Она привязала лодку к деревянному мосту. Внезапно из темноты вышли мужчина и двое его охранников. Он был высоким и сильным, с холодными, жесткими глазами и острым мечом. Это был Тай Хуан, заместитель Сао Фэна, пиратского лорда Сингапура.
+The siege tank to the front line. 
 
-"Your commander knows that we are here," Barbossa said to Tai Huang.
+Осадный танк на передовую.
 
-«Ваш командир знает, что мы здесь», — сказал Барбосса Таю Хуану.
+Ragnarok knocking on the door and only a single siege tank and a few marines to answer. 
 
-"You're Captain Barbossa," Tai Huang said.
+Рагнарок стучится в дверь, и на него могут ответить лишь один осадный танк и несколько космодесантников.
 
-«Вы капитан Барбосса», — сказал Тай Хуан.
+That's enough to keep him at bay, but it's not enough to drive him back. 
 
-"Yes," Barbossa agreed, "and this is Elizabeth Swann. And Sao Feng has promised to protect us."
+Этого достаточно, чтобы сдержать его, но недостаточно, чтобы заставить его вернуться.
 
-«Да, — согласился Барбосса, — а это Элизабет Суонн. И Сао Фэн пообещал нас защитить».
+That's why the lack of Banshee is so very clearly relevant here as without a banshee in the early game, you're reliant on ground units and very simply roaches and ravagers excel at demonstrating how quantity has a quality all its own Ragnarok. 
 
-Mercer and some East India Trading Company agents were passing. Huang waited until they went around a corner. Then he said, "Follow me."
+Вот почему отсутствие Банши здесь так очевидно важно, ведь без Банши на ранней стадии игры вы зависите от наземных юнитов, а тараканы и опустошители просто великолепно демонстрируют, как количество само по себе является качеством, подобным Рагнароку.
 
-Мерсер и несколько агентов Ост-Индской торговой компании проходили мимо. Хуан подождал, пока они завернут за угол. Затем он сказал: «Следуйте за мной».
+Is that a h 6 and 1/2 minutes even less? 
 
-Not far away, two Company agents were guarding an old, broken bridge. Captain Jack Sparrow's sailors were below them in the water. Ragetti lifted his head. His good eye moved, while his wooden eye looked straight in front. Pintel, Gibbs, Cotton, and Marty were behind him. They swam to a metal gate, then they waited. They were going to Sao Feng's hiding place, to help Elizabeth and Barbossa.
+А это 6 с половиной минут, что еще меньше?
 
-Неподалеку два агента Компании охраняли старый, разрушенный мост. Внизу, в воде, находились матросы капитана Джека Воробья. Рагетти поднял голову. Его здоровый глаз двигался, а деревянный глаз смотрел прямо перед собой. Пинтел, Гиббс, Коттон и Марти были позади него. Они подплыли к металлическим воротам и стали ждать. Они направлялись к убежищу Сао Фэна, чтобы помочь Элизабет и Барбоссе.
+Starting a hive. 
 
-There was a strange noise. The Company agents jumped to their feet. A woman came out of the darkness, pushing a large wooden box on noisy wheels. She smiled and showed a mouthful of black teeth. It was Tia Dalma. The noise of the wheels was loud and hid sounds from below. The pirates started to cut through the metal gate.
+Создание улья.
 
-Раздался странный шум. Агенты Компании вскочили на ноги. Из темноты вышла женщина, толкавшая большой деревянный ящик на шумных колёсах. Она улыбнулась и показала полный рот чёрных зубов. Это была Тиа Далма. Шум колёс был громким и заглушал звуки снизу. Пираты начали прорубать металлические ворота.
+Only 65 drones. 
 
-Tai Huang took Barbossa and Elizabeth through an old bathhouse to Sao Feng's hiding place.
+Всего 65 дронов.
 
-Тай Хуан провел Барбоссу и Элизабет через старую баню к убежищу Сао Фэна.
+Adding four more. 
 
-Elizabeth touched Barbossa's arm. "Have we heard anything from Will?" she asked quietly.
+Добавляем ещё четыре.
 
-Элизабет коснулась руки Барбоссы. «Мы что-нибудь слышали от Уилла?» — тихо спросила она.
+That'll be about 69, which is a nice start, but the infestation bit. 
 
-Barbossa shook his head. "No. He can protect himself," he said. "But you—be polite when you're with Sao Feng."
+Это будет примерно 69, что является неплохим началом, но вот с заражением...
 
-Барбосса покачал головой. «Нет. Он может защитить себя сам, — сказал он. — Но ты… будь вежлив, когда будешь с Сао Фэном».
+A single infertor on the way. 
 
-The Pirate Lord of Singapore was stepping out of his bath.
+Один-единственный источник помех уже в пути.
 
-Пиратский лорд Сингапура выходил из ванны.
+But rushing up to hive tech while keeping Clem on two bases for as long as possible while suffering minimal losses. 
 
-Elizabeth looked at his face. His eyes were dark and cold. This man was dangerous!
+Но нужно как можно быстрее перейти к технологиям улья, удерживая Клем на двух базах как можно дольше и неся минимальные потери.
 
-Элизабет посмотрела ему в лицо. Его глаза были темными и холодными. Этот человек был опасен!
+Literally zero roaches, which is not very many. 
 
-"Captain Sao Feng," Barbossa said smoothly.
+Тараканов нет совсем, а это совсем немного.
 
-«Капитан Сао Фэн», — спокойно произнес Барбосса.
+No ravagers either. 
 
-Sao Feng looked up. "Captain Barbossa!" he said. "Welcome to Singapore. I understand that you want something from me?"
+И никаких опустошителей тоже нет.
 
-Сао Фэн поднял голову. «Капитан Барбосса!» — сказал он. «Добро пожаловать в Сингапур. Я так понимаю, вы от меня чего-то хотите?»
+Just the two drones and the overseer. 
 
-"I need a ship and some men," Barbossa replied.
+Только два дрона и надзиратель.
 
-«Мне нужен корабль и несколько человек», — ответил Барбосса.
+So, I have to say in game number one and there's your cows and also sheep. 
 
-Sao Feng looked at Barbossa and smiled. "That's strange," he said. "You want a ship ... And today, not far from here, a thief tried to steal one from me."
+Итак, я должен сказать, что в первой игре есть коровы и овцы.
 
-Сао Фэн посмотрел на Барбоссу и улыбнулся. «Странно, — сказал он. — Ты хочешь корабль… А сегодня, неподалеку отсюда, вор пытался украсть его у меня».
+I had to say that. 
 
-Sao Feng walked quickly across the room to an old man who was holding some maps. "These maps show the way to the world of the dead," he said softly. He watched their faces. "Will your adventure take you there?"
+Мне пришлось это сказать.
 
-Сао Фэн быстро прошёл через комнату к старику, державшему в руках карты. «Эти карты показывают путь в мир мёртвых», — тихо произнёс он. Он наблюдал за их лицами. «Приведёт ли вас ваше приключение туда?»
+That's what I had to say. 
 
-Suddenly, he gave a sign to two guards near one of the baths. The guards pulled someone out from under the water. Their prisoner was Will Turner!
+Вот что я хотел сказать.
 
-Внезапно он подал знак двум охранникам возле одной из ванн. Охранники вытащили кого-то из-под воды. Их пленником оказался Уилл Тернер!
+But also off to a strong start is Ragnarok. 
 
-## Chapter 3 Captain Barbossa's Plan
+Но и Ragnarok демонстрирует многообещающий старт.
 
-## Глава 3. План капитана Барбоссы
+Clem has the double upgrades. 
 
-Will Turner was very unhappy. There was something that Elizabeth did not know. He loved Elizabeth but, months before, he saw her kissing Jack on the Pearl.
+У Клема двойные улучшения.
 
-Уилл Тернер был очень несчастен. Элизабет кое-чего не знала. Он любил Элизабет, но за несколько месяцев до этого видел, как она целует Джека на борту «Перламутра».
+He's got one one now completing. 
 
-Will hated Jack—but he also needed him. Will wanted to save his father from the Flying Dutchman, so he needed the Black Pearl, the fastest ship on the ocean. But now, Will was Sao Feng's prisoner. The Pirate Lord pulled him by his hair across the floor to Barbossa and Elizabeth.
+У него сейчас завершается один проект.
 
-Уилл ненавидел Джека, но в то же время нуждался в нём. Уилл хотел спасти своего отца от Летучего Голландца, поэтому ему нужна была «Чёрная жемчужина», самый быстрый корабль в океане. Но теперь Уилл был пленником Сао Фэна. Пиратский лорд потащил его за волосы по полу к Барбоссе и Элизабет.
+Armory on the way. 
 
-"This is the thief," he said angrily. "Do you know him?" "No," Elizabeth and Barbossa both said at the same time.
+Оружейный склад уже в пути.
 
-«Это вор», — сердито сказал он. «Вы его знаете?» — «Нет», — одновременно ответили Элизабет и Барбосса.
+So, can't really start 22 two immediately. 
 
-Sao Feng studied their faces. "No?" He picked up a large knife and touched Will's face with its sharp edge. "Then I'll kill him."
+Так что начать 22 сразу же невозможно.
 
-Сао Фэн внимательно изучал их лица. «Нет?» Он взял большой нож и коснулся лица Уилла его острым лезвием. «Тогда я его убью».
+He does have three command centers. 
 
-Elizabeth moved toward Will.
+У него действительно три командных центра.
 
-Элизабет двинулась в сторону Уилла.
+He's getting a second factory in order to pump out more siege tanks, which is going to be incredibly helpful. 
 
-"You're afraid," Sao Feng said. "Now I know that you and this man are working together!"
+Он строит второй завод, чтобы выпускать больше осадных танков, что будет невероятно полезно.
 
-«Ты боишься, — сказал Сао Фэн. — Теперь я знаю, что вы с этим человеком работаете вместе!»
+But this hive is obscenely quick, especially in the grand scheme of things. 
 
-"Sao Feng," Barbossa said quickly. "I had no idea—"
+Но этот улей невероятно быстр, особенно если рассматривать ситуацию в целом.
 
-«Сао Фэн», — быстро ответил Барбосса. — «Я понятия не имел…»
+The fact that he went for so many roaches and ravagers and a scan in the maid, and he scans the natural where he'll see one of the quickest possible ultralist caverns. 
 
-Sao Feng looked at Barbossa carefully. "You want to go to Davy Jones's Locker," he said. "Why?"
+Тот факт, что он напал на такое количество тараканов и опустошителей, а также просканировал горничную, и он сканирует естественную среду, где увидит одну из самых быстрых возможных ультра-спец пещер.
 
-Сао Фэн внимательно посмотрел на Барбоссу. «Ты хочешь отправиться в сундук Дэйви Джонса, — сказал он. — Зачем?»
+Ragnarok is ready to roll, but Glen immediately, he knows the best defense is a good offense. 
 
-It was time to be completely honest. Pirates were not often honest. Barbossa pulled a silver coin out of his pocket and threw it to Sao Feng.
+Рагнарок вот-вот начнётся, но Глен сразу понимает, что лучшая защита — это хорошее нападение.
 
-Пришло время быть предельно честным. Пираты редко бывали честными. Барбосса вытащил из кармана серебряную монету и бросил её Сао Фэну.
+He has to move out now because he's not expanding his tech up. 
 
-"A Piece of Eight," the Pirate Lord said quietly. There was a worried look on his face.
+Ему теперь придётся съехать, потому что он не планирует расширять свой технологический бизнес.
 
-«Восемь монет», — тихо произнес пиратский лорд. На его лице читалась тревога.
+He's going outwards. 
 
-"Yes," Barbossa answered. "It's time to call the Brethren Court."
+Он движется наружу.
 
-«Да», — ответил Барбосса. — «Пора созвать Братский суд».
+He's got a tech shrubbery right now. 
 
-"The Court hasn't met in my lifetime," Sao Feng said. "And when it last met, it ended ... badly. My father told me."
+Сейчас у него там технологический куст.
 
-«За время моей жизни суд не собирался, — сказал Сао Фэн. — А когда он в последний раз собрался, всё закончилось… плохо. Об этом мне рассказывал отец».
+Just plus two upgrades. 
 
-"But the time before that, it helped us to take command of the oceans, didn't it?" Barbossa said.
+Всего лишь два дополнительных улучшения.
 
-«Но ведь до этого это помогло нам взять под контроль океаны, не так ли?» — сказал Барбосса.
+He's got tanks. 
 
-Barbossa was talking about the story of Calypso, the goddess of the ocean. The first Brethren Court—nine Pirate Lords— caught Calypso and turned her from a goddess into an ordinary woman. She couldn't send storms to destroy them. From that day, the oceans belonged to the pirates.
+У него есть танки.
 
-Барбосса рассказывал историю Калипсо, богини океана. Первый Братский Двор — девять пиратских лордов — поймали Калипсо и превратили её из богини в обычную женщину. Она не могла посылать штормы, чтобы уничтожить их. С того дня океаны стали принадлежать пиратам.
+He's got marines and marauders. 
 
-Barbossa's voice became more serious. "And now the East India Trading Company wants to command the oceans. Lord Cutler Beckett is bad for us all."
+У него есть морские пехотинцы и мародёры.
 
-Голос Барбоссы стал серьёзнее. «А теперь Ост-Индская торговая компания хочет захватить океаны. Лорд Катлер Беккет — это плохо для всех нас».
+But go aongo catches the main clump of marines, but they don't stand still long enough. 
 
-Sao Feng shook his head. "What can any of us do against the Company?"
+Но Го Аонго настигает основную группу морских пехотинцев, однако они не стоят на месте достаточно долго.
 
-Сао Фэн покачал головой. «Что мы можем сделать против Компании?»
+Well, I'm moving forward. 
 
-Elizabeth couldn't stay quiet. "You can fight!" she shouted. Everyone turned and looked at her. "You are Sao Feng, the Pirate Lord of Singapore. Do you want the Company to destroy every pirate in the world? Aren't you going to do something?"
+Что ж, я двигаюсь вперед.
 
-Элизабет не могла молчать. «Ты можешь сражаться!» — крикнула она. Все обернулись и посмотрели на нее. «Ты — Сао Фэн, пиратский лорд Сингапура. Ты хочешь, чтобы Компания уничтожила всех пиратов в мире? Ты ничего не собираешься с этим делать?»
+It is a very dangerous time for Ragnarok. 
 
-The Pirate Lord looked carefully at her. "Elizabeth Swann," he said, "you are an interesting woman." He smiled at her. Then he turned to Barbossa. "But you haven't answered my question. What do you want from Davy Jones's Locker?"
+Сейчас очень опасное время для Рагнарока.
 
-Пиратский лорд внимательно посмотрел на неё. «Элизабет Суонн, — сказал он, — вы интересная женщина». Он улыбнулся ей. Затем повернулся к Барбоссе. «Но вы так и не ответили на мой вопрос. Что вам нужно от сундука Дэйви Джонса?»
+He doesn't have the upgrades. 
 
-"Jack Sparrow," said a voice from across the room. Will Turner shook the wet hair away from his face and stood up straighter. He wasn't afraid of the Pirate Lord.
+У него нет необходимых обновлений.
 
-«Джек Воробей», — раздался голос из другого конца комнаты. Уилл Тернер откинул мокрые волосы с лица и выпрямился. Он не боялся Пиратского Лорда.
+He doesn't have the composition. 
 
-"He's one of the Pirate Lords," Will said.
+У него нет подходящей композиции.
 
-«Он один из пиратских лордов», — сказал Уилл.
+The roaches and ravagers are no match for well micro siege tanks, marines, and marauders. 
 
-Sao Feng was clearly angry at the sound of Jack Sparrow's name. "I hate Jack Sparrow. I don't want to see him alive again."
+Тараканы и опустошители не представляют угрозы для хорошо оснащенных осадных танков, морских пехотинцев и мародеров.
 
-Услышав имя Джека Воробья, Сао Фэн явно разозлился. «Я ненавижу Джека Воробья. Я не хочу больше видеть его живым».
+Even with the fungals, this is still an existential threat. 
 
-"Jack Sparrow holds one of the Nine Pieces of Eight," Barbossa said. "He didn't give it to anyone before he died. So we must go and get him—"
+Даже при наличии грибковых заболеваний это по-прежнему представляет собой экзистенциальную угрозу.
 
-«Джек Воробей держит одну из Девяти монет восьми, — сказал Барбосса. — Он никому её не отдал перед смертью. Поэтому мы должны пойти и забрать её…»
+There is a collapsible rock tower that I'm not sure either player knows about, which could cut off this area specifically, but we'll see if we end up uh recreating Black Rock down. 
 
-He stopped as swords were suddenly pushed up through holes in the floor by Jack Sparrow's pirates. Elizabeth took two swords and threw one across the room to Will. He caught it in one hand, and cut himself free.
+Там есть разрушающаяся каменная башня, о которой, я не уверен, знают игроки, и которая может отрезать доступ именно к этой области, но посмотрим, удастся ли нам воссоздать Черную Скалу.
 
-Он остановился, когда пираты Джека Воробья внезапно просунули мечи сквозь дыры в полу. Элизабет схватила два меча и бросила один через всю комнату Уиллу. Он поймал его одной рукой и освободился.
+Fun catches another huge clump of Marines and marauders. 
 
-Then there was a loud noise and the windows broke. The room was full of East India Trading Company agents!
+В городе снова собралась огромная группа морских пехотинцев и мародёров.
 
-Затем раздался громкий шум, и окна разбились. Комната была полна агентов Ост-Индской торговой компании!
+again. 
 
-## Chapter 4 The Escape from Singapore
+снова.
 
-## Глава 4 Побег из Сингапура
+Shin uh attempts to snipe off the marines, but it's a bit of a fool's errand. 
 
-The pirates all turned to fight the agents together. Jack's men came up through a hole in the floor and joined the fight. The room was full of smoke and the noise of swords and guns.
+Шин пытается отстрелять морских пехотинцев, но это довольно безрассудное занятие.
 
-Все пираты развернулись, чтобы вместе сразиться с агентами. Люди Джека вылезли через дыру в полу и присоединились к бою. Комната наполнилась дымом и шумом мечей и ружей.
+He does get one of the siege tanks. 
 
-Elizabeth saw Beckett's assistant, Mercer. He came into the bathhouse with a crowd of soldiers behind him. There were too many of them. The pirates climbed the walls of the building and escaped into the street outside. They ran, fighting for their lives.
+Ему достанется один из осадных танков.
 
-Элизабет увидела помощника Беккета, Мерсера. Он вошел в баню в сопровождении толпы солдат. Их было слишком много. Пираты перелезли через стены здания и выбежали на улицу. Они бежали, сражаясь за свою жизнь.
+Forces him to microwave. 
 
-A wall fell down, knocking Mercer into a shadowy corner. From there, he saw something very interesting.
+Заставляет его пользоваться микроволновкой.
 
-Стена обрушилась, отбросив Мерсера в темный угол. Оттуда он увидел нечто очень интересное.
+Part of the value of the ravagers, besides sniping the siege tanks, is forcing the Marines Marauders not to just stand in one spot and unleash a ridiculous amount of DPS. 
 
-Sao Feng was holding a knife to Will Turner's neck. "It's strange, isn't it?" Sao Feng said angrily. "The Company agents find me on the same day that you arrive in Singapore."
+Помимо уничтожения осадных танков, ценность «Разорителей» заключается еще и в том, что они заставляют мародерщиков-морпехов не просто стоять на одном месте, а обрушивать на противника невероятно высокий урон.
 
-Сао Фэн приставил нож к шее Уилла Тернера. «Странно, не правда ли?» — сердито сказал Сао Фэн. «Агенты Компании находят меня в тот же день, когда ты прибываешь в Сингапур».
+As the number one DPS of the game, at least usably, is a bunch of dudes with drugs and guns and yelling about how illegal aliens need to get off uh their lawn. 
 
-"I didn't bring them here," Will replied. He broke free from Sao Feng and pulled out his own knife. "Do you want to make an agreement with Beckett?" he asked. "Then you need Jack Sparrow. I can help you to find him."
+В качестве лучшего, по крайней мере, пригодного для использования, персонажа в игре выступает кучка парней с наркотиками и оружием, которые кричат о том, что нелегалы должны убраться с их газона.
 
-«Я их сюда не приводил», — ответил Уилл. Он вырвался из рук Сао Фэна и вытащил свой нож. «Хочешь заключить соглашение с Беккетом?» — спросил он. «Тогда тебе нужен Джек Воробей. Я могу помочь тебе его найти».
+But it's a matter of perspective. 
 
-"You tricked Barbossa," Sao Feng said. "You want to trick Jack Sparrow. You'll try to trick me."
+Но это вопрос точки зрения.
 
-«Ты обманул Барбоссу, — сказал Сао Фэн. — Ты хочешь обмануть Джека Воробья? Попробуешь обмануть и меня».
+Some paperless on the field. 
 
-"They can't help me," Will said. "You can."
+В некоторых областях применяется безбумажный документооборот.
 
-«Они мне помочь не смогут, — сказал Уилл. — А вы сможете».
+Kitan is plating the armor not quite completed and the investors just stand there and hold position which I guess is better than all of them dying in the fray but the rocks are halfway dead just incidentally the ultralist just explorerated as he doesn't have the armor he's just gone the queens on the front line as well and Clem nearly out of energy but Ragnarok running out of units rather quickly does he notice the rock tower if there was ever a time now it's unclear how many times these players players have even played this map as the entire point of the Team Liquid map contest is to showcase a new set of maps that might be part of the map pool in the future. 
 
-Sao Feng understood. "I'll kill you if you trick me," he said.
+Китан почти закончил броню, а инвесторы просто стоят и удерживают позиции, что, наверное, лучше, чем если бы все они погибли в бою. Но скалы наполовину уничтожены, и, кстати, ультралист только что исследовал местность, так как у него нет брони, он только что ушел. Королевы тоже на передовой, а у Клем почти закончилась энергия, но у Рагнарока довольно быстро заканчиваются юниты. Замечает ли он каменную башню? Если когда-либо и был такой момент, то сейчас непонятно, сколько раз эти игроки вообще играли на этой карте, ведь вся суть конкурса карт Team Liquid заключается в демонстрации нового набора карт, которые могут войти в пул карт в будущем.
 
-Сао Фэн всё понял. «Я убью тебя, если ты меня обманешь», — сказал он.
+And obviously these players have made it far. 
 
-They put down their knives, and Sao Feng handed Will the maps to the world of the dead. Will disappeared into the darkness. Mercer followed him.
+И очевидно, что эти игроки добились больших успехов.
 
-Они отложили ножи, и Сао Фэн передал Уиллу карты мира мертвых. Уилл исчез в темноте. Мерсер последовал за ним.
+He knocks down the rocks, but is it he who's caught between a hard place and the rocks themselves? 
 
-Elizabeth and Barbossa escaped from the fighting, ran to the waterside, and found Will.
+Он сносит камни, но не он ли оказался между молотом и наковальней?
 
-Элизабет и Барбосса спаслись от боя, добежали до берега и нашли Уилла.
+Or is it Clem who's going to find a way to rock him down? 
 
-"You have the maps!" Barbossa shouted, happily.
+Или же это Клем найдет способ его успокоить?
 
-«У вас есть карты!» — радостно воскликнул Барбосса.
+Is it time to rag? 
 
-"And I have a ship and some sailors," Will said. He pointed at Tai Huang behind him.
+Пора ли начать рэгтайм?
 
-«А у меня есть корабль и несколько моряков», — сказал Уилл, указывая на Тай Хуана, стоявшего позади него.
+No. 
 
-"Where's Sao Feng?" Elizabeth asked.
+Нет.
 
-«Где Сао Фэн?» — спросила Элизабет.
+No. 
 
-"He'll help us to escape. Then he'll meet us at Shipwreck Cove," Will answered.
+Нет.
 
-«Он поможет нам сбежать. Потом встретится с нами в Бухте Кораблекрушений», — ответил Уилл.
+We're done. 
 
-Elizabeth was surprised. "Why does Sao Feng want to help us?" she asked herself. "Maybe now he understands that all pirates are in danger from the East India agents."
+На этом всё.
 
-Элизабет была удивлена. «Почему Сао Фэн хочет нам помочь?» — спросила она себя. «Может быть, теперь он понимает, что всем пиратам угрожает опасность со стороны агентов Ост-Индской компании».
+Are we just getting started? 
 
-"Come this way," Tai Huang said. "Be quick."
+Мы только начинаем?
 
-«Идите сюда», — сказал Тай Хуан. «Поторопитесь».
+as Clem comes through, cuts through one set of rocks, big zergling counter, but the reinforcements will cut it off. 
 
-Tia Dalma, Pintel, Ragetti, and Cotton also came out of the smoke, and together they ran after Tai Huang.
+Когда Клем проходит мимо, она прорубает себе путь сквозь ряд скал, встречая крупных зерглингов, но подкрепление перекрывает ей путь.
 
-Тиа Далма, Пинтел, Рагетти и Коттон тоже вышли из дыма и вместе побежали вслед за Тай Хуаном.
+A few roaches on the other side. 
 
-From the shadows, Mercer smiled. "I have information that Lord Beckett will be very interested in," he thought. "The pirates are meeting at Shipwreck Cove. Soon, we will destroy them all!"
+С другой стороны несколько тараканов.
 
-Из тени Мерсер улыбнулся. «У меня есть информация, которая очень заинтересует лорда Беккета», — подумал он. «Пираты собираются в Бухте Кораблекрушений. Скоро мы всех их уничтожим!»
+Got 11 SCVs, so Clem is still locked into this Midame unit composition. 
 
-From the Hai Peng, Will watched Singapore burn. His thoughts were far away, on his agreement with Sao Feng. "I want to tell Elizabeth, but she won't understand. And I don't understand her feelings for Jack. We both have secrets now."
+У меня 11 SCV, так что Клем по-прежнему привязана к этому составу юнитов Мидаме.
 
-Из отеля «Хай Пэн» Уилл наблюдал, как горит Сингапур. Его мысли были далеко, о соглашении с Сао Фэном. «Я хочу рассказать Элизабет, но она не поймет. И я не понимаю ее чувств к Джеку. У нас обоих теперь есть секреты».
+He's got the Marines, the Marauders, the Medeavacs, the Manks, the Eminem, and Minemm. 
 
-From another part of the ship, Elizabeth Swann also watched the fire. "Sao Feng can't stay here," she said softly. "Will he meet us at Shipwreck Cove?"
+У него есть морские пехотинцы, мародёры, медведи, манки, Эминем и Майнем.
 
-Из другой части корабля Элизабет Суонн тоже наблюдала за пожаром. «Сао Фэн не может здесь оставаться», — тихо сказала она. «Встретится ли он с нами в Бухте Кораблекрушений?»
+And it's enough to keep the pressure on until Hive kicks in. 
 
-Tia Dalma stepped forward. "I cannot say," she said. "There's something in the ocean that the bravest pirates fear ..."
+И этого достаточно, чтобы поддерживать давление до тех пор, пока не включится Hive.
 
-Тиа Далма шагнула вперед. «Я не могу сказать», — ответила она. «В океане есть нечто, чего боятся даже самые храбрые пираты…»
+Unfortunately, Ragnarok not skipping leg day. 
 
-"The Flying Dutchman!" Elizabeth thought. "It's there, somewhere below the waves. We must find Jack Sparrow. The pirates must work together against Davy Jones and the East India Trading Company. If we don't, then we will all die."
+К сожалению, Рагнарок не пропускает тренировки ног.
 
-«Летучий голландец!» — подумала Элизабет. — «Он там, где-то под водой. Мы должны найти Джека Воробья. Пираты должны объединиться против Дэви Джонса и Ост-Индской торговой компании. Если мы этого не сделаем, то все мы погибнем».
+The Viper above Blinding Cloud in an incredible spot. 
 
-_
+«Гадюка» над Ослепляющим Облаком в невероятном месте.
 
-The Hai Peng was sailing through an icy ocean, close to the edge of the Earth, between worlds. The water was dark and stormy, and the snow was falling thick and fast.
+And even the bio army going to get caught. 
 
-«Хай Пэн» плыл по ледяному океану, близко к краю Земли, между мирами. Вода была темной и бурной, а снег падал густо и быстро.
+И даже биологическая армия будет поймана.
 
-Will studied Sao Feng's strange maps. Circles moved and turned inside circles. There were poems written around their edges. Will read one of the poems again: "Over the edge, back, over again, sun up, sun down, a green light."
+the ravagers. 
 
-Уилл изучал странные карты Сао Фэна. Круги двигались и вращались внутри кругов. По их краям были написаны стихи. Уилл снова прочитал одно из стихотворений: «За краем, назад, снова за краем, восход солнца, закат солнца, зеленый свет».
+опустошители.
 
-"Barbossa!" he called. "What does this mean?"
+He's tearing through the front. 
 
-«Барбосса!» — крикнул он. «Что это значит?»
+Он проносится вперед на полной скорости.
 
-Barbossa smiled, unworried. "Have you seen the green light, Mr. Gibbs?" he asked the pirate.
+The Ultra's getting caught. 
 
-Барбосса улыбнулся, ничуть не обеспокоенный. «Вы видели зелёный свет, мистер Гиббс?» — спросил он пирата.
+Ультрамена поймали.
 
-Gibbs smoothed his gray beard. "It happens sometimes," he said to Will. "When the sun goes down, there's a green light in the sky. Some people never see it. Some say—"
+Bringing more Vipers into the fray, but they don't have the energy quite yet. 
 
-Гиббс поправил свою седую бороду. «Такое иногда случается, — сказал он Уиллу. — Когда солнце садится, в небе появляется зелёный свет. Некоторые люди его никогда не видят. Некоторые говорят…»
+В бой вступают новые игроки "Вайпер", но им пока не хватает энергии.
 
-"—that it's a sign. A sign that a soul is coming back to this world from the dead!" Pintel said.
+Kiting back. 
 
-«—Это знак. Знак того, что душа возвращается в этот мир из мертвых!» — сказал Пинтел.
+Отступление с помощью кайтсерфинга.
 
-Barbossa laughed. "Don't worry, Mr. Turner," he said happily. "We'll find the way to the world of the dead. That isn't the problem. The problem is getting back!"
+Ultra's quoting these siege tanks and Twain. 
 
-Барбосса рассмеялся. «Не волнуйтесь, мистер Тернер, — радостно сказал он. — Мы найдем путь в мир мертвых. Проблема не в этом. Проблема в том, чтобы вернуться!»
+В сериале «Ультра» цитируются эти осадные танки и произведения Твена.
 
-Will didn't feel much better.
+The army itself is kiting back and on and the open field. 
 
-Уиллу тоже стало не намного лучше.
+Сама армия отступает и наступает на открытом поле.
 
-Later that night, Elizabeth stood on the deck and looked down into the water. "Can we bring Jack home from the world of the dead?" she thought. "And will he forgive me for his death?"
+The ultras Clem pops all of them. 
 
-Позже той ночью Элизабет стояла на палубе и смотрела вниз на воду. «Сможем ли мы вернуть Джека домой из мира мертвых? — подумала она. — И простит ли он меня за свою смерть?»
+Клем всех ультрас уничтожает.
 
-Will came and stood silently next to her. He didn't look at her.
+Now, the ravagers and lings themselves will overwhelm the bio. 
 
-Уилл подошел и молча встал рядом с ней. Он не смотрел на нее.
+Теперь сами опустошители и линги захватят био-арену.
 
-"I still love Will, but we're strangers," thought Elizabeth.
+But if you look at the supply, Ragnarok still in a very strong spot. 
 
-«Я всё ещё люблю Уилла, но мы чужие люди», — подумала Элизабет.
+Но если посмотреть на предложение, то Ragnarok по-прежнему находится в очень выгодном положении.
 
-After a minute, she walked away.
+He's got 81 drones to just 62 SCVs. 
 
-Через минуту она ушла.
+У него 81 дрон против всего 62 боевых машин специального назначения.
 
-Suddenly, Will heard a strange sound.
+Clem drops down the command center. 
 
-Внезапно Уилл услышал странный звук.
+Клем спускается в командный центр.
 
-"Barbossa!" he called. "Can you hear that noise?"
+Boosts away, but he's on the chase. 
 
-«Барбосса!» — крикнул он. «Ты слышишь этот шум?»
+Он резко ускоряется, но тут же бросается в погоню.
 
-Barbossa listened carefully. With a smile he said, "Yes, these are the waters. We're lost now."
+Does he have concussive shells? 
 
-Барбосса внимательно слушал. С улыбкой он сказал: «Да, это те самые воды. Мы заблудились».
+У него есть оглушающие снаряды?
 
-The ship was turning. Something was pulling it toward the noise! But Barbossa wasn't afraid—he was laughing.
+Indeed, he does. 
 
-Корабль разворачивался. Что-то тянуло его к источнику шума! Но Барбосса не боялся — он смеялся.
+И правда, он так и делает.
 
-"Quickly!" Will shouted, waking his men.
+It doesn't work on massive units like Ultralis or your mother, but ravagers and lings are perfectly fine. 
 
-«Быстрее!» — крикнул Уилл, будя своих людей.
+Это не работает на таких огромных юнитах, как Ультралис или ваша мать, но на Опустошителей и Зелёных зергов всё в порядке.
 
-The pirates ran on deck and Will climbed high into the ship's sails. Will saw a white line of high water in front of them. They couldn't go back, and they couldn't sail around it.
+Targets down another in the midst of all the zerglings. 
 
-Пираты выбежали на палубу, а Уилл забрался высоко на паруса корабля. Перед ними Уилл увидел белую линию прилива. Они не могли вернуться назад и не могли обойти её.
+Еще одна цель уничтожена посреди толпы зерглингов.
 
-"Turn the ship's wheel!" he shouted.
+Does he have adrenal glands? 
 
-«Поверните штурвал!» — крикнул он.
+Есть ли у него надпочечники?
 
-But Barbossa's voice was louder. "No!" "Go straight!"
+Of course not. 
 
-Но голос Барбоссы был громче. "Нет!" "Иди прямо!"
+Конечно, нет.
 
-Will pushed him away and turned the wheel hard. The Hai Peng turned ... but it was still moving toward the line.
+It's Shin we're talking about. 
 
-Уилл оттолкнул его и резко повернул руль. «Хай Пэн» повернул... но продолжал двигаться к финишной черте.
+Речь идёт о Шине.
 
-"There's a waterfall in front of us!" Elizabeth realized. "A waterfall that drops off the edge of the world!"
+Boosts away again. 
 
-«Перед нами водопад!» — поняла Элизабет. «Водопад, падающий с края света!»
+Снова ускоряется.
 
-Will was still trying to turn the ship's wheel. Barbossa stood behind him, laughing. Elizabeth shook the old pirate. "You'll kill us all," she cried.
+He's still on the chase. 
 
-Уилл все еще пытался повернуть штурвал. Барбосса стоял позади него, смеясь. Элизабет потрясла старого пирата. «Ты всех нас убьешь!» — закричала она.
+Он всё ещё в погоне.
 
-The Hai Peng turned, turned ... for a minute it stayed on the edge of the waterfall. The pirates looked down into the endless black nothingness below. Then, the ship fell over the edge.
+Another couple ravagers will be sniped off. 
 
-«Хай Пэн» развернулся, развернулся… на минуту он замер на краю водопада. Пираты смотрели вниз, в бескрайнюю черную пустоту. Затем корабль сорвался с обрыва.
+Ещё пару грабителей отстрелят снайперами.
 
-All the pirates, except Barbossa, screamed with fear. The ship crashed down, down, down ... into the darkness.
+Unwieldy creatures. 
 
-Все пираты, кроме Барбоссы, закричали от страха. Корабль рухнул вниз, вниз, вниз... в темноту.
+Неуклюжие существа.
 
-## Chapter 5 Captain Jack Returns
+And Clem, he's got his mule stimulus checks. 
 
-## Глава 5 Возвращение капитана Джека
+А Клем получил свои выплаты в рамках программы стимулирования экономики.
 
-Captain Jack Sparrow stood on the Black Pearl. The ship's sails didn't move. There was no wind, and the Pearl was sitting in an ocean of sand. The sun burned down from a hot blue sky. Jack was alone in Davy Jones's Locker. He was dead—and it was not a good feeling.
+He's got his fourth base. 
 
-Капитан Джек Воробей стоял на борту «Чёрной жемчужины». Паруса корабля не двигались. Ветра не было, и «Жемчужина» покоилась в океане песка. Солнце палило с раскалённого голубого неба. Джек был один в сундуке Дэйви Джонса. Он был мёртв — и это было ужасное чувство.
+Он уже на четвёртой базе.
 
-He climbed down onto the sand. He tried to push the Pearl with his shoulder, but of course it didn't move.
+He's got three three upgrades. 
 
-Он спустился на песок. Он попытался толкнуть Жемчужину плечом, но, конечно же, она не сдвинулась с места.
+У него три улучшения.
 
-He saw some smooth, round stones. Picking one up, he threw it across the sand. He was very surprised when the stone came back to him. It stopped next to his boot and broke into pieces like an egg. Inside was a small crab.
+And while it's still just ultras with a minimal amount of infesters, he has a lot of mobility. 
 
-Он увидел несколько гладких круглых камней. Подняв один, он бросил его на песок. Он очень удивился, когда камень вернулся к нему. Он остановился рядом с его ботинком и разбился на кусочки, как яйцо. Внутри оказался маленький краб.
+И хотя это по-прежнему только ультрас с минимальным количеством зараженных, у него очень высокая мобильность.
 
-Jack threw some sand at the crab and it ran away. He lay on the sand, and closed his eyes. He didn't see the crab move forward again. It studied the ship, then it ran to the other stones.
+We're going to go to the Clem action cam. 
 
-Джек бросил в краба немного песка, и тот убежал. Он лег на песок и закрыл глаза. Он не видел, чтобы краб снова двинулся вперед. Он изучил корабль, а затем побежал к другим камням.
+Мы перейдём к экшн-камере в Клеме.
 
-Time passed. Suddenly, a shadow passed across Jack's face and he opened his eyes. Something was moving—it was the Black Pearl!
+This is your warning. 
 
-Время шло. Внезапно тень пробежала по лицу Джека, и он открыл глаза. Что-то двигалось — это была «Чёрная жемчужина»!
+Это ваше предупреждение.
 
-Thousands of crabs were carrying it on their backs across the sand.
+As Clem. 
 
-Тысячи крабов несли его на своих спинах по песку.
+Как Клем.
 
-"Interesting," said Jack.
+Oh, the Vipers. 
 
-«Интересно», — сказал Джек.
+Ах, эти гадюки.
 
-On another beach, the Hai Peng lay in pieces. Pintel and Ragetti came out of the water first. Elizabeth, Will, Gibbs, and Tia Dalma were close behind, with Cotton, Marty, Tai Huang and his men, and finally Barbossa.
+That was that was Ragnarok. 
 
-На другом пляже «Хай Пэн» лежал вдребезги. Первыми из воды вышли Пинтел и Рагетти. За ними следовали Элизабет, Уилл, Гиббс и Тиа Далма, а затем Коттон, Марти, Тай Хуан и его люди, и наконец, Барбосса.
+Вот он, Рагнарок.
 
-Gibbs looked up and down the long, empty beach. "This is a terrible place," he said.
+But the Vipers, we got to drop on the left side. 
 
-Гиббс оглядел длинный, пустынный пляж. «Это ужасное место», — сказал он.
+Но "Гадюкам" нам нужно высадиться на левом фланге.
 
-Elizabeth pushed her wet hair away from her face. She looked worried, too. "I can't see Jack," she said. "I can't see anyone."
+Targety on the right. 
 
-Элизабет откинула мокрые волосы с лица. Она тоже выглядела обеспокоенной. «Я не вижу Джека, — сказала она. — Я никого не вижу».
+Мишень справа.
 
-"He's here, somewhere." said Barbossa.
+Drops out. 
 
-«Он где-то здесь», — сказал Барбосса.
+Выбывает из игры.
 
-Tia Dalma smiled. "Jack is nearer than you think," she said.
+just seeing what he could get done. 
 
-Тиа Далма улыбнулась. «Джек ближе, чем ты думаешь», — сказала она.
+Просто хотел посмотреть, на что он способен.
 
-Elizabeth looked past Tia Dalma. Something was moving across the sand. It was the Black Pearl! Captain Jack Sparrow stood proudly by the ship's wheel. Thousands of crabs carried the Pearl closer, then they dropped it into the water.
+Meanwhile, continuing production back at home, picks up again. 
 
-Элизабет посмотрела мимо Тиа Далмы. Что-то двигалось по песку. Это была «Чёрная жемчужина»! Капитан Джек Воробей гордо стоял у штурвала. Тысячи крабов поднесли жемчужину ближе, а затем сбросили её в воду.
+Тем временем, производство на родине снова набирает обороты.
 
-Jack waved to his men. "Gibbs! Pintel and you—the man with one eye," he cried. "Did the Kraken kill you, too?"
+Viking also exists. 
 
-Джек помахал своим людям. «Гиббс! Пинтел и ты — одноглазый!» — крикнул он. «Кракен убил и тебя?»
+Существует также и компания Viking.
 
-Elizabeth ran up to Jack and put her arms around him. "I'm so sorry," she said in a low voice. "I'm so glad you're all right—"
+Fourth base, rerallying SCVs, setting up the gas, dropping out again, but his metavags had to come all the way back home otherwise. 
 
-Элизабет подбежала к Джеку и обняла его. «Мне так жаль», — сказала она тихим голосом. «Я так рада, что с тобой все в порядке…»
+Четвертая база, перегруппировка SCV, подготовка газа, снова вылет, но иначе ему пришлось бы возвращаться домой только с метавагами.
 
-But Jack pushed her away. "Tia Dalma! How nice to see you!"
+And oh, splits off some of the drops. 
 
-Но Джек оттолкнул её. «Тётя Далма! Как приятно тебя видеть!»
+И да, отделяет часть капель.
 
-"How are you, Jack Sparrow?" Barbossa's voice came from the back of the crowd.
+The marines and marauders reathering. 
 
-«Как дела, Джек Воробей?» — раздался голос Барбоссы из задней части толпы.
+Морпехи и мародеры отступают.
 
-Jack stopped. He turned, and saw his old enemy. "Barbossa!" he shouted loudly. "I haven't seen you for a long time, since—" "Isla de Muerta, remember?" Barbossa said. "You shot me!" "Yes," Jack said, nervously. "I remember." "We came to help you," Barbossa said.
+Just trying to buy as much time as possible before the 3 upgrades are done. 
 
-Джек остановился. Он обернулся и увидел своего старого врага. «Барбосса!» — громко крикнул он. «Я давно тебя не видел, с тех пор как…» — «На острове Муэрта, помнишь?» — спросил Барбосса. — «Ты в меня выстрелил!» — «Да», — нервно ответил Джек. — «Помню». — «Мы пришли тебе помочь», — сказал Барбосса.
+Просто пытаюсь выиграть как можно больше времени до завершения всех трех обновлений.
 
-"That's very kind of you," Jack said. "But I have a ship, and you don't. You need help, not me."
+Immediate pickup, rerally, reproduction. 
 
-«Это очень любезно с вашей стороны, — сказал Джек. — Но у меня есть корабль, а у вас нет. Вам нужна помощь, а не мне».
+Немедленный прием, репродукция.
 
-Barbossa pointed at the Pearl. "My ship is there," he said.
+Not that kind. 
 
-Барбосса указал на «Жемчужину». «Мой корабль там», — сказал он.
+Не такой.
 
-Jack looked at the ocean. "I can't see it," he said. "Is it hidden somewhere behind the Pearl?"
+the the grief will be taken out at least for now. 
 
-Джек посмотрел на океан. «Я его не вижу», — сказал он. «Он где-то спрятан за «Жемчужиной»?»
+Это позволит хотя бы на время избавиться от скорби.
 
-Barbossa was very angry. He wanted to attack Jack, but Will stopped him.
+But he strayed a little bit too far. 
 
-Барбосса был очень зол. Он хотел напасть на Джека, но Уилл остановил его.
+Но он немного переборщил.
 
-"Jack, listen!" Will said urgently. "Cutler Beckett has Davy Jones's heart. He commands the Flying Dutchman."
+He dug too deep and too greedily in another chunk of bile. 
 
-«Джек, послушай!» — взволнованно сказал Уилл. «У Катлера Беккета сердце Дэйви Джонса. Он командует «Летучим голландцем»».
+Он слишком глубоко и жадно залез в очередной кусок желчи.
 
-"He wants to command the oceans," Elizabeth added. "We're calling the Brethren Court," Tia Dalma told him. "Yes, Jack," Gibbs said. "The world needs you."
+Ragnarok has reached 201 moment. 
 
-«Он хочет править океанами», — добавила Элизабет. «Мы созываем Братский суд», — сказала ему Тиа Далма. «Да, Джек», — сказал Гиббс. «Мир нуждается в тебе».
+Рагнарок достиг отметки в 201 минуту.
 
-"And you need sailors," Will said. He pointed at the pirates.
+That moment's passed, but Glen also knocking on the door at 200. 
 
-«А вам нужны моряки», — сказал Уилл, указывая на пиратов.
+Этот момент уже пройден, но Глен тоже уже почти достиг отметки в 200 лет.
 
-Jack studied them. "Do I want to sail with you?" he asked. "Three of you tried to kill me." He stopped in front of Elizabeth. "And one of you succeeded."
+Will he be able to maintain it? 
 
-Джек внимательно посмотрел на них. «Хочу ли я отправиться с вами в плавание?» — спросил он. «Вы трое пытались меня убить». Он остановился перед Элизабет. «И одному из вас это удалось».
+Сможет ли он это сохранить?
 
-Will was surprised. What was Jack saying? Did Elizabeth kill him?
+This is not that sort of ghost liberator style. 
 
-Уилл был удивлен. Что говорил Джек? Элизабет убила его?
+Это не в стиле "освободителей призраков".
 
-Jack smiled. "She hasn't told you?" he said. He turned to Tia Dalma. "All right, you can come with me. Gibbs, Marty, Cotton, you're OK, too." He didn't speak to Barbossa, Will, or Elizabeth.
+He's got liberators in production. 
 
-Джек улыбнулся. «Она тебе не сказала?» — спросил он. Он повернулся к Тиа Далме. «Хорошо, можешь пойти со мной. Гиббс, Марти, Коттон, вы тоже в порядке». Он не стал разговаривать с Барбоссой, Уиллом или Элизабет.
+У него в производстве находятся освободители.
 
-He walked up to Tai Huang. "Who are you?"
+He has 33 on the way, but he doesn't have so many orbital commands he can just scan the whole map like map hacks with extra APM. 
 
-Он подошёл к Тай Хуану. "Кто ты?"
+У него на подходе 33, но у него не так много орбитальных команд, чтобы просто сканировать всю карту, как это делают специалисты по взлому карт с дополнительным APM.
 
-"Tai Huang," said the tall pirate, calmly. He pointed to the Singapore pirates. "These are my men."
+He doesn't have ghosts at all. 
 
-«Тай Хуан», — спокойно произнес высокий пират, указывая на сингапурских пиратов. — «Это мои люди».
+У него вообще нет призраков.
 
-"Who do you work for?" Jack asked.
+So, vipers and infesters are an existential threat. 
 
-«На кого ты работаешь?» — спросил Джек.
+Таким образом, гадюки и вредители представляют собой угрозу для существования человечества.
 
-"The person with the most money," Tai Huang answered.
+And Ragnarok forgot banling speed, but he noticed and it's going to be completed ideally before he tries to smash into this planetary. 
 
-«Тот, у кого больше всего денег», — ответил Тай Хуан.
+А Рагнарок забыл про скорость банлинга, но он это заметил, и в идеале работа будет завершена до того, как он попытается врезаться в эту планету.
 
-"I have a ship," Jack offered.
+There's absolutely no warning until he comes directly into range. 
 
-«У меня есть корабль», — предложил Джек.
+Никакого предупреждения не будет, пока он не окажется непосредственно в зоне досягаемости.
 
-"Then I'll work for you," Tai Huang said.
+The liberator is yanked in the blinding cloud, but it's easy enough to spot the bailings. 
 
-«Тогда я буду работать на тебя», — сказал Тай Хуан.
+Освободителя затягивает в ослепительное облако, но откачку воды довольно легко заметить.
 
-The pirates jumped into the water, and swam out to the Pearl.
+Corrosive Biles ever so close to knocking out the liberator, but Clem loses his fourth base. 
 
-Пираты прыгнули в воду и поплыли к «Жемчужине».
+Разъедающий Байлес был очень близок к тому, чтобы нокаутировать освободителя, но Клем теряет четвертую базу.
 
-Jack pulled out his Compass and looked at it, but it wasn't working in this strange and mysterious place.
+The only saving grace is he lost almost none of his army, which means he still has 126 army supply tearing across the field. 
 
-Джек достал свой компас и посмотрел на него, но он не работал в этом странном и таинственном месте.
+Единственное утешение в том, что он почти не потерял свою армию, а это значит, что у него по-прежнему 126 армейских десантников, несущих припасы по всему полю боя.
 
-"Oh, Jaaaa-ack," said a voice behind him.
+Thing is, Ragnarok has done a great job of keeping him busy. 
 
-"О, Джек", - раздался голос позади него.
+Дело в том, что «Рагнарок» отлично справляется с тем, чтобы не дать ему скучать.
 
-Jack turned around. Barbossa held up Sao Feng's old maps.
+He's never been able to bring everything to bear like he was in that first push before hive came online. 
 
-Джек обернулся. Барбосса поднял старые карты Сао Фэна.
+Ему никогда не удавалось задействовать все ресурсы так, как это было в тот первый рывок, до того, как Hive заработал.
 
-"Which way are you going, Jack?" he asked, with a smile.
+So, but the liberators in position vent diagram of freedom. 
 
-«В какую сторону ты идёшь, Джек?» — спросил он с улыбкой.
+Итак, освободители в положении, напоминающем диаграмму свободы.
 
-"Those maps will take us back to the world of the living," Jack thought. "I need Barbossa on the Pearl."
+Looks like a big counterattack will be the choice. 
 
-«Эти карты вернут нас в мир живых», — подумал Джек. «Мне нужен Барбосса на «Жемчужине»».
+Похоже, выбор пал на масштабную контратаку.
 
-## Chapter 6 Back to the Real World
+Whoa. 
 
-## Глава 6. Возвращение в реальный мир
+Ого.
 
-The sun shone on the blue ocean, but there were dark shapes below the water. This was the ocean in Davy Jones's Locker. It was a strange place.
+Oh, that is You do not want to. 
 
-Солнце светило на голубой океан, но под водой виднелись темные силуэты. Это был океан из сундука Дэйви Джонса. Странное место.
+О, это то, чего вы не хотите.
 
-Barbossa was happy because he was back on the Pearl. He started to give orders to the pirates, but then he heard Jack's voice. Jack was giving them orders, too.
+You can't fight that. 
 
-Барбосса был рад, потому что вернулся на «Жемчужину». Он начал отдавать приказы пиратам, но тут услышал голос Джека. Джек тоже отдавал им приказы.
+С этим не поспоришь.
 
-"The captain gives orders on a ship," Jack explained.
+That is not It's not No, that's a no. Six 
 
-«На корабле капитан отдаёт приказы», — объяснил Джек.
+Это не так. Нет, это не так. Шесть.
 
-"The captain is giving orders," Barbossa said.
+siege tanks, three liberators. 
 
-«Капитан отдаёт приказы», — сказал Барбосса.
+Осадные танки, три освободителя.
 
-"My ship," Jack said. "So I'm the captain."
+The double siege. 
 
-«Это мой корабль, — сказал Джек. — Поэтому я капитан».
+Двойная осада.
 
-As Barbossa and Jack fought, Will Turner climbed down into the rooms below. He found Elizabeth sitting alone in a dark corner. Her face was wet. Was she crying?
+No adrenal glands for the Zerglings, but again, it's typical Shin right here. 
 
-Пока Барбосса и Джек дрались, Уилл Тернер спустился в комнаты внизу. Он обнаружил Элизабет, сидящую в одиночестве в темном углу. Ее лицо было мокрым. Она плакала?
+У зерглингов нет надпочечников, но, опять же, это типичный Шин.
 
-"You left Jack for the Kraken," he said.
+Siege tanks and the fact he was building his fourth command center again on location. 
 
-«Ты бросил Джека ради Кракена», — сказал он.
+Осадные танки и тот факт, что он снова строил свой четвертый командный центр на месте событий.
 
-Elizabeth stood up. "Will, I killed him—so I had to save him!"
+Another drop to the north side. 
 
-Элизабет встала. «Уилл, я убила его, поэтому мне пришлось его спасти!»
+Ещё один обрыв на северной стороне.
 
-"You didn't tell me," Will said angrily. "I thought ..."
+But make no mistake, despite now on paper, it may look like Clem has the momentum, but it's the economy. 
 
-— Ты мне не сказал, — сердито ответил Уилл. — Я думал…
+Но не стоит заблуждаться, несмотря на то, что сейчас на бумаге может казаться, что у Клема есть преимущество, дело в экономике.
 
-"You thought I loved him."
+Ragnarok still has mining bases. 
 
-«Ты думала, что я его люблю».
+В Рагнароке до сих пор есть базы для добычи полезных ископаемых.
 
-"You don't talk to me. How can I believe you?"
+He still has the drones and he's building the corruptors. 
 
-«Ты со мной не разговариваешь. Как я могу тебе поверить?»
+У него по-прежнему есть дроны, и он строит коррупционные установки.
 
-Elizabeth looked up into his eyes—the eyes of the man that she loved. "You can't," she said softly. Without another word, she disappeared from the room.
+Air control, air superiority is the missing part of this composition. 
 
-Элизабет посмотрела ему в глаза — в глаза любимого человека. «Ты не можешь», — тихо сказала она. Не сказав больше ни слова, она исчезла из комнаты.
+Контроль над воздушным пространством и превосходство в воздухе — вот недостающая составляющая этой композиции.
 
-On the Pearl's first night in the darkness between worlds, there were stars above and below them. The pirates were worried.
+The inability to efficiently deal with medevacs and liberators is mostly solved by adding a congress of corruptors in. 
 
-В первую ночь пребывания «Жемчужины» во тьме между мирами над и под ними сияли звезды. Пираты были обеспокоены.
+Проблема неэффективного решения вопросов, связанных с медицинской эвакуацией и освобождением, в основном решается добавлением конгресса коррупционеров.
 
-"Which way, Captain?" Gibbs asked.
+Though it might not be the most efficient process, eventually they usually get the job done. 
 
-«В какую сторону, капитан?» — спросил Гиббс.
+Хотя это может быть не самый эффективный процесс, в конечном итоге они, как правило, справляются с задачей.
 
-At the word "captain," both Barbossa and Jack turned around and ran. They fought over the ship's wheel.
+At least you hope. Three 
 
-При слове «капитан» Барбосса и Джек развернулись и побежали. Они начали драться за штурвал корабля.
+По крайней мере, вы на это надеетесь. Три.
 
-Pintel and Ragetti were looking over the side of the ship. There were a lot of bodies in the water below. Old men, young women, sailors, small children ... the water was filled with dead bodies.
+hatcheries simultaneously and a beading mine. 
 
-Пинтел и Рагетти смотрели за борт корабля. В воде внизу было множество тел. Старики, молодые женщины, моряки, маленькие дети... вода была полна мертвых тел.
+Одновременно с этим работают инкубаторы и рудник по производству бусин.
 
-Tia Dalma walked over to them. She looked out at the ocean. "Where is Davy Jones?" she asked softly. "Calypso gave him a job. He had to take dead people from the ocean to the other world. Then, every ten years, he could come onto the land to be with his true love." Tia Dalma shook her head. "Davy Jones was a man, but now he is a monster." She looked at the bodies. "Poor souls ... Now they must find their own way to the other world."
+And if there was ever a time, there's only three orbital commands. 
 
-Тиа Далма подошла к ним. Она посмотрела на океан. «Где Дэви Джонс?» — тихо спросила она. «Калипсо дала ему работу. Он должен был переносить мертвых из океана в потусторонний мир. Затем, каждые десять лет, он мог возвращаться на сушу, чтобы быть со своей возлюбленной». Тиа Далма покачала головой. «Дэви Джонс был человеком, а теперь он чудовище». Она посмотрела на тела. «Бедные души… Теперь им самим предстоит найти путь в потусторонний мир».
+И если когда-либо и существовало такое время, то существовало всего три команды управления орбитой.
 
-Will and Elizabeth joined them. A lot of small boats were coming toward them. Gibbs pointed a gun at them, but Will stopped him. He knew who—or what—they were.
+He's not just going to scan. 
 
-Уилл и Элизабет присоединились к ним. К ним приближалось множество небольших лодок. Гиббс направил на них пистолет, но Уилл остановил его. Он знал, кто — или что — они такое.
+Он не просто собирается сканировать.
 
-Suddenly, Elizabeth saw someone that she knew.
+Not as excited. 
 
-Внезапно Элизабет увидела кого-то знакомого.
+Не так уж и рад.
 
-"My father!" she shouted. "Father, here! Look here!"
+Well, oh, but he only he did a half and half. 
 
-«Отец!» — закричала она. «Отец, сюда! Смотри!»
+Ну, а он сделал только половину на половину.
 
-Jack joined the group. He touched her shoulder. "Elizabeth," he said. "We're not back in the world of the living yet."
+He only detonated two. 
 
-Джек присоединился к группе. Он коснулся её плеча. «Элизабет, — сказал он. — Мы ещё не вернулись в мир живых».
+Он взорвал только два.
 
-Slowly she understood. They were the only living people in the land of the dead. "Father!" she cried. Her voice was full of sadness. "I didn't say good-bye to you."
+I love it though. 
 
-Постепенно она поняла. Они были единственными живыми людьми в стране мертвых. «Отец!» — воскликнула она. В ее голосе звучала печаль. «Я не попрощалась с тобой».
+Мне это очень нравится.
 
-In the boat, Governor Swann lifted his head at the sound of his daughter's voice.
+There's not too many more uh malleable units here that are worth hitting with the bane mine. 
 
-В лодке губернатор Суонн поднял голову, услышав голос своей дочери.
+Здесь не так уж много других, более-менее податливых юнитов, которые стоило бы атаковать миной-убийцей.
 
-"Elizabeth!" he said. "Are you dead?"
+A counterattack. 
 
-«Элизабет!» — сказал он. «Ты умерла?»
+Контратака.
 
-"No," Elizabeth told him.
+The corruptors on the way across as Clem hits another base, but he has a lot less to trade. 
 
-«Нет», — ответила ему Элизабет.
+Коррупционеры уже на подходе, когда Клем достигает очередной базы, но у него гораздо меньше возможностей для обмена.
 
-"I think I am," Governor Swann said.
+He's running out of real estate. 
 
-«Думаю, да», — сказал губернатор Суонн.
+У него заканчиваются объекты недвижимости.
 
-"No!" Elizabeth said. "Come onto our ship! Come back with us!" She threw a line, but the governor didn't take it.
+His third base is gutted and about to be knocked down by the corruptors themselves. 
 
-«Нет!» — сказала Элизабет. «Пойдемте на наш корабль! Вернитесь с нами!» Она бросила удочку, но губернатор не взял ее.
+Его третья база полностью разрушена и вот-вот будет снесена самими коррупционерами.
 
-"There was a wooden box," her father told her slowly. "And a heart ... If you destroy the heart, you take Jones's place as captain of the Dutchman."
+The bailing mine is still a threat, but there really aren't even enough marines. 
 
-«Там был деревянный ящик, — медленно произнес ей отец. — И сердце… Если ты уничтожишь сердце, то займешь место Джонса в качестве капитана «Голландца»».
+Мина-ловушка по-прежнему представляет угрозу, но морских пехотинцев всё ещё недостаточно.
 
-Elizabeth didn't understand her father's words, but Will and Jack did. This was important information.
+He's added some ghosts into the mix. 
 
-Элизабет не поняла слов отца, но Уилл и Джек поняли. Это была важная информация.
+Он добавил в эту историю несколько призраков.
 
-Governor Swann's boat moved away. "Elizabeth," he said, "I'm proud of you. I'll give your love to your mother."
+Has to land his orbital command. 
 
-Лодка губернатора Суонна отплыла. «Элизабет, — сказал он, — я горжусь тобой. Я передам твою любовь твоей матери».
+Ему нужно посадить свой орбитальный модуль.
 
-Elizabeth called, "The line! Take it!" But it was too late. The line fell into the water. Elizabeth started to climb out of the ship.
+The ghost will line up the shots and discourage any further aggression. 
 
-Элизабет крикнула: «Вонз! Бери!» Но было уже поздно. Вонз упал в воду. Элизабет начала выбираться из корабля.
+Призрак прицелится и отпугнет любую дальнейшую агрессию.
 
-Tia Dalma spoke angrily. "She must not leave! We cannot lose her."
+And Clem is still nearly maxed out, but every single time the economy is less and less as the income gap climbs towards Ragnarok, who's oh, he's going to push it back into the main mine. 
 
-Тиа Далма сердито произнесла: «Она не должна уезжать! Мы не можем её потерять».
+А у Клем всё ещё почти максимальный уровень, но каждый раз экономика всё больше и больше сокращается по мере того, как разрыв в доходах приближается к Рагнароку, который, мол, собирается снова загнать всё это в главный рудник.
 
-Will pulled Elizabeth back onto the deck. He looked over her shoulder at Tia Dalma. "Can we help him?" he asked quietly.
+But then Glen picks up and gets out. 
 
-Уилл вытащил Элизабет обратно на палубу. Он заглянул ей через плечо на Тию Далму. «Мы можем ему помочь?» — тихо спросил он.
+Но тут Глен подбирает вещи и выходит.
 
-The woman shook her head. "No," she said.
+You know, that bane mine could actually serve an incredibly important purpose in breaking Clim once and for all. 
 
-Женщина покачала головой. «Нет», — сказала она.
+Знаете, эта проклятая мина могла бы сыграть невероятно важную роль в окончательном уничтожении Клима.
 
-Morning came, and the sun passed slowly across the sky. The Pearl was going nowhere. There was no wind, and no drinking water on the ship. The sailors were very thirsty.
+He's just never had the opportunity, never had the space in order to lock down the composition. 
 
-Наступило утро, и солнце медленно скользило по небу. «Жемчужина» никуда не двигалась. На корабле не было ветра и питьевой воды. Моряки испытывали сильную жажду.
+У него просто никогда не было возможности, никогда не было места, чтобы довести композицию до совершенства.
 
-Tia Dalma came up to Will. "We must escape from this ocean before night, or we shall stay here for the rest of time."
+Does he see the worm sign of the infertor? 
 
-Тиа Далма подошла к Уиллу. «Мы должны выбраться из этого океана до наступления ночи, иначе останемся здесь навсегда».
+Видит ли он признаки червя, наблюдаемые у выводчика?
 
-Will went to Sao Feng's maps and looked at them again. Jack was already there, studying the mysterious circles and words. Barbossa was at the ship's wheel. He didn't look worried.
+I don't believe so. 
 
-Уилл подошел к картам Сао Фэна и снова их изучил. Джек уже был там, рассматривая таинственные круги и надписи. Барбосса стоял за штурвалом. Он не выглядел обеспокоенным.
+Я так не думаю.
 
-Will read the strange poem again. "Over the edge, back, over again, sun up, sun down, a green light."
+And Ragnarok 15 more bananelings. 
 
-Перечитаю это странное стихотворение. «За край, обратно, снова за край, восход солнца, закат солнца, зеленый свет».
+И ещё 15 банановых существ в Рагнароке.
 
-Jack moved some of the circles on the maps, and suddenly saw some new words: "UP IS DOWN."
+He's got three three melee attack in Carropus. 
 
-Джек передвинул несколько кругов на картах и внезапно увидел новые слова: «ВВЕРХ — ЭТО ВНИЗ».
+У него три атаки ближнего боя в Карропусе.
 
-"Up is down," Jack repeated. Then he understood! "Sun goes down, sun comes up!" Jack said. "Up is down!" He jumped to his feet and pointed across the water. "Over there!" he shouted.
+He's working on flyer attack as well. 
 
-«Верх – это низ», – повторил Джек. И тут он понял! «Солнце заходит, солнце всходит!» – сказал Джек. «Верх – это низ!» Он вскочил на ноги и указал через воду. «Вон там!» – крикнул он.
+Он также работает над атакой летающих юнитов.
 
-The pirates all ran across the deck to the left side of the ship. They couldn't see anything. Suddenly, Jack turned and ran to the right side of the ship.
+It's going to be over almost 50 bananelings. 
 
-Пираты бросились через палубу на левую сторону корабля. Они ничего не видели. Внезапно Джек повернулся и побежал на правую сторону корабля.
+Это будет почти 50 банановых существ.
 
-"There, it moved!" he called.
+There are zerglings scattered throughout. 
 
-«Вот оно пошевелилось!» — крикнул он.
+Повсюду разбросаны зерглинги.
 
-The pirates ran after him, and the ship moved with their weight. Elizabeth saw Jack turn quickly again.
+Look at that vision. 
 
-Пираты бросились за ним, и корабль покачивался под их тяжестью. Элизабет увидела, как Джек снова резко обернулся.
+Посмотрите на это видение.
 
-"Over there!" he shouted, running back to the left side.
+He knows the map is dark and full of terran. 
 
-«Вон там!» — крикнул он, убегая обратно налево.
+Он знает, что карта темная и полна терранов.
 
-"What is Jack doing?" Barbossa thought. He went to the maps, saw the message "UP IS DOWN," and suddenly he understood. "Untie everything on the decks," he shouted.
+So, he lights it up as best as he can. 
 
-«Что делает Джек?» — подумал Барбосса. Он заглянул в карты, увидел надпись «ВВЕРХ — ЭТО ВНИЗ», и вдруг понял. «Развяжите всё на палубах!» — крикнул он.
+Поэтому он освещает это место как может.
 
-The ship turned upside down, and everyone went under the water. Pirates held onto the sides of the ship. Will saw the maps in the water and reached for them.
+There are some scans sced. 
 
-Корабль перевернулся вверх дном, и все оказались под водой. Пираты держались за борта. Уилл увидел карты в воде и потянулся за ними.
+Есть несколько запланированных сканирований.
 
-Then they saw a green light! There was a loud noise and water fell away from the Pearl. Everything crashed back onto the deck. The ship was sailing on the top of the ocean again. But this was not the cold and empty ocean of the world of the dead. Here, the sun was coming up and the sky was getting light.
+You're engaging the opponent. 
 
-Затем они увидели зеленый свет! Раздался громкий шум, и вода хлынула с «Жемчужины». Все обрушилось обратно на палубу. Корабль снова плыл по поверхности океана. Но это был не холодный и пустынный океан мира мертвых. Здесь восходило солнце, и небо становилось светлее.
+Вы вступаете в бой с противником.
 
-"We've escaped from Davy Jones's Locker," Jack said. "We're finally back in the real world."
+Time to raise your APM. >> 
 
-«Мы выбрались из сундука Дэйви Джонса, — сказал Джек. — Наконец-то мы вернулись в реальный мир».
+Пора повысить ваш APM. >>
 
-## Chapter 7 Under Attack!
+I think he's good. 
 
-## Глава 7. Под атакой!
+Я думаю, он хорош.
 
-"We're back!" Gibbs shouted.
+Ragnarok 650 average APM and it only seems to go up over time. 
 
-«Мы вернулись!» — крикнул Гиббс.
+В Ragnarok 650 средний показатель APM (количество ударов в минуту) только увеличивается со временем.
 
-Will searched the deck until he found Elizabeth.
+Glen with it's a marauder drop. 
 
-Уилл обыскал палубу, пока не нашел Элизабет.
+Глен, это же мародёрская капля.
 
-"The sun's coming up," she said, smiling. "We're not safe yet—Davy Jones and Lord Beckett are still somewhere on the ocean. But we've saved Jack Sparrow and escaped from the world of the dead."
+Widowmines might be the choice, but he doesn't really have any to spare. 
 
-«Солнце восходит», — сказала она, улыбаясь. «Мы еще не в безопасности — Дэви Джонс и лорд Беккет все еще где-то в океане. Но мы спасли Джека Воробья и выбрались из мира мертвых».
+Возможно, он бы выбрал Вдовьи шахты, но у него их, по сути, нет в избытке.
 
-Barbossa and Jack were smiling, too. Everyone was happy—and then they all pulled out their guns. Barbossa and Elizabeth pointed their guns at Jack. Will and Gibbs pointed theirs at Barbossa. Jack pointed his gun at Will, then quickly pointed a second one at Barbossa. Barbossa also pulled out a second gun and pointed it at Gibbs. Elizabeth pointed her second gun at Barbossa.
+He's dropping them out because what else? 
 
-Барбосса и Джек тоже улыбались. Все были счастливы — а потом все достали оружие. Барбосса и Элизабет направили свои пистолеты на Джека. Уилл и Гиббс направили свои на Барбоссу. Джек направил свой пистолет на Уилла, а затем быстро направил второй на Барбоссу. Барбосса также вытащил второй пистолет и направил его на Гиббса. Элизабет направила свой второй пистолет на Барбоссу.
+Он их исключает, потому что что еще?
 
-Even with four guns pointing at him, Barbossa didn't seem worried. "The Brethren Court is meeting at Shipwreck Cove," he said. "Jack, you and I are going there."
+What other choice do you have? 
 
-Даже когда на него были направлены четыре пистолета, Барбосса, казалось, не беспокоился. «Суд Братьев собирается в бухте Кораблекрушений», — сказал он. «Джек, мы с тобой туда идём».
+Какой ещё у вас есть выбор?
 
-"If the Pirate Lords are meeting," Jack said angrily, "I'm going to sail my ship the other way."
+Die in the air or die on the ground. 
 
-«Если уж пиратские лорды собираются на собрание, — сердито сказал Джек, — я поплыву на своём корабле в другую сторону».
+Умереть в воздухе или умереть на земле.
 
-"They're meeting to fight Beckett," Elizabeth said. "And you're a Pirate Lord."
+And one gets you to Valhalla quicker. 
 
-«Они собираются сразиться с Беккетом, — сказала Элизабет. — А ты — пиратский лорд».
+А один из них позволит вам быстрее попасть в Вальхаллу.
 
-"You're not running away," Will said.
+It's probably the first one actually. 
 
-«Ты не убегаешь», — сказал Уилл.
+Вероятно, это первый из них.
 
-"The agents will search for us until we're all dead—except you," Barbossa told Jack.
+But meanwhile, the infertor underneath the scan and Clem has precious few. 
 
-«Агенты будут искать нас, пока мы все не умрём — кроме тебя», — сказал Барбосса Джеку.
+Но тем временем у сканирующего устройства, расположенного под ним, и у Клема их очень мало.
 
-Jack laughed. "Then I'll be Captain Jack Sparrow, the last pirate. I like the sound of that."
+He's up to four orbital commands. 
 
-Джек рассмеялся. «Тогда я стану капитаном Джеком Воробьём, последним пиратом. Мне нравится эта идея».
+У него уже четыре орбитальных управления.
 
-Suddenly, he fired the gun that was pointed at Barbossa. Nothing happened. Barbossa, Will, and Elizabeth all fired their guns, too. There was no smoke; there were no shots.
+There is quite a siege line, but this is clearly desperate. 
 
-Внезапно он выстрелил из пистолета, направленного на Барбоссу. Ничего не произошло. Барбосса, Уилл и Элизабет тоже выстрелили из своих пистолетов. Не было ни дыма, ни выстрелов.
+Линия осады довольно протяженная, но явно отчаянная.
 
-"The guns are too wet. They won't work," Gibbs explained.
+Wait, can you put a tank up there? 
 
-«Оружие слишком мокрое. Оно не будет работать», — объяснил Гиббс.
+Подождите, а вы можете поставить туда резервуар?
 
-Will threw his useless gun away. "Now we have to work together," he said. "We need water. The maps show an island near here with fresh water." It was a good plan.
+Maybe. 
 
-Уилл выбросил свой бесполезный пистолет. «Теперь нам нужно работать вместе, — сказал он. — Нам нужна вода. На картах показан остров неподалеку с пресной водой». Это был хороший план.
+Может быть.
 
-Jack looked nervously at Barbossa. "You take the men to the island," he said. "I'll stay with the ship."
+Not that it would matter in this scenario, but this looks like enough space to put a tank. 
 
-Джек нервно посмотрел на Барбоссу. «Отведи людей на остров, — сказал он. — А я останусь на корабле».
+В данном случае это, конечно, не имело бы значения, но, похоже, места достаточно для установки резервуара.
 
-"I'm not leaving my ship," Barbossa said.
+All right, he's coming around the corner and he's just rolling through. 
 
-«Я не собираюсь покидать свой корабль», — сказал Барбосса.
+Ладно, он выезжает из-за угла и просто проезжает мимо.
 
-"And Jack's not leaving his ship," Will said. "Here's an idea. You both go, and leave the ship with me. All right?"
+I Well, this is about the worst possible angle, but again, the bailings are just rolling in. 
 
-«А Джек не собирается покидать свой корабль», — сказал Уилл. «Вот вам идея. Вы оба идите, а со мной покиньте корабль. Хорошо?»
+Что ж, это, пожалуй, самый неудачный ракурс, но, опять же, потоки предложений только начинают поступать.
 
-Barbossa and Jack were unhappy but they agreed. A short time later, they sailed toward an empty beach. Will, Elizabeth, Tai Huang, and a small group of pirates waited on the Pearl.
+And does Clem have enough to survive? 
 
-Барбосса и Джек были недовольны, но согласились. Вскоре они отплыли к пустынному пляжу. Уилл, Элизабет, Тай Хуан и небольшая группа пиратов ждали их на борту «Жемчужины».
+И хватит ли Клему средств на выживание?
 
-"Are you still going to run, Jack?" Barbossa asked. "Can you run away from the world? That's the problem. You'll be the last pirate—and one day you'll die. Then there will be no pirates."
+The blinding clouds. 
 
-«Ты всё ещё собираешься бежать, Джек?» — спросил Барбосса. «Ты можешь сбежать от мира? В этом-то и проблема. Ты будешь последним пиратом — и однажды умрёшь. Тогда пиратов не останется».
+Ослепляющие тучи.
 
-"We came back after we died," Jack said.
+The ultra still getting the work done. 
 
-«Мы вернулись после смерти», — сказал Джек.
+Ультрас продолжают свою работу.
 
-"But can you be sure it will happen again?" Barbossa said.
+A huge blinding cloud. 
 
-«Но можно ли быть уверенным, что это повторится?» — спросил Барбосса.
+Огромное ослепляющее облако.
 
-Jack didn't want to think about his next death. It was too soon after his first one. He had to work with Barbossa.
+He may have to turn around for now, but the orbital command. 
 
-Джек не хотел думать о своей следующей смерти. После первой прошло слишком мало времени. Ему предстояло работать с Барбоссой.
+Возможно, ему придётся пока развернуться, но орбитальный командный пункт...
 
-"So the Brethren Court must meet," he said softly.
+He'll lift it and he'll just knock it down. 50 
 
-«Поэтому Братский суд должен собраться», — тихо сказал он.
+Он поднимет его и тут же сбросит. 50
 
-"It's the only way that we can win against Beckett and Davy Jones," Barbossa replied.
+supply lead. 
 
-«Это единственный способ победить Беккета и Дэви Джонса», — ответил Барбосса.
+поставка свинца.
 
-On the island, the pirates climbed up a hill to a freshwater stream that ran into a clear pool. Almost immediately, someone shouted from the beach. The pirates ran back. Ragetti was pointing at the ocean. The Black Pearl wasn't alone in the water. Another ship, Sao Feng's Empress, was next to her.
+The banelings an existential threat. 
 
-На острове пираты поднялись на холм к пресноводному ручью, впадавшему в чистый пруд. Почти сразу же с пляжа раздался крик. Пираты побежали обратно. Рагетти указывал на океан. «Чёрная жемчужина» была не одна в воде. Рядом с ней находился другой корабль, «Императрица» Сао Фэна.
+Банелинги представляют собой экзистенциальную угрозу.
 
-Jack and Barbossa heard a noise behind them and turned. Tai Huang and his men were pointing their guns at them.
+And so far, Ragnarok has done an incredible job of keeping Clen under wraps, of keeping him at bay, using a mix of burrowed zerglings for scouting, the investors underneath. 
 
-Джек и Барбосса услышали шум позади себя и обернулись. Тай Хуан и его люди направили на них оружие.
+И пока что Ragnarok проделал невероятную работу, удерживая Клена в тени, сдерживая его, используя смесь зарывшихся в землю зерглингов для разведки и инвесторов, скрывающихся под землей.
 
-Barbossa and Jack were taken back to the Pearl. There were a lot of Chinese pirates on the ship. Elizabeth Swann was now tied between two guards.
+pretty much exactly what you need in order to deal with a a Terran player who's relatively limited economically, but still has a ridiculously powerful army. 
 
-Барбоссу и Джека доставили обратно на «Жемчужину». На корабле было много китайских пиратов. Элизабет Суонн теперь была связана между двумя охранниками.
+Это практически именно то, что вам нужно, чтобы справиться с игроком за терранов, который относительно ограничен в экономическом плане, но при этом обладает невероятно мощной армией.
 
-"Sao Feng," Barbossa said. "You found us."
+He has to trade, but he can never lose a critical mass of units. 
 
-«Сао Фэн, — сказал Барбосса. — Ты нас нашел».
+Ему необходимо совершать сделки, но он никогда не должен терять критическую массу единиц товара.
 
-"Some of us are lucky," Sao Feng answered. He moved closer to Jack. Jack was trying—unsuccessfully—to hide behind Barbossa. Suddenly, Sao Feng hit him hard in the face.
+Cuz if he does, then Glen might just win the game with a single army. 
 
-«Некоторым из нас повезло», — ответил Сао Фэн. Он подошёл ближе к Джеку. Джек пытался — безуспешно — спрятаться за Барбоссой. Внезапно Сао Фэн сильно ударил его по лицу.
+Потому что если он это сделает, то Глен вполне может выиграть игру, имея в своём распоряжении всего одну армию.
 
-"Jack Sparrow," Sao Feng said. "You once hurt my feelings."
+He's done it before. 
 
-«Джек Воробей, — сказал Сао Фэн. — Ты однажды обидел меня».
+Он уже делал это раньше.
 
-Will came up from below the deck. He saw Jack's face, and Elizabeth between the guards, and hurried across to Sao Feng.
+I'm sure we'll see it again. 
 
-Уилл поднялся с нижней палубы. Он увидел лицо Джека и Элизабет между охранниками и поспешил к Сао Фэну.
+Уверен, мы еще это увидим.
 
-"She's not part of our agreement," Will said. "Untie her."
+But Ragnarok, his army, he has almost another army in the bank. 
 
-«Она не входит в наше соглашение», — сказал Уилл. «Развяжите её».
+Но во время Рагнарока у него есть почти еще одна армия в запасе.
 
-"What agreement?" Barbossa asked.
+Clen does not. 
 
-«Какое соглашение?» — спросил Барбосса.
+Клен этого не делает.
 
-Sao Feng laughed. "You heard Captain Turner," he said to his men. "Untie her."
+He's broke and he's not maxed out. 
 
-Сао Фэн рассмеялся. «Вы слышали капитана Тернера, — сказал он своим людям. — Развяжите её».
+Он разорен и не использует все свои возможности по максимуму.
 
-"Captain Turner?" Jack shouted. "Is he captain of my ship?"
+But is he broken? 
 
-«Капитан Тернер?» — крикнул Джек. — «Он что, капитан моего корабля?»
+Но сломлен ли он?
 
-"Yes," Gibbs said. "Turner and the Chinese sailors took the Pearl. Now he's taking us to find the Dutchman. He wants to save his father."
+Here we go. 
 
-«Да, — сказал Гиббс. — Тёрнер и китайские моряки захватили «Жемчужину». Теперь он везёт нас на поиски «Голландца». Он хочет спасти своего отца».
+Вот так.
 
-The guards untied Elizabeth. She looked sadly at Will.
+Likely the final fight, assuming Ragnarok's able to break through. 
 
-Охранники развязали Элизабет. Она печально посмотрела на Уилла.
+Вероятно, это будет финальная битва, если Рагнароку удастся прорваться.
 
-"You didn't tell me your plans," she said.
+Yet again, the corruptors knock down the Liberators. 
 
-«Ты мне не рассказал о своих планах», — сказала она.
+И снова коррупционеры свергают Освободителей.
 
-"I need the Pearl," Will said. "That's why I'm here."
+He goes straight through the center. 
 
-«Мне нужна Жемчужина», — сказал Уилл. «Поэтому я здесь».
+Он проходит прямо через центр.
 
-"He needs the Pearl," Jack said, pointing at Will. Then he turned to Elizabeth. "And you felt bad because you killed me." He pointed at Barbossa. "And you want me to be at the Brethren Court. Didn't anyone save me because they missed me?"
+Retreats to the tank line. 
 
-«Ему нужна Жемчужина», — сказал Джек, указывая на Уилла. Затем он повернулся к Элизабет. «И тебе было жаль, потому что ты убила меня». Он указал на Барбоссу. «И ты хочешь, чтобы я был в Братском дворе. Неужели никто меня не спас, потому что меня не хватало?»
+Отступает к линии снабжения танка.
 
-Gibbs, Marty, and Cotton lifted their hands. Then, Pintel and Ragetti lifted their hands, too.
+There's no more blinding clouds. 
 
-Гиббс, Марти и Коттон подняли руки. Затем Пинтел и Рагетти тоже подняли руки.
+Больше нет ослепляющих туч.
 
-Jack moved toward his men. "I'm standing with them."
+Look at those splits from Clem. 
 
-Джек двинулся к своим людям. «Я стою с ними».
+Посмотрите на эти результаты Клема.
 
-But Sao Feng stopped him. "I'm sorry, Jack," he said. His voice didn't sound sorry. "But there's an old friend who wants to see you first."
+I can't believe it's not Butter. 
 
-Но Сао Фэн остановил его. «Прости, Джек», — сказал он. В его голосе не звучало сожаления. «Но есть старый друг, который хочет увидеть тебя первым».
+Не могу поверить, что это не масло.
 
-He pointed over Jack's shoulder and Jack turned. Lord Cutler Beckett's ship, the Endeavour, was coming round the island.
+He's going to retreat a little bit further. 
 
-Он указал через плечо Джека, и тот обернулся. Корабль лорда Катлера Беккета, «Эндевор», обходил остров.
+Он собирается отступить ещё немного.
 
-"Oh, no!" Jack thought. "How many times have I escaped from the East India Trading Company? Now they've caught me."
+There's a tank on THE HIGH GROUND. 
 
-«О нет!» — подумал Джек. — «Сколько раз я уже сбегал от Ост-Индской торговой компании? Теперь они меня поймали».
+На возвышенности находится танк.
 
-## Chapter 8 The Goddess Calypso
+AND CLEM HOLDS. 
 
-## Глава 8 Богиня Калипсо
+И КЛЕМ ХОЛДС.
 
-Sao Feng's guards pulled Jack into the captain's room on the Endeavour. Lord Cutler Beckett stood at the window, looking out at the ocean. The guards dropped Jack's things on the table, then they left the room. Jack began to walk quietly around the room. He was looking for something.
+He drives IT BACK. 
 
-Охранники Сао Фэна втащили Джека в капитанскую каюту на «Эндеворе». Лорд Катлер Беккет стоял у окна, глядя на океан. Охранники бросили вещи Джека на стол и вышли из комнаты. Джек начал тихо ходить по комнате. Он что-то искал.
+Он отъезжает назад.
 
-"You can stop searching, Jack," Beckett said. "It's not here."
+THE ZERG ARE GOD DOWN. 
 
-«Можешь прекратить поиски, Джек, — сказал Беккет. — Этого здесь нет».
+ЗЕРГИ — ЭТО БОГ, КОТОРЫЙ ПАДАЕТ.
 
-Jack stopped moving. "What?" he asked.
+And Ragnarok, oh no, he underestimated his power. 
 
-Джек остановился. "Что?" - спросил он.
+А Рагнарок... о нет, он недооценил свою силу.
 
-Beckett turned around. "Davy Jones's heart. It's on the Flying Dutchman. You can't use it to pay Captain Davy Jones."
+But does it even matter in the end? 11 
 
-Беккет обернулся. «Сердце Дэви Джонса. Оно на «Летучем голландце». Вы не можете использовать его для оплаты капитану Дэви Джонсу».
+Но имеет ли это вообще значение в конечном итоге? 11
 
-"So," Jack thought, "the heart isn't here. But now I know where it is..."
+more ultras in production. 
 
-«Значит, — подумал Джек, — сердца здесь нет. Но теперь я знаю, где оно...»
+В производстве находится больше ультрас.
 
-"I don't need to pay him," Jack said. "I died, remember? Why am I here?"
+And Clem will continue his way through. 
 
-«Мне не нужно ему платить», — сказал Джек. «Я же умер, помнишь? Зачем я здесь?»
+И Клем продолжит свой путь.
 
-Beckett picked up Jack's Compass. "You brought me this," he said. "Now I'm offering you a job, working for the East India Trading Company. Working for me."
+He knocks out a couple bases. 
 
-Беккет взял компас Джека. «Ты принес мне это, — сказал он. — Теперь я предлагаю тебе работу в Ост-Индской торговой компании. Работу на меня».
+Он выбивает пару баз.
 
-"You offered me a job before," Jack said. "The answer is still no."
+The Corruptors are going to try to take it down. 
 
-«Ты предлагал мне работу раньше, — сказал Джек. — Ответ по-прежнему отрицательный».
+Коррупционеры попытаются это разрушить.
 
-Beckett looked very angry. "You haven't changed," he said. "Our business is finished. My men will kill you."
+But if there was ever an opportunity for a Major League Baseball level throw, that was it. 
 
-Беккет выглядел очень сердитым. «Ты ничуть не изменился, — сказал он. — Наше дело окончено. Мои люди тебя убьют».
+Но если когда-либо и представлялась возможность для броска уровня Главной лиги бейсбола, то это был именно он.
 
-"No, our business isn't finished," Jack said. "I want to make a suggestion." He took a Piece of Eight from a hidden pocket and held it between his fingers. "The Brethren Court."
+As a great man arguably once said, arguably great, not arguably said, Idra, when I'm really far ahead and I want to lose, I make ultras. 
 
-«Нет, наше дело ещё не закончено», — сказал Джек. «Я хочу внести предложение». Он достал из потайного кармана монету «Восемь реалов» и подержал её между пальцами. «Братский суд».
+Как, возможно, однажды сказал великий человек, возможно, великий, а не просто, Идра, когда я действительно далеко впереди и хочу проиграть, я устраиваю ультрас.
 
-Beckett laughed. "I already know about the meeting of the Brethren Court," he said.
+And it looks like more of an ultra risk here out of Ragnarok, who just exhausted his entire bank to make another dozen of them. 
 
-Беккет рассмеялся. «Я уже знаю о заседании Братского суда», — сказал он.
+А вот Рагнарок, похоже, выбрал более рискованный вариант, израсходовав весь свой запас, чтобы создать еще дюжину таких же.
 
-"Talk to Jones for me. Tell him to free me," Jack said. "I'll take you to Shipwreck Cove and give you the Pirate Lords."
+But there's still the banling mine, the other half of the banling money left over from earlier. 
 
-«Поговори с Джонсом за меня. Скажи ему, чтобы он меня освободил», — сказал Джек. «Я отведу тебя в Бухту Кораблекрушений и отдам тебе Пиратских Лордов».
+Но остается еще шахта Банлинг, оставшаяся половина денег, полученных от продажи шахты Банлинг, которые остались с тех пор.
 
-At the same time, Will was having problems on the Black Pearl. The ship was already full of Sao Feng's pirates, but then Mercer came on with some sailors from the Endeavour. Quickly, they ran across and took the ship's wheel from Tai Huang.
+There are 11 ultralisks on the field, but there's still a 100 terran army supply. 
 
-В то же время у Уилла возникли проблемы на «Чёрной жемчужине». Корабль уже был полон пиратов Сао Фэна, но тут появился Мерсер с матросами с «Эндевора». Они быстро перебежали на борт и забрали штурвал у Тай Хуана.
+На поле боя находятся 11 ультралисков, но при этом остаётся 100 юнитов терранской армии в качестве запаса.
 
-"I don't understand," Will said to Sao Feng. "This wasn't part of our agreement."
+The siege tanks on the high ground. 
 
-«Я не понимаю», — сказал Уилл Сао Фэну. «Это не входило в наше соглашение».
+Осадные танки на возвышенности.
 
-"This is now a Company ship," Mercer said with a terrible smile.
+Oh, some real wings of liberty nostalgia. 
 
-«Теперь это корабль Компании», — сказал Мерсер с ужасной улыбкой.
+О, какая ностальгия по "Крыльям свободы"!
 
-"You agreed," Will said, turning to Sao Feng. "The Black Pearl is mine."
+I think the bailing mine was detonated to no real effect, but the ultras chewing through the SCVs, THE SHEER BIOMASS. 
 
-«Ты согласился», — сказал Уилл, повернувшись к Сао Фэну. «Черная жемчужина моя».
+Думаю, мина для сброса воды взорвалась без особого эффекта, но ультрас уничтожали РСМД, это была просто невероятная биомасса.
 
-"Yes—but I lied," Sao Feng said.
+OH, AROUND THE CORNER. 
 
-«Да, но я солгал», — сказал Сао Фэн.
+О, за углом.
 
-One of his men came up behind Will and hit him. Will fell to the floor and two other men tied his arms.
+THAT'S A GG fun riot there as he just cleaves through all of it. 
 
-Один из его людей подошел к Уиллу сзади и ударил его. Уилл упал на пол, и двое других мужчин связали ему руки.
+Это просто уморительно, он прорубается сквозь всё это.
 
-Sao Feng turned to Mercer. "Lord Beckett agreed," he said. "The Black Pearl is mine."
+The planetary fortress will not stop him. 
 
-Сао Фэн повернулся к Мерсеру. «Лорд Беккет согласился, — сказал он. — Чёрная жемчужина моя».
+Планетарная крепость его не остановит.
 
-Mercer smiled again. "Yes," he said, "but Lord Beckett won't give up the only ship that can fight the Dutchman."
+There's too much. 
 
-Мерсер снова улыбнулся. «Да, — сказал он, — но лорд Беккет не отдаст единственный корабль, способный сразиться с голландцем».
+Этого слишком много.
 
-Sao Feng looked around at the East India Trading Company men. All of them had guns. "I can fight," he thought, "but I'll lose. Beckett will follow me and kill me."
+And Clem fought with tooth and nail and more importantly highowered artillery and psionic rifles. 
 
-Сао Фэн оглядел людей из Ост-Индской торговой компании. У всех у них было оружие. «Я могу сражаться, — подумал он, — но проиграю. Беккет выследит меня и убьет».
+Клем сражался не на жизнь, а на смерть, и, что еще важнее, с помощью мощной артиллерии и псионических винтовок.
 
-The ship was now Mercer's.
+But despite losing 8,000 more resources, 23 ultralless, and of course, never researching adrenal glands, Ragnarok is able to roll Clem in game number one. 
 
-Теперь корабль принадлежал Мерсеру.
+Но, несмотря на потерю еще 8000 ресурсов, 23 ультралилов и, конечно же, отсутствие исследований надпочечников, Рагнароку удается разгромить Клем в первой же игре.
 
-Sao Feng was very angry. Barbossa came up next to him.
+Woo! 
 
-Сао Фэн был очень зол. Барбосса подошёл к нему.
+Ура!
 
-"The Company men don't follow the Law of the Brethren," Barbossa said quietly.
+He was so close to throwing. 
 
-«Члены Компании не следуют Закону Братства», — тихо сказал Барбосса.
+Он был очень близок к тому, чтобы бросить мяч.
 
-"They have the Dutchman," Sao Feng said. "And what do the Brethren have that can fight the fastest ship on the ocean?"
+I That was If Clem had one more base. 
 
-«У них есть «Голландец», — сказал Сао Фэн. — А что есть у Братьев, что может противостоять самому быстроходному кораблю в океане?»
+Это было бы, если бы у Клема была ещё одна база.
 
-"We have ... Calypso," Barbossa replied.
+I know that that's a lot of base, but he would have been in real trouble. 
 
-«У нас есть… Калипсо», — ответил Барбосса.
+Я понимаю, что это много абсурда, но у него были бы серьёзные проблемы.
 
-Sao Feng looked surprised. Every pirate knew the story of Calypso, the goddess of the oceans.
+But what a game though. 
 
-Сао Фэн выглядел удивлённым. Каждый пират знал историю Калипсо, богини океанов.
+Но какая же это была игра!
 
-"Calypso commanded the oceans," he said slowly. "If she liked you, she made you strong. When she loved a captain, she brought him good weather and smooth waters. Then, the first Brethren Court caught her and turned her into a woman. The Pirate Lords became commanders of the oceans. But that's only a story. There isn't a real goddess in the body of a woman."
+That was a clinic on if you're not Sarah, how to compete with Clem. 
 
-«Калипсо властвовала над океанами, — медленно произнес он. — Если ты ей нравился, она делала тебя сильным. Когда она любила капитана, она приносила ему хорошую погоду и спокойные воды. Затем первый Братский двор поймал ее и превратил в женщину. Пиратские Лорды стали владыками океанов. Но это всего лишь сказка. Настоящей богини в теле женщины не существует».
+Это был мастер-класс о том, как конкурировать с Клемом, если ты не Сара.
 
-Or was there? Sao Feng looked at the only woman on the ship—Elizabeth.
+just continue to keep the I I got to point out that Clem did not go for the Banshee. 
 
-Или всё-таки была? Сао Фэн посмотрел на единственную женщину на корабле — Элизабет.
+Просто продолжайте в том же духе, и я должен отметить, что Клем не стал использовать Банши.
 
-"Calypso?" he said. "It's just an old story."
+He did not keep the pressure on early. 
 
-«Калипсо?» — спросил он. — «Это просто старая история».
+В начале он не смог поддерживать давление.
 
-"No," said Barbossa. "The goddess is here on Earth. There was a time when a sailor made his own future. I want to bring back that time. So I need the Brethren Court. All of it."
+He lost the first Reaper, which Clem historically from from the very beginning of his career, especially his biggest issue was uh being a very emotional player like most Terran pretend not to be, but definitely are. 
 
-«Нет, — сказал Барбосса. — Богиня здесь, на Земле. Было время, когда моряк сам создавал своё будущее. Я хочу вернуть это время. Поэтому мне нужен Братский суд. Весь он».
+Он проиграл первый Жнец, что исторически сложилось так, что главной его проблемой с самого начала карьеры было то, что он был очень эмоциональным игроком, каким большинство терранов делают вид, что не являются, но на самом деле являются.
 
-"What do you suggest?" Sao Feng said quietly.
+But his highest highs better than anyone. 
 
-«Что вы посоветуете?» — тихо спросил Сао Фэн.
+Но его лучшие достижения превзошли все остальные.
 
-"What will you accept?" Barbossa asked. He knew the answer.
+his lowest lows though, significantly lower uh than the average. 
 
-«Что ты примешь?» — спросил Барбосса. Он знал ответ.
+Однако самые низкие показатели у него были значительно ниже среднего.
 
-Sao Feng pointed across the ship. "The girl," he said.
+And I'm not saying any of that happened. 
 
-Сао Фэн указал через корабль. «Девушка», — сказал он.
+И я не утверждаю, что что-либо из этого действительно произошло.
 
-Elizabeth couldn't hear the men, but Will could.
+Clen was microing like a fiend, but he was fighting from behind almost the entire game. 
 
-Элизабет не слышала мужчин, но Уилл слышал.
+Клен мастерски управлял оружием, но почти всю игру он боролся, отставая в счёте.
 
-"You'll help us to escape if we give you Elizabeth?" he asked.
+You could put tanks on the high ground, though. 
 
-«Вы поможете нам сбежать, если мы отдадим вам Элизабет?» — спросил он.
+Однако танки можно разместить на возвышенностях.
 
-"Yes," said Sao Feng, as Elizabeth turned toward them.
+The Wings of Liberty nostalgia is so strong. 
 
-«Да», — ответил Сао Фэн, когда Элизабет повернулась к ним.
+Ностальгия по фильму «Крылья Свободы» очень сильна.
 
-"Never!" shouted Will, angrily.
+If anyone remembers lost and then shattered temple, we had to shatter the temple to stop people from dropping tanks on the high ground and Zerg having no real options to deal with it. 
 
-«Никогда!» — сердито крикнул Уилл.
+Если кто-то помнит сначала потерянный, а затем разрушенный храм, то нам пришлось его разрушить, чтобы помешать противникам высаживать танки на возвышенностях, и чтобы у зергов не было реальных вариантов противодействия.
 
-"All right," said Elizabeth. She looked bravely at Sao Feng.
+There are slightly more options now, though. 
 
-«Хорошо», — сказала Элизабет. Она смело посмотрела на Сао Фэна.
+Сейчас вариантов стало немного больше.
 
-"What?" Will said, surprised. "It's not all right!"
+Actually, I'm not sure if there was anything in the army. 
 
-«Что?» — удивленно спросил Уилл. — «Это нехорошо!»
+Честно говоря, я не уверен, было ли что-нибудь подобное в армии.
 
-"You put us in this position," Elizabeth said to him. "This will free us. I choose to go with Sao Feng."
+I think he maybe still had some ravagers at the end. 
 
-«Ты поставил нас в такое положение, — сказала ему Элизабет. — Это освободит нас. Я выбираю пойти с Сао Фэном».
+Думаю, у него, возможно, в конце концов ещё оставались какие-то опустошители.
 
-"No!" Will shouted. His heart was breaking.
+I think if possible, it's always good to have a few more ravagers to snipe off tanks and liberators and not be reliant on corruptors. 
 
-«Нет!» — закричал Уилл. Его сердце разрывалось от боли.
+Думаю, по возможности всегда полезно иметь несколько дополнительных опустошителей, чтобы отстреливать танки и освободители и не зависеть от коррупторов.
 
-Sao Feng smiled happily. "I'm pleased—" he began. He reached out to take her arm. Elizabeth pulled it away. To her surprise, he held up his hands. "I'm sorry," he said.
+Well, especially if the tanks are sitting on a high ground platform in the middle of the map. 
 
-Сао Фэн радостно улыбнулся. «Я рад…» — начал он. Он протянул руку, чтобы взять её за руку. Элизабет отдёрнула её. К её удивлению, он поднял руки. «Прости», — сказал он.
+Ну, особенно если танки находятся на возвышенности в центре карты.
 
-"So we have an agreement?" Barbossa asked.
+It really feels like Clem realized that in the middle of that last game. 
 
-«Значит, у нас есть соглашение?» — спросил Барбосса.
+Создаётся впечатление, что Клем осознал это в середине последней игры.
 
-"Yes," Sao Feng said. "My men will steal the Pearl for you. And I'll help you call the Brethren Court together. Elizabeth will sail away with me on the Empress."
+If he had known that before, would that have made the difference? 
 
-«Да, — сказал Сао Фэн. — Мои люди украдут для тебя Жемчужину. И я помогу тебе собрать Братский двор. Элизабет отплывет со мной на корабле «Императрица»».
+Если бы он знал это раньше, изменило бы это что-нибудь?
 
-## Chapter 9 The New Pirate Lord
+I don't think so. 
 
-## Глава 9 Новый пиратский лорд
+Я так не думаю.
 
-Jack Sparrow was also making an agreement—with Lord Beckett.
+I don't think it would have been a defining characteristic. 
 
-Джек Воробей тоже заключал соглашение — с лордом Беккетом.
+Я не думаю, что это стало бы определяющей характеристикой.
 
-"You can have Barbossa," Jack said. "And Turner. Yes, you can have Turner."
+And in fact, if he had done it earlier, Ragnarok likely would have had a even stronger response. 
 
-«Можешь забрать Барбоссу, — сказал Джек. — И Тернера. Да, можешь забрать Тернера».
+И на самом деле, если бы он сделал это раньше, Рагнарок, вероятно, вызвал бы ещё более сильный ответ.
 
-"And Miss Swann?" Beckett asked.
+But still a great game to start things off. 
 
-«А мисс Суонн?» — спросил Беккет.
+Но всё равно это отличная игра для начала.
 
-"The other people on the Pearl will go with me," Jack answered.
+We'll see if Clim adjusts. 
 
-«Остальные пассажиры "Перламутра" поедут со мной», — ответил Джек.
+Посмотрим, сможет ли Клим адаптироваться.
 
-"And I'll take you to Shipwreck Cove. Do we agree?"
+All all the little things went wrong. 
 
-«А я отведу тебя в Бухту Кораблекрушений. Договорились?»
+Все эти мелочи пошли не так.
 
-Lord Beckett smiled and picked up the Compass. "Jack," he said, "I have this wonderful Compass. It will point to what I want most."
+And that's how the Well, it's just a whole lot of little things adding up. 
 
-Лорд Беккет улыбнулся и взял компас. «Джек, — сказал он, — у меня есть этот замечательный компас. Он укажет мне то, что мне больше всего нужно».
+Вот так всё и складывается из множества мелких деталей.
 
-"Yes," Jack said. "And that's not the Brethren Court, is it?"
+But that's everything. 
 
-«Да», — сказал Джек. «И это ведь не Братский суд, верно?»
+Но это всё.
 
-"No?" Beckett asked. "Then what is it, Jack?"
+That's the theory of creation right there. 
 
-«Нет?» — спросил Беккет. «Тогда в чем дело, Джек?»
+Вот она, теория сотворения мира.
 
-"Me," said Jack. "Dead."
+And also the theory of Starcraft, which is included within it. 
 
-«Я, — сказал Джек. — Мертв».
+А также теория Starcraft, которая включена в него.
 
-Beckett opened the Compass. It was pointing at Jack!
+But like and subscribe for existential dread sometime between now and the heat death of the universe. 
 
-Беккет открыл компас. Он указывал на Джека!
+Но ставьте лайки и подписывайтесь, чтобы не испытывать экзистенциальный ужас в период между сегодняшним днем и тепловой смертью Вселенной.
 
-"I hate Jack Sparrow!" he thought. "He's right. The Compass is useless. It won't take me to Shipwreck Cove."
+So, you've got time. 
 
-«Ненавижу Джека Воробья!» — подумал он. «Он прав. Компас бесполезен. Он не приведет меня в Бухту Кораблекрушений».
+Значит, у вас есть время.
 
-Beckett threw the Compass back to Jack. "I'll kill you first," he said. "Then the Compass will tell me where Shipwreck Cove is."
+Or do you just the queen? 
 
-Беккет бросил компас обратно Джеку. «Сначала я тебя убью, — сказал он. — А потом компас покажет мне, где находится Бухта Кораблекрушений».
+Или вы просто королева?
 
-Jack spoke quickly. "You'll arrive at the cove and you won't get in. You need someone inside to bring the Pirate Lords outside."
+OH, WHAT A BOUNCE. 
 
-Джек говорил быстро: «Вы прибудете в бухту, но не сможете войти внутрь. Вам нужен кто-то внутри, чтобы вывести пиратских лордов наружу».
+О, какой отскок!
 
-Beckett thought for a minute. "Can you bring them to me?"
+THE BRENDA bounce and the queen. 
 
-Беккет задумался на минуту. "Не могли бы вы принести их мне?"
+Бренда прыгает, и королева.
 
-"I'm Captain Jack Sparrow," Jack said. "Do we have an agreement?" He held out his hand. Suddenly, the ship moved to one side. Beckett fell forward, and Jack took his hand.
+Get off my creep. 
 
-«Я капитан Джек Воробей», — сказал Джек. «Мы договорились?» Он протянул руку. Внезапно корабль накренился набок. Беккет упал вперед, и Джек взял его за руку.
+Отстань от меня, придурок.
 
-"Agreed!" Jack cried. He ran to the door as cannonfire shook the Endeavour. Beckett followed close behind him.
+I don't I wasn't even I got him. 
 
-«Согласен!» — воскликнул Джек. Он побежал к двери, когда пушечные выстрелы сотрясли «Эндевор». Беккет следовал за ним по пятам.
+Я не знаю, я даже не смог его поймать.
 
-On deck they saw many bodies, and smoke coming from the cannon below. The Empress was sailing away and gunfire was still coming from the Pearl.
+Great job, Susan. 
 
-На палубе они увидели множество тел и дым, идущий из пушек внизу. «Императрица» отплывала, а с «Перл» всё ещё вели выстрелы.
+Отличная работа, Сьюзен!
 
-His ship! Jack looked for a way to get over to the Pearl. He ran to one of the cannon, pointed it toward the Pearl, and climbed inside it. Beckett and his men jumped out of the way as the cannon fired. A big cannonball shot across the ocean, destroying the top of the Endeavour's sails. Jack was holding the cannonball and he flew straight toward his ship.
+Why? 
 
-Его корабль! Джек искал способ добраться до «Жемчужины». Он подбежал к одной из пушек, направил её на «Жемчужину» и забрался внутрь. Беккет и его люди отскочили в сторону, когда раздался выстрел. Огромное пушечное ядро пронеслось по океану, уничтожив верхнюю часть парусов «Эндевора». Джек держал ядро и полетел прямо к своему кораблю.
+Почему?
 
-On the Pearl, Barbossa saw Jack fly through the air. There was a loud noise of breaking wood, then Jack stood in front of him. He was completely unhurt.
+Why do I feel like you're being a little patronizing, Brenda? 
 
-На борту «Жемчужины» Барбосса увидел, как Джек взмыл в воздух. Раздался громкий треск ломающегося дерева, затем Джек встал перед ним. Он был совершенно невредим.
+Почему мне кажется, что ты немного покровительственно к мне относишься, Бренда?
 
-"Did you miss me?" Jack asked, laughing. He saw Will. "Put him in prison," he commanded. His men took Will down to the prison in the bottom of the ship. Jack smiled happily. He was back on his ship.
+Did Did you say Patreon? 
 
-«Ты скучал по мне?» — спросил Джек, смеясь. Он увидел Уилла. «Посадите его в тюрьму», — приказал он. Его люди отвели Уилла в тюрьму на дне корабля. Джек радостно улыбнулся. Он вернулся на свой корабль.
+Вы сказали Patreon?
 
-On the Endeavour, Lord Beckett looked at his broken sails. "How long will it take to repair the ship?" he asked an officer.
+Like people could find in the description of this video. 
 
-На борту «Эндевора» лорд Беккет осмотрел порванные паруса. «Сколько времени потребуется на ремонт корабля?» — спросил он офицера.
+Как можно было найти в описании этого видео.
 
-Another sail fell onto the deck.
+Okay, that's If we wore shoes, I would say you shoehorned it in. 
 
-Ещё один парус упал на палубу.
+Ладно, если бы мы были в обуви, я бы сказал, что вы втиснули это туда с трудом.
 
-"The Endeavour won't sail again for a long time," the officer replied.
+But I don't really have a frame of reference for that. 
 
-«В ближайшее время «Эндевор» больше не выйдет в море», — ответил офицер.
+Но у меня нет для этого конкретной точки отсчета.
 
-_
+Oh, don't worry about it, Susan. 
 
-On the Empress, Elizabeth stood and waited for Sao Feng. "What does he want from me?" she asked herself.
+О, не волнуйся, Сьюзен.
 
-На борту «Императрицы» Элизабет стояла и ждала Сао Фэна. «Что ему от меня нужно?» — спрашивала она себя.
+Just like you didn't worry about that reaper. 
 
-The Pirate Lord came quietly into the room and watched her.
+Точно так же, как вы не беспокоились о том жнеце смерти.
 
-В комнату тихо вошел пиратский лорд и стал наблюдать за ней.
+I'm trying positive reinforcement. 
 
-Elizabeth's eyes and skin shone. She looked ... like a goddess. He offered her a glass of wine. She accepted it nervously.
+Я пытаюсь использовать метод позитивного подкрепления.
 
-Глаза и кожа Элизабет сияли. Она выглядела... как богиня. Он предложил ей бокал вина. Она с волнением приняла его.
+My therapist says it's important. 
 
-"This is a surprise," she said. "Aren't you going to put me in prison for stealing your maps?"
+Мой психотерапевт говорит, что это важно.
 
-«Это неожиданно, — сказала она. — Вы же не собираетесь посадить меня в тюрьму за кражу ваших карт?»
+you can afford it in this economy. 
 
-Sao Feng smiled over the edge of his wine glass. "I can't put you in prison ... Calypso."
+В нынешних экономических условиях это вам по карману.
 
-Сао Фэн улыбнулся, глядя поверх края бокала с вином. «Я не могу посадить тебя в тюрьму… Калипсо».
+Yeah, sorry. 
 
-"What is he talking about?" Elizabeth asked herself.
+Да, извините.
 
-«О чём он говорит?» — спросила себя Элизабет.
+I um blacked out for a moment. 
 
-"I know that Calypso isn't your only name," Sao Feng continued. "But it's what we call you."
+Я... на мгновение потерял сознание.
 
-«Я знаю, что Калипсо — не единственное ваше имя, — продолжил Сао Фэн. — Но мы так вас называем».
+I Ragnarok again kills the Reaper. 
 
-"We?" Elizabeth asked.
+В «Рагнароке» снова погибает Жнец.
 
-«Мы?» — спросила Элизабет.
+That is No. 
 
-"The Brethren Court. We hid you in the shape of a woman."
+Нет.
 
-«Братский суд. Мы спрятали тебя в женском обличье».
+No, you can't do that. 
 
-Elizabeth tried to stay calm. "He thinks I'm a goddess!" she thought. She asked, "What do you want from me?"
+Нет, этого делать нельзя.
 
-Элизабет старалась сохранять спокойствие. «Он думает, что я богиня!» — подумала она. Она спросила: «Что ты от меня хочешь?»
+That's going to be a no for me. 
 
-"Your love, if you choose to give it to me."
+Для меня это однозначно нет.
 
-«Твоя любовь, если ты решишь подарить её мне».
+Aair's on the way. 
 
-"And if I don't choose to love you?" she said.
+Самолёт Air уже в пути.
 
-«А что, если я не выберу тебя любить?» — спросила она.
+And again, I'm not 100% convinced. 
 
-"Then I will accept that, too," Sao Feng said. He put his hands on her shoulders and kissed her.
+И опять же, я не на 100% убежден.
 
-«Тогда я тоже это приму», — сказал Сао Фэн. Он положил руки ей на плечи и поцеловал её.
+We're on Wave Breaker, by the way, which is like an oil or like some offshore platform where not particularly relevant except for the the aesthetic theme here. 
 
-Surprised, Elizabeth pushed him away. Suddenly, there was a loud noise. Somebody was attacking the ship. The pirates ran to the cannon. Elizabeth could see the gunfire through the windows. Then, she saw Sao Feng through the smoke. He was lying on the floor, with a long, sharp piece of wood in his chest.
+Кстати, мы находимся на Wave Breaker, это что-то вроде нефтяной платформы или какой-то морской платформы, что не имеет особого значения, за исключением эстетической составляющей.
 
-Удивлённая, Элизабет оттолкнула его. Внезапно раздался громкий шум. Кто-то атаковал корабль. Пираты бросились к пушкам. Элизабет видела выстрелы сквозь окна. Затем она увидела Сао Фэна сквозь дым. Он лежал на полу, с длинным острым куском дерева в груди.
+Though, there are some curious sets of rocks and overall quite a large map as well. 
 
-"Sao Feng?" she cried.
+Однако, здесь есть несколько любопытных скоплений камней, а также довольно большая карта.
 
-«Сао Фэн?» — воскликнула она.
+with a very long rush distance, or so it feels, but there are some speed zones through the center to speed things along, which the Heliens are whstrating for us. 
 
-"Here," he said weakly. He pulled a gold coin from around his neck. "Take it! I must give it to the next Brethren Lord."
+Кажется, что дистанция для ускорения очень длинная, но в центре есть несколько зон, позволяющих ускорить движение, что нам очень мешает со стороны Хелиенов.
 
-«Вот», — слабо произнес он, снимая с шеи золотую монету. «Возьми! Я должен отдать ее следующему Братскому Лорду».
+Mas, that's it. 
 
-"Me?" Elizabeth said, surprised.
+Вот и всё.
 
-«Я?» — удивленно спросила Элизабет.
+It's a spire. 
 
-"Go to Shipwreck Cove in my place," he said.
+Это шпиль.
 
-«Иди в бухту Кораблекрушений вместо меня», — сказал он.
+I mean, I guess it could be a corruptor rush, but it's not. 
 
-"Captain!" a voice shouted from outside the room. Tai Huang opened the door. "They've taken the ship!" Tai Huang cried. "We cannot—" He stopped when he saw Elizabeth.
+Я имею в виду, это может быть похоже на стремительный натиск коррупторов, но это не так.
 
-«Капитан!» — крикнул кто-то из-за двери. Тай Хуан открыл дверь. «Они захватили корабль!» — воскликнул Тай Хуан. «Мы не можем…» Он замолчал, увидев Элизабет.
+It's mutas. 
 
-"Calypso," Sao Feng said, then his eyes closed.
+Это мутас.
 
-«Калипсо», — сказал Сао Фэн, а затем закрыл глаза.
+And I like how it does seem to be the trend. 
 
-Elizabeth turned to Tai Huang and showed him the coin. "He made me captain," she said.
+И мне нравится, что это, похоже, становится трендом.
 
-Элизабет повернулась к Тай Хуану и показала ему монету. «Он назначил меня капитаном», — сказала она.
+I I I reset that thought process. 
 
-The new captain of the Empress stepped onto the deck. Tai Huang was close behind her. Elizabeth saw their attacker. It was the Flying Dutchman.
+III. Перенастроил этот мыслительный процесс.
 
-Новый капитан «Императрицы» вышла на палубу. Тай Хуан следовал за ней по пятам. Элизабет увидела нападавшего. Это был «Летучий голландец».
+It happens a lot. 
 
-The Dutchman's sailors were running onto the Empress, and tying up her sailors. Elizabeth couldn't see Davy Jones, but suddenly she noticed Admiral Norrington.
+Такое часто случается.
 
-Матросы с «Голландца» бросились на «Императрица» и связали её моряков. Элизабет не видела Дэви Джонса, но внезапно заметила адмирала Норрингтона.
+I But the quick layer has come back, especially against Clem, but against the top tren where you kind of reclaim the initiative uh against Terran because if you let them just do their normal macro build and you try to do a normal macro build, they're going to be more efficient. 
 
-"James?" she said.
+Но быстрый слой вернулся, особенно против Клема, но против топового террана вы как бы возвращаете инициативу, потому что если вы позволите им просто использовать свою обычную макро-стратегию, а сами попытаетесь использовать обычную макро-стратегию, они будут более эффективны.
 
-"Джеймс?" — спросила она.
+Glen is going to be more efficient. 
 
-Norrington's eyes widened with surprise when he saw her. "Elizabeth!" he shouted happily. "I heard you were dead!"
+Глен будет работать эффективнее.
 
-Глаза Норрингтона расширились от удивления, когда он увидел её. «Элизабет!» — радостно воскликнул он. «Я слышал, ты умерла!»
+Very simply, even if you perfectly micro and predict what he's doing, you can't compete with Marines. 
 
-Davy Jones arrived on deck. He looked closely at the prisoners. "Who is your captain?" he asked.
+Проще говоря, даже если вы идеально владеете микроконтролем и предугадываете его действия, вы не сможете конкурировать с морскими пехотинцами.
 
-Дэви Джонс вышел на палубу. Он внимательно осмотрел пленных. «Кто ваш капитан?» — спросил он.
+It's that's just how it works. 
 
-Tai Huang pointed at Elizabeth. Elizabeth stood straight and tall. Her eyes were cold and she didn't show her feelings.
+Так уж это устроено.
 
-Тай Хуан указал на Элизабет. Элизабет стояла прямо и высоко. Ее взгляд был холодным, и она не показывала своих чувств.
+That's how the game works. 
 
-"She isn't a governor's daughter now," Norrington thought. "She really is a pirate captain." He turned to his soldiers. "We'll pull the ship behind us. Put the sailors into the Dutchman's prison." He turned to Elizabeth. "You can have my room."
+Так устроена игра.
 
-«Теперь она не дочь губернатора, — подумал Норрингтон. — Она настоящая пиратская капитанша». Он повернулся к своим солдатам. «Мы отбуксируем корабль за собой. Посадим матросов в тюрьму "Летучего голландца"». Он повернулся к Элизабет. «Можешь занять мою комнату».
+It's not a failing, but it's uh just how Terran versus Zerg plays out. 
 
-"No, thank you," Elizabeth said proudly. "I'll stay with my men."
+Это не недостаток, а просто особенность противостояния терранов и зергов.
 
-«Нет, спасибо», — гордо ответила Элизабет. «Я останусь со своими людьми».
+So, but now I if Clem knew for a fact this was Mutus, what would he do differently? 
 
-She followed her pirates. They were locked in small, cold rooms deep inside the ship.
+Итак, если бы Клем точно знал, что это Мутус, что бы он сделал по-другому?
 
-Она последовала за своими пиратами. Они были заперты в маленьких, холодных комнатах в глубине корабля.
+Unclear. 
 
-"Will's father, Bootstrap Bill, works on the Dutchman," Elizabeth suddenly remembered. "Maybe he can help us to escape."
+Неясно.
 
-«Отец Уилла, Бутстрап Билл, работает на "Голландце"», — вдруг вспомнила Элизабет. «Может, он сможет помочь нам сбежать».
+Maybe nothing. 
 
-"Bootstrap?" she called softly. "Bill Turner?"
+Возможно, ничего.
 
-«Бутстрап?» — тихо позвала она. «Билл Тернер?»
+You still really want to move out as as soon as possible against Mutas. 
 
-Suddenly, a pair of eyes opened in the wooden side of the ship next to her.
+Вам по-прежнему крайне важно как можно скорее выдвинуться против Мутаса.
 
-Внезапно в деревянном борту корабля рядом с ней открылась пара глаз.
+But how much info does he have? 
 
-"You know my name!" said a shaky voice.
+Но насколько обширной информацией он располагает?
 
-«Вы знаете мое имя!» — раздался дрожащий голос.
+He knows the third base is late, but that's partially cuz he blocked it. 
 
-Elizabeth jumped to her feet. So this was Will's father. He was more wood than man. Only his face moved.
+Он знает, что третья база пробита с опозданием, но отчасти это потому, что он её заблокировал.
 
-Элизабет вскочила на ноги. Так вот он, отец Уилла. Он больше походил на дерево, чем на человека. Двигалось только его лицо.
+The creep. 
 
-"I know your son," she said. "Will Turner."
+Мерзавец.
 
-«Я знаю вашего сына, — сказала она. — Уилла Тернера».
+Well, he wouldn't be going this far under the creep. 
 
-"William! Is he alive?" Bootstrap asked. "Hah! And he's coming to save me. He promised."
+Ну, он бы не стал заходить так далеко под влиянием этого мерзавца.
 
-«Уильям! Он жив?» — спросил Бутстрап. «Ха! И он идёт меня спасать. Он обещал».
+If the mudas take out these two medeacs, he gets such a tempo advantage. 
 
-"Yes," she said. "Will's alive, and he wants to help you."
+Если мудасы выведут из строя этих двух медаков, он получит огромное преимущество в темпе.
 
-«Да, — сказала она. — Уилл жив, и он хочет тебе помочь».
+Oh, he's suspicious. 
 
-But the hope was disappearing from Bootstrap's eyes. "No," he said quietly. "He can't come. He won't come."
+О, он подозрительный.
 
-Но надежда угасла в глазах Бутстрапа. «Нет, — тихо сказал он. — Он не может прийти. Он не придет».
+Yeah. 
 
-"He'll try," Elizabeth said. "You're his father."
+Ага.
 
-«Он постарается», — сказала Элизабет. «Ты же его отец».
+Yeah. 
 
-Bootstrap looked at her with sad eyes. "I know you," the old pirate said. "He spoke of you. You're Elizabeth."
+Ага.
 
-Бутстрап посмотрел на неё печальными глазами. «Я тебя знаю», — сказал старый пират. «Он говорил о тебе. Ты — Элизабет».
+He didn't really see anything, but they lack of something. 
 
-"Yes," Elizabeth said, surprised.
+Он ничего толком не видел, но им чего-то не хватало.
 
-«Да», — удивленно ответила Элизабет.
+Oh, he's getting Oh, he's getting missile turrets preemptively. 
 
-"Will can't save me," Bootstrap said. "He won't, because of you. If he kills Davy Jones, he'll have to take his place. He'll be captain of the Dutchman forever. If he saves me, he loses you."
+О, он получает, он получает ракетные установки в превентивном порядке.
 
-«Уилл не сможет меня спасти, — сказал Бутстрап. — Он не спасёт меня из-за тебя. Если он убьёт Дэви Джонса, ему придётся занять его место. Он навсегда останется капитаном «Голландца». Если он спасёт меня, он потеряет тебя».
+Yeah, his star senses were tingling. 
 
-"Yes," Elizabeth said quietly.
+Да, у него обострилось чувство предчувствия.
 
-«Да», — тихо ответила Элизабет.
+The stench of mutas colored the air, which is kind of gross. 
 
-Bootstrap began to disappear into the wood of the ship. "He won't choose me. Tell him not to come! It's too late."
+Запах мутаморфозы окрасил воздух, что довольно отвратительно.
 
-Бутстрап начал исчезать в деревянной обшивке корабля. «Он меня не выберет. Скажи ему, чтобы не приходил! Уже слишком поздно».
+Oh, the speed zones. 
 
-His eyes closed and his face stopped moving. Now he was part of the wooden side of the ship again. Will's father was gone.
+Ах, эти зоны ограничения скорости!
 
-Его глаза закрылись, и лицо перестало двигаться. Теперь он снова стал частью деревянной обшивки корабля. Отца Уилла больше нет.
+But the speed zones work for everyone. 
 
-## Chapter 10 Jack's Plan
+Но зоны ограничения скорости подходят для всех.
 
-## Глава 10 План Джека
+And the boost isn't enough to get away. 
 
-The Endeavour's sails were repaired and the ship was following the Black Pearl. Lord Beckett stood on deck. Suddenly, he saw a lot of birds above the water.
+И этого ускорения недостаточно, чтобы уехать.
 
-Паруса «Эндевора» были отремонтированы, и корабль следовал за «Чёрной жемчужиной». Лорд Беккет стоял на палубе. Внезапно он увидел множество птиц над водой.
+He can slingshot the mutas. 
 
-"Sail over there," he ordered.
+Он может запускать мута в пращу.
 
-«Отплывите туда», — приказал он.
+AND HE KNOCKS DOWN BOTH METAMAC. 
 
-As the Endeavour sailed closer, the noise of the birds grew louder. They were flying around a dead body that was tied to a piece of wood. "This isn't an accident—it's a sign," Beckett thought. "Someone is leaving the bodies for us to follow. They're taking us straight to the Black Pearl."
+И ОН СБИВАЕТ С НОКАУТА ОБА МЕТАМАКА.
 
-По мере приближения «Эндевора» пение птиц становилось всё громче. Они летали вокруг мёртвого тела, привязанного к куску дерева. «Это не случайность — это знак», — подумал Беккет. «Кто-то оставляет тела, чтобы мы могли следовать за ними. Они ведут нас прямо к «Чёрной жемчужине»».
+HE knocks down. 
 
-On another part of the ocean, Will Turner tied another dead body to a piece of wood. He lifted it to push it over the side of the ship. Then a voice spoke from behind him and he stopped.
+Он сбивает с ног.
 
-В другом месте океана Уилл Тернер привязал еще одно мертвое тело к куску дерева. Он поднял его, чтобы сбросить за борт корабля. Затем сзади раздался голос, и он остановился.
+Thank you. 
 
-"I knew the prison couldn't hold you," said Jack.
+Спасибо.
 
-«Я знал, что тюрьма тебя не удержит», — сказал Джек.
+Wow. 
 
-Will dropped the body, and lifted his sword.
+Ух ты.
 
-Уилл отбросил тело и поднял меч.
+Oh, it's a disaster for climb to start things off. 
 
-"Stop, William," Jack said. "I'm not going to call anyone. What are you doing?"
+О, это просто катастрофа для скалолазания с самого начала.
 
-— Стоп, Уильям, — сказал Джек. — Я никому не собираюсь звонить. Что ты делаешь?
+There's no bane speed. 
 
-"I'm leaving signs," Will said. "For Beckett."
+Скорость не имеет значения.
 
-«Я оставляю знаки, — сказал Уилл. — Для Беккета».
+There's no upgrades on the way beside plus one flyer. 
 
-"Hmm," Jack said. "Very smart. What will you do when Beckett arrives at the Brethren's meeting place?"
+Помимо пассажира, путешествующего в одиночку, никаких повышений класса обслуживания не планируется.
 
-«Хм», — сказал Джек. — «Очень умно. Что ты будешь делать, когда Беккет прибудет в место собрания Братьев?»
+And there's no turrets at the third. 
 
-"Ask him to free my father."
+А на третьей позиции нет никаких башен.
 
-«Попросите его освободить моего отца».
+So despite all the fire and fury here, it's unlikely that Ragnarok is going to be able to follow this up. 
 
-Jack laughed. "Now that's not smart! Beckett won't help you. There's only one way to free your father."
+Поэтому, несмотря на весь этот огонь и ярость, маловероятно, что «Рагнарок» сможет превзойти это достижение.
 
-Джек рассмеялся. «Это неразумно! Беккет тебе не поможет. Есть только один способ освободить отца».
+Oh, whoa, whoa. 
 
-"I must kill Davy Jones," Will said sadly.
+Ого-го.
 
-«Я должен убить Дэви Джонса», — печально сказал Уилл.
+He picked up into the medevac, but that medevac was residing in a zone of danger, at least for a moment. Four, 
 
-"And you know the price for killing Jones," Jack said. "You'll be captain of the Dutchman. You'll take the souls of dead people to the next world. You'll only step on land every ten years ..."
+Он подхватил сигнал от санитарного вертолета, но тот находился в опасной зоне, по крайней мере, на мгновение. Четыре.
 
-«И ты знаешь цену за убийство Джонса, — сказал Джек. — Ты станешь капитаном «Летучего голландца». Ты будешь забирать души умерших в загробный мир. Ты будешь ступать на землю только раз в десять лет…»
+or five SCVs going to be picked up. 
 
-"I know," Will said unhappily. "If I help my father, I lose Elizabeth." In a low voice he added, "She wanted to save you. She felt bad about killing you."
+или пять SCV будут забраны.
 
-«Знаю», — печально сказал Уилл. — «Если я помогу отцу, я потеряю Элизабет». Тихим голосом он добавил: «Она хотела спасти тебя. Ей было очень жаль тебя убивать».
+Remember, Ragnarok cut a significant portion of his economy in the timing of his upgrades to get these mutas out and they paid off. 
 
-Suddenly, Jack had an idea. "You don't have to choose between Elizabeth and your father," he said. "Another person can kill Jones."
+Помните, что в период Рагнарока его экономика была значительно сокращена из-за необходимости модернизации, чтобы выпустить этих муталисков, и это окупилось.
 
-Внезапно Джеку пришла в голову идея. «Тебе не нужно выбирать между Элизабет и отцом, — сказал он. — Другой человек может убить Джонса».
+He lost three mutas, but he killed two medevac. 
 
-"Who?" Will asked. "I don't understand." Jack smiled. "You?"
+Он потерял трёх мута, но уничтожил двух санитаров, эвакуированных самолётом.
 
-— Кто? — спросил Уилл. — Я не понимаю. — Джек улыбнулся. — А ты?
+The first two metaveacs of marines with all hands and he got some SCUVs. 
 
-Jack Sparrow became excited as he explained his plan. "I'll go onto the Dutchman, and find the wooden box. I'll put a knife through Jones's heart and your father will be free. You'll also be free for Elizabeth. And I'll be free to sail the oceans." He smiled.
+Первые два метавака морской пехоты в полном составе, и у него были еще и подводные аппараты.
 
-Джек Воробей, охваченный волнением, объяснил свой план: «Я отправлюсь на «Летучего голландца» и найду деревянный ящик. Я пронзу сердце Джонса ножом, и твой отец будет свободен. Ты тоже будешь свободен ради Элизабет. А я смогу свободно бороздить океаны». Он улыбнулся.
+It's already a win if you're able to put the Terran on defense. 
 
-"You'll have to do Jones's work," Will said.
+Если вам удаётся перевести терранов в оборону, это уже победа.
 
-«Вам придётся выполнить работу Джонса», — сказал Уилл.
+That's never a guarantee, but it was unlikely he was ever going to do critical damage with that first wave. 
 
-"So I won't be completely free ... but I'll never die. I died once and I didn't like it. I don't want to do it again."
+Это никогда не гарантирует успеха, но вряд ли ему удалось бы нанести решающий урон первой волной.
 
-«Так что я не буду полностью свободен... но я никогда не умру. Я уже однажды умер, и мне это не понравилось. Я не хочу, чтобы это повторилось».
+So, it's about the follow-up. 
 
-He put his Compass into Will's hands. "Here," he said. "Say hello to Davy Jones for me." Then he pushed Will over the side of the ship and smiled down at him.
+Итак, речь идёт о дальнейших действиях.
 
-Он вложил свой компас в руки Уилла. «Вот», — сказал он. «Передай привет Дэви Джонсу от меня». Затем он толкнул Уилла за борт корабля и улыбнулся ему сверху вниз.
+It's about how much control of the map he can maintain while still teching up back at home cuz it's 66 workers a piece. 
 
-"As usual, Jack's following his own plan," Will thought. "It's going to be a very long night."
+Речь идёт о том, насколько хорошо он сможет контролировать карту, одновременно развивая технологии дома, ведь у каждого по 66 рабочих.
 
-«Как обычно, Джек следует своему собственному плану», — подумал Уилл. «Ночь будет очень долгой».
+And Glenn is going to have one one upgrades. 
 
-Elizabeth Swann was in the small prison room on the Dutchman. The ship sailed smoothly, pulling the Empress behind it. Suddenly, the door opened. It was James Norrington.
+А Гленн получит одно из обновлений.
 
-Элизабет Суонн находилась в маленькой тюремной каюте на борту «Голландца». Корабль шел спокойно, таща за собой «Императрица». Внезапно дверь открылась. Это был Джеймс Норрингтон.
+He's got his armory in a timely fashion. 
 
-"Be quiet," he said. "Come this way. Hurry."
+Он вовремя получил свой арсенал.
 
-«Замолчите», — сказал он. «Идите сюда. Поторопитесь».
+And 78 mutas are just not enough to be diving on missile turrets, to be sniping off groups of marines. 
 
-Elizabeth jumped to her feet. Her sailors were also free.
+А 78 мутантов просто недостаточно, чтобы пикировать на ракетные установки или снайперски обстреливать группы морских пехотинцев.
 
-Элизабет вскочила на ноги. Ее моряки тоже были свободны.
+It's enough to discourage anything but a committed push out. 
 
-Silently, they all ran up toward the deck.
+Этого достаточно, чтобы отбить всякое желание что-либо предпринимать, кроме решительного стремления к отступлению.
 
-Все они молча побежали к палубе.
+Pass that a scan. 
 
-"What are you doing?" Elizabeth asked Norrington.
+Передайте это на сканирование.
 
-«Что ты делаешь?» — спросила Элизабет Норрингтона.
+Clem. 
 
-"Helping you," he answered.
+Клем.
 
-«Помогаю вам», — ответил он.
+I'm clearly anticipating what Ragnarok is doing. 
 
-Inside the prison room, a pair of eyes opened in the side of the ship. Bootstrap Bill saw the open door. Slowly, he pulled himself out of the wood, and stepped forward.
+Я явно предвкушаю, что произойдет во время Рагнарока.
 
-Внутри тюремной камеры, в борту корабля, открылась пара глаз. Бутстрап Билл увидел открытую дверь. Медленно выбравшись из-под дерева, он шагнул вперед.
+Gets a couple more marines. 
 
-Norrington took the Chinese sailors to the line that tied the Empress to the Dutchman. Hand over hand, Sao Feng's sailors pulled themselves back to their own ship.
+Получает ещё пару морских пехотинцев.
 
-Норрингтон подвел китайских моряков к тросу, которым «Императрица» была привязана к «Голландцу». Моряки Сао Фэна, держась за руки, возвращались на свой корабль.
+Amuda. 
 
-Norrington turned to Elizabeth. "Don't go to Shipwreck Cove. Somebody has told Beckett about the meeting of the Brethren."
+Амуда.
 
-Норрингтон повернулся к Элизабет. «Не ходи в Бухту Кораблекрушений. Кто-то рассказал Беккету о собрании Братьев».
+It will heal. 
 
-"It's too late to earn my forgiveness," Elizabeth said.
+Оно заживёт.
 
-«Уже слишком поздно заслужить мое прощение», — сказала Элизабет.
+Thor in production. 
 
-"I know," Norrington said. "But I still love you."
+Фильм «Тор» находится в производстве.
 
-«Я знаю, — сказал Норрингтон. — Но я всё ещё люблю тебя».
+The much more reliable longrange weapons platform against the mutas. 
 
-"He's sorry for everything he's done," Elizabeth thought. She took his hand. "Come with us," she said.
+Гораздо более надежная платформа для дальнобойного оружия против мутасов.
 
-«Он сожалеет обо всем, что сделал», — подумала Элизабет. Она взяла его за руку. «Пойдем с нами», — сказала она.
+Now that he's pretty confident that it's going to be mass Muda. 
 
-Almost all of the Chinese soldiers were on the Empress now.
+Теперь, когда он достаточно уверен, что это будет массовый Муда.
 
-Почти все китайские солдаты теперь находились на борту «Императрицы».
+Some players will make five to 10 mutas and then swerve onto another branch of the tech tree. 
 
-"Who's there?" a voice said from the darkness. Somebody walked slowly toward them.
+Некоторые игроки создают от пяти до десяти муталисков, а затем сворачивают на другую ветвь дерева технологий.
 
-«Кто там?» — раздался голос из темноты. Кто-то медленно приблизился к ним.
+Uh attempting to catch like ether roaches or just like straight to hive for ultras. 
 
-Norrington turned quickly. "Go!" he shouted to Elizabeth. "I'll follow you." Quickly, he took her in his arms and kissed her. Then he pushed her toward the line. "Go! Now!" he shouted.
+Э-э, пытаюсь поймать, например, эфирных тараканов или просто отправить их прямиком в улей для ультрамарафонов.
 
-Норрингтон резко обернулся. «Вперед!» — крикнул он Элизабет. «Я пойду за тобой». Он быстро обнял ее и поцеловал. Затем он подтолкнул ее к линии. «Вперед! Сейчас же!» — крикнул он.
+But this base not cancelled. 
 
-Elizabeth stepped over the side of the ship and took the line. She was the captain of the Empress and her sailors needed her.
+Но эта база не была отменена.
 
-Элизабет переступила через борт корабля и взяла веревку. Она была капитаном «Императрицы», и ее матросы нуждались в ней.
+Ragnarok microing the mutas on the other side. 
 
-"I hope that James follows us soon," she thought.
+Рагнарок проводит микроконтроль мутантов с другой стороны.
 
-«Надеюсь, Джеймс скоро последует за нами», — подумала она.
+How much APM is enough? 
 
-Bootstrap stepped into the light. He saw Elizabeth, his son's true love. "That's not right," he thought. "Sailors on the Dutchman must stay with the ship until the end of time." Suddenly, he started to shout: "Help! A prisoner's escaping!"
+Какой показатель APM достаточен?
 
-Бутстрап вышел на свет. Он увидел Элизабет, истинную любовь своего сына. «Это неправильно», — подумал он. «Моряки на «Голландце» должны оставаться на корабле до конца времён». Внезапно он начал кричать: «Помогите! Заключённый сбегает!»
+Not 1,000. 
 
-Sailors quickly ran across the deck. Elizabeth was halfway across the line. She heard the noise and looked back. The Dutchman's sailors were moving toward Norrington.
+Не 1000.
 
-Моряки быстро перебежали через палубу. Элизабет была на полпути к палубе. Она услышала шум и оглянулась. Матросы «Голландца» двигались в сторону Норрингтона.
+Need more. 
 
-"James!" she cried. She started to climb back toward the Dutchman. Norrington saw her and pulled out his gun. He shot through the line and cut it into two pieces. Elizabeth fell into the water.
+Нужно больше.
 
-«Джеймс!» — закричала она. Она начала карабкаться обратно к «Голландцу». Норрингтон увидел её и вытащил ружьё. Он выстрелил через леску и перерезал её на две части. Элизабет упала в воду.
+Going to take out the drops, but the reinforcements are coming up to save the day. 
 
-As Norrington faced the Dutchman's sailors, Bootstrap moved forward. He still remembered his purpose as a pirate. He had to protect the ship. He pushed his sword through Norrington's heart.
+Собираюсь уничтожить десант, но подкрепление уже приближается, чтобы спасти положение.
 
-Когда Норрингтон столкнулся с матросами голландца, Бутстрап двинулся вперед. Он все еще помнил свое предназначение как пирата. Он должен был защитить корабль. Он пронзил мечом сердце Норрингтона.
+Knocks down another Muda. 
 
-Elizabeth pulled herself up the line to her ship. She looked back at the Dutchman. "James!" she cried again.
+Сбивает с ног ещё одного Муду.
 
-Элизабет подтянулась к своему кораблю. Она оглянулась на голландца. «Джеймс!» — снова воскликнула она.
+And Ragnarok does not have an infestation pit. 
 
-Norrington fell to the deck, dying. There was nothing that Elizabeth could do.
+А в Рагнароке нет ямы для заражения.
 
-Норрингтон упал на палубу и умирал. Элизабет ничего не могла сделать.
+He does not have the ability to go to hive. 
 
-The Empress sailed away into the dark, leaving the Dutchman— and the dead body of James Norrington—behind.
+У него нет возможности отправиться в улей.
 
-«Императрица» отплыла в темноту, оставив позади «Голландца» и мертвое тело Джеймса Норрингтона.
+Clem the concave of rocks down the center. 
 
-"The Admiral's dead!" one of the Dutchman's sailors shouted.
+Клем – это вогнутая поверхность из камней посередине.
 
-«Адмирал мертв!» — крикнул один из матросов голландского корабля.
+actually doing a great job of splitting the army and could very well work in Ragnarok's favor. 
 
-"Can we take command of the ship again?"
+На самом деле, это отлично справляется с расколом армии и вполне может сыграть на руку Рагнароку.
 
-"Сможем ли мы снова взять командование кораблем?"
+Though he just doesn't have the numbers a scan. 
 
-They ran to the captain's room, where Davy Jones's heart was held prisoner. Mercer and a group of soldiers were standing with their guns pointed at the heart.
+Хотя у него просто нет необходимых цифр и результатов сканирования.
 
-Они побежали в капитанскую каюту, где в плену находилось сердце Дэйви Джонса. Мерсер и группа солдат стояли, направив на сердце оружие.
+No, don't show him the infestation bit. 
 
-"Nothing has changed," Mercer said calmly.
+Нет, не показывайте ему, где именно произошло заражение.
 
-«Ничего не изменилось», — спокойно сказал Мерсер.
+He moved it when he realized the scan was on the way. 
 
-Jones watched angrily as Mercer relocked the box. The heart—and the Dutchman—still belonged to the East India Trading Company.
+Он передвинул его, когда понял, что сканирование уже в пути.
 
-Джонс с гневом наблюдал, как Мерсер снова запер шкатулку. Сердце — и голландец — по-прежнему принадлежали Ост-Индской торговой компании.
+That's something, I guess. 
 
-## Chapter 11 The Brethren Court
+Наверное, это хоть что-то.
 
-## Глава 11. Братский суд
+I don't The missile turrets come up just in time, though. 
 
-Pirate ships from all over the world were at Shipwreck Cove.
+Я так не думаю. Однако ракетные установки срабатывают как раз вовремя.
 
-В бухте Кораблекрушений собрались пиратские корабли со всего мира.
+Glenm has even he has not seen yeah the scan on the layer the infestation but is not done the simple fact that is a layer it's not becoming a hive it hasn't already became a hive but instead continues to be a lair is by far the most important info no burrow for bane bombs or bane mines so right despite keeping map control is maxed out he's going to have 2. 
 
-"I've never seen so many pirates in one place before," Barbossa said, happily.
+Даже Гленм, он еще не видел сканирования слоя заражения, но работа не завершена. Сам факт, что это слой, он не превращается в улей, он еще не превратился в улей, а продолжает оставаться логовом, — это, безусловно, самая важная информация. Нет нор для бомб или мин, наносящих урон. Так что, несмотря на то, что контроль карты максимален, у него будет 2 таких логова.
 
-«Я никогда раньше не видел столько пиратов в одном месте», — радостно воскликнул Барбосса.
+His army is just better in a heads up fight, but the mudas are not known for um spoiling for that sort of situation. 
 
-Jack was worried. "And I borrowed money from all of them."
+Его армия просто лучше в прямом бою, но муды не славятся тем, что стремятся к подобным ситуациям.
 
-Джек был обеспокоен. «И я взял у них всех деньги в долг».
+The lings and banees, there's still about a minute until Ragnarok's plus two upgrades are completed. 
 
-Barbossa heard a noise and turned. Tia Dalma was watching him closely.
+Что касается лингов и бейнов, до завершения улучшения «Рагнарока» на два уровня осталось еще около минуты.
 
-Барбосса услышал шум и обернулся. Тиа Далма внимательно наблюдала за ним.
+A huge counterattack. 
 
-"Barbossa," she said in a low voice. "Why aren't you preparing the cannon? All the Brethren are here. They will have to do what you want." She stepped closer to him. "Be careful, Barbossa," she said. "We had an agreement when I brought you back from the dead. I can send you there again."
+Масштабная контратака.
 
-«Барбосса, — тихо сказала она. — Почему ты не готовишь пушку? Все Братья здесь. Им придётся сделать то, что ты хочешь». Она подошла к нему ближе. «Будь осторожен, Барбосса, — сказала она. — У нас была договорённость, когда я вернула тебя из мертвых. Я могу отправить тебя туда снова».
+Clem priest steims against this. 
 
-Barbossa spoke angrily. "Yes, we had an agreement. But I will decide how we succeed." He pointed toward Shipwreck Cove. "Nine Pirate Lords caught you, Calypso. Nine are needed to free you. Until then, I won't take orders from you." He looked up. "Mr. Pintel! Mr. Ragetti!" he called. He pushed Tia Dalma— Calypso, the goddess of the ocean—toward them. "Take this woman to the prison!" Pintel and Ragetti took her away.
+Жрец Клем выступает против этого.
 
-Барбосса сердито произнес: «Да, у нас была договоренность. Но я сам решу, как нам добиться успеха». Он указал на Бухту Кораблекрушений. «Девять пиратских лордов поймали тебя, Калипсо. Девять нужны, чтобы освободить тебя. До тех пор я не буду подчиняться вашим приказам». Он поднял глаза. «Мистер Пинтел! Мистер Рагетти!» — позвал он. Он толкнул к ним Тию Далму — Калипсо, богиню океана. «Отведите эту женщину в тюрьму!» Пинтел и Рагетти увели её.
+Meanwhile, splitting against the banelings. 
 
-Barbossa could feel her angry eyes on his back. He couldn't worry about that now. "When the Court meets, I'll trick the Pirate Lords," he thought. "They'll free Calypso and she'll forgive me. She'll make me the greatest pirate on the ocean. Until then, I'll keep her locked up. I don't want her to destroy my plans."
+Тем временем, происходит раскол в противостоянии с бандитами.
 
-Барбосса чувствовал на себе ее гневный взгляд. Но сейчас он не мог об этом беспокоиться. «Когда соберется суд, я обману пиратских лордов, — подумал он. — Они освободят Калипсо, и она простит меня. Она сделает меня величайшим пиратом в океане. А до тех пор я буду держать ее взаперти. Не хочу, чтобы она разрушила мои планы».
+THE BANELINGS ON THE OTHER SIDE THOUGH. 
 
-Out in the ocean, Beckett's sailors pulled Will onto the Endeavour. He was very wet and his hands were tied. Lord Beckett's ship was next to the Dutchman and Beckett was also making plans. He called Davy Jones onto the deck.
+А вот Банелинги находятся по другую сторону.
 
-В открытом океане матросы Беккета вытащили Уилла на борт «Эндевора». Он был очень мокрый, и его руки были связаны. Корабль лорда Беккета стоял рядом с «Летучим голландцем», и Беккет тоже строил планы. Он позвал на палубу Дэви Джонса.
+CLEM looked away and everything is obliterated. 
 
-"I think you know Mr. Turner," Beckett said. He turned to Will. "Tell him."
+CLEM отвернулся, и всё было стёрто с лица земли.
 
-«Думаю, вы знаете мистера Тернера», — сказал Беккет, повернувшись к Уиллу. — «Передайте ему».
+The entire base is cleared out and Clem retreats, completely underestimating the scale of Ragnarok's commitment. 
 
-"Barbossa has called the Brethren Court together for a reason," Will explained. "He wants to free someone named Calypso."
+Вся база зачищена, и Клем отступает, совершенно недооценивая масштабы операции «Рагнарок».
 
-«Барбосса созвал Братский суд не просто так, — объяснил Уилл. — Он хочет освободить некую Калипсо».
+This was exactly what was needed. 
 
-Jones was afraid. "No!" he said. "They can't. She's a prisoner in a woman's body forever. That was the agreement."
+Это было именно то, что нужно.
 
-Джонс испугался. «Нет!» — сказал он. «Они не могут. Она навсегда останется пленницей в женском теле. Такова была договоренность».
+He needed to kill the economy and keep the army off his back. 
 
-Will looked at him carefully. Suddenly, he understood. "You told them how to catch her," he said. "And that's why you cut out your heart—"
+Ему нужно было подорвать экономику и не допустить, чтобы армия его преследовала.
 
-Уилл внимательно посмотрел на него. Внезапно он понял. «Ты рассказал им, как её поймать, — сказал он. — И поэтому ты вырезал себе сердце…»
+And he succeeded at both. 
 
-"Be quiet!" Jones shouted. He turned to Beckett. "We must stop them. She will destroy us all."
+И ему это удалось в обоих случаях.
 
-«Тихо!» — крикнул Джонс, повернувшись к Беккету. — «Мы должны остановить их. Она уничтожит нас всех».
+He takes out nine SCPs, the orbital command, and a big chunk of the army as well. 
 
-Lord Beckett looked thoughtful. "We must find the Brethren Court," he said. "And that's a problem." He turned to Will. "You're here now. How will we find them?"
+Он уничтожает девять SCP-объектов, орбитальное командование и значительную часть армии.
 
-Лорд Беккет задумчиво посмотрел на нас. «Мы должны найти Братский суд, — сказал он. — И это проблема». Он повернулся к Уиллу. «Ты здесь. Как мы их найдем?»
+The armory potentially under fire. 
 
-"Promise me that you won't hurt Elizabeth," Will said.
+Оружейный склад, возможно, находится под обстрелом.
 
-«Пообещай мне, что не причинишь вреда Элизабет», — сказал Уилл.
+The mut count is high enough to eventually cut through the missile turrets, though the Thor will be juggled around. 
 
-"Ah," Beckett said slowly. "Elizabeth. I hear that Miss Swann is now captain of the Empress."
+Количество мутантов достаточно велико, чтобы в конечном итоге пробить ракетные башни, хотя Тора придётся постоянно перебрасывать с места на место.
 
-«Ах, — медленно произнес Беккет. — Элизабет. Я слышал, что мисс Суонн теперь капитан корабля «Императрица».
+Also, contaminate. 
 
-Will looked surprised. He turned to Davy Jones. "But you won't hurt her. And you will free my father."
+Кроме того, загрязнять.
 
-Уилл выглядел удивлённым. Он повернулся к Дэви Джонсу. «Но ты не причинишь ей вреда. И ты освободишь моего отца».
+Yes, contaminate on both upgrades. 
 
-"You're asking a lot," Jones said.
+Да, загрязнение затронет оба обновления.
 
-«Вы слишком многого требуете», — сказал Джонс.
+He's magic boxing to reduce the splash damage and will take out both three upgrades, resetting Clem's advantage entirely. 
 
-"I'm offering a lot," Will replied.
+Он использует магический бокс, чтобы уменьшить урон от взрыва, и уничтожит оба трёх улучшения, полностью нивелировав преимущество Клем.
 
-«Я предлагаю очень многое», — ответил Уилл.
+The Thor is boxed in. 
 
-"Where is Shipwreck Cove?" Beckett asked, angrily.
+Тор заперт в ловушке.
 
-«Где находится Бухта Кораблекрушений?» — сердито спросил Беккет.
+He gets it to the other side, but the mutas, another contaminate. Three 
 
-"I don't know," Will said.
+Он доставляет его на другую сторону, но там мутас, ещё один загрязнитель. Три.
 
-«Я не знаю», — сказал Уилл.
+contaminates in a row. 
 
-Jones jumped forward, and put his hands around Will's neck. "Then you have nothing that we want!" he shouted.
+загрязняет последовательно.
 
-Джонс рванулся вперёд и обхватил руками шею Уилла. «Тогда у тебя нет ничего, что нам нужно!» — крикнул он.
+It's a It's a full-blown outbreak. 
 
-But Jones was wrong. Will looked at Beckett and held up Jack's Compass. "What do you want most?" he asked, smiling.
+Это полномасштабная вспышка.
 
-Но Джонс ошибался. Уилл посмотрел на Беккета и поднял компас Джека. «Чего ты хочешь больше всего?» — спросил он, улыбаясь.
+The armory and the engineering base are reset. 
 
-_
+Оружейная и инженерная базы перезагружены.
 
-BOOM! BOOM! BOOM! There was a loud noise in the Brethren Court as Barbossa hit the tabletop with a cannonball.
+He He managed to restart the armory before he lost it, which is very important because otherwise he'd have to finish the engineering base and restart the armory. 
 
-БУМ! БУМ! БУМ! В зале Братского суда раздался громкий шум, когда Барбосса ударил пушечным ядром по столешнице.
+Ему удалось перезапустить оружейный склад до того, как он его потерял, что очень важно, потому что в противном случае ему пришлось бы достраивать инженерную базу и перезапускать оружейный склад.
 
-Jack looked nervously around the room. He had a lot of enemies in there. "Will I get out alive?" he thought.
+Clem is maxed out. 
 
-Джек нервно оглядел комнату. Там было много врагов. "Выберусь ли я оттуда живым?" — подумал он.
+Клем достигла максимального уровня.
 
-The eight Pirate Lords were sitting around a large table, some alone, others with their guards. Ammand was a tall, black-haired pirate from the Barbary Coast. Next to him sat Villanueva, an angry-looking Spaniard. Captain Chevalle was next, a Frenchman with smart clothes. Fourth was Jocard, a man with shining black skin and a strong body. Then there was Mrs. Ching, a female Chinese pirate. She was the only woman ... but she was one of the most dangerous people in the room. Finally, there was Sri Sumbhajee, from the Indian Ocean. He looked kind, but he had two large bodyguards named Akshay and Pusan. It wasn't wise to make him angry.
+But again, a very similar scenario to the previous game in many ways, but completely different in other ways. 
 
-Восемь пиратских лордов сидели за большим столом, некоторые поодиночке, другие в сопровождении охранников. Амманд был высоким черноволосым пиратом с Варварского побережья. Рядом с ним сидел Вильянуэва, сердитый на вид испанец. Следом сидел капитан Шеваль, француз в элегантной одежде. Четвертым был Жокар, мужчина с блестящей черной кожей и сильным телосложением. Затем была госпожа Чинг, китайская пиратка. Она была единственной женщиной… но одной из самых опасных в зале. Наконец, был Шри Сумбхаджи, из Индийского океана. Он выглядел добрым, но у него было два крупных телохранителя по имени Акшай и Пусан. Неразумно было его злить.
+Но опять же, во многом сценарий очень похож на предыдущую игру, но в других аспектах совершенно другой.
 
-Barbossa waited until everyone was silent. He pointed to a wooden bowl. "Your Pieces of Eight, captains." Slowly, each Pirate Lord stood and dropped something into the bowl.
+So, kind of useless commentary, but hopefully it gives you the dramatic implications that it needs because Clem has a very limited economy and he doesn't have much of a he doesn't have much to look forward to is I guess one way to put it. 
 
-Барбосса подождал, пока все замолчат. Он указал на деревянную миску. «Ваши восемь фишек, капитаны». Медленно каждый пиратский лорд встал и бросил что-то в миску.
+В общем, это довольно бесполезный комментарий, но, надеюсь, он передаст вам необходимый драматический смысл, потому что у Клема очень ограниченные экономические ресурсы, и ему особо не на что надеяться, так сказать.
 
-Jack kept his in his hand. "One Pirate Lord is missing," he said. "I'm happy to wait for Sao Feng."
+He doesn't have ghosts. 
 
-Джек держал свой в руке. «Один пиратский лорд пропал», — сказал он. «Я рад подождать Сао Фэна».
+У него нет призраков.
 
-"Sao Feng is not coming," said a voice from the door.
+He doesn't have enough Thors. 
 
-«Сао Фэн не придёт», — раздался голос из-за двери.
+У него недостаточно Торов.
 
-Everyone turned. There was Elizabeth Swann, wearing pirate clothes. Tai Huang and another Chinese sailor stood behind her.
+The upgrades are no longer the priority. 
 
-Все обернулись. Там стояла Элизабет Суонн в пиратском костюме. За ней стояли Тай Хуан и еще один китайский моряк.
+Модернизация больше не является приоритетной задачей.
 
-"He named me captain of the Empress" Elizabeth explained. "He made me a Pirate Lord."
+The priority is just getting across the map and trying to keep Ragnarok from getting so much that he just runs him over. 
 
-«Он назначил меня капитаном «Императрицы», — объяснила Элизабет. — Он сделал меня пиратским лордом».
+Главная задача — просто пересечь карту и не дать Рагнароку захватить слишком много позиций, чтобы тот его просто не сбил.
 
-"What happened to Sao Feng?" asked Ammand.
+The mudas and the widow mines are still an existential threat. 
 
-«Что случилось с Сао Фэном?» — спросил Амманд.
+Мудасы и минные поля "Вдовы" по-прежнему представляют собой угрозу для существования человечества.
 
-"She probably killed him," Jack said quietly.
+A huge chunk of the army still in the middle of the map. 
 
-«Вероятно, она его убила», — тихо сказал Джек.
+Огромная часть армии всё ещё находится в центре карты.
 
-"Will you never forgive me?" Elizabeth said to him. Then she turned to the other Pirate Lords. "We were attacked by the Flying Dutchman."
+Clem with a whole bunch of the lings and baines and mutazom. 
 
-«Ты никогда меня не простишь?» — спросила Элизабет. Затем она повернулась к другим пиратским лордам. «На нас напал Летучий Голландец».
+Клем с целой кучей лингов, бейнов и мутазомов.
 
-"We must escape before the Dutchman finds us!" some of them called urgently.
+The widow mines taking out a big chunk trying to cut the wheat from the chaff. 
 
-«Мы должны бежать, прежде чем нас найдет голландец!» — с тревогой кричали некоторые из них.
+Шахтерша-вдова выкапывает большой кусок породы, пытаясь отделить зерно от плевел.
 
-"Listen to me!" Elizabeth shouted. "Jones, under the command of Lord Beckett, is coming here."
+The lings from the baines or well really all of them. 
 
-«Послушайте меня!» — крикнула Элизабет. «Джонс под командованием лорда Беккета едет сюда».
+Рыба из Бэйнса, или, вернее, вся рыба из них.
 
-"How did they find Shipwreck Cove?" Jocard said angrily. "Who told them?"
+The lings and banees from the game itself there. 
 
-— Откуда они взяли Бухту Кораблекрушений? — сердито спросил Жокард. — Кто им сказал?
+Там представлены существа-линги и бани из самой игры.
 
-"Nobody in this room," Barbossa said.
+Not as eloquent to put. 
 
-«В этой комнате никого нет», — сказал Барбосса.
+Сформулировать это было бы не так красноречиво.
 
-Elizabeth looked around. "Where's Will?" she asked Jack.
+Behind it, an ultralas cavern is on the way, but it's still a long way off. 
 
-Элизабет огляделась. «Где Уилл?» — спросила она Джека.
+Позади него, в процессе строительства, появится ультралазная пещера, но до ее открытия еще далеко.
 
-"He's not in this room," Jack said.
+And here come the lings and banees from the south side. 
 
-«Его нет в этой комнате», — сказал Джек.
+А вот и линги и бани с южной стороны.
 
-"Quiet!" Barbossa told the Pirate Lords. "It's not important! What do we do now?"
+Glen targets down a few to make sure the widow mines aren't triggered too early. 
 
-«Тишина!» — сказал Барбосса пиратским лордам. «Это неважно! Что нам теперь делать?»
+Глен целится в нескольких противников, чтобы мины-ловушки не сработали слишком рано.
 
-"We fight," Elizabeth said. The pirates began to laugh. Fight the Dutchman? Was she crazy?
+There's only a few more bananings behind this. 
 
-«Мы будем сражаться», — сказала Элизабет. Пираты рассмеялись. Сражаться с голландцем? Она что, сошла с ума?
+За этим следует всего лишь несколько других банальностей.
 
-Mrs. Ching offered another suggestion. "Shipwreck Cove is well-hidden. We don't need to fight if we stay here."
+TARGET FIRE HOLDS THE LINE AND GLEN TURNS it around yet again with that pinpoint perfect micro, but at the same time, the zurglings at the 3:00 position. 
 
-Миссис Чинг предложила еще один вариант. «Бухта кораблекрушений хорошо спрятана. Нам не придется сражаться, если мы останемся здесь».
+Целевая стрельба удерживает линию обороны, и Глен в очередной раз переворачивает ситуацию благодаря своей идеально точной микросъемке, но в то же время, зурглинги находятся на позиции 3:00.
 
-The other Pirate Lords agreed. They could hide for a long time, until the Dutchman and the East India Trading Company left them alone.
+The baitings are rolling in yet again and Ragnarok is roving right through. 
 
-Остальные пиратские лорды согласились. Они могли прятаться долгое время, пока Голландец и Ост-Индская торговая компания не оставят их в покое.
+Приманки снова сыпались одна за другой, и Рагнарок бушует повсюду.
 
-"I have a third plan," Barbossa said. Everyone turned to him. "Many years ago," he began, "the first Brethren Court caught the goddess of the ocean. That was a mistake. We made the oceans safe for ourselves, but opened them to men like Beckett. Pirate Lords, we must free Calypso."
+Another base is taken out. 
 
-«У меня есть третий план», — сказал Барбосса. Все повернулись к нему. «Много лет назад, — начал он, — первый Братский суд поймал богиню океана. Это была ошибка. Мы сделали океаны безопасными для себя, но открыли их для таких людей, как Беккет. Пиратские лорды, мы должны освободить Калипсо».
+Ещё одна база уничтожена.
 
-There was a surprised silence. Then the Indian Pirate Lord called his bodyguard, Akshay. The large man listened and then stepped forward and spoke.
+Clem, we'll trade to some extent. 
 
-Наступила удивленная тишина. Затем индийский пиратский лорд позвал своего телохранителя, Акшая. Крупный мужчина выслушал его, затем шагнул вперед и заговорил.
+Клем, мы в какой-то степени обменяемся.
 
-"Sri Sumbhajee says ..." Akshay pointed to Barbossa. "He is crazy! Do not listen to him!"
+Ragnarok is down to 167 supply. 
 
-«Шри Сумбхаджи говорит…» — Акшай указал на Барбоссу. — «Он сумасшедший! Не слушайте его!»
+В наличии осталось всего 167 предметов Ragnarok.
 
-"Shoot him!" Ammand said.
+And wait a second or maybe even a minute. 
 
-«Застрелите его!» — сказал Амманд.
+Подождите секунду, а может, даже минуту.
 
-"Cut out his tongue!" Jocard agreed.
+Uh-oh. 
 
-«Отрезать ему язык!» — согласился Жокард.
+Ой-ой.
 
-"Shoot him and then cut out his tongue!" Jack shouted happily.
+Again, Glen able to turn it around. 
 
-«Застрелите его, а потом отрежьте ему язык!» — радостно крикнул Джек.
+И снова Глену удалось переломить ситуацию в свою пользу.
 
-Elizabeth spoke. "I agree with Barbossa."
+A couple more mutas we knocked out of the sky. 
 
-Элизабет сказала: «Я согласна с Барбоссой».
+Ещё пару мутантов мы сбили с неба.
 
-"And I agree, too," Villanueva said.
+He's building three more. 
 
-«И я тоже согласен», — сказал Вильянуэва.
+Он строит ещё три.
 
-"No!" Jocard said. "Calypso was our enemy then; she will be our enemy now."
+He's putting it all in the mudas. 
 
-«Нет!» — сказал Жокард. «Калипсо была нашим врагом тогда; она будет нашим врагом и сейчас».
+Он вкладывает все свои деньги в мудас.
 
-"You're right," Chevalle said.
+Relatively fragile yet incredibly agile backs. 
 
-«Вы правы», — сказал Шеваль.
+Относительно хрупкие, но невероятно ловкие спины.
 
-Villanueva pulled out his gun. "I still agree with Barbossa."
+And he's got 11 mas 23 banees on the creep here. 
 
-Вильянуэва вытащил пистолет. «Я по-прежнему согласен с Барбоссой».
+И у него здесь 11 mas 23 banees, которые подкрадываются к нему.
 
-Chevalle hit him in the face. Suddenly, all the pirates were shouting and fighting.
+Upgrades two two a piece. 
 
-Шеваль ударил его по лицу. Внезапно все пираты начали кричать и драться.
+Улучшения: по два за штуку.
 
-"This is crazy!" Elizabeth shouted. "The enemy is very close. When we fight, we're doing Lord Beckett's job for him."
+Caught between a rock and a hard place. 
 
-«Это безумие!» — воскликнула Элизабет. «Враг совсем рядом. Когда мы будем сражаться, мы будем выполнять работу лорда Беккета за него».
+Оказавшись между молотом и наковальней.
 
-_
+The widow mines try to roll through. 
 
-On the Black Pearl, the subject of the Court's discussion was in the ship's prison. Tia Dalma turned as Davy Jones came out from the shadows.
+Мины-ловушки пытаются прорваться сквозь засаду.
 
-На борту «Чёрной жемчужины» предметом обсуждения в суде стала корабельная тюрьма. Тиа Далма обернулась, когда из тени вышел Дэйви Джонс.
+Not enough on top of the Thor. 
 
-"You—" Tia Dalma began. The happiness in her voice disappeared when she saw the gun in his hand. "You're going to kill me before the Brethren free me."
+Недостаточно сверху на Тора.
 
-«Ты…» — начала Тиа Далма. Радость в её голосе исчезла, когда она увидела пистолет в его руке. «Ты убьёшь меня, прежде чем Братья меня освободят».
+Banelings up to the high ground. 
 
-Jones didn't speak. He was in a room with the love of his life.
+Банелинги поднимаются на возвышенность.
 
-Джонс молчал. Он находился в комнате с любовью всей своей жизни.
+The creep doing so much work. 
 
-"What have you become? You were many things, Davy Jones, but you were never a monster."
+Этот мерзавец так много работает.
 
-«Кем ты стал? Ты был много кем, Дэви Джонс, но никогда не был чудовищем».
+The splits from Clem are so good. 
 
-"I learned it from you!" Jones cried. "For ten years I commanded the Dutchman. I did the job that you gave me. But when I stepped back onto the land, you weren't there! Why?"
+Штанга, которую демонстрирует Клем, просто потрясающая.
 
-«Я этому научился у вас!» — воскликнул Джонс. «Десять лет я командовал «Голландцем». Я выполнял порученную вам работу. Но когда я вернулся на сушу, вас там не было! Почему?»
+But are they good enough? 
 
-Tia Dalma touched his beard. "I can't help it. It's the way I am. But you love me."
+Но достаточно ли они хороши?
 
-Тиа Далма потрогала его бороду. «Ничего не могу поделать. Я такая, какая есть. Но ты меня любишь».
+No. 
 
-Davy Jones looked away. "I don't love you," he said angrily.
+Нет.
 
-Дэви Джонс отвернулся. «Я тебя не люблю», — сердито сказал он.
+Clem is cleared from the field, forced into a total retreat. 
 
-"That's sad," Tia Dalma said quietly. "Because soon I will be free. And when I am, I can give you my heart. We can be together, always."
+Клема выводят с поля, и он вынужден полностью отступить.
 
-«Это грустно, — тихо сказала Тиа Далма. — Потому что скоро я буду свободна. И когда это произойдёт, я смогу отдать тебе своё сердце. Мы сможем быть вместе, всегда».
+The reinforcements helping out. 
 
-Davy Jones slowly put the gun back in his belt. As he moved back into the shadows, he turned to her again. "And the Brethren Court?" he asked.
+Подкрепление оказывает помощь.
 
-Дэви Джонс медленно убрал пистолет за пояс. Скрывшись в тени, он снова повернулся к ней. «А что насчет Братского суда?» — спросил он.
+More of the mut are going to be taken down, but the supply advantage flips to the Zerg. 33 
 
-"They made me a prisoner," Tia Dalma said, angrily. "They will suffer."
+Будет уничтожено ещё больше мутантов, но преимущество в снабжении перейдёт к зергам. 33
 
-«Они взяли меня в плен, — сердито сказала Тиа Далма. — Они пострадают».
+is on the way. 
 
-_
+уже в пути.
 
-Barbossa hit the table again and the pirates turned to him. "We can free Calypso! Then she'll be grateful and help us."
+Ragnarok, honestly, the snipes. 
 
-Барбосса снова ударил по столу, и пираты повернулись к нему. «Мы можем освободить Калипсо! Тогда она будет благодарна и поможет нам».
+Рагнарок, честно говоря, снайперские выстрелы.
 
-"I agree with Captain Swann," said Jack. "We fight."
+There's a scan to both corners trying to make sure he didn't miss a base. 
 
-«Я согласен с капитаном Суонном, — сказал Джек. — Мы будем сражаться».
+Проводится сканирование обоих углов поля, чтобы убедиться, что он не пропустил базу.
 
-Barbossa laughed. "You've always run away from a fight!"
+He can corner where the Zerg are going, where he needs to deal with. 
 
-Барбосса рассмеялся. «Ты всегда убегаешь от драки!»
+Он может загнать в угол там, где зерги движутся, там, где ему нужно будет иметь дело.
 
-"That's not true!" Jack said. "I fight hard and often, because then I can run away. We can stay here for years, but we'll be prisoners. We must fight—to run away."
+And Clem still has 66 SCVs. 
 
-«Это неправда!» — сказал Джек. «Я сражаюсь изо всех сил и часто, потому что тогда я смогу сбежать. Мы можем оставаться здесь годами, но будем пленниками. Мы должны бороться — чтобы сбежать».
+А у Клема по-прежнему 66 SCV.
 
-"Who will we fight?" Mrs. Ching asked.
+He's going for a fifth base. Three three 
 
-«С кем мы будем сражаться?» — спросила госпожа Чинг.
+Он бежит на пятую базу. Три, три.
 
-"Beckett," Elizabeth said immediately.
+upgrades closing in. 
 
-«Беккет», — тут же ответила Элизабет.
+Обновления приближаются.
 
-The pirates agreed. They decided to fight the East India Trading Company, and to destroy the Dutchman. Barbossa had other ideas, but the pirates didn't listen.
+Already plus three carropus on the ground. 
 
-Пираты согласились. Они решили сразиться с Ост-Индской торговой компанией и уничтожить «Голландца». У Барбоссы были другие планы, но пираты их не послушали.
+На земле уже плюс три малька.
 
-"The Pirate Lords must free Calypso or my plan will fail," he thought. "Tia Dalma will be angry ..."
+Of course, the Mudas have plus one flyer and carropus. 
 
-«Пиратские лорды должны освободить Калипсо, иначе мой план провалится», — подумал он. «Тиа Далма рассердится…»
+Конечно, у Мудасов есть ещё один летающий юнит и один мальфитан.
 
-He tried again. "Only the Pirate King can start a war. Call Captain Teague, Keeper of the Pirate Law!"
+So, not great, not terrible. 
 
-Он попытался снова. «Только Король Пиратов может начать войну. Позовите капитана Тига, Хранителя Пиратских Законов!»
+В общем, не отлично, но и не ужасно.
 
-Two pirates ran out of the room and returned with the old pirate. He was carrying a large book. This was the famous Pirate Law, written by the first Brethren Court.
+Ragnarok forced to build more overlords. 
 
-Из комнаты выбежали два пирата и вернулись вместе со старым пиратом. Он нес большую книгу. Это был знаменитый «Закон о пиратах», написанный первым Братским судом.
+Рагнарок вынудил создать больше повелителей.
 
-Teague unlocked the book and opened it. Everyone waited for him to speak. Finally he looked up. "Barbossa is right," he said.
+Zerglings at the 3:00 yet again. 
 
-Тиг разблокировал книгу и открыл её. Все ждали, когда он заговорит. Наконец он поднял глаза. «Барбосса прав», — сказал он.
+Зерглинги снова в 3:00.
 
-Jack read out the words: "Only the King can start a war, talk to the enemy, and organize our men."
+Adrenal glands on the way as Ragnarok remembers that upgrades are kind of a big deal. 40
 
-Джек зачитал слова: «Только король может начать войну, вести переговоры с врагом и организовать наших людей».
+Надпочечники скоро появятся, ведь Рагнарок помнит, что обновления — это довольно серьёзное дело. 40
 
-"We haven't had a king since the first court," Chevalle said.
+% attack speed on the unit you make sometimes literally thousands of in a game. 
 
-«У нас не было короля со времен первого двора», — сказал Шеваль.
+Процент скорости атаки создаваемого вами юнита, иногда в буквальном смысле тысячи процентов за игру.
 
-"Why?" Elizabeth asked Gibbs.
+It's pretty good. 
 
-«Почему?» — спросила Элизабет Гиббса.
+Довольно неплохо.
 
-"The king is chosen by a vote," Gibbs explained in a low voice. "Each pirate only votes for himself."
+You can quote me on that. 
 
-«Короля выбирают путем голосования, — тихо объяснил Гиббс. — Каждый пират голосует только за себя».
+Можете меня процитировать.
 
-"I call for a vote!" shouted Jack.
+Pretty pretty uh pretty good. 
 
-«Я призываю к голосованию!» — крикнул Джек.
+Довольно, довольно, э-э, довольно хорошо.
 
-Ammand lifted his hand. "I vote for Ammand the Corsair," he said.
+But widow mine. 
 
-Амманд поднял руку. «Я голосую за Амманда-корсара», — сказал он.
+Но вдова моя.
 
-"Captain Chevalle," said Chevalle.
+That was that was my reaction to a widow mine which seems appropriate. 
 
-«Капитан Шеваль», — сказал Шеваль.
+Вот такой была моя реакция на мину-ловушку, и она кажется вполне уместной.
 
-The vote continued around the table. "I'll have to do what they do," Elizabeth thought, then said, "Elizabeth Swann!"
+Juggling the Thor like piouetting elephants here. 
 
-Голосование продолжилось за столом. «Придётся мне сделать то же, что и они», — подумала Элизабет, а затем сказала: «Элизабет Суонн!»
+Здесь он жонглирует Тором, словно слон, выполняющий трюки на пируэте.
 
-Jack looked around him. "I vote for—Elizabeth Swann." The other pirates shouted angrily.
+But more zerglings in the third and Clem cannot he's continually cornered. 
 
-Джек огляделся. «Я голосую за… Элизабет Суонн!» — сердито закричали другие пираты.
+Но в третьей четверти появляется еще больше зерглингов, и Клем постоянно оказывается в безвыходном положении.
 
-Jack spoke to the Court. "Aren't we going to follow the Pirate Law?" he asked.
+Both players flinging everything around the map. 
 
-Джек обратился к суду. «Разве мы не будем следовать пиратскому закону?» — спросил он.
+Оба игрока швыряют всё подряд по карте.
 
-"We have to," Mrs. Ching said. "What do you say, Captain Swann, King of the Brethren Court?"
+But well, there's the ultras. 
 
-«Мы должны это сделать», — сказала миссис Чинг. «Что вы скажете, капитан Свонн, король Братского двора?»
+Но, в конце концов, есть еще и ультрас.
 
-The new Pirate King stood up. "In the morning," she said, "we shall fight the East India Trading Company, destroy the Dutchman, and escape to the ocean."
+Kitan is ply is completed. 
 
-Новая пиратская королева встала. «Утром, — сказала она, — мы сразимся с Ост-Индской торговой компанией, уничтожим голландца и сбежим в океан».
+Строительство Kitan завершено.
 
-The pirates moved out to their ships. Angrily, Barbossa gave a sign to Pintel and Ragetti. They picked up the bowl with the Pieces of Eight and followed him out of the room.
+These are el chapoless right now. 
 
-Пираты направились к своим кораблям. Разгневанный Барбосса подал знак Пинтелу и Рагетти. Они взяли чашу с Восьмигранными монетами и последовали за ним из комнаты.
+Сейчас они без чапо.
 
-Jack left last. His plans were starting to work ... but he still wanted to be captain of the Dutchman.
+They've got speed and they've got armor. 
 
-Джек ушёл последним. Его планы начали воплощаться в жизнь... но он всё ещё хотел быть капитаном «Голландца».
+Они обладают скоростью и броней.
 
-As the Black Pearl and the Empress prepared for war, hundreds of pirate ships met near Shipwreck Cove. On every deck, pirates sharpened their swords and prepared their cannon.
+And there's really not that many marauders. 
 
-Пока «Чёрная жемчужина» и «Императрица» готовились к войне, сотни пиратских кораблей собрались у Бухты Кораблекрушений. На каждой палубе пираты точили мечи и готовили пушки.
+И мародеров здесь не так уж и много.
 
-Suddenly, they saw the Endeavour through the gray clouds.
+He's been dealing with the mutas. 
 
-Внезапно сквозь серые облака они увидели «Эндевор».
+Он имеет дело с мутами.
 
-The pirates lifted their swords. One ship against hundreds of pirate boats! Lord Beckett couldn't win! But then they saw another ship. And another. And another. And another.
+Whittlemine does terrible, terrible damage. 
 
-Пираты подняли мечи. Один корабль против сотен пиратских лодок! Лорд Беккет не мог победить! Но затем они увидели ещё один корабль. И ещё один. И ещё один. И ещё один.
+Шахта Уиттлмин наносит ужасный, ужасный ущерб.
 
-The pirates' excited cries slowly stopped. Then the water began to move. The Flying Dutchman came up out of the ocean in front of Beckett's ships. The pirates were silent as they looked at the monstrous faces of Davy Jones and his men.
+The liberator will protect the base. 
 
-Взволнованные крики пиратов постепенно стихли. Затем вода начала двигаться. «Летучий голландец» поднялся из океана перед кораблями Беккета. Пираты молча смотрели на чудовищные лица Дэви Джонса и его людей.
+Освободитель защитит базу.
 
-Lord Beckett was standing on the deck of the Endeavour. He smiled. "Jack kept his promise and brought me the pirates," he thought. "But what will he do next?"
+The sheer amount of bio down the midfield. 
 
-Лорд Беккет стоял на палубе «Эндевора». Он улыбнулся. «Джек сдержал своё обещание и привёл мне пиратов», — подумал он. «Но что он сделает дальше?»
+Огромное количество биологических агентов в полузащите.
 
-Every pirate was asking the same question. Thousands of angry eyes turned to Jack.
+The banelings boxing out. 
 
-Все пираты задавали один и тот же вопрос. Тысячи гневных взглядов обратились к Джеку.
+Банелинги оттесняют соперников.
 
-"Sorry," Jack said. "Let's talk to Lord Beckett."
+The mudas swing around to take out the liberator. 
 
-— Извините, — сказал Джек. — Давайте поговорим с лордом Беккетом.
+Муды разворачиваются, чтобы уничтожить освободителя.
 
-There was an island near the ships. A short time later Jack, Elizabeth, and Barbossa stepped out of a small boat and walked across the white sand. Lord Beckett, Davy Jones, and Will Turner stepped out of a second boat. They met in the middle of the beach.
+The ultras in Baines. 33 
 
-Неподалеку от кораблей находился остров. Вскоре Джек, Элизабет и Барбосса вышли из небольшой лодки и пошли по белому песку. Лорд Беккет, Дэви Джонс и Уилл Тернер вышли из второй лодки. Они встретились посреди пляжа.
+Ультрас в Бейнсе. 33
 
-"You brought these people to us," Barbossa said to Will.
+finishes mid fight for Clem. 
 
-«Вы привели к нам этих людей», — сказал Барбосса Уиллу.
+Клем завершает бой в середине поединка.
 
-"Don't be angry with Turner," Lord Beckett said. "The plan belongs to the person on your left."
+The ultra being caught up, but there's just so many of them. 
 
-«Не сердитесь на Тернера, — сказал лорд Беккет. — План принадлежит человеку слева от вас».
+Ультрамарафонцы постепенно набирают обороты, но их просто слишком много.
 
-Elizabeth and Barbossa turned to Jack. Jack turned and looked to his left, too. There was nobody there. "Me?" he said. "It wasn't me!"
+The banelings are rolling through. 
 
-Элизабет и Барбосса повернулись к Джеку. Джек тоже повернулся и посмотрел налево. Там никого не было. «Я?» — спросил он. «Это был не я!»
+Банелинги проносятся мимо.
 
-Will agreed. "It wasn't Jack."
+And Ragnarok is rolling to maybe two games in a row. 
 
-Уилл согласился. «Это был не Джек».
+И, возможно, Ragnarok продолжится уже вторую игру подряд.
 
-"Will," Elizabeth said softly. She felt sorry for him. "I've traveled on the Dutchman" she said. "I understand your problem. But you can't help your father."
+Wow, what a game. 
 
-«Уилл», — тихо сказала Элизабет. Ей было его жаль. «Я путешествовала на «Голландце», — сказала она. — «Я понимаю твою проблему. Но ты не можешь помочь своему отцу».
+Ух ты, какая игра!
 
-"I must try," Will said, and looked quickly at Jack.
+Didn't lose a single ultra, only 19 mutas, which actually seems quite low. 
 
-«Я должен попробовать», — сказал Уилл и быстро взглянул на Джека.
+Не потерял ни одного ультра-монстра, всего 19 мутантов, что на самом деле кажется довольно низким показателем.
 
-"Do they have a plan that I don't know about?" Elizabeth asked herself.
+Got so much done with them. 
 
-«У них есть какой-то план, о котором я не знаю?» — спросила себя Элизабет.
+С их помощью я многого добился.
 
-Lord Beckett held up Jack's Compass, and looked at Jack. "Turner was working for you. He had your Compass."
+A hectic experience in 16 minutes. 48,000 
 
-Лорд Беккет поднял компас Джека и посмотрел на него. «Тернер работал на тебя. Твой компас был у него».
+Насыщенная событиями поездка за 16 минут. 48 000
 
-Barbossa looked angrily at Jack. So he was the pirates' real enemy.
+resources lost. 
 
-Барбосса сердито посмотрел на Джека. Значит, он и был настоящим врагом пиратов.
+потерянные ресурсы.
 
-"You agreed to bring the pirates to me," Beckett continued. He threw the Compass to Jack. "And here they are. Now you can have your prize."
+Almost the entirety of the map taken despite the sheer size of it. 
 
-«Ты согласился привести ко мне пиратов, — продолжил Беккет. — Он бросил компас Джеку. И вот они. Теперь ты можешь забрать свой приз».
+Практически вся карта захвачена, несмотря на её огромные размеры.
 
-"And what is his prize?" Barbossa asked.
+And now Ragnarok off to a twoz lead against Clem, which and it's not it doesn't feel like a fluke. 
 
-«А каков его приз?» — спросил Барбосса.
+И вот Рагнарок выходит вперед на два очка против Клем, что, и это не кажется случайностью.
 
-Beckett pointed at Elizabeth. "Her," he said. "When the Brethren are dead, Jack will sail away on the Pearl. Elizabeth will be in his arms."
+It doesn't feel like oh Clem was out of position. 
 
-Беккет указал на Элизабет. «На неё, — сказал он. — Когда Братья умрут, Джек отплывет на «Жемчужине». Элизабет будет у него на руках».
+Не создаётся впечатления, что Клем была не на своей позиции.
 
-"Jack wants the Pearl, not me," Elizabeth thought.
+He got cheesed or something. 
 
-«Жемчужину хочет Джек, а не я», — подумала Элизабет.
+Он разозлился или что-то в этом роде.
 
-Davy Jones finally spoke. "You still belong to me," he said to Jack. "You'll stay on the Dutchman for one hundred years."
+No, these are straight up macro games and Ragnarok is straight up beating him. 
 
-Дэви Джонс наконец заговорил. «Ты по-прежнему принадлежишь мне, — сказал он Джеку. — Ты останешься на «Летучем голландце» на сто лет».
+Нет, это чисто макроигры, и Ragnarok его однозначно обыграет.
 
-Suddenly Elizabeth understood. "Jack doesn't want to die again," she thought. "So he'll kill Davy Jones and become captain of the Dutchman. And he'll free Will's father ... and Will can stay with me." She knew what to say now. "There's no better end for Jack Sparrow than on the Flying Dutchman" she agreed. "Here's my suggestion. Will leaves with us—and you can have Jack."
+Not not easily, not quickly, but decisively by the end. 
 
-Внезапно Элизабет всё поняла. «Джек не хочет снова умирать», — подумала она. «Поэтому он убьёт Дэви Джонса и станет капитаном «Летучего голландца». И он освободит отца Уилла… а Уилл останется со мной». Теперь она знала, что сказать. «Нет лучшего конца для Джека Воробья, чем на «Летучем голландце», — согласилась она. — Вот моё предложение. Уилл уезжает с нами, а ты можешь забрать Джека».
+Не легко, не быстро, а решительно в конце концов.
 
-"Yes," said Will quickly.
+and a similar style in two games in a row. 
 
-«Да», — быстро ответил Уилл.
+и демонстрировал похожий стиль в двух играх подряд.
 
-"Elizabeth, love, you're sending me to my death," Jack said.
+Similar objectives, different units, different path to get there. 
 
-«Элизабет, дорогая, ты отправляешь меня на верную смерть», — сказал Джек.
+Схожие цели, разные подразделения, разные пути их достижения.
 
-"Again."
+Instead of the roaches into ultra rush, it's mutas into uh eventually hive. 
 
-"Снова."
+Вместо тараканов, переходящих в ультрараш, это муталиски, переходящие в, в конечном итоге, улей.
 
-Jack moved toward Beckett and Jones. His Piece of Eight fell to the ground and Barbossa picked it up.
+And there were so many times where well Glen Glenn's micro was incredibly good, but the mudas limit your options for for splitting and target fire. 
 
-Джек двинулся к Беккету и Джонсу. Его «Восьмерка» упала на землю, и Барбосса поднял её.
+И было так много случаев, когда, ну, микроконтроль Гленна был невероятно хорош, но муды ограничивали ваши возможности для разделения целей и прицельной стрельбы.
 
-"Tell your friends this," Beckett said. "You can fight, and you will all die. Or you can not fight, and most of you will die."
+You can't do the same sort of near aimbot level micro or perfect splits because the the further you isolate your units, the more easily they're picked off by the the mutas. 
 
-«Передайте это своим друзьям, — сказал Беккет. — Вы можете сражаться, и все вы погибнете. Или вы можете не сражаться, и большинство из вас погибнет».
+Вы не сможете добиться микроконтроля на уровне, близком к аимботу, или идеального разделения юнитов, потому что чем дальше вы изолируете свои юниты, тем легче их уничтожат муталиски.
 
-It was time for the fight to begin.
+That's why the mutas lings and banees usually work so well together right up until they get too close together and a couple widowmines or Thor shots land and well it goes back the other way. 
 
-Пришло время начать бой.
+Вот почему муталиски и бейны обычно так хорошо работают вместе, пока не окажутся слишком близко друг к другу, и тогда пара мин-ловушек или выстрелов Тора попадут в цель, и всё обернется в обратную сторону.
 
-## Chapter 12 Fight to the Death!
+But Ragnarok 200 against Glenn, which I would not have put money on that. 
 
-## Глава 12. Смертельная схватка!
+Но на Ragnarok 200 против Гленна я бы на это не поставил деньги.
 
-Will and Barbossa followed Elizabeth onto the Pearl.
+Um, but I just like to put game good games for the fans so people like can subscribe. 
 
-Уилл и Барбосса последовали за Элизабет на борт «Перл».
+Эм, но мне просто нравится выкладывать хорошие игры для фанатов, чтобы люди могли подписаться.
 
-"We'll need the Black Pearl to head the attack," she said.
+Looks like Ragnar's okay after all. 
 
-«Нам понадобится «Чёрная жемчужина», чтобы возглавить атаку», — сказала она.
+Похоже, с Рагнаром всё в порядке.
 
-"Will we?" Barbossa said, holding up Jack's Piece of Eight.
+Earning that title, that name. 
 
-"Мы это сделаем?" — спросил Барбосса, показывая Джеку его "Восьмерку".
+Заслужить это звание, это имя.
 
-Pintel brought Tia Dalma up on deck. She looked small and weak but a goddess was hidden inside her. Barbossa made a sign and the Chinese pirates moved toward Elizabeth and Will.
+I do wonder. 
 
-Пинтел вывел Тию Далму на палубу. Она выглядела маленькой и слабой, но внутри неё скрывалась богиня. Барбосса подал знак, и китайские пираты двинулись к Элизабет и Уиллу.
+Мне действительно интересно.
 
-"We must help Jack!" Elizabeth said. "If he kills Davy Jones, then we can win this fight."
+I mean, whatever. 
 
-«Мы должны помочь Джеку!» — сказала Элизабет. «Если он убьет Дэви Джонса, тогда мы сможем выиграть эту битву».
+В общем, как угодно.
 
-"Sorry, King of the Pirates," Barbossa said. "I don't think Jack can win anything."
+I know in Brood War players use like 74 different aliases hailing back to the um uh you remember AIM. 
 
-«Простите, Король пиратов, — сказал Барбосса. — Я не думаю, что Джек сможет что-нибудь выиграть».
+Я знаю, что в Brood War игроки используют около 74 разных псевдонимов, восходящих к... ну, вы помните AIM?
 
-He suddenly took Elizabeth's Piece of Eight, and added it to the others in the bowl. When all nine pieces were together, he called, "Calypso! I am freeing you!"
+All right, Grandpa. 
 
-Он внезапно взял у Элизабет монету «Восемь» и добавил её к остальным в чаше. Когда все девять монет оказались вместе, он воскликнул: «Калипсо! Я освобождаю тебя!»
+Хорошо, дедушка.
 
-Suddenly, the bowl was on fire. When it stopped burning, the goddess was standing on the deck.
+Get off the phone, mom. 
 
-Внезапно чаша загорелась. Когда пламя погасло, на палубе стояла богиня.
+Отложи трубку, мама.
 
-"Calypso!" Will shouted. "Who helped the first Brethren Court to make you a prisoner? Who was your enemy?"
+I'm trying to text my girlfriend on the internet. 
 
-«Калипсо!» — крикнул Уилл. — «Кто помог первому Братскому суду взять тебя в плен? Кто был твоим врагом?»
+Я пытаюсь написать своей девушке сообщение в интернете.
 
-"Name him," said Calypso in a loud, strong voice.
+Yes, she's real. 
 
-«Назови его имя», — громко и уверенно произнесла Калипсо.
+Да, она настоящая.
 
-"Davy Jones," Will said.
+She goes to another school. 
 
-«Дэви Джонс», — сказал Уилл.
+Она учится в другой школе.
 
-Calypso turned and looked angrily at the Dutchman. She began to grow, getting taller and taller. Barbossa stood in front of her.
+I'm not that old. 
 
-Калипсо повернулась и сердито посмотрела на голландца. Она начала расти, становясь все выше и выше. Перед ней стоял Барбосса.
+Я не так уж и стар.
 
-"Calypso," he called, "I have kept my promise. Please help me. Save me, my ship and my men. But destroy the others!"
+Um also, she would not my mom would not get off the phone. 
 
-«Калипсо, — позвал он, — я сдержал своё обещание. Пожалуйста, помоги мне. Спаси меня, мой корабль и моих людей. Но уничтожь остальных!»
+Кроме того, моя мама не хотела заканчивать разговор по телефону.
 
-The goddess didn't look at him. "CRAZY MAN!" she shouted.
+So, back in my day. 
 
-Богиня не смотрела на него. "Сумасшедший!" — закричала она.
+Итак, в мои времена...
 
-Suddenly, she fell. Thousands of crabs landed, in place of her body. They ran over the edge of the deck and into the water. The goddess of the ocean disappeared completely.
+Anyways, if you uh related to any of that, how's the back pan? 
 
-Внезапно она упала. Тысячи крабов приземлились на её место. Они перебежали через край палубы и упали в воду. Богиня океана исчезла совсем.
+В общем, если вы имеете какое-либо отношение к этому, как вам задняя панель?
 
-The pirates were silent.
+If your first instance was of Starcraft 2 was going up to GameStop, not the stock, the physical store, which I don't even know if that still exists, but and buying yourself a box of No, that's it. 
 
-Пираты молчали.
+Если ваш первый опыт с Starcraft 2 заключался в походе в GameStop, не в сам магазин, а в физический магазин (я даже не знаю, существует ли он еще), и покупке коробки... Нет, вот и все.
 
-Finally, Will said, "Has she gone?"
+The box has gone through a lot, which you know. 
 
-Наконец, Уилл спросил: «Она ушла?»
+Коробка многое пережила, вы же понимаете.
 
-"She was our last hope," said Barbossa, sadly.
+Yeah. 
 
-«Она была нашей последней надеждой», — с грустью сказал Барбосса.
+Ага.
 
-"We can still fight," Will said.
+Anyways, enough nostalgia. 
 
-«Мы всё ещё можем бороться», — сказал Уилл.
+В общем, хватит ностальгии.
 
-"Against hundreds of ships?" Gibbs said. "We can't win."
+enough comments on things that are literally older than the Tan player in this game. 
 
-«Против сотен кораблей?» — спросил Гиббс. — «Мы не сможем победить».
+Хватит комментариев о вещах, которые буквально старше, чем игрок за Тана в этой игре.
 
-Elizabeth looked up. "Jack can find the box and put a knife through Davy Jones's heart," she said. "We must fight with him. We're part of a team. We must work together, or die alone."
+I think that Reaper just thought about the last two Reapers. 
 
-Элизабет подняла глаза. «Джек может найти коробку и пронзить сердце Дэйви Джонса ножом, — сказала она. — Мы должны сражаться вместе с ним. Мы — часть команды. Мы должны работать сообща, иначе умрем в одиночестве».
+Мне кажется, Жнец только что подумал о двух последних Жнецах.
 
-She looked at the sailors around her. "Listen!" she called. "The Brethren want the Pearl to head the fight. Show the enemy that we are free men. Show them the fire from our guns. Show them that our hearts are brave!"
+No, no, you don't. 
 
-Она посмотрела на окружающих её моряков. «Слушайте!» — крикнула она. «Братья хотят, чтобы «Жемчужина» возглавила битву. Покажите врагу, что мы свободные люди. Покажите им огонь из наших орудий. Покажите им, что наши сердца храбры!»
+Нет, нет, не нужно.
 
-She suddenly pulled out her sword and pointed it toward the Endeavour.
+And their lack of longevity and decided not today. 
 
-Она внезапно вытащила меч и направила его на «Эндевор».
+Из-за недолговечности они решили, что сегодня это невозможно.
 
-All around the Black Pearl, pirates on other ships prepared to fight the East India Trading Company.
+He wanted it too. 
 
-Вокруг «Чёрной жемчуги» пираты на других кораблях готовились к сражению с Ост-Индской торговой компанией.
+Он тоже этого хотел.
 
-Beckett stood quietly on the Endeavour, drinking tea. He smiled. He wasn't worried because he had the Dutchman.
+Glim easily baited. 
 
-Беккет тихо стоял на борту «Эндевора», попивая чай. Он улыбался. Он не волновался, потому что у него был «Летучий голландец».
+Глим легко поддается приманке.
 
-On the deck of the Dutchman, as Mercer ordered the sailors to prepare the cannon, the wind was getting stronger.
+The thing is it usually works out for him cuz his micro is just so good anyways. 
 
-На палубе «Датчмена», когда Мерсер отдавал приказ матросам готовить пушки, ветер усиливался.
+Дело в том, что у него обычно всё получается, потому что у него и так всё отлично с микрочипом.
 
-"Calypso ..." Davy Jones said quietly to himself.
+He might get into those dicey scenarios, but he somehow gets out of it. 
 
-"Калипсо..." — тихо пробормотал про себя Дэви Джонс.
+Он может попадать в опасные ситуации, но каким-то образом всегда из них выбирается.
 
-Dark clouds circled high in the sky and heavy rain fell. As the other ships successfully sailed away from the rough waters, the Pearl and the Flying Dutchman were pulled toward them.
+All right, three minute lair. 
 
-Высоко в небе кружили темные тучи, лил проливной дождь. Пока другие корабли успешно отплывали от бурных вод, «Жемчужина» и «Летучий голландец» притягивались к ним.
+Ладно, три минуты в логове.
 
-Mercer was at the wheel of the Dutchman.
+What do we have this time? 
 
-За рулём «Голландца» находился Мерсер.
+Что у нас есть на этот раз?
 
-"The waves won't hurt us!" Jones shouted.
+It's been roaches. 
 
-«Волны нам не повредят!» — крикнул Джонс.
+Это были тараканы.
 
-He took the wheel from Mercer and the Dutchman sailed into the roughest of the water. The Black Pearl followed.
+It's been mutas. 
 
-Он перехватил штурвал у Мерсера, и «Голландец» вышел в самые бурные воды. «Чёрная жемчужина» последовала за ним.
+Это были мутас.
 
-Elizabeth and Will ran down the deck, ready to face the Dutchman. Both ships prepared their cannon.
+There's a lot of options, but there the most important part is keeping them in the dark for as long as possible. 
 
-Элизабет и Уилл спустились по палубе, готовые встретить голландца. Оба корабля приготовили свои пушки.
+Вариантов много, но самое важное — как можно дольше держать их в неведении.
 
-"Fire!" ordered Barbossa.
+Come back to us dark. 
 
-«Огонь!» — приказал Барбосса.
+Вернись к нам во тьме.
 
-"Fire!" ordered Davy Jones.
+Maybe soon. 
 
-«Огонь!» — приказал Дэви Джонс.
+Возможно, скоро.
 
-On the Dutchman, Davy Jones was watching Mercer. Suddenly, he jumped on the Company officer and pulled his terrible beard around his neck. A minute later, Mercer was dead. Jones took the key that unlocked the wooden box.
+He hasn't added on any gases. 
 
-Дэви Джонс наблюдал за Мерсером на борту «Голландца». Внезапно он набросился на офицера роты и стянул с него его ужасную бороду. Минуту спустя Мерсер был мертв. Джонс взял ключ, открывший деревянный ящик.
+Он не добавлял никаких газов.
 
-In the Dutchman's prison, Jack Sparrow hit the door with a chair until it opened. He moved quietly to the captain's room and found the box with Jones's heart. He ran back to the stairs with it—and saw Davy Jones and his men.
+There's the roach one. 
 
-В тюрьме «Летучего голландца» Джек Воробей бил по двери стулом, пока она не открылась. Он тихо прошёл в капитанскую каюту и нашёл ящик с сердцем Джонса. Он побежал обратно к лестнице с ним — и увидел Дэйви Джонса и его людей.
+Вот тот, что с тараканами.
 
-Jones pulled out his sword. "Give me the box," he ordered.
+So, leaning towards roaches again. 
 
-Джонс вытащил меч. «Дай мне коробку», — приказал он.
+Итак, снова склоняемся к тараканам.
 
-He and Jack started to fight.
+He's not adding any extra gases. 
 
-Он и Джек начали драться.
+Он не добавляет никаких дополнительных газов.
 
-The Dutchman and the Pearl were moving closer together.
+So, unlikely to be a nitus. 
 
-«Голландец» и «Жемчужина» сближались.
+Так что это вряд ли сонливость.
 
-Will watched Elizabeth fight bravely against the Dutchman's sailors. "I don't want to lose her," he thought. "Not again." Turning to her, he asked, "Will you marry me?"
+at least immediately. 
 
-Уилл наблюдал, как Элизабет храбро сражается с моряками голландца. «Я не хочу потерять её», — подумал он. «Только не снова». Повернувшись к ней, он спросил: «Выйдешь за меня замуж?»
+по крайней мере, немедленно.
 
-"Now? This isn't the best time!" Elizabeth shouted.
+And if you're going to go Nidus, either it's supreme late game or as early as possible. 
 
-«Сейчас? Не самое подходящее время!» — крикнула Элизабет.
+А если вы собираетесь использовать Нидуса, то либо он будет превосходен в поздней игре, либо его можно получить как можно раньше.
 
-Laughing, Will said, "This is the only time! I love you!"
+Yeah, it looks very much like the speed roach. 
 
-Смеясь, Уилл сказал: «Это единственный раз! Я люблю тебя!»
+Да, он очень похож на ветрогонца.
 
-Elizabeth looked into his eyes. This was the man that she loved. She wanted him. "Barbossa!" she shouted. "Marry us!"
+Oh, the overseer on the pervert pillar here. 
 
-Элизабет посмотрела ему в глаза. Это был мужчина, которого она любила. Она хотела его. «Барбосса!» — крикнула она. «Выходи за нас замуж!»
+О, вот этот надзиратель на столбе для извращенцев.
 
-Barbossa was fighting on the deck above them. "I'm busy!" "Barbossa! Now!" Will called.
+And again, Columbia with the 3211, the three command center, two barracks, one factory, one star port. 
 
-Барбосса сражался на палубе над ними. «Я занят!» — «Барбосса! Сейчас же!» — крикнул Уилл.
+И снова «Колумбия» с космодромом 3211, тремя командными центрами, двумя казармами, одним заводом и одним звездным портом.
 
-Barbossa shouted, "As captain, I make you man and wife." Another pirate attacked him. "You can kiss—kiss the—!"
+Rushing out 16 to Marines. 
 
-Барбосса крикнул: «Как капитан, я делаю тебя мужем и женой!» Другой пират набросился на него. «Можешь целовать… целовать…!»
+Выпускаем 16 человек к морским пехотинцам.
 
-Will kissed Elizabeth. It was a kiss full of love and promises.
+Well, ideally as close as possible the overseer that he spot. 
 
-Уилл поцеловал Элизабет. Это был поцелуй, полный любви и обещаний.
+В идеале, как можно ближе к надзирателю, которого он заметит.
 
-At the same time, Jack Sparrow and Davy Jones continued to fight. Finally, Jack knocked Jones's sword out of his hand.
+Well, he spotted the Marines, which is already a giveaway. 
 
-В то же время Джек Воробей и Дэви Джонс продолжали драться. Наконец, Джек выбил меч Джонса из его руки.
+Ну, он заметил морских пехотинцев, а это уже само по себе говорит о его причастности.
 
-"There's nothing that you can do with that," Jones said, pointing at the wooden box. "You need the key."
+You don't need to see the starport. 
 
-«С этим ничего не поделаешь», — сказал Джонс, указывая на деревянный ящик. «Вам нужен ключ».
+Вам не обязательно осматривать космопорт.
 
-"I already have the key," Jack answered with a smile.
+If you see more than half a dozen marines at this stage of the game, you've already got a pretty good idea. 
 
-«Ключ у меня уже есть», — ответил Джек с улыбкой.
+Если на этом этапе игры вы видите больше полудюжины морских пехотинцев, у вас уже сложилось довольно хорошее представление о ситуации.
 
-Jones's eyes filled with fear. Was it possible? Then, he laughed. "No, you don't," he said, and showed Jack the key.
+Roaches with carropus and and speed on the way, which are also quite a strong answer. 
 
-Глаза Джонса наполнились страхом. Неужели это возможно? Затем он рассмеялся. «Нет, не возможно», — сказал он и показал Джеку ключ.
+Тараканы с мозолью и высокой скоростью передвижения, что также является довольно сильным ответом.
 
-"Oh, that key," Jack said.
+The the reaper trying to get into the main, but we commit a scan. 
 
-«Ах, этот ключ», — сказал Джек.
+Жнец пытается проникнуть в основное поле, но мы проводим сканирование.
 
-He cut through Jones's finger with his sword and the key dropped to the floor. Suddenly, the Pearl crashed into the Dutchman and the wooden box fell onto the deck. Jones lifted it. Jack took a gun from one of Jones's men and fired. He hit Jones and the box crashed back onto the deck.
+We've seen Clen scanning a surprising amount when denied this sort of info. 
 
-Он перерезал Джонсу палец мечом, и ключ упал на пол. Внезапно «Жемчужина» врезалась в «Летучего голландца», и деревянный ящик упал на палубу. Джонс поднял его. Джек взял пистолет у одного из людей Джонса и выстрелил. Он попал в Джонса, и ящик с грохотом упал обратно на палубу.
+Мы видели, как Клен проводил удивительно много сканирования, несмотря на отказ в предоставлении подобной информации.
 
-Quickly, Will Turner jumped over from the Pearl to the Dutchman to help Jack. Another cannonball hit the ship and Will was knocked to the ground. Looking up, he saw Bootstrap Bill.
+Then again, with Tan, for better or worse, you could only adjust your build so much. 
 
-Уилл Тернер быстро перепрыгнул с «Жемчужины» на «Летучего голландца», чтобы помочь Джеку. Еще одно пушечное ядро попало в корабль, и Уилла сбило с ног. Подняв глаза, он увидел Бутстрапа Билла.
+С другой стороны, с Таном, к лучшему или к худшему, вы могли изменить свою фигуру лишь до определённой степени.
 
-Bootstrap began to attack Will with his sword.
+I guess maybe you could decide between widow mines and siege tanks would would be the more obvious sort of uh decision point to work my way through that. 
 
-Бутстрап начал атаковать Уилла своим мечом.
+Думаю, вам следовало бы выбрать между минами-ловушками и осадными танками — это был бы более очевидный вариант, с которого мне следовало бы подойти.
 
-"Stop!" cried Will. What was his father doing?
+The Zerglings counterattack at the third. One 
 
-«Стоп!» — крикнул Уилл. Что делал его отец?
+Зерглинги контратакуют на третьем ходу. Один
 
-Elizabeth ran to the Dutchman—and her husband.
+unlucky SCV. 
 
-Элизабет побежала к голландцу — и к своему мужу.
+Неудачливый SCV.
 
-"I'll kill you!" Jones shouted, moving toward her.
+Meanwhile though, the Marines posting their way down. 
 
-«Я тебя убью!» — крикнул Джонс, двигаясь к ней.
+Тем временем морские пехотинцы продвигаются вниз.
 
-But Elizabeth was prepared. "That's why I brought this," she said, and lifted her sword. The two began to fight.
+The queens more than happy to throw them back. 
 
-Но Элизабет была готова. «Вот для чего я это взяла», — сказала она и подняла меч. Они начали сражаться.
+Королевы с удовольствием их отдают.
 
-Will and his father were also fighting. Finally, Will jumped onto Bootstrap. "I won't kill you," he said. "I made you a promise." He tied Bootstrap to the deck and ran to Elizabeth.
+The Zerglings actually get in though. 
 
-Уилл и его отец тоже дрались. Наконец Уилл прыгнул на Бутстрапа. «Я тебя не убью», — сказал он. «Я дал тебе обещание». Он привязал Бутстрапа к палубе и побежал к Элизабет.
+Однако зерглингам всё же удаётся проникнуть внутрь.
 
-Jack Sparrow picked up the key to Jones's box.
+A few of them caught up on the supply depot. 
 
-Джек Воробей подобрал ключ от сундука Джонса.
+Некоторые из них добрались до склада снабжения.
 
-Jones hit Elizabeth across the face and smiled. But then he looked down and the smile disappeared. There was a sword in his chest! He looked over his shoulder, and saw Will Turner.
+Takes out some of the Heliens. 
 
-Джонс ударил Элизабет по лицу и улыбнулся. Но потом он посмотрел вниз, и улыбка исчезла. В его груди был меч! Он оглянулся через плечо и увидел Уилла Тернера.
+Уничтожает часть Хелиен.
 
-"Did you forget?" Jones asked. "I have no heart."
+Interesting. 
 
-«Ты забыл?» — спросил Джонс. «У меня нет сердца».
+Интересный.
 
-He pushed Will away, then pulled the sword out of his chest.
+And the roaches are chasing. 
 
-Он оттолкнул Уилла, а затем вытащил меч из его груди.
+И тараканы гонятся за ними.
 
-"Tell me, William Turner," he asked. "Do you fear death?"
+Going to pick off a few of the marines which not loaded into the medeac. 
 
-«Скажите мне, Уильям Тернер, — спросил он, — вы боитесь смерти?»
+Собираюсь подстрелить нескольких морских пехотинцев, которых не погрузили в медпункт.
 
-Then, suddenly, he shouted with pain.
+Just trying to outrun the roaches. 
 
-Затем он внезапно закричал от боли.
+Просто пытаюсь убежать от тараканов.
 
-"Do you?" Jack asked.
+This is actually quite a dangerous attack as without combat shield, without siege tanks, and the medeacs just a bit lackadasical. 
 
-«А ты?» — спросил Джек.
+Это на самом деле довольно опасная атака, поскольку у противника нет боевого щита, нет осадных танков, а медики немного небрежны.
 
-Everyone turned to see Captain Jack Sparrow. The wooden box was open and he was holding Jones's heart in his hand. He tightened his fingers. Jones gave a cry and held his chest.
+He really needs the medevacs to trade with the roaches. 
 
-Все обернулись и увидели капитана Джека Воробья. Деревянный ящик был открыт, и он держал в руке сердце Джонса. Он сжал пальцы. Джонс вскрикнул и схватился за грудь.
+Ему действительно нужны санитарной авиации, чтобы торговать с тараканами.
 
-"You're a hard man, Jack Sparrow," Jones said. Then, he turned and pushed his sword through Will's heart.
+The zerlings tore down the wall and the boys are forced to be pulled off the line. 
 
-«Ты крутой парень, Джек Воробей», — сказал Джонс. Затем он повернулся и пронзил мечом сердце Уилла.
+Зерлинги снесли стену, и мальчиков пришлось оттащить от линии фронта.
 
-Screaming, Elizabeth ran to Will. Jack looked from the heart to his sword, then at Will in Elizabeth's arms.
+Behind this, Ragnarok is building more drones. 
 
-Элизабет с криком подбежала к Уиллу. Джек посмотрел сначала на сердце, потом на свой меч, а затем на Уилла в объятиях Элизабет.
+За этим стоит разработка компанией Ragnarok новых дронов.
 
-Elizabeth looked up at Jack. "Please!" she cried.
+He's going to have a 10 worker lead in counting. 
 
-Элизабет подняла глаза на Джека. "Пожалуйста!" — воскликнула она.
+По результатам подсчета голосов, он будет опережать своих соперников на 10 человек.
 
-As Jones fell into his own Locker, his eyes turned to his now dead heart. The sword in it was Jack's, but the hand on the sword was Will's.
+Very notably, the engineering bays are idle. 
 
-Когда Джонс провалился в свой собственный сундук, его взгляд обратился к его теперь уже мертвому сердцу. Меч в нем принадлежал Джеку, но рука, державшая меч, принадлежала Уиллу.
+Примечательно, что инженерные отсеки простаивают.
 
-Elizabeth's tears fell as she watched Will die.
+Clem has no upgrades in production, which is the main advantage of Terran usually, especially when competing with this sort of style. 
 
-Слезы текли по щекам Элизабет, когда она смотрела, как умирает Уилл.
+У Клема нет улучшений в производстве, что обычно является главным преимуществом терранов, особенно в условиях конкуренции с подобным стилем игры.
 
-Slowly, Jones's pirates began to circle around Will's lifeless body and Jack pulled her away. Bootstrap pulled out a knife and moved closer. One of the men held the wooden box in his arms.
+Again, Ragnarok has managed to keep Clem at bay and he has a decisive advantage both economically and in upgrades as well as standing army. 
 
-Пираты Джонса медленно начали окружать безжизненное тело Уилл, и Джек оттащил её. Бутстрап вытащил нож и подошёл ближе. Один из мужчин держал в руках деревянный ящик.
+И снова Рагнароку удалось сдержать Клема, и теперь у него есть решающее преимущество как в экономическом плане, так и в плане улучшений, а также в численности постоянной армии.
 
-"The Dutchman must have a captain," Bootstrap said.
+The medevacs are potentially troublesome, but there's already enough roaches. 
 
-«У голландца должен быть капитан», — сказал Бутстрап.
+Эвакуация санитарной авиации может создать проблемы, но тараканов и так уже достаточно.
 
-"And a living heart," another pirate added.
+No, that he's underestimating the carropus. 
 
-«И живое сердце», — добавил другой пират.
+Нет, он недооценивает окунеобразного.
 
-Bootstrap fell on his knees in front of his son, pulled open the young man's shirt, and lifted his knife ...
+Glen starts the fight and Ragnarok very happy to just Oh, it's a fake or a scout either way. 
 
-Бутстрап упал на колени перед сыном, расстегнул рубашку молодого человека и поднял нож...
+Глен начинает бой, и Рагнарок очень рад этому, просто смирившись с мыслью: «Ах, это обман или разведка, в любом случае».
 
-Jack shot through a line on one of the sails. The freed sail filled with air and lifted him and Elizabeth off the deck. Below them, the Dutchman fell deeper and deeper into the ocean.
+But with plus one carropus against unupgraded marines, the roaches survive a significant at least they take one less damage from each of those marine shots. 
 
-Джек проскочил через трос одного из парусов. Освободившийся парус наполнился воздухом и поднял его и Элизабет с палубы. Внизу голландец все глубже и глубже погружался в океан.
+Но благодаря дополнительному одному карропусу против неулучшенных космодесантников, тараканы выживают значительно дольше, по крайней мере, они получают на один урон меньше от каждого выстрела космодесантника.
 
-Jack and Elizabeth landed in the water near the Pearl. Gibbs pulled them out.
+The marines rely more on firing quickly than they do for a lot of damage. 
 
-Джек и Элизабет оказались в воде недалеко от «Перла». Гиббс вытащил их.
+Морские пехотинцы больше полагаются на быструю стрельбу, чем на нанесение значительного урона.
 
-"We need you, Jack," he said. "The Endeavour is very near."
+So, you really do need those attack upgrades to balance it out. 
 
-«Ты нам нужен, Джек, — сказал он. — «Эндевор» совсем рядом».
+Поэтому вам действительно необходимы эти улучшения атаки, чтобы сбалансировать игру.
 
-Beckett's ship was moving quickly toward them. Suddenly, the water began to move—and the Flying Dutchman came up again. She had new, white sails, and her men were clean and smart. Will Turner walked angrily onto the deck.
+Ragnarok rock at 7 and 12 minutes 164 supply. 
 
-Корабль Беккета быстро приближался к ним. Внезапно вода начала подниматься — и «Летучий голландец» снова показался на поверхности. У него были новые белые паруса, а его экипаж был чистым и опрятным. Уилл Тернер сердито вышел на палубу.
+Ragnarok rock на 7 и 12 минутах 164 supply.
 
-The two ships sailed up on both sides of the Endeavour.
+Looking at that Stefano style, holding down the R key and just battering through. 
 
-Оба корабля подошли по обе стороны от «Эндевора».
+Глядя на стиль Стефано, когда он зажимает клавишу R и просто пробивает себе путь.
 
-Beckett couldn't escape. "I can't destroy the pirates," he said to himself, "and now they will destroy me."
+A double drop is sent out for Clem, which means he has not very much back at home to defend. 
 
-Беккет не мог сбежать. «Я не могу уничтожить пиратов, — говорил он себе, — а теперь они уничтожат меня».
+Клем получает двойной пас назад, а это значит, что ему практически нечего защищать на домашнем поле.
 
-"Fire!" Will ordered.
+Factory completes, though. 
 
-"Пожар!" — приказал Уилл.
+Завод, однако, достроен.
 
-"Fire!" shouted Barbossa and Elizabeth.
+Maybe we'll regret that. 
 
-«Пожар!» — закричали Барбосса и Элизабет.
+Возможно, мы пожалеем об этом.
 
-"Fire," said Jack, more quietly.
+Tries to knock it down. 
 
-«Пожар», — тише произнес Джек.
+Пытается его сбить.
 
-Cannon fired. When the smoke cleared, the Endeavour was slowly going down into the blue Caribbean waters.
+The orbital command is now in the danger zone as well. 
 
-Раздался выстрел из пушки. Когда дым рассеялся, «Эндевор» медленно опускался в синие воды Карибского моря.
+Система управления орбитой также находится в опасной зоне.
 
-Beckett's other ships turned away.
+There's vision from an overseer. 
 
-Остальные корабли Беккета повернули вспять.
+Есть видение со стороны наблюдателя.
 
-"They're running," Gibbs said. "They're afraid because the Dutchman and the Pearl are working together."
+He can knock out the siege tank. 
 
-«Они бегут, — сказал Гиббс. — Они боятся, потому что "Голландец" и "Жемчужина" действуют сообща».
+Он может уничтожить осадный танк.
 
-On the Dutchman, Captain William Turner looked sadly across at the Pearl.
+Incredibly well positioned. 
 
-На борту «Голландца» капитан Уильям Тернер с грустью смотрел на «Перл».
+Невероятно удачное расположение.
 
-"Give us your orders, sir," said Bootstrap's voice, behind him.
+Did a double medevac drop come back home? 
 
-«Отдавайте приказы, сэр», — раздался за его спиной голос Бутстрапа.
+Вернулась ли на базу двойная санитарная эвакуация?
 
-"You can leave the Dutchman," Will said. "You're free."
+It did. 
 
-«Можешь уйти от голландца, — сказал Уилл. — Ты свободен».
+Да, так и было.
 
-"I want to stay with you," Bootstrap said.
+He brought everything here to try to defend. 
 
-«Я хочу остаться с тобой», — сказал Бутстрап.
+Он привёз сюда всё, чтобы попытаться защититься.
 
-"Fine. Take the ship's wheel, Mr. Turner."
+And behind this plus one missile attack is about to complete. 
 
-«Хорошо. Садитесь за штурвал, мистер Тернер».
+И вот-вот завершится эта ракетная атака.
 
-Bootstrap saw the sadness in his son's face. "One day on land, ten years on the ocean. It's a high price to pay," he said.
+That's a two upgrade advantage right now for Ragnarok, but his forces are not entirely focused. 14 
 
-Бутстрап увидел печаль на лице своего сына. «Один день на суше, десять лет в океане. Это высокая цена», — сказал он.
+Сейчас у Рагнарока преимущество в два улучшения, но его силы не полностью сосредоточены на одном улучшении. 14
 
-Will smiled. "But it will be a good day."
+SCVs dead. 
 
-Уилл улыбнулся. "Но это будет хороший день".
+Рабочие SCV погибли.
 
-A little later, the men on the Black Pearl helped Elizabeth into a small boat. She was sailing to land ... and to Will.
+Plus one one is about to complete for the bio which may give Clem a bit of breathing room. 
 
-Чуть позже мужчины с «Чёрной жемчужины» помогли Элизабет сесть в небольшую лодку. Она плыла к берегу... и к Уиллу.
+Кроме того, один раздел для биографии вот-вот будет завершен, что может дать Клем немного передышки.
 
-Will was sitting on a rock, looking out at the ocean. Elizabeth came up behind him, and put her arms around him.
+Another drop is sent out. 
 
-Уилл сидел на камне и смотрел на океан. Элизабет подошла к нему сзади и обняла его.
+Отправляется ещё одна капля.
 
-"The sun is going down," Will said. "Soon I'll be back on the Dutchman, taking souls to the land of the dead." He gave her his heart in its wooden box. "Will you keep this safe?"
+Yeah, he definitely sent it back. 
 
-«Солнце садится», — сказал Уилл. «Скоро я вернусь на «Голландца», чтобы забирать души в царство мертвых». Он отдал ей свое сердце в деревянной шкатулке. «Ты сохранишь его в целости?»
+Да, он точно отправил его обратно.
 
-"Yes," Elizabeth replied. "I'll guard it with my life."
+Overlord wandering in. 
 
-«Да», — ответила Элизабет. — «Я буду охранять его ценой своей жизни».
+Повелитель забрел внутрь.
 
-"I love you, Elizabeth," Will said, simply. "Always."
+Wanders into the unit's lost tab. 
 
-«Я люблю тебя, Элизабет», — просто сказал Уилл. «Всегда».
+Заглядывает во вкладку «Потерянные устройства».
 
-"And I love you," she answered.
+Scan spots the main brunt of the army. 
 
-«И я тебя люблю», — ответила она.
+Сканирование выявляет основную массу армии.
 
-"I don't know what will happen to me and Will," Elizabeth thought. "Or to the Brethren Court, Barbossa, and Jack. But now pirates are free to sail the oceans. And the new captain of the Flying Dutchman will keep the souls of the dead safe."
+No infestation pit. 
 
-«Я не знаю, что будет со мной и Уиллом, — подумала Элизабет. — Или с Братским двором, Барбоссой и Джеком. Но теперь пираты могут свободно бороздить океаны. А новый капитан «Летучего голландца» будет оберегать души мертвых».
+Яма для отлова вредителей отсутствует.
 
-_
+Ragnarok is committed to the roach ravager which he still has a significant advantage. 
 
-Captain Jack Sparrow was on the island of Tortuga.
+В Рагнароке по-прежнему сохраняется значительное преимущество перед тараканами-разрушителями.
 
-Капитан Джек Воробей находился на острове Тортуга.
+The plus two carropus is finishing up midfight which is going to be incredibly helpful. 
 
-"You'll like the Black Pearl," he said to the two women that he was with. "My ship is big and shining and ... gone?"
+Дополнительный бонус в виде двух особей Carropus заключается в том, что бой завершается в середине поединка, что будет невероятно полезно.
 
-«Вам понравится «Чёрная жемчужина», — сказал он двум женщинам, которые были с ним. — Мой корабль большой, сверкающий и… исчез?»
+That command center helping choke things off but he knocks out two out of three tanks immediately with the sheer number of ravagers. 
 
-The Pearl was sailing away without him!
+Этот командный центр помогает сдерживать натиск, но он мгновенно уничтожает два из трех танков благодаря огромному количеству истребителей.
 
-«Жемчужина» отплывала без него!
+The third one taken out the oldfashioned way. 
 
-"It's happened again!" he thought angrily. "How can a pirate earn his money honestly when people steal his ship all the time?"
+Третий был удален по старинке.
 
-«Опять случилось!» — сердито подумал он. «Как пират может честно зарабатывать деньги, если у него постоянно крадут корабль?»
+The fourth base will be gunned down by the drop out of Clem, but his natural is under fire. 
 
-On the Pearl, Barbossa stood at the ship's wheel, and opened Sao Feng's old map. "There's more than one way to live forever," he thought. Then he stepped back, surprised. There was a hole in the middle of the map! "Jack Sparrow ... again!"
+Четвертую базу Клем выбьет из игры, но его основной игрок находится под огнем.
 
-На борту «Жемчужины» Барбосса стоял за штурвалом и открыл старую карту Сао Фэна. «Есть не один способ жить вечно», — подумал он. Затем он отступил назад, удивленный. Посередине карты была дыра! «Джек Воробей… снова!»
+He's actually knocking out the factory. 
 
-In another part of the Caribbean, in a very small boat, Jack Sparrow looked at the missing piece of the map. Smiling, he pulled out his Compass. He was ready for his next adventure.
+Он фактически уничтожает завод.
 
-В другой части Карибского моря, в крошечной лодке, Джек Воробей посмотрел на недостающий фрагмент карты. Улыбнувшись, он достал свой компас. Он был готов к своему следующему приключению.
+It's burning. 
 
-_
+Горит.
 
-Ten years later, high above the ocean, a young boy was singing a pirate song. Elizabeth smiled as her son played. Then, she ran to him.
+The SCVs are pulled off the line yet again. 
 
-Десять лет спустя, высоко над океаном, юный мальчик пел пиратскую песню. Элизабет улыбнулась, слушая игру сына. Затем она подбежала к нему.
+Ракеты SCV снова сходят с конвейера.
 
-Suddenly, the boy stopped. The sun was going down. Elizabeth and her son stood and watched the golden sun. It fell lower and lower in the sky, and then there was a green light.
+And the corrosive biles land as Flem looking the other way for a split second. 20 
 
-Внезапно мальчик остановился. Солнце садилось. Элизабет и ее сын стояли и смотрели на золотое солнце. Оно опускалось все ниже и ниже в небе, и затем появился зеленый свет.
+И едкая желчь обрушивается на Флема, который на долю секунды отворачивается. 20
 
-Out on the ocean, they saw a much-loved shape.
+SCVs dead. 
 
-В открытом море они увидели нечто очень любимое.
+Рабочие SCV погибли.
 
-"Will has returned," Elizabeth said quietly. "He kept his promise."
+The rest of the units in the medevac. 
 
-«Уилл вернулся», — тихо сказала Элизабет. «Он сдержал своё обещание».
+Остальные подразделения в составе санитарной авиации.
+
+The drop is repelled by the queens. 
+
+Капля отталкивается королевами.
+
+This is restricted lair space. 
+
+Это закрытое пространство логова.
+
+I don't but the queens will drive it away. 
+
+Я так не думаю, но королевы это пресекут.
+
+And Ragnarok driving his way through. One 
+
+И Рагнарок прокладывает себе путь. Один
+
+single tank remains. 
+
+Остался единственный резервуар.
+
+A liberator conciege up the tank taken out by the corrosive bile. 
+
+Освободитель добивает танк, уничтоженный едкой желчью.
+
+Another volley thrown out and it's enough. 
+
+Ещё один бросок с лёта – и этого достаточно.
+
+He takes out the liberator. 
+
+Он расправляется с освободителем.
+
+It's just ravagers back at home. 
+
+Это просто опустошители у себя дома.
+
+Clips another metavac and orbital in this guy, but another there's just too many. 
+
+В этом наборе есть еще один Metavac и Orbital, но их слишком много.
+
+The numbers they don't lie and they spell disaster for clim. 
+
+Цифры не лгут, но они предвещают катастрофу для климата.
+
+And I I truly almost could not believe it. Three 
+
+И я действительно почти не мог в это поверить. Три
+
+games in a row. 
+
+игры подряд.
+
+Clem. 
+
+Клем.
+
+He's not dead. 
+
+Он не умер.
+
+Okay. 
+
+Хорошо.
+
+Well, that's that's a lie. 
+
+Ну, это ложь.
+
+He's very dead. 
+
+Он мертв.
+
+He's going to fight. 
+
+Он будет драться.
+
+Think he can. 
+
+Думаю, он сможет.
+
+Ragnarok three zero. 
+
+Рагнарок три ноль.
+
+Glen needs four in a row, which considering how this is going, huh? 
+
+Глену нужно четыре победы подряд, что, учитывая, как всё складывается, не так ли?
+
+The demise of Zerg may have been greatly exaggerated as Ragnarok hitting Clem with a similar yet very different timing. Three 
+
+Гибель зергов, возможно, сильно преувеличена, поскольку Рагнарок поразил Клем в схожий, но совершенно другой момент. Три
+
+times in a row, we got the roach speed into quick hive. 
+
+Несколько раз подряд нам удавалось быстро загнать тараканов в улей.
+
+We have just the mutas and then the roach speed again, but this time effectively all in. 
+
+У нас есть только мутас, а затем снова таракан-скоростник, но на этот раз фактически все сразу.
+
+We head to old sun temple as team liquids clem on the ropes. 
+
+Мы направляемся к старому храму Солнца, в то время как команда Liquids Clem находится в затруднительном положении.
+
+This is it's time to tag Maru in. 
+
+Пора передать слово Мару.
+
+All right, fun fact. 
+
+Ладно, забавный факт.
+
+Ragnarok aka Shin has lost 37 series. 
+
+В сериале "Рагнарок", также известном как "Шин", было проиграно 37 сезонов.
+
+aka every single one against Mario in his career. 
+
+То есть, каждый раз, когда Марио побеждал его за всю карьеру.
+
+He's beaten Clem, I think, a few times before. 
+
+Кажется, он уже несколько раз побеждал Клема.
+
+Lost many more series, but I don't know if he's ever foured Clem, but he's lost 36 times. 
+
+Он проиграл ещё много серий, но я не знаю, удалось ли ему когда-нибудь обыграть Клема четыре раза, но он проиграл 36 раз.
+
+Tomorrow is Terran and onearu is Protos. 
+
+Завтра будет терранская раса, а завтра — протосская.
+
+At this point, I'm not I wouldn't have been 100% surprised if Clem didn't switch to Protos against Zerg, though historically he hasn't preferred that. 
+
+На данный момент я не был бы на 100% удивлен, если бы Клем не перешел на протоссов против зергов, хотя исторически он не отдавал им предпочтение.
+
+Okay. 
+
+Хорошо.
+
+Well, okay. 
+
+Ну, хорошо.
+
+Well, that's enough meta discussion. 
+
+Ну, хватит уже мета-обсуждений.
+
+More for micro discussion. 
+
+Больше для микрообсуждений.
+
+Right in a rock with a pool first on a fourplayer map. 
+
+Прямо на скале с бассейном, первая карта для четырех игроков.
+
+Not not like a 12pool. 
+
+Не то чтобы это похоже на 12 бассейнов.
+
+Not super all in, but a bold move. 
+
+Не совсем уж рискованный шаг, но смелый.
+
+We'll see if it works out for him. 
+
+Посмотрим, получится ли у него.
+
+And it is a gasless pull first, but gambling a little that he can catch Glenn off guard as on a four-player map, you're very unlikely to scout. 
+
+Сначала нужно пробиться без газа, но рискнуть немного, надеясь застать Гленна врасплох, ведь на карте для четырех игроков разведка маловероятна.
+
+And statistically, you only have a one in three chance of scouting the correct direction, but statistically it works out as he spots the overlord, which overlords don't move very fast. 
+
+Статистически, у вас есть только один шанс из трех определить правильное направление, но статистически это срабатывает, поскольку он замечает верховного правителя, а верховные правители двигаются не очень быстро.
+
+So, you know which direction it came from obviously if you can do a little bit of object um a little bit of extrapolation there. 
+
+Итак, вы, очевидно, знаете, откуда это взялось, если сможете немного поэкспериментировать с объектами, немного экстраполировать данные.
+
+So the zerglings >> command center upgrade complete. >> Four 
+
+Итак, модернизация командного центра зерглингов завершена. >> Четыре
+
+of them will sneak out. 
+
+некоторые из них тайком сбегут.
+
+The hatchery timing. 
+
+Сроки работы инкубатора.
+
+We go into the main or we just uh anticipate the build. 
+
+Мы переходим к основному этапу или просто ожидаем начала строительства.
+
+The zerglings will redirect trying to avoid the reaper. 
+
+Зерглинги будут менять направление, пытаясь избежать встречи со Жнецом.
+
+They will succeed. 
+
+Они добьются успеха.
+
+So Ragnarok is down three workers. 
+
+Таким образом, в результате операции «Рагнарок» не хватает трёх рабочих.
+
+He's catching up that number. 
+
+Он догоняет этот показатель.
+
+This does need to do something to kind of justify its entire investment. 
+
+Это должно хоть как-то оправдать все вложенные средства.
+
+If he's able to delay, not cancel, he'll never cancel, but as SCUVs could hold this he if he's able to delay the command center, that's the start of a win. 
+
+Если ему удастся отсрочить операцию, а не отменить её, он никогда её не отменит, но поскольку подводные аппараты могут её задержать, если ему удастся задержать командный центр, это будет началом победы.
+
+And getting the SCUV, of course, very helpful. 
+
+И, конечно же, приобретение SCUV очень полезно.
+
+A single marine try to just keep them busy. 
+
+Один морской пехотинец пытается просто занять их делом.
+
+SCUV taken out. 
+
+SCUV выведен из эксплуатации.
+
+Hazardous working environment. 
+
+Опасные условия труда.
+
+The Reaper's coming back home. 
+
+Жнец возвращается домой.
+
+Another SCUV. 
+
+Ещё один внедорожник.
+
+And every second counts here. 
+
+Здесь на счету каждая секунда.
+
+Every second is another one that Ragnarok is kind of making up for this position. 
+
+Каждая секунда — это еще одна секунда, которую Рагнарок, по сути, компенсирует заняв это положение.
+
+And those seconds uh run out pretty quickly. 
+
+И эти секунды истекают довольно быстро.
+
+The Zerglings. 
+
+Зерглинги.
+
+So this will not be a quick layer. 
+
+Поэтому это не будет быстрым способом укладки.
+
+Just unless he cancels Zergling speed in order to go there, which would be probably not ideal. 
+
+Разве что он отменит скорость зерглингов, чтобы туда добраться, что, вероятно, не самый лучший вариант.
+
+the Reaper. 
+
+Жнец.
+
+There is, you can see the little clear design there, but there's clearly a uh jump location. 
+
+Там, как видите, есть небольшой четкий рисунок, но там явно обозначено место для прыжка.
+
+Reaper could pop into the main base. 
+
+Жнец мог бы внезапно появиться на главной базе.
+
+Have a dozen more drones on the way. 
+
+В пути еще дюжина дронов.
+
+And the queen bersling. 
+
+И королева Берслинг.
+
+That's enough. 
+
+Достаточно.
+
+Well, the relevant part is less getting into the main. 
+
+В общем, суть вопроса не в том, чтобы сразу перейти к главному.
+
+Wow. 340 
+
+Вау. 340
+
+other layer. 
+
+другой слой.
+
+Still about as quick of a layer as you could possibly get. 
+
+Это по-прежнему один из самых быстросохнущих слоев, которые только можно получить.
+
+The next 100 gas after the first 100 for circling speed and gas not easy to come by in this economy. 
+
+Следующие 100 единиц топлива после первых 100 необходимы для поддержания скорости вращения, а топливо в нынешних экономических условиях достать непросто.
+
+So a huge investment I think more so than any other game thus far considering the star. 
+
+Поэтому, я думаю, это огромная инвестиция, больше, чем в любую другую игру до сих пор, учитывая звезду.
+
+Clem 3211. 
+
+Клем 3211.
+
+He's sticking with it. 
+
+Он будет продолжать в том же духе.
+
+Very notably, and I I cannot fathom. 
+
+Примечательно, что я не могу этого понять.
+
+I'm struggling to understand why though this game it makes a little more sense, but not a single Banshee. Four 
+
+Мне сложно понять, почему в этой игре все немного логичнее, но ни одной Банши нет. Четыре.
+
+games in a row, no Banshee, not even a Liberator, no early starport pressure. 
+
+Игры подряд, ни одной «Банши», ни одного «Либератора», никакого давления на старте со звездолета.
+
+whatsoever. 
+
+что угодно.
+
+Hey, three drones dead. 
+
+Эй, три дрона сбиты.
+
+The roach war itself will be spotted. 
+
+Сама война с тараканами будет замечена.
+
+They should be taken out. 
+
+Их следует удалить.
+
+This is part scout, part damage. 
+
+Это отчасти разведывательная операция, отчасти операция по нанесению урона.
+
+And think he can't be too unhappy with that. 
+
+И думаю, он не может быть слишком недоволен этим.
+
+The Banshee, one of the most effective both defense and scouting units. 
+
+Банши — одно из наиболее эффективных подразделений как в обороне, так и в разведке.
+
+It forces such a response. 
+
+Это вынуждает к такой реакции.
+
+Ragnarok has not needed to go for spore crawlers effectively at all except later on to deal with medevac. 
+
+В Рагнароке не было необходимости эффективно использовать споровых ползающих существ, за исключением более позднего этапа, когда потребовалась медицинская эвакуация.
+
+So he's got a hydraist den on the way. 
+
+Так что у него на подходе логово гидристов.
+
+But that's not defensive. 
+
+Но это не защитная реакция.
+
+That is a hydraulus timing. 
+
+Это гидравлическая синхронизация.
+
+He's chosen yet another What is this there? 
+
+Он выбрал ещё один вариант. Что это там?
+
+There's a mineral wall with what? 10. 
+
+Там минеральная стена, из чего она сделана? 10.
+
+So two trips a piece. 
+
+Таким образом, по две поездки с каждой стороны.
+
+The reason I have a multi-tier mineral wall besides the size is so that way Terren can't just drop a mule and get through the uh more uh difficult locations. 
+
+Причина, по которой у меня многоуровневая минеральная стена, помимо её размера, заключается в том, чтобы Террен не мог просто бросить мула и пройти через более сложные локации.
+
+Whereas if you have multiple but low mineral count minerals back to back, then it it takes a little longer to mine through and it takes multiple trips no matter what cuz the mule can't pick up multiple sets of minerals. 
+
+В то же время, если у вас есть несколько месторождений минералов с низким содержанием минералов, расположенных подряд, то добыча займет немного больше времени и потребует нескольких поездок в любом случае, потому что мул не может поднять несколько наборов минералов одновременно.
+
+The double drop though will completely cut the creep back down to the hatch and he's just tearing right through. 
+
+Однако двойной спуск полностью перекроет путь ползучему движению до самого люка, и он просто пронесется сквозь него.
+
+Uh Clem, what the drops the medevac. 
+
+Эм, Клем, что это за сброс вертолета скорой помощи?
+
+Oh, and he doesn't have ray. 
+
+Ах да, у него нет луча.
+
+Oh no. 
+
+О, нет.
+
+Oh, that's a lot of damage. 
+
+О, это очень серьёзные повреждения.
+
+Somehow both medevacs survived. 
+
+Каким-то чудом оба вертолета санитарной авиации выжили.
+
+He goes to the other side of the mineral wall. Seven 
+
+Он переходит на другую сторону минеральной стены. Семь
+
+drones dead. 
+
+Беспилотники уничтожены.
+
+He also got five hydrolisks and he got out with both beta effects. 
+
+Ему также поставили пять диагнозов «гидролиск», и он вышел из больницы с обоими бета-эффектами.
+
+All these breaks that have seemed to go towards Ragdarok throughout the series thus far. 
+
+Все эти повороты сюжета, которые, казалось, складывались в пользу Рагдарока на протяжении всего сериала.
+
+Finally, Clem catches one. 
+
+Наконец, Клем ловит мяч.
+
+And by that's a little unfair because he could have created his own opportunity there. 
+
+И это немного несправедливо, потому что он мог сам создать для себя эту возможность.
+
+He hit the timing perfectly. 
+
+Он идеально рассчитал время.
+
+The micro was on point and Ragnarok was not. 
+
+Микроконтроль был безупречен, а вот Ragnarok – нет.
+
+He just didn't have the if he had the hydras, if he had three more hydras, 5 seconds quicker. 
+
+У него просто не было шанса, что, если бы у него было больше гидр, если бы у него было еще три гидры, он бы пробежал на 5 секунд быстрее.
+
+That gets completely shut down. 
+
+Это полностью отключается.
+
+But Clem drives it straight through. 
+
+Но Клем пробивает мяч насквозь.
+
+He knows exactly the edge he has. 
+
+Он прекрасно знает, какое преимущество у него есть.
+
+Stabs through the base and gets out before suffering uh major losses. 
+
+Пробивает базу и выбирается наружу, не понеся при этом больших потерь.
+
+So, I think for the first time, it's weird to say, but for the first time going into the mid game, the mid game when usually we're hitting three-digit supply, but we're not close to uh 200 where uh layer tech and plus one to plus two upgrades when the economies are good, but we're still working on it. 
+
+Итак, я думаю, впервые, как ни странно это звучит, но впервые мы вступаем в середину игры, в середину игры, когда обычно у нас объем предложения достигает трехзначных значений, но мы еще далеки от 200, когда доступны технологии слоев и улучшения на один-два пункта при хорошей экономике, но мы все еще работаем над этим.
+
+We're working up to it. 
+
+Мы к этому стремимся.
+
+Whereas the late game begins once we get those later game spellcasters and everybody kind of settles down into their unit compositions. 
+
+Поздняя стадия игры начинается, когда у нас появляются заклинатели, и все более-менее выстраивают свои составы юнитов.
+
+At least usually. 
+
+По крайней мере, обычно.
+
+Sometimes it's still very aggressive, but just to get a tab on the glossery, I guess. 
+
+Иногда он всё ещё очень агрессивен, но, видимо, это просто для того, чтобы ознакомиться с глоссарием.
+
+Microbial shroud. 
+
+Микробная оболочка.
+
+He know that that cost resources. 
+
+Он знает, что это требует ресурсов.
+
+All right. 
+
+Все в порядке.
+
+Investors on the way. 
+
+Инвесторы уже в пути.
+
+Grim has been suspiciously >> mined out. 
+
+Грим подозрительно >> истощен.
+
+Hope you have an expansion. >> 
+
+Надеюсь, у вас будет дополнение. >>
+
+Suspiciously silent, but now moving out. One one 
+
+Подозрительно молчали, но теперь выезжают. Один
+
+done. >> 
+
+Готово. >>
+
+Interesting scan. 
+
+Интересный скан.
+
+Not sure if he was looking for tech or just whether he had gas there, but Clem, there's some investors on the high ground. 
+
+Не уверен, искал ли он что-то технологическое или просто хотел проверить, есть ли у него там бензин, но, Клем, есть инвесторы, которые занимают выгодную позицию.
+
+And they will be spot. 
+
+И они будут на месте.
+
+Wow, just what a whiff the fungal. 
+
+Ух ты, какой же у него ужасный запах грибка.
+
+A day late and a dollar short. 
+
+Опоздал на день и не хватило доллара.
+
+Completely off the mark. 
+
+Совершенно не по теме.
+
+And not only did he reveal the infesters, but just got nothing done with that fungal. 
+
+И он не только выявил вредителей, но и ничего не сделал для борьбы с этим грибком.
+
+Clem left a marine to spot exactly for this counterattack and the zerglings will be cut off. 
+
+Клем оставила морпеха, чтобы тот точно определил направление этой контратаки, и зерглинги будут отрезаны.
+
+Ragnarok. 
+
+Рагнарок.
+
+Oh, and he can take down the rocks which Clem I think just noticed were there. 
+
+А ещё он может убрать камни, которые, кажется, только что заметила Клем.
+
+The fourth command center is completed. 
+
+Четвертый командный центр завершен.
+
+But Clem again struggling to decide whether he should stay or whether he should go cuz he knows if he he goes it's going to be trouble. 
+
+Но Клем снова мучается вопросом, остаться ему или уйти, потому что знает: если он уйдет, это принесет неприятности.
+
+But if he stays, it could be twice as much. 
+
+Но если он останется, то сумма может увеличиться вдвое.
+
+So, he's got the watchtowwer, though, which sees the entire uh central ring, of which there are speed zones and vision blockers on either side. 
+
+Итак, у него есть сторожевая башня, с которой виден весь центральный круг, по обеим сторонам которого расположены зоны ограничения скорости и экраны, блокирующие обзор.
+
+So, you can dive directly into the center, but they likely see it coming. 
+
+Так что вы можете нырнуть прямо в центр, но они, скорее всего, это заметят.
+
+There's also a set of destructible rocks here, which I don't know where they drop to. 
+
+Здесь также есть набор разрушаемых камней, и я не знаю, куда они падают.
+
+Interesting. 
+
+Интересный.
+
+No. 
+
+Нет.
+
+Oh, it's right here. 
+
+О, оно прямо здесь.
+
+Wow, there's a lot of some Indiana Jonesian gameplay here. 
+
+Ух ты, здесь очень много игрового процесса в стиле Индианы Джонса.
+
+Lurkers for the first time. 
+
+Впервые наблюдатели стали скрытными.
+
+Ragnarok plus two carropus. 
+
+Рагнарок плюс два карропуса.
+
+The Infesttors. 
+
+Заразители.
+
+Are there any Vipers? 
+
+Есть ли здесь гадюки?
+
+No. Six 
+
+№ шесть
+
+lurkers. 
+
+скрытные наблюдатели.
+
+Lurker range. 6 
+
+Диапазон действия "Засады". 6
+
+seconds out. 
+
+Осталось секунд.
+
+Cle upgrades. 
+
+Обновления CLE.
+
+Just a few seconds behind. 
+
+Отстаёт всего на несколько секунд.
+
+And the tanks will move forward. One 
+
+И танки двинутся вперёд. Один
+
+in lurker range, but just enough bio and without like he's running. 
+
+В пределах досягаемости, но в меру биометрического присутствия и без ощущения, что он убегает.
+
+There is microbial shroud if he remembers. 
+
+Если он помнит, то, возможно, его окружает микробная оболочка.
+
+If there was ever a time for microbial shroud and there it is. 
+
+Если когда-либо и было время для микробной защиты, то это именно сейчас.
+
+The lurker's duck down reducing the damage by 50%. 
+
+Пригнувшись, подкрадывается противник, уменьшая получаемый урон на 50%.
+
+Just eviscerates the front line. 
+
+Просто уничтожает линию фронта.
+
+It works both ways. 
+
+Это работает в обе стороны.
+
+The funk goes thrown out. 
+
+Вся эта дурная атмосфера исчезает.
+
+He lurker pushes forward. 
+
+Он, затаившись, продвигается вперед.
+
+The infesttors suffer greatly. 
+
+Заражённые насекомые сильно страдают.
+
+The hydras as well, but the lurkers are able to push forward underneath the shroud. 
+
+Гидры тоже, но скрытые существа способны продвинуться вперед под покровом.
+
+mitigating the worst of the damage and Ragnarok will break out the most effective microbial shrouds I've seen since the ability was added 7 months ago in exactly the use case here. 
+
+Чтобы смягчить самые серьёзные последствия, Рагнарок применит самые эффективные микробные покровы, которые я видел с момента добавления этой способности 7 месяцев назад, именно в таком случае, как здесь.
+
+The infesttors unfortunately were pushed to the front line and he did lose most of them. 
+
+К сожалению, вредителей оттеснили на передовую, и он потерял большую их часть.
+
+He does not have hydrolunge. 
+
+У него нет гидроланг.
+
+Going to work his way through the rocks and Clem is beaten back but not quite beaten down. 
+
+Клем пробирается сквозь скалы, его отбрасывают назад, но не сломляют окончательно.
+
+How many lurkers? Eight 
+
+Сколько там скрывающихся? Восемь.
+
+lurkers. 
+
+скрытные наблюдатели.
+
+The income. 
+
+Доход.
+
+Ragnarok did have a bit of an advantage, but Clem's fourth base is mining though. 
+
+У Рагнарока было небольшое преимущество, но четвёртая база Клема — это добыча ресурсов.
+
+It is an orbital command. 
+
+Это команда на изменение орбиты.
+
+That means the zerglings are an existential threat. 
+
+Это значит, что зерглинги представляют собой экзистенциальную угрозу.
+
+The zerglings do not have adrenal glands because, well, it should. 
+
+У зерглингов нет надпочечников, потому что, ну, так и должно быть.
+
+The zerglings on the base and Clem under heavy pressure. 
+
+Зерглинги на базе и Клем под сильным давлением.
+
+He's going to lose seven SCVs. 
+
+Он потеряет семь SCV.
+
+The reinforcements will deal with it. 
+
+С этим разберётся подкрепление.
+
+The Ragdar Rock is slicing through. 
+
+Скала Рагдар прорезает все вокруг.
+
+The Liberator not quite in position. Eight 
+
+«Освободитель» не совсем на позиции. Восемь
+
+SCV is dead. 
+
+SCV мертв.
+
+He's pulling back. 
+
+Он отступает.
+
+Ghosts in production. >> 
+
+Фильм «Призраки» находится в производстве. >>
+
+Hail about >> Glen. Two 
+
+Привет из Глена. Два
+
+or three ghosts are not enough. 
+
+Или же трёх призраков недостаточно.
+
+You need a comparable number to the lurkers and infesttors combined really to deal with them. 
+
+Для того чтобы справиться с ними, вам потребуется количество, сопоставимое с общим числом как скрытых, так и заразных паразитов.
+
+Especially if the Zerg is still on such a high economy. 
+
+Особенно если экономика зергов по-прежнему находится на таком высоком уровне.
+
+If you're able to limit the bases, say with a double drop in a good position. 
+
+Если вам удастся ограничить количество баз, например, с помощью двойного дропа в удачной позиции.
+
+Okay. 
+
+Хорошо.
+
+But Ragnarok is up 20 supply. 
+
+Но запасы Ragnarok увеличились на 20 единиц.
+
+He's working on 33. 
+
+Он работает над 33-й версией.
+
+Though he has no vision of this drop heading out and he has relatively limited units back at home to defend. 
+
+Хотя он и не представляет, как будет развиваться эта ситуация, и у него относительно ограниченное количество подразделений дома, которые нужно защищать.
+
+Quite a joke, but the microbial shroud could be helpful. 
+
+Это, конечно, шутка, но микробиологическая оболочка может оказаться полезной.
+
+He throws it out and will dive right on top. 
+
+Он выбрасывает мяч и тут же ныряет прямо на него.
+
+Oh, beautifully done. 
+
+О, великолепно сделано.
+
+The snipes will hit some. 
+
+Снайперские выстрелы попадут в некоторых.
+
+The bunker helps delay a single lurker in the fourth base. 
+
+Бункер помогает задержать единственного игрока, скрывающегося на четвёртой базе.
+
+And Clem again, he'll drive this back for now. 
+
+И снова Клем, он пока отвезет это обратно.
+
+The ghost lining up the shots. 
+
+Призрак прицеливается.
+
+The double drop getting the damage done. 
+
+Двойной дроп наносит урон.
+
+The ghost lining up more, but the fungals will interrupt some of the snipes. 
+
+Призраки выстраиваются в более четкие ряды, но грибы могут помешать некоторым снайперам.
+
+The lurkers will do the work themselves. 
+
+Те, кто предпочитает оставаться в тени, сделают работу сами.
+
+The rest. 
+
+Остальные.
+
+And an orbital command is dead. 
+
+А система управления орбитой не работает.
+
+And every orbital that dies is one last scan. 
+
+И каждый вышедший из строя орбитальный объект — это последнее сканирование.
+
+How many? 
+
+Сколько?
+
+There's only three remaining. 
+
+Осталось всего три.
+
+The ghost just kind of walks up. 
+
+Призрак просто подходит.
+
+And I thought he was going to get a huge EMP, but instead he just died. 
+
+Я думал, что он получит мощный электромагнитный импульс, но вместо этого он просто умер.
+
+So Clem so much. 
+
+Так сильно люблю Клем.
+
+I think he almost killed half of his SCVs with his own siege tank. 
+
+Думаю, он чуть не уничтожил половину своих рабочих собственным осадным танком.
+
+And Clem is just being eviscerated by the lurkers. 
+
+А Клем просто уничтожают те, кто её поджидает.
+
+Even more building on the field. 
+
+Продолжается строительство на поле.
+
+He's going to try to break forward. 
+
+Он попытается прорваться вперёд.
+
+The lurkers are halfway done. 
+
+Те, кто скрывался, выполнили половину задания.
+
+Best case scenario, the investors throws out a funal. 
+
+В лучшем случае инвесторы устроят похороны.
+
+EMP hits most of the rest. 
+
+Электромагнитный импульс поражает большинство остальных.
+
+And wait a second. 
+
+Подождите секунду.
+
+Ragnarok with half of his lurkers. 
+
+Рагнарок с половиной своих приспешников.
+
+Unfinished morphing. 
+
+Незавершенная трансформация.
+
+And uh well, wait a second. 
+
+И э-э, подождите секунду.
+
+What is he? 
+
+Кто он?
+
+He has one lurker left. 
+
+У него остался один затаившийся.
+
+Which where where um the investors are all dead. 
+
+Там, где, хм, все инвесторы мертвы.
+
+The lurkers are all dead. 
+
+Все скрывавшиеся мертвы.
+
+Is Is Ragnarok dead? 
+
+Рагнарок мертв?
+
+Okay. 
+
+Хорошо.
+
+He lost every single lurker, every single investor, barring the one that just got sniped out of the ground. 
+
+Он потерял всех до единого скрытых инвесторов, всех до единого, за исключением того, которого просто выбили из игры.
+
+More are building. 
+
+Строится всё больше.
+
+The infactor comes up, but it's just hydros to match him. 3 
+
+Появляется фактор, но это всего лишь гидро, чтобы соответствовать ему. 3
+
+is done. 
+
+Сделано.
+
+And from the Ragnarok goes from the doorstep. 
+
+И из Рагнарока он выходит прямо с порога.
+
+He was tilting over the bridge of victory, ready to plunge into the seas of excitement. 
+
+Он склонялся над мостом победы, готовый броситься в море волнений.
+
+But instead, he's yanked back, his legs sniped out from under him, and the Clempire strikes back. 
+
+Но вместо этого его резко отдергивают, подрезают ноги, и Клемпайр наносит ответный удар.
+
+Oh, again, it was almost closer than some of the games that Ragnarok won. 
+
+О, опять же, это было почти так же напряженно, как в некоторых играх, в которых победил Рагнарок.
+
+So, Clem survives, but it certainly wasn't decisive. 
+
+Итак, Клем выжила, но это, безусловно, не стало решающим фактором.
+
+It looked like he might just win the game with two metavacs, which is something that's happened to Clem many times. 
+
+Казалось, он мог бы выиграть игру, используя два метавака, что случалось с Клемом уже много раз.
+
+But, uh, at least it's not going to be a clean sweep. 
+
+Но, э-э, по крайней мере, это не будет полная победа.
+
+Is it going to roar shock? 
+
+Вызовет ли это шокирующий рёв?
+
+So, look at the mini map. 
+
+Итак, взгляните на мини-карту.
+
+What do you see? 
+
+Что вы видите?
+
+A reason to like and subscribe. 
+
+Причина поставить лайк и подписаться.
+
+Me, too. 
+
+Я тоже.
+
+a map where you expand northwards instead of towards one another, which has some interesting implications which honestly are so uh potentially complicated. 
+
+Карта, на которой вы расширяетесь на север, а не навстречу друг другу, что имеет некоторые интересные последствия, которые, честно говоря, потенциально очень сложны.
+
+I don't feel confident saying anything decisive. 
+
+Я не чувствую себя достаточно уверенно, чтобы сказать что-либо решительное.
+
+It makes things like drops and mutas. 
+
+Это позволяет создавать такие вещи, как капли и мутанты.
+
+Is that a healing shrine? 
+
+Это святилище исцеления?
+
+Indeed, there's a healing shrine, but with an air blocker cuz uh only ground units allowed to get the benefits there. 
+
+Действительно, там есть святилище исцеления, но с воздушным барьером, потому что, э-э, только наземные подразделения могут получить там целебные свойства.
+
+The healing shrine heals all units, not just biological. 
+
+Целебное святилище лечит все юниты, а не только биологические.
+
+It's in the very center of the map. 
+
+Оно находится в самом центре карты.
+
+So, we'll see if that comes into play. 
+
+Посмотрим, сыграет ли это какую-нибудь роль.
+
+And again, Ragnarok's going to go with a pull first. 
+
+И снова, в Рагнароке сначала будет притягивание.
+
+It I think it was successful last game, but it didn't really change the equation. 
+
+Думаю, в прошлой игре это сработало, но это не сильно изменило ситуацию.
+
+like he got what he needed to get but it didn't really set Clem back in his game plan that makes sense. 
+
+Он получил то, что ему было нужно, но это никак не повлияло на план Клема в игре, что вполне логично.
+
+So task failed successfully I guess now very noteworthy is not scouting at all. 
+
+Таким образом, задача, по-видимому, успешно провалилась. Теперь, что особенно примечательно, это то, что разведка вообще не проводилась.
+
+Okay, he's scouting now, but it's late. 
+
+Ладно, он сейчас занимается разведкой, но уже поздно.
+
+Well, after the zerglings are already going to be out. 
+
+Ну, после того, как зерглинги уже выйдут на волю.
+
+So, there's a set of destructible rocks here. 
+
+Итак, здесь находится набор разрушаемых камней.
+
+I think that takes down half the ramp. 
+
+Мне кажется, это сносит половину пандуса.
+
+He should see the SCV. 
+
+Ему следует увидеть SCV.
+
+Will the SCV see the Zerglings? 
+
+Увидят ли SCV зерглингов?
+
+Not if Shin >> Command center upgrade complete. >> 
+
+Не если Шин >> Обновление командного центра завершено. >>
+
+Manages to avoid it. 
+
+Ему удаётся этого избежать.
+
+That was very important. 
+
+Это было очень важно.
+
+And even though He didn't see the zurglings. 
+
+И даже несмотря на то, что Он не видел этих зурглингов.
+
+He is going to see the hatchery timing, which is a giveaway in and of itself. 
+
+Он собирается посмотреть на сроки работы инкубатора, что само по себе уже о многом говорит.
+
+Going to build a bunker. 
+
+Собираюсь построить бункер.
+
+No, doesn't make any sense. 
+
+Нет, это не имеет никакого смысла.
+
+He's going to try to keep him from taking a third, though. 
+
+Однако он постарается помешать ему завоевать третий титул.
+
+Anticipating the zerglings because you know that there's only one reason the hatchery is late. 
+
+Ожидайте появления зерглингов, потому что знаете, что задержка в работе инкубатора вызвана лишь одной причиной.
+
+It's not because he decided to take a swig of soju beforehand. 
+
+Это не потому, что он решил предварительно выпить соджу.
+
+And I'm sure he has enough APM to do both. 
+
+И я уверен, что у него достаточно APM, чтобы делать и то, и другое.
+
+But instead, he knows it's a pull first. 
+
+Но вместо этого он понимает, что сначала его тянет к чему-то другому.
+
+So Clem just sits back with the Reaper, the SCV, taking a few knitting needles, it seems, from the queen, who goes back and gets a creep tumor on the high ground. 
+
+Итак, Клем просто сидит сложа руки вместе со Жнецом, SCV, беря, кажется, несколько спиц для вязания у королевы, которая возвращается и заражается жуткой опухолью на возвышенности.
+
+Interesting. 
+
+Интересный.
+
+And there's a worker only path to this mixed gold blue base. 
+
+А к этой смешанной золотисто-синей базе ведет путь только для рабочих.
+
+And then interesting, a lot of bases jammed into a relatively small area. 
+
+И что интересно, множество баз сосредоточено на относительно небольшой территории.
+
+But they do get quite close to one another. 
+
+Но они довольно близко подходят друг к другу.
+
+Queens trying to discourage the reaper further. 
+
+Королевы пытаются еще больше отпугнуть жнеца.
+
+There's a uh the classic contested gold to the north. Six 
+
+На севере находится классическое месторождение золота, за которое ведется борьба. Шесть
+
+gold patches and two gas gatherers. 
+
+золотые месторождения и два газосборных сооружения.
+
+So very valuable. 
+
+Это невероятно ценно.
+
+Bam. 
+
+Бам.
+
+Third command center and a second barracks. 
+
+Третий командный центр и вторая казарма.
+
+This is the build. 
+
+Это сборка.
+
+We're doing the build. 3 2 1. 
+
+Мы строим. 3 2 1.
+
+It might be a little bit meandering in how we get there depending on how many heliens and uh how quick the star port is, but the goal is two metavacs full of marines. 
+
+Путь к цели может быть немного извилистым в зависимости от количества хелиенов и скорости работы космопорта, но цель — два метавака, полных космодесантников.
+
+And oh, the reaper gets caught by slowings, which is just a little embarrassing. 12 
+
+И да, жнец попадает в ловушку из-за замедления движения, что немного неловко. 12
+
+more Zerglings on the way, as Ragnarok seems intent on a potential counterattack. 
+
+Впереди еще больше зерглингов, поскольку Рагнарок, похоже, намерен предпринять потенциальную контратаку.
+
+And the main weakness of this build is before Meteavx, which is quite a while. 
+
+Главный недостаток этой сборки — это период до выхода Meteavx, а это довольно давно.
+
+The reason as Zerg you can't usually go for early aggression is because of the threat of a banshee existing. 
+
+Причина, по которой зергам обычно нельзя проявлять агрессию на ранней стадии игры, заключается в угрозе появления банши.
+
+You have to have some sort of anti-air. 
+
+Необходимо иметь какое-либо противовоздушное вооружение.
+
+Otherwise, a single banshee can defend against your fully committed attack. 
+
+В противном случае, даже одна банши сможет защитить от вашей полномасштабной атаки.
+
+Took a sip of the healing shot there. 
+
+Отпил там глоток лечебного напитка.
+
+But Glen has not gone for a banshee this entire series. 
+
+Но Глен ни разу за весь сериал не пытался превратиться в банши.
+
+I think Ragnarok finally taken note of that there. 
+
+Думаю, в «Рагнароке» это наконец-то заметили.
+
+Well, if he pulls the boys, that's enough marines. 
+
+Ну, если он заберет парней, то морских пехотинцев будет достаточно.
+
+The overlord. 
+
+Верховный правитель.
+
+Okay. 
+
+Хорошо.
+
+Okay. 
+
+Хорошо.
+
+I don't just a couple Heliens on the other side. 
+
+Я не просто вижу пару Гелиенов с другой стороны.
+
+He starts a layer at quite a timing, but the Zerglings, he's microing the Helens at this exact time, the worst possible time. 
+
+Он начинает откладывать слой в довольно неподходящий момент, но зерглинги, он в это же время, в самый неподходящий момент, управляют Хелен.
+
+And the Zerglings get critical damage. 
+
+А зерглинги получают критический урон.
+
+They've already killed the Marines, which undercuts the whole push. 
+
+Они уже уничтожили морских пехотинцев, что сводит на нет всю стратегию наступления.
+
+The SCVs citizens arrest called into the Frey. 10 4 8 10 12 13 
+
+Гражданский арест SCV вызван в Фрей. 10 4 8 10 12 13
+
+Good thing they have the counter so I can make it so dramatic. 
+
+Хорошо, что у них есть прилавок, так что я могу сделать это так эффектно.
+
+Jimmy, edit that out. 
+
+Джимми, убери это.
+
+That was really embarrassing. 
+
+Это было ужасно неловко.
+
+But 13 SCV is dead. 
+
+Но 13 SCV мертв.
+
+The Zerg Rush is entirely successful and Ragnarok just rips open a massive lead. 
+
+Атака зергов оказалась полностью успешной, и Рагнарок с огромным отрывом вырвался вперед.
+
+the lair. 
+
+логово.
+
+The only um sticking point is how late the lair is. 
+
+Единственный, хм, спорный момент — это то, до какого времени прибудет логово.
+
+Both compared to every game in this series and compared to the few units that Clem has coming across the map. 
+
+Оба показателя сравниваются со всеми играми этой серии, а также с теми немногими юнитами, которые есть у Клем и которые перемещаются по карте.
+
+He's he's making the Marines walk for some reason. 
+
+Он почему-то заставляет морских пехотинцев идти пешком.
+
+They're shaming them for the mistakes of their brothers, which doesn't feel very fair, but life isn't fair. 
+
+Их стыдят за ошибки их братьев, что кажется несправедливым, но жизнь несправедлива.
+
+Meanwhile, the Heliens are back. 
+
+Тем временем Хелиены вернулись.
+
+There's no Zerglings nearby. 
+
+Поблизости нет зерглингов.
+
+They're working on the Marines, which means the Heliens are getting any amount more drones, which is more than they probably could have expected. 
+
+Они работают над морскими пехотинцами, а это значит, что Хелиены получат ещё больше дронов, что, вероятно, превзошло все их ожидания.
+
+But the Marines again, the base under fire, the bait and switch, and he fully knew. 
+
+Но снова морские пехотинцы, база под обстрелом, обман и подмена, и он все прекрасно понимал.
+
+There's the cancel at the last second. 
+
+Вот, например, отмена в последнюю секунду.
+
+A few more marines ripped apart, but he was able to delay the fourth base. 
+
+Ещё несколько морских пехотинцев были уничтожены, но ему удалось задержать четвёртую базу.
+
+And with this sort of roaching composition, he needs larvae. 
+
+А для такого состава тараканов ему нужны личинки.
+
+He doesn't have enough larvae production. 
+
+У него недостаточно личинок для производства.
+
+He's going to start banking money momentarily as very simply three hatcheries is not enough. 
+
+Он собирается начать откладывать деньги в ближайшее время, поскольку трех инкубаторов ему явно недостаточно.
+
+We'll see if that was a confident statement or I guess if you only focus on roaches. 
+
+Посмотрим, было ли это уверенное заявление или, скорее всего, вы сосредоточились только на тараканах.
+
+But the fourth base is on the way and Ragnarok just takes the gold. 
+
+Но четвёртая база уже на подходе, и «Рагнарок» просто завоёвывает золото.
+
+Make no mistake, still a decisive advantage for Ragnarok. 
+
+Не стоит заблуждаться, это по-прежнему решающее преимущество для Рагнарока.
+
+He has the worker 64 to 53. 
+
+У него работник в возрасте от 64 до 53 лет.
+
+He's got plus one carropus. 
+
+У него на одного большеносого.
+
+Only has a single upgrade, but it's still going to be significantly quicker than the one upgrades of Clen. 
+
+У него всего одно улучшение, но он всё равно будет значительно быстрее, чем Клен с одним улучшением.
+
+He's going to drop it out. 
+
+Он собирается бросить это дело.
+
+The double drop to the north. 
+
+Двойной обрыв на севере.
+
+The roach is in position. 
+
+Таракан занял позицию.
+
+Speed is almost done for him. 
+
+Скоростной режим для него практически исчерпал себя.
+
+Zerglings going to try a counterattack. 
+
+Зерглинги попытаются контратаковать.
+
+Of course, Gum has the reinforcements. 
+
+Конечно, у Гама есть подкрепление.
+
+Let's see how long it takes them to react before the Zerglings get in. 
+
+Посмотрим, сколько времени им понадобится, чтобы отреагировать, прежде чем проникнут зерглинги.
+
+We'll lose one SCV. 
+
+Мы потеряем один SCV.
+
+Glenn doing everything he can to try to drag this back. 
+
+Гленн делает все возможное, чтобы попытаться вернуть все на круги своя.
+
+He cannot afford a single critical mistake throughout the rest of this series. 
+
+На протяжении всего оставшегося сериала он не может позволить себе ни одной критической ошибки.
+
+Though one might well I guess technically another one from this stage as losing 13 SUVs to barely more than that number of zerglings and all of your your marines was obviously not an auspicious start. 
+
+Хотя, технически, с этого этапа можно было бы ожидать еще одного поражения, поскольку потеря 13 внедорожников от чуть большего количества зерглингов и всех ваших морских пехотинцев явно не была многообещающим началом.
+
+And now Ragnarok with 84 army supply. 
+
+А теперь Рагнарок с 84 единицами армейского снабжения.
+
+He's got roaches with speed. 
+
+У него тараканы, которые охотятся быстро.
+
+Clen not quite done with one one. 
+
+Клен еще не закончил работу над одним из них.
+
+He'll scout forward with the medevac. 
+
+Он будет вести разведку на передовой вместе с санитарной авиацией.
+
+The widow mine takes it on the chin with the roach. 
+
+Шахта «Вдова» получает по заслугам от таракана.
+
+Going to drive it back a single siege tank. 
+
+Собираюсь отбросить его назад, используя всего один осадный танк.
+
+And now right rock is modding from the gold. 
+
+А теперь настоящий рок-моддер черпает вдохновение из золота.
+
+All right. 
+
+Все в порядке.
+
+Now the boys are pulled. 
+
+Теперь мальчиков забрали.
+
+The roaches and ravagers starting to thin out. One 
+
+Количество тараканов и других вредителей начинает сокращаться. Один
+
+is done which is a massive shift in this battle. 
+
+Это сделано, и это огромный сдвиг в этой борьбе.
+
+And immediately Clem turns the tide, chasing down the roaches and ravagers. 
+
+И тут же Клем переломила ход событий, начав преследовать тараканов и опустошителей.
+
+The ravagers especially offering quite a target. 
+
+Особенно опасными являются эти расхитители.
+
+A few more corrosive bows thrown out. 
+
+Ещё несколько едких луков выброшены.
+
+He easily just sachets through them. 
+
+Он без труда просто проглатывает их в пакетиках.
+
+And uh well, Clen takes the supply lead. 
+
+И, собственно, Клен берет на себя руководство по снабжению.
+
+Where did those roaches come from? 
+
+Откуда взялись эти тараканы?
+
+Is he suspicious? 
+
+Он вызывает подозрения?
+
+the scan, but there's no drones. 
+
+Сканирование проведено, но дронов нет.
+
+Does he think? 
+
+Он думает?
+
+All right, we're going to the CLM camp. 
+
+Хорошо, мы едем в лагерь CLM.
+
+Is he thinking about the northern base? 
+
+Он думает о северной базе?
+
+Has he ever I have not seen this map even throughout the map contest. 
+
+Я никогда не видел эту карту, даже во время конкурса карт.
+
+I think almost every player vetoed it. >> 
+
+Думаю, почти все игроки наложили вето.
+
+The double. 
+
+Двойник.
+
+He's trying for the contaminate. 
+
+Он пытается уничтожить загрязняющее вещество.
+
+He gets a contaminate on the tanks. 
+
+Он загрязняет резервуары.
+
+Going to try to intercept the overseer, but Clem >> doesn't seem to be thinking about that northern base. 
+
+Попробую перехватить надзирателя, но Клем, похоже, не думает о северной базе.
+
+And that could very well be the saving grace here. 
+
+И это вполне может стать здесь спасительным обстоятельством.
+
+I love the use of the contaminate a scan. 
+
+Мне очень нравится использование функции «загрязнить сканирование».
+
+Does he remember the lair was at the third scans for the army? 
+
+Помнит ли он, что логово находилось на третьем этапе сканирования для армии?
+
+Clement. 
+
+Клемент.
+
+He's suspic he's he's thinking >> about to get heavy. >> 
+
+Он подозревает, что собирается заняться чем-то серьезным.
+
+He's trying to figure out cuz his star senses are clearly tingling. 
+
+Он пытается понять, что происходит, потому что у него явно обострилось «звездное чутье».
+
+Doing this many scans and constantly scouting around. 
+
+Проводя множество сканирований и постоянно осматривая окрестности.
+
+He's wondering what he's missing. 
+
+Он задается вопросом, чего же он лишается.
+
+And the gold base is a very important thing to be missing. 
+
+А отсутствие золотой основы — это очень важный недостаток.
+
+But is it important enough? 
+
+Но достаточно ли это важно?
+
+Going to hold his ground at least until the brunt of Oh, and he walks into his own corrosive bile as Ragnarok just trying to move forward. 
+
+Он будет держаться до последнего, по крайней мере, пока не наступит основная тяжесть Рагнарока, и тогда он, словно в Рагнароке, просто попытается двигаться вперед.
+
+He's fighting on the open field against bio, which the upgrades are even. 
+
+Он сражается на открытом поле против биотехнологий, где улучшения дают равные шансы.
+
+The army supply is dangerously close as well, and that's not great for the Zerg. 
+
+Снабжение армии также опасно близко расположено, и это не очень хорошо для зергов.
+
+Plus two carropus about to complete. 
+
+Плюс два малька, которые вот-вот завершат свою работу.
+
+Glen still a little while off though. 
+
+Глену еще немного осталось до встречи.
+
+Uh the overseer won't have anything in. 
+
+Э-э, надзиратель ничего не включит.
+
+He scans the natural. 
+
+Он рассматривает природный объект.
+
+He's scanned three different bases now trying to figure out what he's missing and he still hasn't figured it out. 
+
+Он уже просканировал три разные базы, пытаясь понять, чего ему не хватает, и до сих пор не разобрался.
+
+The hidden base, the bronze league hero strategy still works here, but in the end, will it even matter? 
+
+Стратегия с использованием скрытой базы и героев бронзовой лиги по-прежнему работает, но в конечном итоге, будет ли это иметь значение?
+
+As he's stmming forward, how many units are under there? 
+
+Сколько единиц находится под ним, когда он шагает вперед?
+
+Corrosive bile knocks out a siege tank, but the marines and marauders are tearing through most of the front line. 
+
+Едкая желчь выводит из строя осадный танк, но морские пехотинцы и мародеры прорываются через большую часть линии фронта.
+
+The plus two carropus is doing a lot of work. 
+
+Два малька породы Carropus (плюс два) проделывают огромную работу.
+
+The roaches and ravagers are thinning out so quickly. 
+
+Популяция тараканов и других вредителей сокращается очень быстро.
+
+Clem still has not scouted the base at the 12:00, but is it high noon or midnight for Ragnarok? 
+
+Клем до сих пор не осмотрел базу к полуночи, но на дворе ли полдень или полночь для Рагнарока?
+
+The medevacs, there's like 10 medevacs, 11 metavacs, and they're almost all out of energy. 
+
+Там около 10 санитарно-эвакуационных и 11 многоцелевых вертолетов, и почти у всех закончилась энергия.
+
+At least the majority after all these stims. 
+
+По крайней мере, большинство после всех этих стимуляций.
+
+But if they're out of energy, that means they've done a whole lot of healing. 
+
+Но если у них закончилась энергия, это значит, что они проделали огромную работу по исцелению.
+
+So Glim has been incredibly efficient for what it's worth in these battles, almost doubly so in resources. 
+
+Таким образом, Глим показал себя невероятно эффективным в этих сражениях, особенно в плане ресурсов.
+
+He's just continuing forward. 
+
+Он просто продолжает двигаться вперед.
+
+He still hasn't he sent the liberators to the top left corner, but they just completely missed the gold base. 
+
+Он так и не отправил освободителей в верхний левый угол, но они совершенно промахнулись мимо золотой базы.
+
+There's no creep there to give it away. 
+
+Там нет никакого подозрительного типа, который мог бы это выдать.
+
+The zerglings will counterattack. 
+
+Зерглинги перейдут в контратаку.
+
+There's no hive and the double liberators of vend diagram of freedom will be liberating these drones from their lives. 
+
+Улья нет, и двойные освободители диаграммы свободы будут освобождать этих дронов от их жизней.
+
+The larvae as well. 
+
+И личинки тоже.
+
+The queens struggling to get into position. 
+
+Королевы изо всех сил пытаются занять свои позиции.
+
+He still has absolutely no indication about the gold. 
+
+У него до сих пор нет абсолютно никакой информации о золоте.
+
+And that is it's not so much as it's not so much the uh biggest Oh, no. >> 
+
+И дело не столько в том, что это не так уж и важно. О, нет. >>
+
+BRENDA, >> terrible terrible damage. >> 
+
+Бренда, >> ужасный, ужасный ущерб. >>
+
+WHERE ARE YOU? 
+
+ГДЕ ТЫ?
+
+YOU GAVE IT ALL AWAY. 
+
+Ты всё выдал.
+
+I DIDN'T IT'S NOT MY FAULT. 
+
+Я этого не делал, это не моя вина.
+
+I SAID DON'T BE A gold digger. 
+
+Я же сказала, не будь охотницей за деньгами.
+
+I How dare The roach is on the other side. 
+
+Как я смею! Таракан с другой стороны.
+
+going to try to bash his way through. 
+
+Он собирается попытаться пробиться сквозь все препятствия.
+
+And that's a great position. 
+
+И это отличная позиция.
+
+Knocks out two liberators at the price of one. 
+
+Нокаутирует двух освободителей ценой одного.
+
+The Zerglings on top. 
+
+Зерглинги сверху.
+
+And Clem has still been working off a a stimulus check of mules. 
+
+А Клем по-прежнему работает на деньги, полученные в качестве государственной помощи, которые он получает в виде оплаты за перевозку мулов.
+
+He's still been struggling for upgrades though. One, two 
+
+Однако он по-прежнему испытывает трудности с обновлениями. Раз, два
+
+versus two two. 
+
+против двух.
+
+Clem does technically have the better upgrades. 
+
+Технически у Клема действительно лучшие улучшения.
+
+Ragnarok is again trying to batter down the front line. 
+
+Рагнарок снова пытается прорваться через линию фронта.
+
+The medevacs are worth their weight in gold and minerals and they need to be considering the golden minerals. 
+
+Медицинская эвакуация ценится на вес золота и полезных ископаемых, и необходимо учитывать и эти ценные полезные ископаемые.
+
+The army just evaporates. 
+
+Армия просто исчезает.
+
+The Terran army just riding right through. 
+
+Терранская армия просто проезжает мимо.
+
+GG and Clem the whole time. 
+
+Всё это время GG и Клем были вместе.
+
+He probably went immediately to the replay. 
+
+Вероятно, он сразу же перешёл к просмотру повтора.
+
+Yeah. 
+
+Ага.
+
+Okay. 
+
+Хорошо.
+
+Fun fact. 
+
+Интересный факт.
+
+No, he left the game. 
+
+Нет, он покинул игру.
+
+He didn't even check. 
+
+Он даже не проверил.
+
+He never knew about the gold, but it didn't even matter as Ragnarok never found the space to tech up. 
+
+Он ничего не знал о золоте, но это и не имело значения, поскольку в Рагнароке так и не нашлось места для развития технологий.
+
+And Clem takes two in a row. 
+
+И Клем одерживает две победы подряд.
+
+Ragnarok tries two pull first. 
+
+Рагнарок сначала пытается сделать два рывка.
+
+It's that feeling of I just need one more. 
+
+Это ощущение, что мне нужен еще один.
+
+I just need one more, bro. 
+
+Мне нужен ещё один, братан.
+
+And he's in two time two games in a row, he has been he has walked into a victory and then face planted. 
+
+И он уже дважды подряд оказывался в подобной ситуации: в двух играх подряд он выходил на поле, чтобы одержать победу, а затем терпел сокрушительное поражение.
+
+All he needed was one more step to claim it. 
+
+Ему оставался всего один шаг, чтобы заявить о своих правах.
+
+But CLM just uh pulls the football away like Lucy here. 
+
+Но CLM просто вырывает мяч, как это делает Люси.
+
+And I don't know, Charlie Brown. 
+
+А я не знаю, Чарли Браун.
+
+We're not playing for peanuts. 
+
+Мы играем не на гроши.
+
+We are playing on a four-player map though with tubes. 
+
+Мы играем на карте для четырех игроков, используя трубы.
+
+You've heard of YouTubes, but how about worker tubes? 
+
+Вы слышали о YouTube, а как насчет рабочих видеороликов?
+
+Yes. 
+
+Да.
+
+It looks like we managed to veto all the maps up until this point that had the tubes, which I think is just Fear and Faith and uh Exark, but a four-player map where you can send workers to scout or do other various things via the worker tubes at the corner of each main. 
+
+Похоже, нам удалось наложить вето на все карты, где до этого момента были рабочие трубы. Кажется, это только Fear and Faith и Exark, но это карта для четырех игроков, где можно отправлять рабочих на разведку или выполнять другие различные действия через рабочие трубы в углу каждого главного блока.
+
+Pull first again. 
+
+Снова потяните за первый рычаг.
+
+Okay, these two have decided what their build is, but I can't help but feel a lot of feelings, right? 
+
+Ладно, эти двое уже определились со своим будущим, но меня всё равно переполняют эмоции, правда?
+
+He won three games in a row going hatch first into quick layer and now he's lost two games in a row by effectively limiting his and they've been successful. 
+
+Он выиграл три игры подряд, начав с вылупления личинок и перейдя к быстрому откладыванию яиц, а теперь проиграл две игры подряд, эффективно ограничив своих противников, и это принесло им успех.
+
+In my humble and modest opinion, these have been fully successful pull first. 
+
+По моему скромному мнению, эти методы оказались полностью успешными, если рассматривать их в первую очередь с точки зрения спроса.
+
+That doesn't mean you win the game, especially with gasless. 
+
+Это не значит, что вы выиграете игру, особенно если используете безгазовый способ отопления.
+
+you only have slow lings, but the lower the economy, the more the game hinges on Quim and a few medevacs with marines, the harder it gets. 
+
+У вас есть только медленные зерги, но чем ниже уровень экономики, тем больше игра зависит от Квима и нескольких эвакуаций с морпехами, и тем сложнее становится игра.
+
+And Ragnarok artificially limiting his economy for the third game in a row. 
+
+И Ragnarok искусственно ограничивает его экономику уже в третьей игре подряд.
+
+We'll see. 
+
+Посмотрим.
+
+He's been so close. 
+
+Он был так близок к цели.
+
+Ragnarok, like many out there, seems to have issues finishing. 
+
+Как и многие другие игры серии Ragnarok, у Ragnarok, похоже, есть проблемы с завершением.
+
+Um, and nothing to be ashamed of, but he got a close. 
+
+Эм, и в этом нет ничего постыдного, но он подошел очень близко.
+
+And right now, the SUV, Wait, did the SUV scout the base? 
+
+А прямо сейчас внедорожник... Подождите, внедорожник разведал базу?
+
+ready. >> 
+
+готов. >>
+
+He scouted only with the tubes and he he's narrowed it down, I guess. 
+
+Он проводил разведку, используя только трубки, и, похоже, ему удалось сузить круг поиска.
+
+Oh, he's still narrowing it down, but he's setting it back in the tube. 
+
+О, он всё ещё сужает круг поиска, но уже кладёт деталь обратно в пробирку.
+
+I don't know if he goes slower from one direction. 
+
+Я не знаю, замедляется ли он движение в одном направлении.
+
+It kind of looks like it's going a certain direction, but I think that's just vibes. 
+
+Создаётся впечатление, что всё движется в определённом направлении, но, думаю, это просто ощущение.
+
+The Reaper will find the base. 
+
+Жнец найдет базу.
+
+Cross positions. 
+
+Перекрестные позиции.
+
+Warren about and the drone. 
+
+Уоррен о дроне.
+
+No. 
+
+Нет.
+
+Yikes. 
+
+Ужас.
+
+Ragnar is no longer okay. 
+
+Рагнар больше не в порядке.
+
+Another Oh, come on. 
+
+Ещё один "Ну, да ладно".
+
+That's just gratuitous. 
+
+Это просто неуместно.
+
+Chicainerous and deplorable. 
+
+Капризная и отвратительная.
+
+What was that, Susan? 
+
+Что это было, Сьюзен?
+
+Charlieish and insubordinate. 
+
+Чарлизный и непокорный.
+
+Could Could you use that in a sentence? 
+
+Можно ли использовать это в предложении?
+
+I just did. 
+
+Я только что это сделал.
+
+I don't. 
+
+Я не.
+
+Sorry. 
+
+Извини.
+
+I I I'm blacked out for about just pre-firing the grenade trying to predict the queens. 
+
+II. Я был в полубессознательном состоянии примерно в тот момент, когда пытался предугадать появление ферзей, прежде чем выстрелить гранатой.
+
+And wow, three and a half minute layer. 
+
+И ничего себе, слой готовится три с половиной минуты.
+
+This time around, despite the pull first, he goes for the quick layer. 
+
+На этот раз, несмотря на первоначальное преимущество, он выбирает быстрорастущий слой.
+
+And he didn't even make the zurglings. 
+
+И он даже не создавал этих зурглингов.
+
+So, and it's Wait, wait. 
+
+Итак, подождите, подождите.
+
+It's different. 
+
+Это другое.
+
+Compare this picture to all the other pictures. 
+
+Сравните этот снимок со всеми остальными.
+
+You have 5 seconds. 
+
+У вас есть 5 секунд.
+
+Or you could pause. 
+
+Или вы можете сделать паузу.
+
+But I told you there'd be a quiz. 
+
+Но я же говорил, что будет викторина.
+
+I did not. 
+
+Я не.
+
+It's a pop quiz. 
+
+Это экспресс-тест.
+
+What is the difference in this picture? 
+
+В чём разница на этом рисунке?
+
+No. 
+
+Нет.
+
+Third command center. 
+
+Третий командный центр.
+
+This is the Beyond build. 
+
+Это сборка Beyond.
+
+Clem's metaphorical father beyond who clearly inspired so much of Clem's gameplay throughout his career, including today, but and still plays the same way beyond still playing. 
+
+Клем — метафорический отец, который, несомненно, вдохновил Клема на протяжении всей его карьеры, включая сегодняшний день, и продолжает играть так же, как и раньше.
+
+Still the second or third, well, third or fourth best Tan behind Clem and Maru, depending on the day, tied with Cure usually. 
+
+По-прежнему второй или третий, ну, третий или четвертый лучший Тан после Клем и Мару, в зависимости от дня, обычно наравне с Кьюр.
+
+Oh my. 
+
+О боже.
+
+Oh. 
+
+Ой.
+
+Oh no. 
+
+О, нет.
+
+Ragnarok is going for Mutas, but Clen is going for the quickest possible double drop like pre 5 minutes. 
+
+Рагнарок нацелен на мутантов, а Клен стремится к максимально быстрому двойному дропу, примерно до 5-й минуты.
+
+This will this will hit the ground. 
+
+Это упадет на землю.
+
+A second medevac will hit the creep before the spire is done. 
+
+Вторая санитарная эвакуация настигнет место разрушения до того, как шпиль будет достроен.
+
+He picks up. 
+
+Он поднимает трубку.
+
+He boosts away and he's going straight across the map and Ragnarok is about to be hard supply blocked. 
+
+Он ускоряется и мчится прямо через всю карту, и Рагнарок вот-вот столкнется с серьезной блокировкой поставок.
+
+It's an absolute utter disaster. 
+
+Это полнейшая катастрофа.
+
+Oh no. 
+
+О, нет.
+
+This is about to look more one-sided than Mobius. 
+
+Сейчас это будет выглядеть ещё более односторонним, чем Мёбиус.
+
+Okay, he has some zerglings. 
+
+Ладно, у него есть несколько зерглингов.
+
+I will say if he had no zerglings, the game ends. 
+
+Скажу так: если у него не было зерглингов, игра заканчивалась.
+
+Like right here, right now. 
+
+Прямо здесь и сейчас.
+
+Right here. 
+
+Прямо здесь.
+
+And right now. 
+
+И прямо сейчас.
+
+But oh, when he gets supply blocked. 
+
+Но вот когда у него возникают проблемы с поставками...
+
+Oh well, how many queens? 
+
+Ну и ладно, а сколько там королев?
+
+Just four in 14 lings. 
+
+Всего четыре из 14 лингов.
+
+If a bit less hasty on it, but the zerglings going to get done down the meteac micro back. 
+
+Хотя и не так тороплюсь, но зерглингов всё-таки уничтожу на микро-сервере Meteac.
+
+The queens, the Frenchmen got them down one by one. 
+
+Французы сбивали королев одну за другой.
+
+Another revolution for the Darren. 
+
+Еще одна революция для Даррена.
+
+And that's four queens dead alongside all the lings just as he wanted to build mutas. 
+
+И вот четыре королевы погибли вместе со всеми лигами, как раз когда он хотел построить муталисков.
+
+Another overlord going to go down. 
+
+Ещё один правитель падёт.
+
+Not that he needs it because he just lost so much supply in the third base. 
+
+Ему это, в принципе, не нужно, потому что он только что потерял много игроков на третьей базе.
+
+It is an utter disaster. 
+
+Это полнейшая катастрофа.
+
+A complete collapse. 
+
+Полный крах.
+
+A calamity. 
+
+Катастрофа.
+
+A Ragnarok if you would. 
+
+Рагнарок, если хотите.
+
+Clen, it's not over. 
+
+Клен, это ещё не конец.
+
+But Ragnarok is on two bases. 
+
+Но у «Рагнарока» две основы.
+
+He went spire. 
+
+Он отправился в шпиль.
+
+He has no mutis. 
+
+У него нет мути.
+
+He has a thousand gas in the bank, but he panicked and he built zerglings with all his larvae. 
+
+У него на счету тысяча единиц газа, но он запаниковал и из всех своих личинок создал зерглингов.
+
+He has no larvae and no queens to create more. 
+
+У него нет личинок и маток, чтобы вывести новых.
+
+It's a disaster. 
+
+Это катастрофа.
+
+This is an epic collapse. 
+
+Это грандиозный крах.
+
+Like, if you covered this up and said it was Maru, I would have completely and utterly believed you. 
+
+Если бы вы это скрыли и сказали, что это Мару, я бы вам полностью поверил.
+
+But Shin is back, baby. 
+
+Но Шин вернулся, детка.
+
+being down 24 supply going mutil baneling against Terran. 
+
+Имея в запасе 24 единицы снабжения, приходится использовать несколько банелей против терранов.
+
+O that is far from uncomfortable. 
+
+О, это совсем не неудобно.
+
+That is excruciating. 
+
+Это невыносимо больно.
+
+This is a disaster. 
+
+Это катастрофа.
+
+Bane speed isn't even done. 
+
+Скорость Бэйна ещё даже не достигнута.
+
+So, even if there was a hope of the banelings, he gets the the one med. 
+
+Таким образом, даже если и была надежда на успех с «Банэлингами», он получает только одно медицинское звание.
+
+He gets a freebie consolation prize. 
+
+Он получает утешительный приз в качестве подарка.
+
+Bane speed's still 30 seconds out. 
+
+До старта Бэйна еще 30 секунд.
+
+You're going to use slow banees against Clem? 
+
+Вы собираетесь использовать замедляющих монстров против Клем?
+
+He doesn't have a choice. 
+
+У него нет выбора.
+
+Uh-huh. 
+
+Ага.
+
+All right. 
+
+Все в порядке.
+
+No, honestly, they did about as well as they ever could. 
+
+Нет, честно говоря, они справились настолько хорошо, насколько это было возможно.
+
+Here comes Glen. 
+
+Вот и Глен.
+
+All right. 
+
+Все в порядке.
+
+Sieges up the tanks and Oh, wow. 
+
+Осада танков, и Ого.
+
+That was literally they couldn't have gone worse for Cle. 
+
+Для Кле всё сложилось буквально хуже не могло.
+
+That was Cleb maybe. 
+
+Возможно, это был Клеб.
+
+That was as bad as it ever could have gone. 
+
+Хуже уже быть не могло.
+
+That That looked like me playing right there. 
+
+Это выглядело так, будто я играл прямо там.
+
+I'm sure many of you could empathize with that micro against non-speing like he should have this in the bag and then the banelings explode out of it. 
+
+Уверен, многие из вас поймут, что он, казалось бы, должен был победить, но тут же появились эти «банелинги».
+
+It's still a disastrous situation for Ragnarok, but he's not dead yet. 
+
+Ситуация с Рагнароком по-прежнему катастрофическая, но он ещё не погиб.
+
+He does have speed bins, but Clen, honestly, he might So, here's the thing. 
+
+У него есть скоростные контейнеры, но, честно говоря, Клен, возможно, он... Так вот в чем дело.
+
+Clem might not be used to dealing with slow baits. 33. 
+
+Клем, возможно, не привык к медленно движущимся приманкам. 33.
+
+Oh no. 
+
+О, нет.
+
+And just like that, it's a best of one. 
+
+И вот так, в итоге, это лучший из одного матча.
+
+A complete collapse as Ragnarok. 
+
+Полный крах, подобный Рагнароку.
+
+And now for the first time, it hasn't even been a question. 
+
+И теперь, впервые, этот вопрос даже не поднимался.
+
+That game was cle from start to finish. 
+
+Игра была чистой от начала до конца.
+
+What a disaster. 
+
+Какая катастрофа.
+
+And he's been playing like he he's gone spawning pool first three games in a row. 
+
+И он играет так, будто три игры подряд выбивает из игры пул нереста.
+
+Like, well, maybe maybe this is a good idea. 
+
+Ну, может быть, это и хорошая идея.
+
+But that has allowed Clem to dictate the pace of the games. 
+
+Но это позволило Клему диктовать темп игр.
+
+despite the early aggression and he's hard to keep up with. 
+
+Несмотря на первоначальную агрессию, за ним трудно угнаться.
+
+Uh-oh. 
+
+Ой-ой.
+
+And this has been kind of the story of Shin's career. 
+
+Такова, в общем-то, история карьеры Шина.
+
+He's had much like Clem, I guess, but much less so nowadays. 
+
+Полагаю, у него были похожие проблемы, как у Клема, но сейчас их стало гораздо меньше.
+
+But Shin's had such high highs. 
+
+Но у Шина были и очень яркие моменты.
+
+He's beaten Sel and Clem, just never Maru. 
+
+Он побеждал Села и Клема, но никогда не побеждал Мару.
+
+He can beat anyone. 
+
+Он может победить кого угодно.
+
+Again, barring Maru, literally always that asterisk, but he just can't close. 
+
+Опять же, за исключением Мару, эта звездочка всегда присутствует, но он просто не может закрыть дело.
+
+And even if he takes this series, which the momentum has utterly shifted o, but he goes back to the hatchery first. 
+
+И даже если он выиграет эту серию, в которой инициатива полностью перешла к сопернику, но сначала вернется в инкубатор.
+
+Also, the fact that Clem has been doing the double metavac pretty much every single game has not dained to go mech or build a banshee. 
+
+Кроме того, тот факт, что Клем практически в каждой игре использует двойной метавак, не заставил её отказаться от механизированной армии или банши.
+
+The thing is it it's less that it's going better for him. 
+
+Дело в том, что у него дела идут не лучше, а не наоборот.
+
+It it's less that he's doing something different. 
+
+Дело не столько в том, что он делает что-то по-другому.
+
+It's more that Ragnarok's lower economy style is less capable of dealing with it. 
+
+Дело скорее в том, что более экономичный стиль игры Ragnarok хуже справляется с этим.
+
+Even if he delays Clem's expansion, even if he even kills off the early marines, low unit count versus low unit count, Tan the majority of the time throughout all the fire and fury has the advantage. 
+
+Даже если он задержит экспансию Клема, даже если он уничтожит первых космодесантников, при малом количестве юнитов против малого количества юнитов, Тан большую часть времени, несмотря на всю мощь огня и ярости, будет иметь преимущество.
+
+The exception might be Mutas to an extent, but also not really. 
+
+Исключением могут быть, в некоторой степени, Мутасы, но и не совсем.
+
+So, game seven, best of one. 
+
+Итак, седьмая игра, до одной победы.
+
+Ragnarok with three in a row. 
+
+Рагнарок с тремя подряд.
+
+Clem fights back. 
+
+Клем оказывает сопротивление.
+
+And now the conclusion. 
+
+А теперь заключение.
+
+Defender's Lamb. 
+
+Агнец Защитника.
+
+a reaper. 
+
+Жнец.
+
+So much has revolved around the reaper living or dying early. 
+
+Слишком много внимания уделяется вопросу о том, выживет ли жнец или умрет преждевременно.
+
+Clem losing it in the first few games of the series, getting so much damage. 
+
+Клем теряет контроль над ситуацией в первых нескольких играх серии, получая слишком много урона.
+
+Unlike last game, literally killing drones and living through everything. 
+
+В отличие от прошлой игры, здесь вы буквально уничтожаете дроны и выживаете после всего.
+
+The third base has not been a given at all. 
+
+Занять третью базу вовсе не гарантировано.
+
+Ragnarok has completely accepted that you don't get a third base early against Clem and instead has been focused. 
+
+Рагнарок полностью смирился с тем, что против Клема на ранней стадии игры не получится занять третью базу, и вместо этого сосредоточился на главном.
+
+He wants to build a layer as soon as possible. 
+
+Он хочет как можно скорее построить слой.
+
+It's going to be starting in three, two, one, three. 
+
+Началось через три, два, один, три.
+
+But the reaper comes back around and oh no the drone force the queens are trying to outflank and let him in creep okay Marie I don't well me roaches one's on the way speed roaches are back on the menu. 
+
+Но жнец возвращается, и о нет, силы дронов, которые королевы пытаются обойти с фланга и впустить его, ползите, ладно, Мари, я не знаю... ну, тараканы уже в пути, скоростные тараканы снова в меню.
+
+Ryenrock has shuffled through a variety of styles. 
+
+Группа Ryenrock перепробовала множество стилей.
+
+Glen has not or his entire deck consists of one card, marines and medevacs or two cards. 
+
+Глен либо не имеет такой карты, либо вся его колода состоит из одной карты, морских пехотинцев и санитарной авиации, либо из двух карт.
+
+Either way, I guess he's he's varied the amount of Helens early on occasionally. 
+
+В любом случае, я думаю, он время от времени менял количество Хелен на ранних этапах своей карьеры.
+
+In this case, the number is zero because he's cut out the third command center again and he's just going for the 211. 
+
+В данном случае число равно нулю, потому что он снова исключил третий командный центр и теперь ориентируется только на номер 211.
+
+It's a classic. 
+
+Это классика.
+
+All right. 
+
+Все в порядке.
+
+This strategy has been effective like literally since Beyon popularized it. 
+
+Эта стратегия оказалась эффективной буквально с тех пор, как Бейонсе её популяризировала.
+
+Specifically the 211. 
+
+В частности, номер 211.
+
+Specifically the two barracks. 
+
+В частности, речь идет о двух казармах.
+
+Uh, specifically the two barracks before third command center. 
+
+А именно, две казармы перед третьим командным центром.
+
+Got to keep adding caveats. 
+
+Необходимо постоянно добавлять оговорки.
+
+Hey boys. 
+
+Привет, парни.
+
+Jacked up and good to go cuz you know there's a sc in there. 
+
+Заведено и готово к работе, потому что, как вы знаете, там есть SC.
+
+The overseer is surviving enough time to actually delay. 
+
+Надзорный выживает достаточно долго, чтобы действительно отсрочить это.
+
+Um, yep. 
+
+Эм, да.
+
+As Glam heads across the map, the double drop, but this time Ragnarok should be ready. 
+
+Пока Глэм перемещается по карте, происходит двойной десант, но на этот раз Рагнарок должен быть готов.
+
+He's got the roaches in position, the queens, a bit of creep spread, though this by definition with the quick layer, you just don't have as many queens. 
+
+У него тараканы на своих местах, матки, немного разбросанного материала, хотя по определению при быстром откладывании яиц маток не так много.
+
+And uh your creep spread will suffer because of it. 
+
+И, э-э, распространение вашей мерзости пострадает из-за этого.
+
+You're going to trade for some roaches. 
+
+Вы собираетесь обменять их на тараканов.
+
+Both sides trying to micro back, but the medevacs are making the trades pretty good for the Frenchman. 
+
+Обе стороны пытаются использовать микроконтроль, но эвакуация раненых делает сделки довольно выгодными для француза.
+
+Not just a hop, skip, and a jump. 
+
+Это не просто прыжок, скачок и еще раз прыжок.
+
+He drops right back out. 
+
+Он тут же снова выходит из игры.
+
+A few ravagers on the other side. 
+
+С другой стороны несколько опустошителей.
+
+What is this about? 
+
+О чём идёт речь?
+
+Just a straight up roach all in out of Ragnarok. 
+
+Просто типичный таракан из «Рагнарока».
+
+He's got 44 drones. 
+
+У него 44 дрона.
+
+He's going to put it all on the line. 
+
+Он собирается поставить на кон всё.
+
+How many siege tanks? 
+
+Сколько осадных танков?
+
+Zero. 
+
+Ноль.
+
+That's not very many. 
+
+Это не так уж много.
+
+But the ravagers are out in front. 
+
+Но опустошители уже впереди.
+
+NO, NO, NO, NOT NOW. 
+
+Нет, нет, нет, не сейчас.
+
+TOO EARLY. 
+
+Слишком рано.
+
+Just one gets picked off. 
+
+Уничтожен только один.
+
+The Widowmines will be knocked out. 
+
+Команда «Вдовьи мины» будет нокаутирована.
+
+Perfect timing. 
+
+Как раз вовремя.
+
+And the engineering bay is vulnerable. 
+
+А машинный отсек уязвим.
+
+That's also a potentially huge pickup. 
+
+Это также потенциально очень выгодное приобретение.
+
+Clem just preemptively cancels it knowing the engineering bay is going to be knocked down. 
+
+Клем заранее отменяет сделку, зная, что инженерный отсек собираются снести.
+
+And Mr. Zurgichev, tear down this wall. 
+
+А господин Зургичев, снесите эту стену.
+
+The roaches and ravagers are breaking through. 
+
+Тараканы и другие вредители прорываются наружу.
+
+Clem just has marines to deal with them. 
+
+Клем просто приходится иметь дело с морскими пехотинцами.
+
+No upgrades on either side. 
+
+Никаких улучшений ни с одной стороны.
+
+They're going to brawl it out with it all on the line. 
+
+Они собираются устроить настоящую драку, на кону будет всё.
+
+The roaches and ravagers gross about thrown up will be sidestepped but any amount of time well he's holding he's not even pulling the boys and he finally does but he easily steps through loses a bit of HP on the metavags but they'll still stay with it the siege tanks seven SCVs dead Ragnarok behind this built another round of drones it's close I don't think that was good enough to keep CLM off his back and Clem is afraid of a follow-up. 
+
+Тараканы и опустошители, которых тошнит, будут обойдены стороной, но какое бы время он ни тянул, он даже не отвлекает парней, и в конце концов ему это удается, но он легко проходит сквозь них, теряя немного HP у метавагов, но они все равно будут держаться. Осадные танки, семь SCV убиты, Рагнарок позади, построена еще одна группа дронов, все близко, я не думаю, что этого было достаточно, чтобы отвлечь CLM от него, и Клем боится продолжения.
+
+If Ragnarok just goes for a huge attack yet again and Clem sends out multiple drops, he just won't have enough at home to defend. 
+
+Если Рагнарок снова пойдёт в атаку с огромной силой, и Клем выпустит множество десантов, у него просто не хватит сил на обороне.
+
+It'd be a big risky move for Ragnarok to go allin again, especially when Cle had time to prepare build siege tanks. 
+
+Для Рагнарока было бы очень рискованным шагом снова идти ва-банк, особенно учитывая, что у Кле было время подготовиться и построить осадные танки.
+
+But it's possible. 
+
+Но это возможно.
+
+And Clem, who just built a third orbital command, doesn't have the energy to scan. 
+
+А у Клема, который только что построил третий орбитальный командный пункт, нет сил на сканирование.
+
+He didn't have the SCVs. 
+
+У него не было SCV.
+
+He needs mules. 
+
+Ему нужны мулы.
+
+So, Ragnarok carves out some space. 
+
+Таким образом, Рагнарок оставляет после себя некоторое пространство.
+
+Is it enough? 
+
+Этого достаточно?
+
+The medevac will drop out at the 6:00. 
+
+Вылет санитарной авиации завершится в 6:00.
+
+Ragnarok is supply blocked for now. 
+
+В настоящее время поставки Ragnarok заблокированы.
+
+He has no anti-air aside from hoping with corrosive bile and dreaming with queens. 
+
+У него нет противовоздушной обороны, кроме надежды, омраченной едкой желчью, и мечтаний о королевах.
+
+He killed the engineering van on the other side. 
+
+Он сбил инженерный фургон с другой стороны.
+
+That means his plus one carropus is going to be slightly quicker even than the plus one uh infantry weapons for Clem. 
+
+Это значит, что его дополнительный юнит Carropus будет даже немного быстрее, чем дополнительное пехотное оружие Клема.
+
+That single medevac going to be a complete thorn in his side. 
+
+Эта единственная санитарная эвакуация станет для него настоящей занозой в боку.
+
+He can't afford fires off the shot. 
+
+Он не может позволить себе выстрелы.
+
+them easily dodges. 
+
+Они легко уворачиваются.
+
+No spire on the way. 
+
+Никакой башни пока не планируется.
+
+The hive has begun. 
+
+Улей начал формироваться.
+
+What a series. 
+
+Какой замечательный сериал!
+
+Ragnarok back in the driver's seat. 
+
+Рагнарок снова за рулём.
+
+I think he still has the army to beat. 
+
+Я думаю, ему еще предстоит победить армию.
+
+But Glen has a lot of ways around that sort of sledgehammer of a style. 
+
+Но у Глена есть множество способов обойти этот грубоватый стиль.
+
+But not if he gets caught by a foggle and another one to lock him down. One 
+
+Но не если его поймает Фогл, а затем еще один, чтобы его обездвижить. Один.
+
+more for the road. 
+
+Ещё немного в дорогу.
+
+No. 
+
+Нет.
+
+will pick up and get out. 
+
+Подниму и уйду.
+
+But the drop at the moment he got caught, he sent the drop in. 
+
+Но в тот момент, когда его поймали, он сам отправил каплю внутрь.
+
+He's going to get eight drones for his trouble. 
+
+За свои старания он получит восемь дронов.
+
+And that means Oh no, no, no. 
+
+А это значит: О нет, нет, нет.
+
+You're not done yet. 
+
+Вы ещё не закончили.
+
+There's still a liberator Ragnarok. 
+
+Рагнарок, освободительный рок, ещё впереди.
+
+Oh no, there's a drop in the main. 
+
+О нет, в главном русле обрыв.
+
+The one he didn't deal with. 
+
+Тот, с которым он не стал разбираться.
+
+It's all coming apart. 
+
+Всё рушится.
+
+Clem. 20 
+
+Клем. 20
+
+drones. 24. 
+
+дроны. 24.
+
+And he's still going. 
+
+И он продолжает в том же духе.
+
+The main base. 
+
+Главная база.
+
+He can cut through. 
+
+Он умеет прорубать себе путь.
+
+Gets the overlord. 
+
+Получает верховного правителя.
+
+Gets more drones. 
+
+Получает больше дронов.
+
+The spore crawler not in perfect position which means it's nothing at all. 37 40 
+
+Ползун спор находится не в идеальном положении, а это значит, что он ничего собой не представляет. 37 40
+
+drones. 
+
+дроны.
+
+It is a utter and unmitigated disaster for Ragnarok. 
+
+Это полнейшая и абсолютная катастрофа для Рагнарока.
+
+He had the economy. 
+
+У него была экономика.
+
+He even won a fight. 
+
+Он даже выиграл драку.
+
+But the medevac, two medevacs with a bunch of marines at the end of the day might end his. 
+
+Но медицинская эвакуация, две медицинские эвакуации с группой морских пехотинцев в конце концов, могут положить конец его жизни.
+
+Oh no, it is a disa. 
+
+О нет, это катастрофа.
+
+This is an army that requires more economy. 
+
+Это армия, которая нуждается в увеличении экономических затрат.
+
+You need roaches and ravagers. 
+
+Вам нужны тараканы и вредители.
+
+Um, how do I put it mildly? 
+
+М-м, как бы это помягче сказать?
+
+They suck. 
+
+Они отвратительны.
+
+Okay, against an equal amount of Terran with medevacs, with siege tanks in an entrenched position, these units do not scale well. 
+
+Хорошо, против такого же количества терранов с эвакуаторами и осадными танками в окопах эти юниты показывают себя не лучшим образом.
+
+But quantity is supposed to have a quality all its own. 
+
+Но ведь количество само по себе должно обладать своим собственным качеством.
+
+Unfortunately, there's no quantity and there's little quality left. 
+
+К сожалению, ни количества, ни качества почти не осталось.
+
+His best chance is getting close to 200 supply just flying around the medax. 
+
+Его лучший шанс — набрать около 200 единиц припасов, просто летая вокруг Медакса.
+
+Ultralless Cavern. 
+
+Пещера Ультралесс.
+
+But with 60, he rebuilds another round. 
+
+Но, достигнув 60-летнего рубежа, он начинает новый раунд плей-офф.
+
+He's seeding the field to Clem, who's happy to take it. 
+
+Он закладывает основу для Клема, который с радостью её примет.
+
+Now Clem only has plus one attack. 
+
+Теперь у Клема всего лишь на одну атаку больше.
+
+He's working on two one again. 
+
+Он снова работает над двумя проектами.
+
+Those investors almost on exactly the same ramp. 
+
+Эти инвесторы находятся практически на одной и той же площадке.
+
+That'd be the best case scenario. 
+
+Это был бы наилучший сценарий.
+
+But he scans, he spots the Infesttors. 
+
+Но он осматривается и обнаруживает Заразителей.
+
+The sheer amount of roach ravager. 
+
+Огромное количество тараканов-убийц.
+
+But behind this, the fact that Clem already has a fourth base, the fact that Clem is getting those upgrades, Ragnarok will still have an opportunity, but Clem has carved out a decisive advantage. 
+
+Но за этим стоит тот факт, что у Клем уже есть четвертая база, тот факт, что Клем получает эти улучшения, у Рагнарока все еще будет возможность, но Клем уже создала решающее преимущество.
+
+From a uncomfortable position, the Zerglings be turned around. 
+
+Из неудобного положения зерглингов разворачивают.
+
+Don't need a wall when you have that many units back at home to defend. 
+
+Стена не нужна, когда у тебя столько подразделений дома, которые нужно защищать.
+
+The Zerglings will be hunted down. 
+
+Зерглингов выследят.
+
+sprinting through. 
+
+промчавшись вперёд.
+
+Ultra's on the way. 
+
+Турнир Ultra уже в пути.
+
+The desperate Ultras. 
+
+Отчаявшиеся ультрас.
+
+Unfortunately, with a low economy, ultras. 
+
+К сожалению, в условиях низкой экономики ультрас...
+
+He's going to need the fungals. 
+
+Ему понадобятся грибы.
+
+Speaking of, throws one out. 
+
+Кстати, один из них бросает.
+
+That's about as good as it gets. 
+
+Лучше уже не бывает.
+
+Oh no, the Infostors. One, two. 
+
+О нет, Инфосторы. Раз, два.
+
+He gets a fun, but the drops and the liberator covering. 
+
+Он получает удовольствие, но капли и прикрытие освободителя.
+
+And here comes Clem with a vengeance yet again. 
+
+И вот Клем снова приходит с удвоенной силой.
+
+The ultras pop out, but it's a paper getting chased and knocked down. 
+
+Ультрас выскакивают, но это всего лишь бумага, которую преследуют и сбивают с ног.
+
+The Liberator's taken out, but Clem targeting the base, just ignoring the ultra pops it as well. 
+
+«Либератор» уничтожен, но Клем, нацелившись на базу и просто игнорируя ультра-уничтожение, уничтожает и её.
+
+The drops and Clem is just tearing him apart. 
+
+Капли падают, и Клем просто разрывает его на части.
+
+Even though many of these units are left to be ripped to shreds by the Zerglings, there's more than enough back at home. 
+
+Хотя многие из этих юнитов остаются на растерзание зерглингам, дома их более чем достаточно.
+
+Ragnarok three games and he was a 3040 supply in game four and then every single lurker died. 
+
+В третьей игре Ragnarok у него было 3040 ресурсов, а затем все до единого луркеры погибли.
+
+And it appears that in that fight, little did we know, so did Shin. 
+
+И, как оказалось, в той драке, о которой мы тогда и не подозревали, Шин тоже участвовал.
+
+I do not grant you the title of Ragnarok, though you may remain on the Zerg Council. 
+
+Я не присваиваю вам титул Рагнарока, хотя вы можете остаться в Совете зергов.
+
+Well, the ultras are trembling across. 
+
+Что ж, ультрас дрожат по всему миру.
+
+He has kitus plating done. 
+
+Ему сделали имплантацию пластин в область кита.
+
+They're still a dream. 
+
+Они по-прежнему остаются мечтой.
+
+But if he wasn't able to get it done with 30 supply up, it's a nightmare. 
+
+Но если бы ему не удалось это сделать, имея в наличии 30 единиц снабжения, это был бы настоящий кошмар.
+
+With 30 supply down, Clem continues his efforts. 
+
+Имея в наличии 30 единиц товара, Клем продолжает свои усилия.
+
+The ultras. 
+
+Ультрас.
+
+There's rocks. 
+
+Там камни.
+
+But who's flanking? 
+
+Но кто же находится с фланга?
+
+Who? 
+
+ВОЗ?
+
+He's caught in the corner. 
+
+Он зажат в углу.
+
+Microwing back. 
+
+Микрокрыло сзади.
+
+There's no Infesttors, which means the marauders going to be able to jump through. 
+
+Здесь нет Заразителей, а это значит, что мародеры смогут пробраться сквозь них.
+
+Shoots his own marine traitor in the midst. 
+
+Застрелил своего собственного морского пехотинца-предателя прямо посреди боя.
+
+Oh, but the siege tanks and it's just too much. 
+
+О, но осадные танки — это уже слишком.
+
+He's stmming right through. 
+
+Он всё делает на ура.
+
+Some of it rains down, but more of it misses the mark. 
+
+Часть хлынет дождем, но большая часть промахнется мимо цели.
+
+Another fungal, but there's not enough damage here. 
+
+Ещё один грибок, но здесь повреждений недостаточно.
+
+A zergling counter. 
+
+Счетчик зерглингов.
+
+Half a dozen liberators. 
+
+Полдесятка освободителей.
+
+He's stimming through. 
+
+Он продолжает стимуляцию.
+
+The ravagers popped like overripe tomatoes. 
+
+Эти разрушительные существа лопались, как перезрелые помидоры.
+
+And for four games in a row, Clem the turnaround. Four 
+
+И вот уже четвёртую игру подряд Клем совершает перелом. Четыре.
+
+games to three. one 
+
+до трех игр. один
+
+of the rarest experiences in Starcraft 2, especially at the highest level cuz best of sevens are only for the highest level matches. 
+
+Это один из самых редких моментов в Starcraft 2, особенно на самом высоком уровне, поскольку матчи до четырех побед проводятся только на самом высоком уровне.
+
+A 30 to 43 reverse sweep. 
+
+Обратный ход от 30 до 43.
+
+I don't know if I there's been one the entire year, but the Clempire strikes back. 
+
+Не знаю, был ли такой случай за весь год, но Клемпайр наносит ответный удар.
+
+Shin with a world class collapse and he was so close and unbelievably far. 
+
+Шин потерпел сокрушительное поражение мирового уровня, и он был так близок к цели, и в то же время невероятно далек от нее.
+
+What a series. 
+
+Какой замечательный сериал!
+
+Thank you for watching. 
+
+Спасибо за просмотр.
+
+Thank you for spending a significant portion of your day and I hope I made it at least a little bit better. 
+
+Спасибо, что уделили этому значительную часть своего дня, и я надеюсь, что хотя бы немного улучшил его.
+
+You got the means of motivation. 
+
+У вас есть средства мотивации.
+
+Be awesome. 
+
+Будьте великолепны.
+
+Check out Patreon, YouTube membership. 
+
+Посмотрите Patreon и членство на YouTube.
+
+But I hear liking and subscribing is still free at least for now. 
+
+Но я слышал, что ставить лайки и подписываться по-прежнему бесплатно, по крайней мере, пока.
+
+So is checking out Winter Gaming TV. 
+
+Также стоит посмотреть Winter Gaming TV.
+
+In the second channel, we got more strategy games and streams. 
+
+На втором канале у нас появилось больше стратегических игр и стримов.
+
+But thank you to our mule tier patrons, Big G, Devon Door, Kate, Mario Suit, and our new mule tier patron bringing in those extra minerals. 
+
+Но спасибо нашим постоянным клиентам, которые принесли дополнительные минералы: Биг Джи, Девон Дор, Кейт, Марио Сьюит и нашему новому клиенту, который принес еще больше минералов.
+
+Come might have taken advantage, Crazy Mouse. 
+
+Возможно, Коум воспользовался ситуацией, Сумасшедший Мышонок.
+
+Thank you very much. 
+
+Большое спасибо.
+
+Um, and well to everyone, make sure you check out this video. 
+
+И, в общем, всем рекомендую посмотреть это видео.
+
+Jimmy picked it out just for you. 
+
+Джимми выбрал это специально для тебя.
+
+And otherwise, thank you for watching. 
+
+В остальном, спасибо за просмотр.
+
+I hope you enjoyed. 
+
+Надеюсь, вам понравилось.
+
+I hope to see you next time. 
+
+Надеюсь увидеть вас в следующий раз.
+
+Good luck. 
+
+Удачи.
+
+Have fun. 
+
+Веселиться.
+
+Stay chill.
+
+Сохраняйте спокойствие.

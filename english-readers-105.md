@@ -1,6 +1,6 @@
 <config freqGroupsPos="1" freqGroups="3000,5000,7500,11000"/>
 
-# The Rotters' Club by Jonathan Coe
+# The Rotters' Club by Jonathan Coe (11k)
 
 # «Клуб неудачников» Джонатана Коу
 
